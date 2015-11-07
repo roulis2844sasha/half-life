@@ -25,12 +25,13 @@ if [ "$res" == "y" ]; then
 	Type=Application
 	Categories=Game;" >  ~/.local/share/applications/half-life.desktop
 	chmod +x ~/.local/share/applications/half-life.desktop
-	echo -n 'Install Half-Life? [y/N] '
+	echo -n 'Install Counter-Strike? [y/N] '
 	read res
 	if [ "$res" == "y" ]; then
 		res="n"
 		svn checkout https://github.com/roulis2844sasha/half-life/trunk/cs
-		mv /opt/hl/cs /opt/hl/game
+		mv /opt/hl/cs/ /opt/hl/game
+		rm -r /opt/hl/cs/
 		chmod +x /opt/hl/game/cs.sh
 		chmod +x /opt/hl/game/czero.sh
 		echo "[Desktop Entry]

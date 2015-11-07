@@ -1,0 +1,16 @@
+"MissionPack"
+{
+  "Author"      "Turtle Rock Studios"
+  "Title"       "#Career_MissionPackTitleCT"
+  "Description" "#Career_MissionPackCT"
+  "URL"         "www.turtlerockstudios.com/CZ/"
+  "SoloPlay"	"1"
+  "CoopPlay"	"0"
+  "Team"	"CT"
+  "BGColor1"	"47 62 90"
+  "BGColor2"	"0 0 0"
+  "TextColor"	"255 255 255"
+
+  "BotProfile"  "BotProfile.db"
+}
+ 

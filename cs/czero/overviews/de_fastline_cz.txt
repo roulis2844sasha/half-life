@@ -1,0 +1,14 @@
+// overview description file for de_fastline_cz.bsp
+
+global 
+{
+	ZOOM	2.29
+	ORIGIN	-225 	807	-192
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_fastline_cz.bmp"
+	HEIGHT	-192
+}

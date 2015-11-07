@@ -1,0 +1,14 @@
+// overview description file for de_corruption_cz.bsp
+
+global 
+{
+	ZOOM	1.7
+	ORIGIN	-275 	265.13	388
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_corruption_cz.bmp"
+	HEIGHT	-9
+}

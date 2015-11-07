@@ -1,0 +1,14 @@
+// overview description file for de_stadium_cz.bsp
+
+global 
+{
+	ZOOM	1.91
+	ORIGIN	-143 	-555	-127
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_stadium_cz.bmp"
+	HEIGHT	-127
+}

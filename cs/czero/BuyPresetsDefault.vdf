@@ -1,0 +1,125 @@
+"Presets"
+{
+	"1"
+	{
+		"PresetName"		"RIFLE"
+		"version"		"3"
+		"1"
+		{
+			"Primary"		"m4a1/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"2"
+		{
+			"Primary"		"ak47/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"3"
+		{
+			"Primary"		"famas/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"4"
+		{
+			"Primary"		"galil/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"5"
+		{
+			"Primary"		"none/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+	}
+	"2"
+	{
+		"PresetName"		"SNIPER"
+		"version"		"3"
+		"1"
+		{
+			"Primary"		"awp/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"2"
+		{
+			"Primary"		"sg550/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"3"
+		{
+			"Primary"		"g3sg1/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"4"
+		{
+			"Primary"		"scout/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"5"
+		{
+			"Primary"		"none/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+	}
+	"3"
+	{
+		"PresetName"		"SHOTGUN"
+		"version"		"3"
+		"1"
+		{
+			"Primary"		"xm1014/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"2"
+		{
+			"Primary"		"m3/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"3"
+		{
+			"Primary"		"none/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+	}
+	"4"
+	{
+		"PresetName"		"SMG"
+		"version"		"3"
+		"1"
+		{
+			"Primary"		"p90/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"2"
+		{
+			"Primary"		"ump45/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"3"
+		{
+			"Primary"		"mp5/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+		"4"
+		{
+			"Primary"		"none/1+"
+			"Secondary"		"none/1+"
+			"Equipment"		"vesthelm/100 flash/0 sgren/0 hegren/1 defuser/1 nvgs/0"
+		}
+	}
+}

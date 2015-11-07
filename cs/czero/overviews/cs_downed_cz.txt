@@ -1,0 +1,14 @@
+// overview description file for cs_downed_cz.bsp
+
+global 
+{
+	ZOOM	1.96
+	ORIGIN	-307 	-701	-64
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_downed_cz.bmp"
+	HEIGHT	-64
+}

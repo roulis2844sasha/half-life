@@ -1,0 +1,14 @@
+// overview description file for de_tides_cz.bsp
+
+global 
+{
+	ZOOM	1.85
+	ORIGIN	-280 	-559	-128
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_tides_cz.bmp"
+	HEIGHT	-128
+}

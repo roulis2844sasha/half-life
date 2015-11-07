@@ -1,0 +1,14 @@
+// overview description file for de_sienna_cz.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	576 	384	448
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_sienna_cz.bmp"
+	HEIGHT	-260
+}

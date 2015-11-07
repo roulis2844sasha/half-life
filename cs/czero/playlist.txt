@@ -1,0 +1,9 @@
+"Playlist"
+{
+	"Splash"	"sound\\music\\downed_intro.mp3"
+	"RoundWin"	"sound\\music\\turncrank_success.mp3"
+	"RoundLose"	"sound\\music\\turncrank_flash.mp3"
+	"MatchWin"	"sound\\music\\thinice_success.mp3"
+	"MatchLose"	"sound\\music\\train_failure.mp3"
+	"Credits"	"sound\\music\\train_work1.mp3"
+}

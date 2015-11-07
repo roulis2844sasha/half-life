@@ -1,0 +1,14 @@
+// overview description file for de_vostok_cz.bsp
+
+global 
+{
+	ZOOM	1.17
+	ORIGIN	671.38 	-953.38	644
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_vostok_cz.bmp"
+	HEIGHT	-178
+}

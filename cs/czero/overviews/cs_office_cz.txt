@@ -1,0 +1,14 @@
+// overview description file for cs_office_cz.bsp
+
+global 
+{
+	ZOOM	1.73
+	ORIGIN	280 	-543	-435
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_office_cz.bmp"
+	HEIGHT	-435
+}

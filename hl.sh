@@ -4,14 +4,15 @@ sudo chmod 777 /opt/hl/
 cd /opt/hl/
 echo -n 'Install Half-Life? [y/N] '
 read res
+sudo apt-get install subversion -y
 if [ "$res" == "y" ]; then
 	res="n"
 	ARCH=`uname -m`
 	if [ "$ARCH" == "x86_64" ]; then
-		wget https://launchpadlibrarian.net/201289903/libgcrypt11_1.5.3-2ubuntu4.2_i386.deb
-		sudo dpkg -i libgcrypt11_1.5.3-2ubuntu4.2_i386.deb
-		sudo apt-get install libopenal1:i386 libnss3:i386 subversion -y
+		sudo apt-get install libopenal1:i386 libnss3:i386 -y
 	fi
+	wget https://launchpadlibrarian.net/201289903/libgcrypt11_1.5.3-2ubuntu4.2_i386.deb
+	sudo dpkg -i libgcrypt11_1.5.3-2ubuntu4.2_i386.deb
 	svn checkout https://github.com/roulis2844sasha/half-life/trunk/core
 	mv /opt/hl/core /opt/hl/game
 	chmod +x /opt/hl/game/hl_linux
@@ -30,7 +31,7 @@ if [ "$res" == "y" ]; then
 	if [ "$res" == "y" ]; then
 		res="n"
 		svn checkout https://github.com/roulis2844sasha/half-life/trunk/cs
-		mv /opt/hl/cs/ /opt/hl/game
+		mv /opt/hl/cs/* /opt/hl/game/
 		rm -r /opt/hl/cs/
 		chmod +x /opt/hl/game/cs.sh
 		chmod +x /opt/hl/game/czero.sh
@@ -48,6 +49,7 @@ fi
 echo -n 'Install server Counter-Strike? [y/N] '
 read res
 if [ "$res" == "y" ]; then
+	sudo apt-get install lib32gcc1 -y
 	res="n"
 	svn checkout https://github.com/roulis2844sasha/half-life/trunk/server
 	chmod +x /opt/hl/server/hlds_amd

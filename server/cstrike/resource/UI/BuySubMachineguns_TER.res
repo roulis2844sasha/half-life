@@ -1,9 +1,9 @@
-"Resource/UI/BuySubMachineguns_TER.res"
+"Resource/UI/BuySubMachineguns_CT.res"
 {
-	"BuySubMachineguns_TER"
+	"BuySubMachineguns_CT"
 	{
 		"ControlName"		"WizardSubPanel"
-		"fieldName"		"BuySubMachineguns_TER"
+		"fieldName"		"BuySubMachineguns_CT"
 		"xpos"		"50"
 		"ypos"		"10"
 		"wide"		"552"
@@ -51,10 +51,10 @@
 		"tabPosition"		"0"
 	}
 
-	"mac10"
+	"tmp"
 	{
 		"ControlName"		"MouseOverPanelButton"
-		"fieldName"		"mac10"
+		"fieldName"		"tmp"
 		"xpos"		"76"
 		"ypos"		"116"
 		"wide"		"148"
@@ -64,18 +64,18 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"#Cstrike_MAC10"
+		"labelText"		"#Cstrike_Tmp"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"mac10"
+		"command"		"nst_buy_mywpn tmp"
 		"cost"			"1400"
 	}
 
-	"mp5"
+	"mac10"
 	{
 		"ControlName"		"MouseOverPanelButton"
-		"fieldName"		"mp5"
+		"fieldName"		"mac10"
 		"xpos"		"76"
 		"ypos"		"148"
 		"wide"		"148"
@@ -84,11 +84,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"#Cstrike_MP5"
+		"labelText"		"#Cstrike_MAC10"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"mp5"
+		"command"		"nst_buy_mywpn mac10"
 		"cost"			"1500"
 		"as_restrict"		"1"
 	}
@@ -110,8 +110,30 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"ump45"
+		"command"		"nst_buy_mywpn ump45"
 		"cost"			"1700"
+	}
+
+	"mp5"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"mp5"
+		"xpos"		"76"
+		"ypos"		"212"
+		"wide"		"148"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#Cstrike_MP5"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"nst_buy_mywpn mp5"
+		"cost"			"2350"
+		"as_restrict"		"1"
 	}
 
 	"p90"
@@ -119,7 +141,7 @@
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"p90"
 		"xpos"		"76"
-		"ypos"		"212"
+		"ypos"		"244"
 		"wide"		"148"
 		"tall"		"20"
 		"autoResize"		"0"
@@ -131,10 +153,11 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"p90"
+		"command"		"nst_buy_mywpn p90"
 		"cost"			"2350"
 		"as_restrict"		"1"
 	}
+
 
 	"CancelButton"
 	{

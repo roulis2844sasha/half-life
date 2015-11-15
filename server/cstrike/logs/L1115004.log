@@ -1,0 +1,49 @@
+L 11/15/2015 - 12:47:01: Log file started (file "logs/L1115004.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 11/15/2015 - 12:47:01: Server cvar "mp_logdetail" = "3"
+L 11/15/2015 - 12:47:01: Server cvar "sv_maxrate" = "8000"
+L 11/15/2015 - 12:47:01: Server cvar "sv_maxspeed" = "320"
+L 11/15/2015 - 12:47:01: Server cvar "mp_autokick" = "0"
+L 11/15/2015 - 12:47:01: Server cvar "mp_c4timer" = "35"
+L 11/15/2015 - 12:47:01: Server cvar "mp_chattime" = "5"
+L 11/15/2015 - 12:47:01: Server cvar "mp_flashlight" = "1"
+L 11/15/2015 - 12:47:01: Server cvar "mp_forcechasecam" = "1"
+L 11/15/2015 - 12:47:01: Server cvar "mp_forcecamera" = "1"
+L 11/15/2015 - 12:47:01: Server cvar "mp_freezetime" = "2"
+L 11/15/2015 - 12:47:01: Server cvar "mp_friendlyfire" = "1"
+L 11/15/2015 - 12:47:01: Server cvar "mp_limitteams" = "16"
+L 11/15/2015 - 12:47:01: Server cvar "mp_hostagepenalty" = "0"
+L 11/15/2015 - 12:47:01: Server cvar "mp_limitteams" = "3"
+L 11/15/2015 - 12:47:01: Server cvar "mp_roundtime" = "2.5"
+L 11/15/2015 - 12:47:01: Server cvar "mp_timelimit" = "20"
+L 11/15/2015 - 12:47:01: Server cvar "sv_aim" = "0"
+L 11/15/2015 - 12:47:05: [DPROTO]: Client 0 - Set AuthIdType 10 [dproto]; pClient = 0xf38faf08
+L 11/15/2015 - 12:47:05: "DOG_RouL!$<1><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/15/2015 - 12:47:06: "[P0D]Pseudolukian (100)<2><BOT><>" entered the game
+L 11/15/2015 - 12:47:06: "[P0D]Pseudolukian (100)<2><BOT><>" joined team "CT"
+L 11/15/2015 - 12:47:07: "[POD]Joe_Pesci (100)<3><BOT><>" entered the game
+L 11/15/2015 - 12:47:07: "[POD]Joe_Pesci (100)<3><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 12:47:07: World triggered "Game_Commencing"
+L 11/15/2015 - 12:47:07: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/15/2015 - 12:47:07: World triggered "Round_End"
+L 11/15/2015 - 12:47:07: "[P*D]Arnold_Schwarzenegger (100<4><BOT><>" entered the game
+L 11/15/2015 - 12:47:07: "[P*D]Arnold_Schwarzenegger (100<4><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 12:47:08: "[P0D]Kate_Winslet (100)<5><BOT><>" entered the game
+L 11/15/2015 - 12:47:08: "[P0D]Kate_Winslet (100)<5><BOT><>" joined team "CT"
+L 11/15/2015 - 12:47:08: "[P*D]Sean_Penn (100)<6><BOT><>" entered the game
+L 11/15/2015 - 12:47:08: "[P*D]Sean_Penn (100)<6><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 12:47:08: "DOG_RouL!$<1><VALVE_ID_LAN><>" entered the game
+L 11/15/2015 - 12:47:09: "[P0D]Adam_Sandler (100)<7><BOT><>" entered the game
+L 11/15/2015 - 12:47:09: "[P0D]Adam_Sandler (100)<7><BOT><>" joined team "CT"
+L 11/15/2015 - 12:47:09: "[P*D]Laserdance (100)<8><BOT><>" entered the game
+L 11/15/2015 - 12:47:09: Kick: "[P0D]Pseudolukian (100)<2><UNKNOWN><>" was kicked by "Console"
+L 11/15/2015 - 12:47:09: "[P0D]Pseudolukian (100)<2><BOT><CT>" disconnected
+L 11/15/2015 - 12:47:09: "[P*D]Laserdance (100)<8><BOT><>" joined team "CT"
+L 11/15/2015 - 12:47:10: "[POD]Joe_Pesci (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 12:47:10: "DOG_RouL!$<1><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 11/15/2015 - 12:47:12: World triggered "Round_Start"
+L 11/15/2015 - 12:47:31: "[POD]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P0D]Kate_Winslet (100)<5><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 11/15/2015 - 12:47:31: "[POD]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P0D]Kate_Winslet (100)<5><BOT><CT>" with "glock18" (damage "68") (damage_armor "0") (health "16") (armor "0")
+L 11/15/2015 - 12:47:31: "[POD]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P0D]Kate_Winslet (100)<5><BOT><CT>" with "glock18" (damage "17") (damage_armor "0") (health "-1") (armor "0")
+L 11/15/2015 - 12:47:31: "[POD]Joe_Pesci (100)<3><BOT><TERRORIST>" killed "[P0D]Kate_Winslet (100)<5><BOT><CT>" with "glock18"
+L 11/15/2015 - 12:47:33: "[P0D]Kate_Winslet (100)<5><BOT><CT>" attacked "[POD]Joe_Pesci (100)<3><BOT><TERRORIST>" with "grenade" (damage "0") (damage_armor "0") (health "100") (armor "0")
+L 11/15/2015 - 12:47:33: "[P0D]Kate_Winslet (100)<5><BOT><CT>" attacked "[P*D]Laserdance (100)<8><BOT><CT>" with "grenade" (

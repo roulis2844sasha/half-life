@@ -1,9 +1,9 @@
 "Resource/UI/BuyRifles_TER.res"
 {
-	"BuyEquipment_TER"
+	"BuyRifles_TER"
 	{
 		"ControlName"		"WizardSubPanel"
-		"fieldName"		"BuyEquipment_TER"
+		"fieldName"		"BuyRifles_TER"
 		"xpos"		"50"
 		"ypos"		"10"
 		"wide"		"552"
@@ -68,7 +68,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"galil"
+		"command"		"nst_buy_mywpn galil"
 		"cost"			"2000"
 	}
 
@@ -89,14 +89,14 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"ak47"
+		"command"		"nst_buy_mywpn ak47"
 		"cost"			"2500"
 	}
 
-	"scout"
+	"famas"
 	{
 		"ControlName"	"MouseOverPanelButton"
-		"fieldName"		"scout"
+		"fieldName"		"famas"
 		"xpos"			"76"
 		"ypos"			"180"
 		"wide"			"148"
@@ -106,11 +106,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#Cstrike_Scout_TER"
+		"labelText"		"#Cstrike_Famas"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"scout"
+		"command"		"nst_buy_mywpn famas"
 		"cost"			"2750"
 		"as_restrict"		"1"
 	}
@@ -132,15 +132,15 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"sg552"
+		"command"		"nst_buy_mywpn sg552"
 		"cost"			"3500"
 		"as_restrict"		"1"
 	}
 
-	"awp"
+	"m4a1"
 	{
 		"ControlName"	"MouseOverPanelButton"
-		"fieldName"		"awp"
+		"fieldName"		"m4a1"
 		"xpos"			"76"
 		"ypos"			"244"
 		"wide"			"148"
@@ -150,18 +150,18 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#Cstrike_AWP_TER"
+		"labelText"		"#Cstrike_M4A1"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"awp"
+		"command"		"nst_buy_mywpn m4a1"
 		"cost"			"4750"
 	}
 
-	"g3sg1"
+	"aug"
 	{
 		"ControlName"	"MouseOverPanelButton"
-		"fieldName"		"g3sg1"
+		"fieldName"		"aug"
 		"xpos"			"76"
 		"ypos"			"276"
 		"wide"			"148"
@@ -171,11 +171,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#Cstrike_G3SG1"
+		"labelText"		"#Cstrike_Aug"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"g3sg1"
+		"command"		"nst_buy_mywpn aug"
 		"cost"			"5000"
 		"as_restrict"		"1"
 	}

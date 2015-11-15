@@ -1,0 +1,50 @@
+L 11/15/2015 - 13:59:05: Log file started (file "logs/L1115018.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 11/15/2015 - 13:59:05: Server cvar "mp_logdetail" = "3"
+L 11/15/2015 - 13:59:05: Server cvar "sv_maxrate" = "8000"
+L 11/15/2015 - 13:59:05: Server cvar "sv_maxspeed" = "320"
+L 11/15/2015 - 13:59:05: Server cvar "mp_autokick" = "0"
+L 11/15/2015 - 13:59:05: Server cvar "mp_c4timer" = "35"
+L 11/15/2015 - 13:59:05: Server cvar "mp_chattime" = "5"
+L 11/15/2015 - 13:59:05: Server cvar "mp_flashlight" = "1"
+L 11/15/2015 - 13:59:05: Server cvar "mp_forcechasecam" = "1"
+L 11/15/2015 - 13:59:05: Server cvar "mp_forcecamera" = "1"
+L 11/15/2015 - 13:59:05: Server cvar "mp_freezetime" = "2"
+L 11/15/2015 - 13:59:05: Server cvar "mp_friendlyfire" = "1"
+L 11/15/2015 - 13:59:05: Server cvar "mp_limitteams" = "16"
+L 11/15/2015 - 13:59:05: Server cvar "mp_hostagepenalty" = "0"
+L 11/15/2015 - 13:59:05: Server cvar "mp_limitteams" = "3"
+L 11/15/2015 - 13:59:05: Server cvar "mp_roundtime" = "2.5"
+L 11/15/2015 - 13:59:05: Server cvar "mp_timelimit" = "20"
+L 11/15/2015 - 13:59:05: Server cvar "sv_aim" = "0"
+L 11/15/2015 - 13:59:10: "[P*D]Will_Smith (100)<1><BOT><>" entered the game
+L 11/15/2015 - 13:59:10: "[P*D]Will_Smith (100)<1><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:59:10: "[P*D]Will_Smith (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 13:59:11: "[POD]Dredd (100)<2><BOT><>" entered the game
+L 11/15/2015 - 13:59:11: "[POD]Dredd (100)<2><BOT><>" joined team "CT"
+L 11/15/2015 - 13:59:11: World triggered "Game_Commencing"
+L 11/15/2015 - 13:59:11: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/15/2015 - 13:59:11: World triggered "Round_End"
+L 11/15/2015 - 13:59:11: "[POD]Andrew_Dice_Clay (100)<3><BOT><>" entered the game
+L 11/15/2015 - 13:59:11: "[POD]Andrew_Dice_Clay (100)<3><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:59:12: "[P*D]Zap! (100)<4><BOT><>" entered the game
+L 11/15/2015 - 13:59:12: "[P*D]Zap! (100)<4><BOT><>" joined team "CT"
+L 11/15/2015 - 13:59:12: "[P*D]Quentin_Tarantino (100)<5><BOT><>" entered the game
+L 11/15/2015 - 13:59:12: "[P*D]Quentin_Tarantino (100)<5><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:59:13: "[P*D]Bruce_Lee (100)<6><BOT><>" entered the game
+L 11/15/2015 - 13:59:13: "[P*D]Bruce_Lee (100)<6><BOT><>" joined team "CT"
+L 11/15/2015 - 13:59:13: "[P0D]Jean_Claude_Van_Damme (100<7><BOT><>" entered the game
+L 11/15/2015 - 13:59:13: "[P0D]Jean_Claude_Van_Damme (100<7><BOT><>" joined team "CT"
+L 11/15/2015 - 13:59:14: "[POD]Andrew_Dice_Clay (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 13:59:16: World triggered "Round_Start"
+L 11/15/2015 - 13:59:21: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 13:59:22: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf38e17b4
+L 11/15/2015 - 13:59:22: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/15/2015 - 13:59:26: Kick: "[P*D]Will_Smith (100)<1><UNKNOWN><>" was kicked by "Console"
+L 11/15/2015 - 13:59:26: "[P*D]Will_Smith (100)<1><BOT><TERRORIST>" disconnected
+L 11/15/2015 - 13:59:26: "DOG_RouL!$<8><VALVE_ID_LAN><>" entered the game
+L 11/15/2015 - 13:59:28: "DOG_RouL!$<8><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 11/15/2015 - 13:59:33: "[POD]Andrew_Dice_Clay (100)<3><BOT><TERRORIST>" attacked "[POD]Dredd (100)<2><BOT><CT>" with "glock18" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 11/15/2015 - 13:59:33: "[POD]Dredd (100)<2><BOT><CT>" attacked "[POD]Andrew_Dice_Clay (100)<3><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 11/15/2015 - 13:59:33: "[POD]Andrew_Dice_Clay (100)<3><BOT><TERRORIST>" attacked "[POD]Dredd (100)<2><BOT><CT>" with "glock18" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 11/15/2015 - 13:59:33: "[POD]Dredd (100)<2><BOT><CT>" attacked "[POD]Andrew_Dice_Clay (100)<3><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 11/15/2015 - 13:59:33: "[POD]Andrew_Dice_Clay (100)<3

@@ -68,7 +68,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"m3"
+		"command"		"nst_buy_mywpn m3"
 		"cost"			"1700"
 	}
 
@@ -88,7 +88,27 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"xm1014"
+		"command"		"nst_buy_mywpn xm1014"
+		"cost"			"3000"
+	}
+
+	"m1887"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"m1887"
+		"xpos"		"76"
+		"ypos"		"180"
+		"wide"		"148"
+		"tall"		"20"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#Cstrike_m1887"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"nst_buy_mywpn m1887"
 		"cost"			"3000"
 	}
 

@@ -8,6 +8,5 @@
 `"login" "password" "abcdefghijklmnopqrstu" "a"` и в игре `setinfo _pw password`
 * В файле `server/cstrike/addons/amxmodx/configs/maps.ini` настраиваем список карт
 
-## Админка
-* `amxmodmenu` - Админка над сервером
-* `pb menu` - Админка над ботами
+## Меню
+`amx_menu`

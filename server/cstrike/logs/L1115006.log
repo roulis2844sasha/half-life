@@ -1,0 +1,132 @@
+L 11/15/2015 - 13:01:46: Log file started (file "logs/L1115006.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 11/15/2015 - 13:01:46: Server cvar "mp_logdetail" = "3"
+L 11/15/2015 - 13:01:46: Server cvar "sv_maxrate" = "8000"
+L 11/15/2015 - 13:01:46: Server cvar "sv_maxspeed" = "320"
+L 11/15/2015 - 13:01:46: Server cvar "mp_autokick" = "0"
+L 11/15/2015 - 13:01:46: Server cvar "mp_c4timer" = "35"
+L 11/15/2015 - 13:01:46: Server cvar "mp_chattime" = "5"
+L 11/15/2015 - 13:01:46: Server cvar "mp_flashlight" = "1"
+L 11/15/2015 - 13:01:46: Server cvar "mp_forcechasecam" = "1"
+L 11/15/2015 - 13:01:46: Server cvar "mp_forcecamera" = "1"
+L 11/15/2015 - 13:01:46: Server cvar "mp_freezetime" = "2"
+L 11/15/2015 - 13:01:46: Server cvar "mp_friendlyfire" = "1"
+L 11/15/2015 - 13:01:46: Server cvar "mp_limitteams" = "16"
+L 11/15/2015 - 13:01:46: Server cvar "mp_hostagepenalty" = "0"
+L 11/15/2015 - 13:01:46: Server cvar "mp_limitteams" = "3"
+L 11/15/2015 - 13:01:46: Server cvar "mp_roundtime" = "2.5"
+L 11/15/2015 - 13:01:46: Server cvar "mp_timelimit" = "20"
+L 11/15/2015 - 13:01:46: Server cvar "sv_aim" = "0"
+L 11/15/2015 - 13:01:51: "[P*D]Pseudolukian (100)<1><BOT><>" entered the game
+L 11/15/2015 - 13:01:51: "[P*D]Pseudolukian (100)<1><BOT><>" joined team "CT"
+L 11/15/2015 - 13:01:51: "[P0D]Rambotnic (100)<2><BOT><>" entered the game
+L 11/15/2015 - 13:01:51: "[P0D]Rambotnic (100)<2><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:01:51: World triggered "Game_Commencing"
+L 11/15/2015 - 13:01:51: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/15/2015 - 13:01:51: World triggered "Round_End"
+L 11/15/2015 - 13:01:52: "[P0D]Larry_Fishbourne (100)<3><BOT><>" entered the game
+L 11/15/2015 - 13:01:52: "[P0D]Larry_Fishbourne (100)<3><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:01:52: "[P*D]Anthony_Hopkins (100)<4><BOT><>" entered the game
+L 11/15/2015 - 13:01:52: "[P*D]Anthony_Hopkins (100)<4><BOT><>" joined team "CT"
+L 11/15/2015 - 13:01:53: "[P0D]Tom_Cruise (100)<5><BOT><>" entered the game
+L 11/15/2015 - 13:01:53: "[P0D]Tom_Cruise (100)<5><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:01:53: "[POD]Tommy_Lee_Jones (100)<6><BOT><>" entered the game
+L 11/15/2015 - 13:01:53: "[POD]Tommy_Lee_Jones (100)<6><BOT><>" joined team "CT"
+L 11/15/2015 - 13:01:54: "[P*D]Eliza (100)<7><BOT><>" entered the game
+L 11/15/2015 - 13:01:54: "[P*D]Eliza (100)<7><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 13:01:54: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 13:01:56: World triggered "Round_Start"
+L 11/15/2015 - 13:01:57: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 13:02:12: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf396b7b4
+L 11/15/2015 - 13:02:12: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/15/2015 - 13:02:15: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 11/15/2015 - 13:02:15: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 11/15/2015 - 13:02:15: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 11/15/2015 - 13:02:16: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 11/15/2015 - 13:02:16: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "grenade" (damage "57") (damage_armor "0") (health "14") (armor "0")
+L 11/15/2015 - 13:02:16: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "grenade" (damage "49") (damage_armor "0") (health "-12") (armor "0")
+L 11/15/2015 - 13:02:16: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" committed suicide with "grenade"
+L 11/15/2015 - 13:02:16: "[P*D]Pseudolukian (100)<1><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 11/15/2015 - 13:02:16: Kick: "[P*D]Pseudolukian (100)<1><UNKNOWN><>" was kicked by "Console"
+L 11/15/2015 - 13:02:16: "[P*D]Pseudolukian (100)<1><BOT><CT>" disconnected
+L 11/15/2015 - 13:02:16: "DOG_RouL!$<8><VALVE_ID_LAN><>" entered the game
+L 11/15/2015 - 13:02:19: "DOG_RouL!$<8><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 11/15/2015 - 13:02:26: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" with "usp" (damage "100") (damage_armor "0") (health "0") (armor "0")
+L 11/15/2015 - 13:02:26: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" killed "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 13:02:26: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" say "Look at all that blood Larry_Fishbourne  YEEEEEEEEEEEHAAAAAAAAAAAAAAA?"
+L 11/15/2015 - 13:02:27: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" committed suicide with "world"
+L 11/15/2015 - 13:02:27: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 13:02:27: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" committed suicide with "world"
+L 11/15/2015 - 13:02:27: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 13:02:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/15/2015 - 13:02:27: World triggered "Round_End"
+L 11/15/2015 - 13:02:27: "[P*D]Eliza (100)<7><BOT><TERRORIST>" committed suicide with "world"
+L 11/15/2015 - 13:02:27: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 13:02:32: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 13:02:34: World triggered "Round_Start"
+L 11/15/2015 - 13:02:48: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/15/2015 - 13:02:48: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 11/15/2015 - 13:02:48: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 13:02:48: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "62") (armor "0")
+L 11/15/2015 - 13:02:48: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "43") (armor "0")
+L 11/15/2015 - 13:02:48: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "28") (armor "0")
+L 11/15/2015 - 13:02:48: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "24") (armor "0")
+L 11/15/2015 - 13:02:48: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "4") (armor "0")
+L 11/15/2015 - 13:02:49: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "5") (armor "0")
+L 11/15/2015 - 13:02:49: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "-20") (armor "0")
+L 11/15/2015 - 13:02:49: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" killed "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 13:02:52: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" say "Vote Tommy_Lee_Jones out he didnt bring enough cash to place his bet on who wins!!!" (dead)
+L 11/15/2015 - 13:02:53: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18" (damage "17") (damage_armor "0") (health "-12") (armor "0")
+L 11/15/2015 - 13:02:53: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" killed "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "glock18"
+L 11/15/2015 - 13:02:54: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 11/15/2015 - 13:02:55: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "72") (damage_armor "0") (health "28") (armor "0")
+L 11/15/2015 - 13:02:55: "[P*D]Eliza (100)<7><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "7") (armor "0")
+L 11/15/2015 - 13:02:56: "[P*D]Eliza (100)<7><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "23") (damage_armor "0") (health "-16") (armor "0")
+L 11/15/2015 - 13:02:56: "[P*D]Eliza (100)<7><BOT><TERRORIST>" killed "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18"
+L 11/15/2015 - 13:02:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/15/2015 - 13:02:56: World triggered "Round_End"
+L 11/15/2015 - 13:02:57: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P*D]Eliza (100)<7><BOT><TERRORIST>" with "grenade" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 11/15/2015 - 13:02:58: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" say "Just change your producer and you'll have money Tom_Cruise!" (dead)
+L 11/15/2015 - 13:03:01: "DOG_RouL!$<8><VALVE_ID_LAN><TERRORIST>" joined team "CT" (auto)
+L 11/15/2015 - 13:03:01: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 13:03:03: World triggered "Round_Start"
+L 11/15/2015 - 13:03:26: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 11/15/2015 - 13:03:26: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 11/15/2015 - 13:03:27: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "55") (armor "0")
+L 11/15/2015 - 13:03:27: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 11/15/2015 - 13:03:27: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 11/15/2015 - 13:03:27: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp" (damage "104") (damage_armor "0") (health "-49") (armor "0")
+L 11/15/2015 - 13:03:27: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" killed "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 13:03:27: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 13:03:33: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" attacked "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 11/15/2015 - 13:03:33: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "usp" (damage "26") (damage_armor "0") (health "11") (armor "0")
+L 11/15/2015 - 13:03:33: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" attacked "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "usp" (damage "26") (damage_armor "0") (health "-15") (armor "0")
+L 11/15/2015 - 13:03:33: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" killed "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" with "usp"
+L 11/15/2015 - 13:03:38: "[P*D]Anthony_Hopkins (100)<4><BOT><CT>" say "I'm tired, lets leave Tommy_Lee_Jones !!" (dead)
+L 11/15/2015 - 13:03:44: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 11/15/2015 - 13:03:50: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 13:03:50: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" with "usp" (damage "120") (damage_armor "0") (health "-68") (armor "0")
+L 11/15/2015 - 13:03:50: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" killed "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 13:03:50: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 13:03:51: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" say "I believe you!!!" (dead)
+L 11/15/2015 - 13:03:52: "[P*D]Eliza (100)<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 11/15/2015 - 13:03:54: "[P*D]Eliza (100)<7><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "usp" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 11/15/2015 - 13:03:54: "[P*D]Eliza (100)<7><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "usp" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 11/15/2015 - 13:03:54: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P*D]Eliza (100)<7><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 11/15/2015 - 13:03:54: "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" attacked "[P*D]Eliza (100)<7><BOT><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "45") (armor "0")
+L 11/15/2015 - 13:03:54: "[P*D]Eliza (100)<7><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "usp" (damage "28") (damage_armor "0") (health "6") (armor "0")
+L 11/15/2015 - 13:03:54: "[P*D]Eliza (100)<7><BOT><TERRORIST>" attacked "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "usp" (damage "108") (damage_armor "0") (health "-102") (armor "0")
+L 11/15/2015 - 13:03:54: "[P*D]Eliza (100)<7><BOT><TERRORIST>" killed "[POD]Tommy_Lee_Jones (100)<6><BOT><CT>" with "usp"
+L 11/15/2015 - 13:03:56: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" say "I believe you're retarded" (dead)
+L 11/15/2015 - 13:04:01: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" say "And I think you should sit back down and play!" (dead)
+L 11/15/2015 - 13:04:05: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" attacked "DOG_RouL!$<8><VALVE_ID_LAN><CT>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 11/15/2015 - 13:04:05: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" attacked "DOG_RouL!$<8><VALVE_ID_LAN><CT>" with "usp" (damage "26") (damage_armor "0") (health "49") (armor "0")
+L 11/15/2015 - 13:04:07: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" say "Plz give me your ICQ Number Larry_Fishbourne" (dead)
+L 11/15/2015 - 13:04:07: "DOG_RouL!$<8><VALVE_ID_LAN><CT>" attacked "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "grenade" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/15/2015 - 13:04:08: "DOG_RouL!$<8><VALVE_ID_LAN><CT>" attacked "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "glock18" (damage "76") (damage_armor "0") (health "9") (armor "0")
+L 11/15/2015 - 13:04:09: "DOG_RouL!$<8><VALVE_ID_LAN><CT>" attacked "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "glock18" (damage "22") (damage_armor "0") (health "-13") (armor "0")
+L 11/15/2015 - 13:04:09: "DOG_RouL!$<8><VALVE_ID_LAN><CT>" killed "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" with "glock18"
+L 11/15/2015 - 13:04:12: "[P0D]Larry_Fishbourne (100)<3><BOT><TERRORIST>" say "Chatting with you Tom_Cruise is so great! I always wanted to meet you" (dead)
+L 11/15/2015 - 13:04:17: "[P0D]Tom_Cruise (100)<5><BOT><TERRORIST>" say "Concentrate on the game, Larry_Fishbourne!" (dead)
+L 11/15/2015 - 13:04:26: "[P*D]Eliza (100)<7><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/15/2015 - 13:04:26: "[P*D]Eliza (100)<7><BOT><TERRORIST>" say_team "Planted the Bomb!"
+L 11/15/2015 - 13:04:31: "[P0D]Rambotnic (100)<2><BOT><TERRORIST>" say "WTF, I wish s

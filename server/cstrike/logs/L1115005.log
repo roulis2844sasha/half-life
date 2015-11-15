@@ -1,0 +1,79 @@
+L 11/15/2015 - 12:51:57: Log file started (file "logs/L1115005.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 11/15/2015 - 12:51:57: Server cvar "mp_logdetail" = "3"
+L 11/15/2015 - 12:51:57: Server cvar "sv_maxrate" = "8000"
+L 11/15/2015 - 12:51:57: Server cvar "sv_maxspeed" = "320"
+L 11/15/2015 - 12:51:57: Server cvar "mp_autokick" = "0"
+L 11/15/2015 - 12:51:57: Server cvar "mp_c4timer" = "35"
+L 11/15/2015 - 12:51:57: Server cvar "mp_chattime" = "5"
+L 11/15/2015 - 12:51:57: Server cvar "mp_flashlight" = "1"
+L 11/15/2015 - 12:51:57: Server cvar "mp_forcechasecam" = "1"
+L 11/15/2015 - 12:51:57: Server cvar "mp_forcecamera" = "1"
+L 11/15/2015 - 12:51:57: Server cvar "mp_freezetime" = "2"
+L 11/15/2015 - 12:51:57: Server cvar "mp_friendlyfire" = "1"
+L 11/15/2015 - 12:51:57: Server cvar "mp_limitteams" = "16"
+L 11/15/2015 - 12:51:57: Server cvar "mp_hostagepenalty" = "0"
+L 11/15/2015 - 12:51:57: Server cvar "mp_limitteams" = "3"
+L 11/15/2015 - 12:51:57: Server cvar "mp_roundtime" = "2.5"
+L 11/15/2015 - 12:51:57: Server cvar "mp_timelimit" = "20"
+L 11/15/2015 - 12:51:57: Server cvar "sv_aim" = "0"
+L 11/15/2015 - 12:52:02: "[POD]Hemp Invader (100)<1><BOT><>" entered the game
+L 11/15/2015 - 12:52:02: "[POD]Hemp Invader (100)<1><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 12:52:02: "[POD]Hemp Invader (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 12:52:02: "[P*D]Fuzzy Logic (100)<2><BOT><>" entered the game
+L 11/15/2015 - 12:52:02: "[P*D]Fuzzy Logic (100)<2><BOT><>" joined team "CT"
+L 11/15/2015 - 12:52:02: World triggered "Game_Commencing"
+L 11/15/2015 - 12:52:02: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/15/2015 - 12:52:02: World triggered "Round_End"
+L 11/15/2015 - 12:52:03: "[P*D]Kugelfang (100)<3><BOT><>" entered the game
+L 11/15/2015 - 12:52:03: "[P*D]Kugelfang (100)<3><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 12:52:03: "[P*D]Thomas Chong (100)<4><BOT><>" entered the game
+L 11/15/2015 - 12:52:03: "[P*D]Thomas Chong (100)<4><BOT><>" joined team "CT"
+L 11/15/2015 - 12:52:04: "[P*D]V0id (100)<5><BOT><>" entered the game
+L 11/15/2015 - 12:52:04: "[P*D]V0id (100)<5><BOT><>" joined team "CT"
+L 11/15/2015 - 12:52:04: "[POD]Arnold_Schwarzenegger (100<6><BOT><>" entered the game
+L 11/15/2015 - 12:52:04: "[POD]Arnold_Schwarzenegger (100<6><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 12:52:05: "[P*D]Eliza (100)<7><BOT><>" entered the game
+L 11/15/2015 - 12:52:05: "[P*D]Eliza (100)<7><BOT><>" joined team "CT"
+L 11/15/2015 - 12:52:05: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 12:52:07: World triggered "Round_Start"
+L 11/15/2015 - 12:52:09: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 12:52:16: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf399c7b4
+L 11/15/2015 - 12:52:16: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/15/2015 - 12:52:20: Kick: "[POD]Hemp Invader (100)<1><UNKNOWN><>" was kicked by "Console"
+L 11/15/2015 - 12:52:20: "[POD]Hemp Invader (100)<1><BOT><TERRORIST>" disconnected
+L 11/15/2015 - 12:52:20: "DOG_RouL!$<8><VALVE_ID_LAN><>" entered the game
+L 11/15/2015 - 12:52:22: "DOG_RouL!$<8><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 11/15/2015 - 12:52:27: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Thomas Chong (100)<4><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 11/15/2015 - 12:52:27: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Thomas Chong (100)<4><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "62") (armor "0")
+L 11/15/2015 - 12:52:27: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Thomas Chong (100)<4><BOT><CT>" with "glock18" (damage "20") (damage_armor "0") (health "42") (armor "0")
+L 11/15/2015 - 12:52:28: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Thomas Chong (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "21") (armor "0")
+L 11/15/2015 - 12:52:28: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Thomas Chong (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "0") (armor "0")
+L 11/15/2015 - 12:52:28: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" killed "[P*D]Thomas Chong (100)<4><BOT><CT>" with "glock18"
+L 11/15/2015 - 12:52:28: "[P*D]Eliza (100)<7><BOT><CT>" attacked "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" with "usp" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 11/15/2015 - 12:52:29: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Eliza (100)<7><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/15/2015 - 12:52:29: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" attacked "[P*D]Eliza (100)<7><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 11/15/2015 - 12:52:29: "[P*D]Eliza (100)<7><BOT><CT>" attacked "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "36") (armor "0")
+L 11/15/2015 - 12:52:30: "[P*D]Thomas Chong (100)<4><BOT><CT>" attacked "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" with "grenade" (damage "165") (damage_armor "0") (health "-129") (armor "0")
+L 11/15/2015 - 12:52:30: "[P*D]Thomas Chong (100)<4><BOT><CT>" killed "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" with "grenade"
+L 11/15/2015 - 12:52:30: "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 12:52:30: "[P*D]Thomas Chong (100)<4><BOT><CT>" attacked "[P*D]Eliza (100)<7><BOT><CT>" with "grenade" (damage "90") (damage_armor "0") (health "-20") (armor "0")
+L 11/15/2015 - 12:52:30: "[P*D]Thomas Chong (100)<4><BOT><CT>" killed "[P*D]Eliza (100)<7><BOT><CT>" with "grenade"
+L 11/15/2015 - 12:52:34: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 12:52:38: "[P*D]Thomas Chong (100)<4><BOT><CT>" say "Whatever happened to Wu-Tang?? they had style for musicians" (dead)
+L 11/15/2015 - 12:52:40: "[P*D]Fuzzy Logic (100)<2><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 12:52:40: "[P*D]V0id (100)<5><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 12:52:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/15/2015 - 12:52:40: World triggered "Round_End"
+L 11/15/2015 - 12:52:40: "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" committed suicide with "world"
+L 11/15/2015 - 12:52:42: "[P*D]Fuzzy Logic (100)<2><BOT><CT>" say "Dream Theater is the most perfect band !!" (dead)
+L 11/15/2015 - 12:52:45: "DOG_RouL!$<8><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 12:52:47: World triggered "Round_Start"
+L 11/15/2015 - 12:52:59: "[P*D]Fuzzy Logic (100)<2><BOT><CT>" attacked "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 11/15/2015 - 12:53:00: "[P*D]Fuzzy Logic (100)<2><BOT><CT>" attacked "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 11/15/2015 - 12:53:00: "[P*D]Fuzzy Logic (100)<2><BOT><CT>" attacked "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "24") (armor "0")
+L 11/15/2015 - 12:53:01: "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" attacked "[P*D]Fuzzy Logic (100)<2><BOT><CT>" with "glock18" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 11/15/2015 - 12:53:01: "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" attacked "[P*D]Fuzzy Logic (100)<2><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 11/15/2015 - 12:53:01: "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" killed "[P*D]Fuzzy Logic (100)<2><BOT><CT>" with "glock18"
+L 11/15/2015 - 12:53:13: "[P*D]V0id (100)<5><BOT><CT>" attacked "[POD]Arnold_Schwarzenegger (100<6><BOT><TERRORIST>" with "usp" (damage "10") (damage_armor "0") (health "14") (armor "0")
+L 11/15/2015 - 12:53:14: "[P*D]Thomas Chong (100)<4><BOT><CT>" attacked "[P*D]Kugelfang (100)<3><BOT><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 1

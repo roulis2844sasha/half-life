@@ -131,7 +131,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"hegren"
+		"command"		"nst_buy_mywpn hegrenade"
 		"cost"			"300"
 	}
 	

@@ -73,3 +73,50 @@ L 11/15/2015 - 14:07:28: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" bec
 L 11/15/2015 - 14:09:50: [admin.amxx] Login: "DOG_RouL!$<10><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
 L 11/15/2015 - 14:10:15: [amxx_podbotmenu.amxx] [POD-Bot] "DOG_RouL!$<10><VALVE_ID_LAN><>" kill all bots
 L 11/15/2015 - 14:10:41: [amxx_podbotmenu.amxx] [POD-Bot] "DOG_RouL!$<10><VALVE_ID_LAN><>" kill all bots
+L 11/15/2015 - 15:45:45: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 15:45:45: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:07:06: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:07:06: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:11:16: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:11:16: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:11:25: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" kicked due to invalid password (account "DOG_RouL!$") (address "127.0.0.1")
+L 11/15/2015 - 16:11:41: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:11:41: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:12:03: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 16:13:21: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:13:21: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:15:28: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 16:20:18: [amxx_podbotmenu.amxx] [POD-Bot] "DOG_RouL!$<8><VALVE_ID_LAN><>" kill all bots
+L 11/15/2015 - 16:21:03: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:21:03: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:21:26: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 16:31:12: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:31:12: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:31:30: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 16:49:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/15/2015 - 16:49:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 11/15/2015 - 16:51:27: -------- Mapchange to cs_assault --------
+L 11/15/2015 - 16:51:27: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:52:40: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:52:40: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:52:59: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 16:54:26: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:54:26: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:54:48: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:54:48: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:54:55: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:54:55: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:55:28: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:55:28: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:56:09: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:56:09: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:56:36: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:56:36: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:57:12: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 16:57:12: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 16:57:32: [admin.amxx] Login: "DOG_RouL!$<8><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 17:09:11: [amxx_podbotmenu.amxx] [POD-Bot] "DOG_RouL!$<8><VALVE_ID_LAN><>" kill all bots
+L 11/15/2015 - 17:09:31: [admin.amxx] Login: "DOG_RouL!$<10><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 11/15/2015 - 17:10:10: -------- Mapchange to de_dust2 --------
+L 11/15/2015 - 17:10:11: [AMXX] Plugin "NST_Wpn_Hand.amxx" failed to load: Plugin uses an unknown function (name "nst_get_user_hand") - check your modules.ini.
+L 11/15/2015 - 17:10:15: [admin.amxx] Login: "DOG_RouL!$<1><VALVE_ID_LAN><>" became an admin (account "DOG_RouL!$") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")

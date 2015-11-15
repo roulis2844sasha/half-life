@@ -1,0 +1,273 @@
+L 11/15/2015 - 16:13:22: Log file started (file "logs/L1115024.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 11/15/2015 - 16:13:22: Server cvar "mp_logdetail" = "3"
+L 11/15/2015 - 16:13:22: Server cvar "sv_maxrate" = "8000"
+L 11/15/2015 - 16:13:22: Server cvar "sv_maxspeed" = "320"
+L 11/15/2015 - 16:13:22: Server cvar "mp_autokick" = "0"
+L 11/15/2015 - 16:13:22: Server cvar "mp_c4timer" = "35"
+L 11/15/2015 - 16:13:22: Server cvar "mp_chattime" = "5"
+L 11/15/2015 - 16:13:22: Server cvar "mp_flashlight" = "1"
+L 11/15/2015 - 16:13:22: Server cvar "mp_forcechasecam" = "1"
+L 11/15/2015 - 16:13:22: Server cvar "mp_forcecamera" = "1"
+L 11/15/2015 - 16:13:22: Server cvar "mp_freezetime" = "2"
+L 11/15/2015 - 16:13:22: Server cvar "mp_friendlyfire" = "1"
+L 11/15/2015 - 16:13:22: Server cvar "mp_limitteams" = "16"
+L 11/15/2015 - 16:13:22: Server cvar "mp_hostagepenalty" = "0"
+L 11/15/2015 - 16:13:22: Server cvar "mp_limitteams" = "3"
+L 11/15/2015 - 16:13:22: Server cvar "mp_roundtime" = "2.5"
+L 11/15/2015 - 16:13:22: Server cvar "mp_timelimit" = "20"
+L 11/15/2015 - 16:13:22: Server cvar "sv_aim" = "0"
+L 11/15/2015 - 16:13:27: "[P*D]Botman (100)<1><BOT><>" entered the game
+L 11/15/2015 - 16:13:27: "[P*D]Botman (100)<1><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 16:13:27: "[P*D]Botman (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:13:28: "[P0D]Bloodlust (100)<2><BOT><>" entered the game
+L 11/15/2015 - 16:13:28: "[P0D]Bloodlust (100)<2><BOT><>" joined team "CT"
+L 11/15/2015 - 16:13:28: World triggered "Game_Commencing"
+L 11/15/2015 - 16:13:28: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/15/2015 - 16:13:28: World triggered "Round_End"
+L 11/15/2015 - 16:13:28: "[P*D]Neuromancer (100)<3><BOT><>" entered the game
+L 11/15/2015 - 16:13:28: "[P*D]Neuromancer (100)<3><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 16:13:29: "[POD]Heather_Locklear (100)<4><BOT><>" entered the game
+L 11/15/2015 - 16:13:29: "[POD]Heather_Locklear (100)<4><BOT><>" joined team "CT"
+L 11/15/2015 - 16:13:29: "[P*D]Joe_Pesci (100)<5><BOT><>" entered the game
+L 11/15/2015 - 16:13:29: "[P*D]Joe_Pesci (100)<5><BOT><>" joined team "CT"
+L 11/15/2015 - 16:13:30: "[P0D]Hemp Invader (100)<6><BOT><>" entered the game
+L 11/15/2015 - 16:13:30: "[P0D]Hemp Invader (100)<6><BOT><>" joined team "TERRORIST"
+L 11/15/2015 - 16:13:30: "[P0D]Android (100)<7><BOT><>" entered the game
+L 11/15/2015 - 16:13:30: "[P0D]Android (100)<7><BOT><>" joined team "CT"
+L 11/15/2015 - 16:13:31: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:13:31: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 16:13:33: World triggered "Round_Start"
+L 11/15/2015 - 16:13:41: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 16:13:49: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 11/15/2015 - 16:13:49: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "54") (armor "0")
+L 11/15/2015 - 16:13:49: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 11/15/2015 - 16:13:49: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "72") (damage_armor "0") (health "10") (armor "0")
+L 11/15/2015 - 16:13:50: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "18") (damage_armor "0") (health "-8") (armor "0")
+L 11/15/2015 - 16:13:50: "[P*D]Botman (100)<1><BOT><TERRORIST>" killed "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18"
+L 11/15/2015 - 16:13:50: "[P*D]Botman (100)<1><BOT><TERRORIST>" say "Bloodlust, what are you laying around for??? hehe"
+L 11/15/2015 - 16:13:54: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "28") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "4") (armor "0")
+L 11/15/2015 - 16:13:55: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "17") (damage_armor "0") (health "35") (armor "0")
+L 11/15/2015 - 16:13:56: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "-20") (armor "0")
+L 11/15/2015 - 16:13:56: "[P*D]Joe_Pesci (100)<5><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:13:56: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 16:13:56: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "ROFL" (dead)
+L 11/15/2015 - 16:13:56: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 11/15/2015 - 16:13:56: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 11/15/2015 - 16:13:57: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "37") (armor "0")
+L 11/15/2015 - 16:13:57: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "20") (damage_armor "0") (health "61") (armor "0")
+L 11/15/2015 - 16:13:57: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "112") (damage_armor "0") (health "-75") (armor "0")
+L 11/15/2015 - 16:13:57: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:14:01: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "I can't believe how you can play and win all the time, Botman!" (dead)
+L 11/15/2015 - 16:14:06: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "Is winning all you ever think about Invader?" (dead)
+L 11/15/2015 - 16:14:15: "[P0D]Bloodlust (100)<2><BOT><CT>" say "Speaking of win.....I'm going to Vegas, not de_vegas" (dead)
+L 11/15/2015 - 16:14:20: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "I am a Winner Type so you actually have no real chance..." (dead)
+L 11/15/2015 - 16:14:26: "[P0D]Bloodlust (100)<2><BOT><CT>" say "What music are you listening to??" (dead)
+L 11/15/2015 - 16:14:26: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "It's best to not think about the win....just have fun" (dead)
+L 11/15/2015 - 16:14:29: "[P0D]Android (100)<7><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "24") (armor "0")
+L 11/15/2015 - 16:14:29: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 11/15/2015 - 16:14:30: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "I am a Winner Type so you actually have no real chance..." (dead)
+L 11/15/2015 - 16:14:36: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "It's best to not think about the win....just have fun" (dead)
+L 11/15/2015 - 16:14:39: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "3") (armor "0")
+L 11/15/2015 - 16:14:40: "[P0D]Android (100)<7><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "-27") (armor "0")
+L 11/15/2015 - 16:14:40: "[P0D]Android (100)<7><BOT><CT>" killed "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:14:40: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/15/2015 - 16:14:40: World triggered "Round_End"
+L 11/15/2015 - 16:14:41: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "I am a Winner Type so you actually have no real chance..." (dead)
+L 11/15/2015 - 16:14:45: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:14:47: World triggered "Round_Start"
+L 11/15/2015 - 16:14:58: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 11/15/2015 - 16:14:58: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "28") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "36") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "4") (armor "0")
+L 11/15/2015 - 16:14:59: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "20") (armor "0")
+L 11/15/2015 - 16:15:10: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "88") (damage_armor "0") (health "-68") (armor "0")
+L 11/15/2015 - 16:15:10: "[P*D]Botman (100)<1><BOT><TERRORIST>" killed "[P0D]Android (100)<7><BOT><CT>" with "glock18"
+L 11/15/2015 - 16:15:27: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 11/15/2015 - 16:15:27: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "48") (armor "0")
+L 11/15/2015 - 16:15:27: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 11/15/2015 - 16:15:27: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "6") (armor "0")
+L 11/15/2015 - 16:15:27: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-36") (armor "0")
+L 11/15/2015 - 16:15:27: "[P*D]Joe_Pesci (100)<5><BOT><CT>" killed "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:15:28: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf38e47b4
+L 11/15/2015 - 16:15:28: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/15/2015 - 16:15:33: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 11/15/2015 - 16:15:33: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "knife"
+L 11/15/2015 - 16:15:42: "[P*D]Botman (100)<1><BOT><TERRORIST>" say "...All that and a bag of chips with a side order of bacon!" (dead)
+L 11/15/2015 - 16:15:43: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "17") (damage_armor "0") (health "39") (armor "0")
+L 11/15/2015 - 16:15:43: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-38") (armor "0")
+L 11/15/2015 - 16:15:43: "[P*D]Joe_Pesci (100)<5><BOT><CT>" killed "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:15:43: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 11/15/2015 - 16:15:43: World triggered "Round_End"
+L 11/15/2015 - 16:15:47: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "Who said that? I resemble that remark" (dead)
+L 11/15/2015 - 16:15:48: "[P*D]Botman (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:15:50: World triggered "Round_Start"
+L 11/15/2015 - 16:16:07: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 11/15/2015 - 16:16:07: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "47") (armor "0")
+L 11/15/2015 - 16:16:07: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 11/15/2015 - 16:16:07: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "108") (damage_armor "0") (health "-61") (armor "0")
+L 11/15/2015 - 16:16:07: "[P0D]Bloodlust (100)<2><BOT><CT>" killed "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:16:11: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/15/2015 - 16:16:11: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "19") (damage_armor "0") (health "57") (armor "0")
+L 11/15/2015 - 16:16:12: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "40") (damage_armor "0") (health "17") (armor "0")
+L 11/15/2015 - 16:16:13: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "-7") (armor "0")
+L 11/15/2015 - 16:16:13: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:16:13: "[POD]Heather_Locklear (100)<4><BOT><CT>" say "I had to do it, Neuromancer. You understand. The Director said so!!"
+L 11/15/2015 - 16:16:15: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "40") (damage_armor "0") (health "60") (armor "0")
+L 11/15/2015 - 16:16:15: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "40") (damage_armor "0") (health "20") (armor "0")
+L 11/15/2015 - 16:16:16: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "40") (damage_armor "0") (health "-20") (armor "0")
+L 11/15/2015 - 16:16:16: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:16:16: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 11/15/2015 - 16:16:16: World triggered "Round_End"
+L 11/15/2015 - 16:16:20: "[P*D]Botman (100)<1><BOT><TERRORIST>" say "ZZZZZZZzzzzzzZZZZZZZZZZZZZZZzzzzzzzzzzzzZZZZZZZZ" (dead)
+L 11/15/2015 - 16:16:21: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:16:23: World triggered "Round_Start"
+L 11/15/2015 - 16:16:35: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 11/15/2015 - 16:16:39: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 11/15/2015 - 16:16:39: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 11/15/2015 - 16:16:39: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "72") (damage_armor "0") (health "11") (armor "0")
+L 11/15/2015 - 16:16:39: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "18") (damage_armor "0") (health "-7") (armor "0")
+L 11/15/2015 - 16:16:39: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" killed "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18"
+L 11/15/2015 - 16:16:45: "[P*D]Joe_Pesci (100)<5><BOT><CT>" say "no way Heather_Locklear!! No human is that quick" (dead)
+L 11/15/2015 - 16:16:54: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/15/2015 - 16:16:54: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say_team "Planted the Bomb!"
+L 11/15/2015 - 16:16:54: "[P0D]Android (100)<7><BOT><CT>" say "FIDEL CASTRO DID IT! no....WAIT SADDAM DID IT!! no....wait..."
+L 11/15/2015 - 16:16:54: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 11/15/2015 - 16:16:55: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "62") (armor "0")
+L 11/15/2015 - 16:16:55: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "45") (armor "0")
+L 11/15/2015 - 16:16:56: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "45") (armor "0")
+L 11/15/2015 - 16:16:56: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "23") (armor "0")
+L 11/15/2015 - 16:16:57: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "1") (armor "0")
+L 11/15/2015 - 16:16:57: "[P0D]Android (100)<7><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "-21") (armor "0")
+L 11/15/2015 - 16:16:57: "[P0D]Android (100)<7><BOT><CT>" killed "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:16:59: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "back in my Army days it was all....Hurry up and Wait" (dead)
+L 11/15/2015 - 16:17:01: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "22") (armor "0")
+L 11/15/2015 - 16:17:01: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "-1") (armor "0")
+L 11/15/2015 - 16:17:01: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:17:05: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 11/15/2015 - 16:17:05: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "45") (armor "0")
+L 11/15/2015 - 16:17:06: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "63") (armor "0")
+L 11/15/2015 - 16:17:06: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "25") (armor "0")
+L 11/15/2015 - 16:17:06: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "44") (armor "0")
+L 11/15/2015 - 16:17:06: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "25") (armor "0")
+L 11/15/2015 - 16:17:06: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "0") (armor "0")
+L 11/15/2015 - 16:17:06: "[P0D]Bloodlust (100)<2><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:17:06: "[P*D]Botman (100)<1><BOT><TERRORIST>" say "MAN you are so impatient Invader" (dead)
+L 11/15/2015 - 16:17:06: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "Please tell some jokes Invader, I'm bored too" (dead)
+L 11/15/2015 - 16:17:09: "[P0D]Bloodlust (100)<2><BOT><CT>" say_team "Trying to defuse the Bomb!"
+L 11/15/2015 - 16:17:10: "[P0D]Bloodlust (100)<2><BOT><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/15/2015 - 16:17:13: "[P*D]Botman (100)<1><BOT><TERRORIST>" say "Bla bla bla..." (dead)
+L 11/15/2015 - 16:17:18: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "OMG you're weird in person! i'd rather watch your movies." (dead)
+L 11/15/2015 - 16:17:20: "[P0D]Bloodlust (100)<2><BOT><CT>" triggered "Defused_The_Bomb"
+L 11/15/2015 - 16:17:20: Team "CT" triggered "Bomb_Defused" (CT "4") (T "0")
+L 11/15/2015 - 16:17:20: World triggered "Round_End"
+L 11/15/2015 - 16:17:23: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "Man, cant we talk about something besides our jobs??" (dead)
+L 11/15/2015 - 16:17:25: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:17:27: World triggered "Round_Start"
+L 11/15/2015 - 16:17:44: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "11") (damage_armor "0") (health "89") (armor "0")
+L 11/15/2015 - 16:17:44: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P0D]Android (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "73") (armor "0")
+L 11/15/2015 - 16:17:55: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 11/15/2015 - 16:17:55: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 11/15/2015 - 16:17:56: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 11/15/2015 - 16:17:56: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "62") (armor "0")
+L 11/15/2015 - 16:17:56: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 11/15/2015 - 16:17:56: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "19") (armor "0")
+L 11/15/2015 - 16:17:56: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 11/15/2015 - 16:17:56: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[P*D]Joe_Pesci (100)<5><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "43") (armor "0")
+L 11/15/2015 - 16:17:56: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 11/15/2015 - 16:17:56: "[P*D]Joe_Pesci (100)<5><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "-8") (armor "0")
+L 11/15/2015 - 16:17:56: "[P*D]Joe_Pesci (100)<5><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:17:56: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "16") (armor "0")
+L 11/15/2015 - 16:17:56: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 11/15/2015 - 16:17:56: "[P0D]Bloodlust (100)<2><BOT><CT>" killed "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp"
+L 11/15/2015 - 16:17:56: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 16:17:57: "[P0D]Android (100)<7><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 11/15/2015 - 16:17:57: "[P0D]Android (100)<7><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "64") (armor "0")
+L 11/15/2015 - 16:17:57: "[P0D]Android (100)<7><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "41") (armor "0")
+L 11/15/2015 - 16:18:00: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "you know for famous people we sure are stipud, uh, i mean stupid" (dead)
+L 11/15/2015 - 16:18:05: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "My fame is due to hard work *snicker*" (dead)
+L 11/15/2015 - 16:18:18: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 11/15/2015 - 16:18:18: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "6") (armor "0")
+L 11/15/2015 - 16:18:18: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "-29") (armor "0")
+L 11/15/2015 - 16:18:18: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:18:18: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 11/15/2015 - 16:18:18: World triggered "Round_End"
+L 11/15/2015 - 16:18:18: "[P*D]Botman (100)<1><BOT><TERRORIST>" say "Why is everybody always saying the same things???" (dead)
+L 11/15/2015 - 16:18:23: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "No idea, Botman" (dead)
+L 11/15/2015 - 16:18:23: "[P*D]Botman (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:18:25: World triggered "Round_Start"
+L 11/15/2015 - 16:18:35: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 11/15/2015 - 16:18:42: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 16:18:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 11/15/2015 - 16:18:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:18:48: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "why is Heather_Locklear always winning??" (dead)
+L 11/15/2015 - 16:18:57: "[P*D]Botman (100)<1><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/15/2015 - 16:18:57: "[P*D]Botman (100)<1><BOT><TERRORIST>" say_team "Planted the Bomb!"
+L 11/15/2015 - 16:18:57: "[P0D]Bloodlust (100)<2><BOT><CT>" say "HEY!!! They're tryin to kill Kenny! Those bastards!!!!"
+L 11/15/2015 - 16:19:01: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/15/2015 - 16:19:02: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 11/15/2015 - 16:19:02: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "14") (armor "0")
+L 11/15/2015 - 16:19:02: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 11/15/2015 - 16:19:02: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "-21") (armor "0")
+L 11/15/2015 - 16:19:02: "[P0D]Bloodlust (100)<2><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:19:02: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "ZZZZZZZzzzzzzZZZZZZZZZZZZZZZzzzzzzzzzzzzZZZZZZZZ" (dead)
+L 11/15/2015 - 16:19:02: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "55") (armor "0")
+L 11/15/2015 - 16:19:02: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "40") (armor "0")
+L 11/15/2015 - 16:19:02: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 11/15/2015 - 16:19:02: "[P*D]Botman (100)<1><BOT><TERRORIST>" attacked "[P0D]Bloodlust (100)<2><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "25") (armor "0")
+L 11/15/2015 - 16:19:03: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "33") (armor "0")
+L 11/15/2015 - 16:19:03: "[P0D]Bloodlust (100)<2><BOT><CT>" attacked "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-1") (armor "0")
+L 11/15/2015 - 16:19:03: "[P0D]Bloodlust (100)<2><BOT><CT>" killed "[P*D]Botman (100)<1><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:19:07: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "I aint got the cash to buy me some more hash" (dead)
+L 11/15/2015 - 16:19:12: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "being rich is so cool...you can do anything ...or not do anything hehe" (dead)
+L 11/15/2015 - 16:19:13: "[POD]Heather_Locklear (100)<4><BOT><CT>" say_team "Trying to defuse the Bomb!"
+L 11/15/2015 - 16:19:14: "[POD]Heather_Locklear (100)<4><BOT><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/15/2015 - 16:19:18: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "yeah lol, Neuromancer!" (dead)
+L 11/15/2015 - 16:19:23: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "What's so funny, Invader..." (dead)
+L 11/15/2015 - 16:19:24: "[POD]Heather_Locklear (100)<4><BOT><CT>" triggered "Defused_The_Bomb"
+L 11/15/2015 - 16:19:24: Team "CT" triggered "Bomb_Defused" (CT "6") (T "0")
+L 11/15/2015 - 16:19:24: World triggered "Round_End"
+L 11/15/2015 - 16:19:28: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" say "You will never find out, Neuromancer!" (dead)
+L 11/15/2015 - 16:19:29: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:19:31: World triggered "Round_Start"
+L 11/15/2015 - 16:19:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 11/15/2015 - 16:19:47: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 11/15/2015 - 16:19:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 11/15/2015 - 16:19:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 11/15/2015 - 16:19:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" killed "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" with "ak47"
+L 11/15/2015 - 16:19:47: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/15/2015 - 16:19:47: "[POD]Heather_Locklear (100)<4><BOT><CT>" say "Yer supposed to be dead, Neuromancer its part of the game!!!!!"
+L 11/15/2015 - 16:19:59: Kick: "[P*D]Botman (100)<1><UNKNOWN><>" was kicked by "Console"
+L 11/15/2015 - 16:19:59: "[P*D]Botman (100)<1><BOT><TERRORIST>" disconnected
+L 11/15/2015 - 16:19:59: "DOG_RouL!$<8><VALVE_ID_LAN><>" entered the game
+L 11/15/2015 - 16:20:02: "DOG_RouL!$<8><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 11/15/2015 - 16:20:11: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 11/15/2015 - 16:20:12: Your server needs to be restarted in order to receive the latest update.
+L 11/15/2015 - 16:20:18: "[P0D]Bloodlust (100)<2><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 16:20:18: "[POD]Heather_Locklear (100)<4><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 16:20:18: "[P*D]Joe_Pesci (100)<5><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 16:20:18: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" committed suicide with "world"
+L 11/15/2015 - 16:20:18: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 11/15/2015 - 16:20:18: World triggered "Round_End"
+L 11/15/2015 - 16:20:18: "[P0D]Android (100)<7><BOT><CT>" committed suicide with "world"
+L 11/15/2015 - 16:20:22: "[P*D]Neuromancer (100)<3><BOT><TERRORIST>" say "Heather_Locklear are you coming to the award show again this year?" (dead)
+L 11/15/2015 - 16:20:23: "DOG_RouL!$<8><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/15/2015 - 16:20:25: World triggered "Round_Start"
+L 11/15/2015 - 16:20:39: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 11/15/2015 - 16:20:39: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 11/15/2015 - 16:20:39: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 11/15/2015 - 16:20:39: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 11/15/2015 - 16:20:39: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 11/15/2015 - 16:20:39: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 11/15/2015 - 16:20:40: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "16") (armor "0")
+L 11/15/2015 - 16:20:40: "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" attacked "[POD]Heather_Locklear (100)<4><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "36") (armor "0")
+L 11/15/2015 - 16:20:40: "[POD]Heather_Locklear (100)<4><BOT><CT>" attacked "[P0D]Hemp Invader (100)<6><BOT><TERRORIST>" with "usp" (damage "21") (damage_a

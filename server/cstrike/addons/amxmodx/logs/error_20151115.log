@@ -25,3 +25,71 @@ L 11/15/2015 - 12:36:35: [AMXX] Plugin file open error (plugin "amxx_podbotmenu.
 L 11/15/2015 - 12:37:46: Start of error session.
 L 11/15/2015 - 12:37:46: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20151115.log")
 L 11/15/2015 - 12:37:46: [AMXX] Plugin file open error (plugin "amxx_podbotmenu.amxx")
+L 11/15/2015 - 16:16:24: Start of error session.
+L 11/15/2015 - 16:16:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20151115.log")
+L 11/15/2015 - 16:16:24: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:16:24: [AMXX] Run time error 10 (plugin "NST_Wpn_Rifles.amxx") (native "nst_wpn_send_weapon_anim") - debug not enabled!
+L 11/15/2015 - 16:16:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:16:24: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:16:24: [AMXX] Run time error 10 (plugin "NST_Wpn.amxx") (native "nst_wpn_get_int1") - debug not enabled!
+L 11/15/2015 - 16:16:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:16:24: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:16:24: [AMXX] Run time error 10 (plugin "NST_Wpn_He.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:16:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:16:24: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:16:24: [AMXX] Run time error 10 (plugin "NST_Wpn_Pistols.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:16:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:16:24: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:16:24: [AMXX] Run time error 10 (plugin "NST_Wpn_Knife.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:16:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:22:42: Start of error session.
+L 11/15/2015 - 16:22:42: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20151115.log")
+L 11/15/2015 - 16:22:42: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:22:42: [AMXX] Run time error 10 (plugin "NST_Wpn_Rifles.amxx") (native "nst_wpn_send_weapon_anim") - debug not enabled!
+L 11/15/2015 - 16:22:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:22:42: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:22:42: [AMXX] Run time error 10 (plugin "NST_Wpn.amxx") (native "nst_wpn_get_int1") - debug not enabled!
+L 11/15/2015 - 16:22:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:22:42: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:22:42: [AMXX] Run time error 10 (plugin "NST_Wpn_Pistols.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:22:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:22:42: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:22:42: [AMXX] Run time error 10 (plugin "NST_Wpn_Knife.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:22:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:22:43: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:22:43: [AMXX] Run time error 10 (plugin "NST_Wpn_He.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:22:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:35:37: Start of error session.
+L 11/15/2015 - 16:35:37: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20151115.log")
+L 11/15/2015 - 16:35:37: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:35:37: [AMXX] Run time error 10 (plugin "NST_Wpn_Rifles.amxx") (native "nst_wpn_send_weapon_anim") - debug not enabled!
+L 11/15/2015 - 16:35:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:35:37: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:35:37: [AMXX] Run time error 10 (plugin "NST_Wpn.amxx") (native "nst_wpn_get_int1") - debug not enabled!
+L 11/15/2015 - 16:35:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:35:37: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:35:37: [AMXX] Run time error 10 (plugin "NST_Wpn_He.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:35:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:35:38: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:35:38: [AMXX] Run time error 10 (plugin "NST_Wpn_Pistols.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:35:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 16:35:38: Called dynanative into a paused plugin.
+L 11/15/2015 - 16:35:38: [AMXX] Run time error 10 (plugin "NST_Wpn_Knife.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 16:35:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 17:02:30: Start of error session.
+L 11/15/2015 - 17:02:30: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20151115.log")
+L 11/15/2015 - 17:02:30: Called dynanative into a paused plugin.
+L 11/15/2015 - 17:02:30: [AMXX] Run time error 10 (plugin "NST_Wpn_Pistols.amxx") (native "nst_wpn_send_weapon_anim") - debug not enabled!
+L 11/15/2015 - 17:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 17:02:30: Called dynanative into a paused plugin.
+L 11/15/2015 - 17:02:30: [AMXX] Run time error 10 (plugin "NST_Wpn.amxx") (native "nst_wpn_get_int2") - debug not enabled!
+L 11/15/2015 - 17:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 17:02:30: Called dynanative into a paused plugin.
+L 11/15/2015 - 17:02:30: [AMXX] Run time error 10 (plugin "NST_Wpn_Rifles.amxx") (native "nst_wpn_get_sound_attack") - debug not enabled!
+L 11/15/2015 - 17:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 17:02:30: Called dynanative into a paused plugin.
+L 11/15/2015 - 17:02:30: [AMXX] Run time error 10 (plugin "NST_Wpn_Knife.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 17:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/15/2015 - 17:02:30: Called dynanative into a paused plugin.
+L 11/15/2015 - 17:02:30: [AMXX] Run time error 10 (plugin "NST_Wpn_He.amxx") (native "nst_bot_use_weapons") - debug not enabled!
+L 11/15/2015 - 17:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

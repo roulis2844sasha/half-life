@@ -1,0 +1,328 @@
+L 03/25/2015 - 22:07:12: Log file started (file "logs/L0325029.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/25/2015 - 22:07:12: Loading map "de_inferno_2x2"
+L 03/25/2015 - 22:07:12: Server cvars start
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_debug_level" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_examine_time" = "0.5"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_look_angle" = "10"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_look_distance" = "200"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_message_repeats" = "5"
+L 03/25/2015 - 22:07:12: Server cvar "_tutor_view_distance" = "1000"
+L 03/25/2015 - 22:07:12: Server cvar "aesp_version" = "1.5b_mini"
+L 03/25/2015 - 22:07:12: Server cvar "allow_spectators" = "4"
+L 03/25/2015 - 22:07:12: Server cvar "amx_client_languages" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/25/2015 - 22:07:12: Server cvar "amx_language" = "ru"
+L 03/25/2015 - 22:07:12: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/25/2015 - 22:07:12: Server cvar "amx_timeleft" = "00:00"
+L 03/25/2015 - 22:07:12: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/25/2015 - 22:07:12: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/25/2015 - 22:07:12: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Config" = "Loaded"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Replace" = "Failed"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Status" = "Loaded"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/25/2015 - 22:07:12: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/25/2015 - 22:07:12: Server cvar "coop" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "deathmatch" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "decalfrequency" = "9"
+L 03/25/2015 - 22:07:12: Server cvar "dp_version" = "0.9.391"
+L 03/25/2015 - 22:07:12: Server cvar "edgefriction" = "2"
+L 03/25/2015 - 22:07:12: Server cvar "hostage_debug" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "hostage_stop" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "humans_join_team" = "any"
+L 03/25/2015 - 22:07:12: Server cvar "jtp10181" = "chute"
+L 03/25/2015 - 22:07:12: Server cvar "max_queries_sec" = "3.0"
+L 03/25/2015 - 22:07:12: Server cvar "max_queries_sec_global" = "30"
+L 03/25/2015 - 22:07:12: Server cvar "max_queries_window" = "60"
+L 03/25/2015 - 22:07:12: Server cvar "metamod_version" = "1.19"
+L 03/25/2015 - 22:07:12: Server cvar "mp_allowmonsters" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_autokick" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_autoteambalance" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_buytime" = "1.5"
+L 03/25/2015 - 22:07:12: Server cvar "mp_c4timer" = "35"
+L 03/25/2015 - 22:07:12: Server cvar "mp_chattime" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_consistency" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_fadetoblack" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_flashlight" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_footsteps" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_forcecamera" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_forcechasecam" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_fragsleft" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_freezetime" = "5"
+L 03/25/2015 - 22:07:12: Server cvar "mp_friendlyfire" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_hostagepenalty" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_kickpercent" = "0.66"
+L 03/25/2015 - 22:07:12: Server cvar "mp_limitteams" = "5"
+L 03/25/2015 - 22:07:12: Server cvar "mp_logdetail" = "3"
+L 03/25/2015 - 22:07:12: Server cvar "mp_logfile" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_logmessages" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/25/2015 - 22:07:12: Server cvar "mp_maxrounds" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_mirrordamage" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_playerid" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_roundtime" = "2.57"
+L 03/25/2015 - 22:07:12: Server cvar "mp_startmoney" = "800"
+L 03/25/2015 - 22:07:12: Server cvar "mp_timeleft" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "mp_timelimit" = "30.000000"
+L 03/25/2015 - 22:07:12: Server cvar "mp_tkpunish" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_windifference" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "mp_winlimit" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "pausable" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_accelerate" = "5"
+L 03/25/2015 - 22:07:12: Server cvar "sv_aim" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_airaccelerate" = "10"
+L 03/25/2015 - 22:07:12: Server cvar "sv_airmove" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "sv_allowupload" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "sv_alltalk" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_bounce" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "sv_cheats" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_clienttrace" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "sv_clipmode" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_contact" = ""
+L 03/25/2015 - 22:07:12: Server cvar "sv_friction" = "4"
+L 03/25/2015 - 22:07:12: Server cvar "sv_gravity" = "800"
+L 03/25/2015 - 22:07:12: Server cvar "sv_logblocks" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_maxrate" = "50000"
+L 03/25/2015 - 22:07:12: Server cvar "sv_maxspeed" = "900"
+L 03/25/2015 - 22:07:12: Server cvar "sv_minrate" = "100000"
+L 03/25/2015 - 22:07:12: Server cvar "sv_password" = ""
+L 03/25/2015 - 22:07:12: Server cvar "sv_proxies" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_region" = "255"
+L 03/25/2015 - 22:07:12: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_restartround" = "0"
+L 03/25/2015 - 22:07:12: Server cvar "sv_stepsize" = "18"
+L 03/25/2015 - 22:07:12: Server cvar "sv_stopspeed" = "75"
+L 03/25/2015 - 22:07:12: Server cvar "sv_uploadmax" = "0.5"
+L 03/25/2015 - 22:07:12: Server cvar "sv_voiceenable" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "sv_wateraccelerate" = "10"
+L 03/25/2015 - 22:07:12: Server cvar "sv_waterfriction" = "1"
+L 03/25/2015 - 22:07:12: Server cvar "travo_statmarquee" = "v1.2"
+L 03/25/2015 - 22:07:12: Server cvar "ultimate_sounds" = "1.7"
+L 03/25/2015 - 22:07:12: Server cvar "vtc_version" = "80"
+L 03/25/2015 - 22:07:12: Server cvars end
+L 03/25/2015 - 22:07:13: Server cvar "amx_nextmap" = "awp_map"
+L 03/25/2015 - 22:07:13: Server cvar "sv_restart" = "1"
+L 03/25/2015 - 22:07:13: World triggered "Restart_Round_(1_second)"
+L 03/25/2015 - 22:07:13: Team "CT" scored "0" with "0" players
+L 03/25/2015 - 22:07:13: Team "TERRORIST" scored "0" with "0" players
+L 03/25/2015 - 22:07:13: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 22:07:13: Started map "de_inferno_2x2" (CRC "-1279456242")
+L 03/25/2015 - 22:07:13: [VTC] Player 4 speex
+L 03/25/2015 - 22:07:13: [VTC] Player 8 speex
+L 03/25/2015 - 22:07:13: [VTC] Player 10 speex
+L 03/25/2015 - 22:07:13: [VTC] Player 5 speex
+L 03/25/2015 - 22:07:14: [VTC] Player 1 speex
+L 03/25/2015 - 22:07:14: [VTC] Player 6 speex
+L 03/25/2015 - 22:07:14: [VTC] Player 2 speex
+L 03/25/2015 - 22:07:16: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39129cc
+L 03/25/2015 - 22:07:16: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><>" connected, address "178.127.11.1:27005"
+L 03/25/2015 - 22:07:16: [VTC] Player 6 speex
+L 03/25/2015 - 22:07:16: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:07:16: "36_Rus<209><STEAM_0:0:2033293296><>" connected, address "77.45.161.117:27005"
+L 03/25/2015 - 22:07:16: [VTC] Player 1 speex
+L 03/25/2015 - 22:07:17: "Andrii<205><STEAM_0:4:482412162><>" entered the game
+L 03/25/2015 - 22:07:17: [VTC] Player 9 speex
+L 03/25/2015 - 22:07:17: "Pro_skier<206><STEAM_0:4:1900820341><>" entered the game
+L 03/25/2015 - 22:07:18: World triggered "Round_Start"
+L 03/25/2015 - 22:07:19: "AnaNasiK*<197><STEAM_0:0:893472335><>" entered the game
+L 03/25/2015 - 22:07:20: "Pro_skier<206><STEAM_0:4:1900820341><>" joined team "CT"
+L 03/25/2015 - 22:07:21: "ARBYZIK<200><STEAM_0:4:2047823237><>" entered the game
+L 03/25/2015 - 22:07:21: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><>" entered the game
+L 03/25/2015 - 22:07:21: "36_Rus<209><STEAM_0:0:2033293296><>" entered the game
+L 03/25/2015 - 22:07:22: "NiCe KiLL===0<203><STEAM_0:4:1246042884><>" entered the game
+L 03/25/2015 - 22:07:25: "36_Rus<209><STEAM_0:0:2033293296><UNASSIGNED>" triggered "time" (time "0:03")
+L 03/25/2015 - 22:07:25: "36_Rus<209><STEAM_0:0:2033293296><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/25/2015 - 22:07:25: "36_Rus<209><STEAM_0:0:2033293296><>" disconnected
+L 03/25/2015 - 22:07:25: "ARBYZIK<200><STEAM_0:4:2047823237><>" joined team "TERRORIST"
+L 03/25/2015 - 22:07:26: World triggered "Game_Commencing"
+L 03/25/2015 - 22:07:26: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 22:07:26: World triggered "Round_End"
+L 03/25/2015 - 22:07:27: "AnaNasiK*<197><STEAM_0:0:893472335><>" joined team "TERRORIST"
+L 03/25/2015 - 22:07:28: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><>" joined team "CT"
+L 03/25/2015 - 22:07:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 22:07:30: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39216a8
+L 03/25/2015 - 22:07:30: "nExT --><210><STEAM_0:4:1250151685><>" connected, address "178.120.91.60:50547"
+L 03/25/2015 - 22:07:30: [VTC] Player 9 speex
+L 03/25/2015 - 22:07:33: World triggered "Round_Start"
+L 03/25/2015 - 22:07:41: "Andrii<205><STEAM_0:4:482412162><>" joined team "CT"
+L 03/25/2015 - 22:08:05: "Andrii<205><STEAM_0:4:482412162><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/25/2015 - 22:08:05: "Andrii<205><STEAM_0:4:482412162><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "100")
+L 03/25/2015 - 22:08:05: "Andrii<205><STEAM_0:4:482412162><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "64") (armor "100")
+L 03/25/2015 - 22:08:05: "Andrii<205><STEAM_0:4:482412162><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "usp" (damage "36") (damage_armor "0") (health "36") (armor "0")
+L 03/25/2015 - 22:08:06: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "Andrii<205><STEAM_0:4:482412162><CT>" with "deagle" (damage "172") (damage_armor "0") (health "-72") (armor "0")
+L 03/25/2015 - 22:08:06: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" killed "Andrii<205><STEAM_0:4:482412162><CT>" with "deagle"
+L 03/25/2015 - 22:08:19: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "11") (armor "0")
+L 03/25/2015 - 22:08:23: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "deagle" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/25/2015 - 22:08:24: "Pro_skier<206><STEAM_0:4:1900820341><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "-9") (armor "0")
+L 03/25/2015 - 22:08:24: "Pro_skier<206><STEAM_0:4:1900820341><CT>" killed "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "usp"
+L 03/25/2015 - 22:08:37: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 22:08:38: "Pro_skier<206><STEAM_0:4:1900820341><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "usp" (damage "15") (damage_armor "8") (health "49") (armor "92")
+L 03/25/2015 - 22:08:38: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "Pro_skier<206><STEAM_0:4:1900820341><CT>" with "deagle" (damage "37") (damage_armor "7") (health "45") (armor "93")
+L 03/25/2015 - 22:08:38: "Pro_skier<206><STEAM_0:4:1900820341><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "usp" (damage "16") (damage_armor "8") (health "33") (armor "84")
+L 03/25/2015 - 22:08:38: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "Pro_skier<206><STEAM_0:4:1900820341><CT>" with "deagle" (damage "38") (damage_armor "6") (health "7") (armor "87")
+L 03/25/2015 - 22:08:39: "Pro_skier<206><STEAM_0:4:1900820341><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "usp" (damage "16") (damage_armor "8") (health "17") (armor "76")
+L 03/25/2015 - 22:08:39: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "Pro_skier<206><STEAM_0:4:1900820341><CT>" with "deagle" (damage "38") (damage_armor "6") (health "-31") (armor "81")
+L 03/25/2015 - 22:08:39: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" killed "Pro_skier<206><STEAM_0:4:1900820341><CT>" with "deagle"
+L 03/25/2015 - 22:08:41: "Pro_skier<206><STEAM_0:4:1900820341><CT>" triggered "weaponstats" (weapon "usp") (shots "14") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "67") (deaths "1")
+L 03/25/2015 - 22:08:41: "Pro_skier<206><STEAM_0:4:1900820341><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "2") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:08:41: "Pro_skier<206><STEAM_0:4:1900820341><CT>" triggered "time" (time "1:23")
+L 03/25/2015 - 22:08:41: "Pro_skier<206><STEAM_0:4:1900820341><CT>" triggered "latency" (ping "46")
+L 03/25/2015 - 22:08:41: "Pro_skier<206><STEAM_0:4:1900820341><CT>" disconnected
+L 03/25/2015 - 22:08:47: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/25/2015 - 22:08:50: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "deagle" (damage "20") (damage_armor "0") (health "63") (armor "0")
+L 03/25/2015 - 22:08:50: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "deagle" (damage "20") (damage_armor "0") (health "43") (armor "0")
+L 03/25/2015 - 22:08:50: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "deagle" (damage "20") (damage_armor "0") (health "23") (armor "0")
+L 03/25/2015 - 22:08:51: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "deagle" (damage "25") (damage_armor "0") (health "-2") (armor "0")
+L 03/25/2015 - 22:08:51: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" killed "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "deagle"
+L 03/25/2015 - 22:08:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/25/2015 - 22:08:51: World triggered "Round_End"
+L 03/25/2015 - 22:08:52: "Andrii<205><STEAM_0:4:482412162><CT>" triggered "weaponstats" (weapon "usp") (shots "5") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "100") (deaths "1")
+L 03/25/2015 - 22:08:52: "Andrii<205><STEAM_0:4:482412162><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "1") (rightleg "1")
+L 03/25/2015 - 22:08:52: "Andrii<205><STEAM_0:4:482412162><CT>" triggered "time" (time "1:35")
+L 03/25/2015 - 22:08:52: "Andrii<205><STEAM_0:4:482412162><CT>" triggered "latency" (ping "44")
+L 03/25/2015 - 22:08:52: "Andrii<205><STEAM_0:4:482412162><CT>" disconnected
+L 03/25/2015 - 22:08:56: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 22:08:59: "NiCe KiLL===0<203><STEAM_0:4:1246042884><UNASSIGNED>" triggered "time" (time "1:37")
+L 03/25/2015 - 22:08:59: "NiCe KiLL===0<203><STEAM_0:4:1246042884><UNASSIGNED>" triggered "latency" (ping "45")
+L 03/25/2015 - 22:08:59: "NiCe KiLL===0<203><STEAM_0:4:1246042884><>" disconnected
+L 03/25/2015 - 22:09:01: World triggered "Round_Start"
+L 03/25/2015 - 22:09:15: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:09:15: "NiCe KiLL===0<211><STEAM_0:4:1246042884><>" connected, address "176.212.214.61:49153"
+L 03/25/2015 - 22:09:15: [VTC] Player 1 speex
+L 03/25/2015 - 22:09:17: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "deagle" (damage "33") (damage_armor "6") (health "67") (armor "94")
+L 03/25/2015 - 22:09:17: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/25/2015 - 22:09:17: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" killed "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "ak47"
+L 03/25/2015 - 22:09:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/25/2015 - 22:09:17: World triggered "Round_End"
+L 03/25/2015 - 22:09:21: "NiCe KiLL===0<211><STEAM_0:4:1246042884><>" entered the game
+L 03/25/2015 - 22:09:22: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 22:09:27: World triggered "Round_Start"
+L 03/25/2015 - 22:09:52: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/25/2015 - 22:09:52: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "ak47" (damage "16") (damage_armor "0") (health "49") (armor "0")
+L 03/25/2015 - 22:09:52: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "ak47" (damage "16") (damage_armor "0") (health "33") (armor "0")
+L 03/25/2015 - 22:09:53: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "deagle" (damage "16") (damage_armor "3") (health "84") (armor "97")
+L 03/25/2015 - 22:09:53: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "ak47" (damage "16") (damage_armor "0") (health "17") (armor "0")
+L 03/25/2015 - 22:09:54: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "deagle" (damage "42") (damage_armor "7") (health "42") (armor "90")
+L 03/25/2015 - 22:09:54: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "deagle" (damage "33") (damage_armor "0") (health "9") (armor "90")
+L 03/25/2015 - 22:09:54: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "deagle" (damage "33") (damage_armor "6") (health "-24") (armor "84")
+L 03/25/2015 - 22:09:54: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" killed "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "deagle"
+L 03/25/2015 - 22:09:55: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" attacked "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "knife" (damage "65") (damage_armor "0") (health "-48") (armor "0")
+L 03/25/2015 - 22:09:55: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" killed "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" with "knife"
+L 03/25/2015 - 22:09:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/25/2015 - 22:09:55: World triggered "Round_End"
+L 03/25/2015 - 22:10:00: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 22:10:05: "NiCe KiLL===0<211><STEAM_0:4:1246042884><UNASSIGNED>" triggered "time" (time "0:43")
+L 03/25/2015 - 22:10:05: "NiCe KiLL===0<211><STEAM_0:4:1246042884><UNASSIGNED>" triggered "latency" (ping "37")
+L 03/25/2015 - 22:10:05: "NiCe KiLL===0<211><STEAM_0:4:1246042884><>" disconnected
+L 03/25/2015 - 22:10:05: World triggered "Round_Start"
+L 03/25/2015 - 22:10:19: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 03/25/2015 - 22:10:20: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "52") (armor "94")
+L 03/25/2015 - 22:10:20: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "30") (armor "94")
+L 03/25/2015 - 22:10:20: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "8") (armor "94")
+L 03/25/2015 - 22:10:20: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-14") (armor "94")
+L 03/25/2015 - 22:10:20: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" killed "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" with "m4a1"
+L 03/25/2015 - 22:10:24: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "100")
+L 03/25/2015 - 22:10:24: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "52") (armor "94")
+L 03/25/2015 - 22:10:25: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "26") (armor "88")
+L 03/25/2015 - 22:10:25: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "4") (armor "88")
+L 03/25/2015 - 22:10:25: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" attacked "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-18") (armor "88")
+L 03/25/2015 - 22:10:25: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" killed "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" with "m4a1"
+L 03/25/2015 - 22:10:25: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 03/25/2015 - 22:10:25: World triggered "Round_End"
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "2") (deaths "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "12") (hits "8") (kills "3") (headshots "1") (tks "0") (damage "370") (deaths "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "2") (stomach "1") (leftarm "0") (rightarm "4") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "4") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "140") (deaths "1")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "time" (time "3:08")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" triggered "latency" (ping "46")
+L 03/25/2015 - 22:10:28: "AnaNasiK*<197><STEAM_0:0:893472335><TERRORIST>" disconnected
+L 03/25/2015 - 22:10:30: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 22:10:35: World triggered "Round_Start"
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "16") (deaths "0")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "10") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "15") (deaths "1")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "20") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "83") (deaths "2")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "time" (time "3:16")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "latency" (ping "40")
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 22:10:37: "ARBYZIK<200><STEAM_0:4:2047823237><TERRORIST>" disconnected
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "usp") (shots "14") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "25") (deaths "1")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "m4a1") (shots "26") (hits "10") (kills "2") (headshots "0") (tks "0") (damage "232") (deaths "0")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "4") (rightleg "3")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "deagle") (shots "9") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "157") (deaths "2")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "2") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "time" (time "3:47")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" triggered "latency" (ping "67")
+L 03/25/2015 - 22:11:08: "[Easy_Skill]_LoL#3<208><STEAM_0:4:1412157061><CT>" disconnected
+L 03/25/2015 - 22:11:08: World triggered "Round_Draw" (CT "1") (T "3")
+L 03/25/2015 - 22:11:08: World triggered "Round_End"
+L 03/25/2015 - 22:11:10: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:11:10: "(^-YcaTblu'-_-DokTop-^) | BLR:)<212><STEAM_0:4:2081836421><>" connected, address "178.121.112.81:58115"
+L 03/25/2015 - 22:11:10: [VTC] Player 1 speex
+L 03/25/2015 - 22:11:18: World triggered "Round_Start"
+L 03/25/2015 - 22:11:19: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:11:19: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><>" connected, address "178.121.112.81:58115"
+L 03/25/2015 - 22:11:19: [VTC] Player 1 speex
+L 03/25/2015 - 22:11:33: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><>" entered the game
+L 03/25/2015 - 22:11:35: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fedfc
+L 03/25/2015 - 22:11:35: "_Oleg_<214><STEAM_0:4:949276549><>" connected, address "178.125.117.216:27005"
+L 03/25/2015 - 22:11:35: [VTC] Player 2 speex
+L 03/25/2015 - 22:11:37: "_Oleg_<214><STEAM_0:4:949276549><>" entered the game
+L 03/25/2015 - 22:11:38: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><>" joined team "TERRORIST"
+L 03/25/2015 - 22:11:38: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 22:11:43: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><TERRORIST>" triggered "time" (time "0:10")
+L 03/25/2015 - 22:11:43: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><TERRORIST>" triggered "latency" (ping "0")
+L 03/25/2015 - 22:11:43: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 22:11:43: "(^-YcaTblu'-_-DokTop-^) | BLR:)<213><STEAM_0:4:2081836421><TERRORIST>" disconnected
+L 03/25/2015 - 22:11:43: World triggered "Round_Draw" (CT "1") (T "3")
+L 03/25/2015 - 22:11:43: World triggered "Round_End"
+L 03/25/2015 - 22:11:53: World triggered "Round_Start"
+L 03/25/2015 - 22:12:16: "_Oleg_<214><STEAM_0:4:949276549><UNASSIGNED>" triggered "time" (time "0:39")
+L 03/25/2015 - 22:12:16: "_Oleg_<214><STEAM_0:4:949276549><UNASSIGNED>" triggered "latency" (ping "34")
+L 03/25/2015 - 22:12:16: "_Oleg_<214><STEAM_0:4:949276549><>" disconnected
+L 03/25/2015 - 22:12:16: World triggered "Round_Draw" (CT "1") (T "3")
+L 03/25/2015 - 22:12:16: World triggered "Round_End"
+L 03/25/2015 - 22:12:26: World triggered "Round_Start"
+L 03/25/2015 - 22:14:12: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:14:12: "TIK-TAK<215><STEAM_0:0:224268896><>" connected, address "109.187.18.10:27005"
+L 03/25/2015 - 22:14:12: [VTC] Player 1 speex
+L 03/25/2015 - 22:14:19: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu2013]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:14:19: "DonaL'D<216><STEAM_0:4:2086153450><>" connected, address "109.187.236.81:27005"
+L 03/25/2015 - 22:14:20: [VTC] Player 1 silk
+L 03/25/2015 - 22:14:34: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:14:34: ".::|AqpETAMuH|::.<217><STEAM_0:4:614477034><>" connected, address "109.187.28.224:21790"
+L 03/25/2015 - 22:14:34: [VTC] Player 1 speex
+L 03/25/2015 - 22:14:37: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu2013]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:14:37: "DonaL'D<218><STEAM_0:4:2086153450><>" connected, address "109.187.236.81:27005"
+L 03/25/2015 - 22:14:37: [VTC] Player 1 silk
+L 03/25/2015 - 22:14:43: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu2013]; pClient = 0xb38f9f08
+L 03/25/2015 - 22:14:43: "DonaL'D<219><STEAM_0:4:2086153450><>" connected, address "109.187.236.81:27005"
+L 03/25/2015 - 22:14:44: [VTC] Player 1 silk
+L 03/25/2015 - 22:15:00: Team "CT" triggered "Target_Saved" (CT "2") (T "3")
+L 03/25/2015 - 22:15:00: World triggered "Round_End"
+L 03/25/2015 - 22:15:10: World triggered "Round_Start"
+L 03/25/2015 - 22:17:22: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/25/2015 - 22:17:22: [META] ini: Read plugin config for: AMX Mod X
+L 03/25/2015 - 22:17:22: [META] ini: Read plugin config for: dproto_EF
+L 03/25/2015 - 22:17:22: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/25/2015 - 22:17:22: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/25/2015 - 22:17:22: [META] dll: Updating plugins...
+L 03/25/2015 - 22:17:22: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/25/2015 - 22:17:22: Log file closed

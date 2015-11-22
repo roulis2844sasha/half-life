@@ -1,0 +1,582 @@
+L 04/02/2015 - 19:36:51: Log file started (file "logs/L0402063.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/02/2015 - 19:36:51: Loading map "de_dust2_2x2"
+L 04/02/2015 - 19:36:51: Server cvars start
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_debug_level" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_examine_time" = "0.5"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_look_angle" = "10"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_look_distance" = "200"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_message_repeats" = "5"
+L 04/02/2015 - 19:36:51: Server cvar "_tutor_view_distance" = "1000"
+L 04/02/2015 - 19:36:51: Server cvar "aesp_version" = "1.5b_mini"
+L 04/02/2015 - 19:36:51: Server cvar "allow_spectators" = "4"
+L 04/02/2015 - 19:36:51: Server cvar "amx_client_languages" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/02/2015 - 19:36:51: Server cvar "amx_language" = "ru"
+L 04/02/2015 - 19:36:51: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 04/02/2015 - 19:36:51: Server cvar "amx_timeleft" = "00:00"
+L 04/02/2015 - 19:36:51: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/02/2015 - 19:36:51: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/02/2015 - 19:36:51: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Config" = "Loaded"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Replace" = "Failed"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Status" = "Loaded"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/02/2015 - 19:36:51: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/02/2015 - 19:36:51: Server cvar "coop" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "deathmatch" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "decalfrequency" = "9"
+L 04/02/2015 - 19:36:51: Server cvar "dp_version" = "0.9.391"
+L 04/02/2015 - 19:36:51: Server cvar "edgefriction" = "2"
+L 04/02/2015 - 19:36:51: Server cvar "hostage_debug" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "hostage_stop" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "humans_join_team" = "any"
+L 04/02/2015 - 19:36:51: Server cvar "jtp10181" = "chute,gore"
+L 04/02/2015 - 19:36:51: Server cvar "max_queries_sec" = "3.0"
+L 04/02/2015 - 19:36:51: Server cvar "max_queries_sec_global" = "30"
+L 04/02/2015 - 19:36:51: Server cvar "max_queries_window" = "60"
+L 04/02/2015 - 19:36:51: Server cvar "metamod_version" = "1.19"
+L 04/02/2015 - 19:36:51: Server cvar "mp_allowmonsters" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_autokick" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_autoteambalance" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_buytime" = "1.5"
+L 04/02/2015 - 19:36:51: Server cvar "mp_c4timer" = "35"
+L 04/02/2015 - 19:36:51: Server cvar "mp_chattime" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_consistency" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_fadetoblack" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_flashlight" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_footsteps" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_forcecamera" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_forcechasecam" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_fragsleft" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_freezetime" = "5"
+L 04/02/2015 - 19:36:51: Server cvar "mp_friendlyfire" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_hostagepenalty" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_kickpercent" = "0.66"
+L 04/02/2015 - 19:36:51: Server cvar "mp_limitteams" = "5"
+L 04/02/2015 - 19:36:51: Server cvar "mp_logdetail" = "3"
+L 04/02/2015 - 19:36:51: Server cvar "mp_logfile" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_logmessages" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/02/2015 - 19:36:51: Server cvar "mp_maxrounds" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_mirrordamage" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_playerid" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_roundtime" = "2.57"
+L 04/02/2015 - 19:36:51: Server cvar "mp_startmoney" = "800"
+L 04/02/2015 - 19:36:51: Server cvar "mp_timeleft" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "mp_timelimit" = "30.000000"
+L 04/02/2015 - 19:36:51: Server cvar "mp_tkpunish" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_windifference" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "mp_winlimit" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "pausable" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_accelerate" = "5"
+L 04/02/2015 - 19:36:51: Server cvar "sv_aim" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_airaccelerate" = "10"
+L 04/02/2015 - 19:36:51: Server cvar "sv_airmove" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "sv_allowupload" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "sv_alltalk" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_bounce" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "sv_cheats" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_clienttrace" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "sv_clipmode" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_contact" = ""
+L 04/02/2015 - 19:36:51: Server cvar "sv_friction" = "4"
+L 04/02/2015 - 19:36:51: Server cvar "sv_gravity" = "800"
+L 04/02/2015 - 19:36:51: Server cvar "sv_logblocks" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_maxrate" = "25000"
+L 04/02/2015 - 19:36:51: Server cvar "sv_maxspeed" = "900"
+L 04/02/2015 - 19:36:51: Server cvar "sv_minrate" = "100000"
+L 04/02/2015 - 19:36:51: Server cvar "sv_password" = ""
+L 04/02/2015 - 19:36:51: Server cvar "sv_proxies" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_region" = "3"
+L 04/02/2015 - 19:36:51: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_restartround" = "0"
+L 04/02/2015 - 19:36:51: Server cvar "sv_stepsize" = "18"
+L 04/02/2015 - 19:36:51: Server cvar "sv_stopspeed" = "75"
+L 04/02/2015 - 19:36:51: Server cvar "sv_uploadmax" = "0.5"
+L 04/02/2015 - 19:36:51: Server cvar "sv_voiceenable" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "sv_wateraccelerate" = "10"
+L 04/02/2015 - 19:36:51: Server cvar "sv_waterfriction" = "1"
+L 04/02/2015 - 19:36:51: Server cvar "travo_statmarquee" = "v1.2"
+L 04/02/2015 - 19:36:51: Server cvar "vtc_version" = "80"
+L 04/02/2015 - 19:36:51: Server cvar "wallblocker_version" = "1.0"
+L 04/02/2015 - 19:36:51: Server cvars end
+L 04/02/2015 - 19:36:51: Server cvar "amx_nextmap" = "35_hp_2011"
+L 04/02/2015 - 19:36:51: Server cvar "sv_restart" = "1"
+L 04/02/2015 - 19:36:51: World triggered "Restart_Round_(1_second)"
+L 04/02/2015 - 19:36:51: Team "CT" scored "0" with "0" players
+L 04/02/2015 - 19:36:51: Team "TERRORIST" scored "0" with "0" players
+L 04/02/2015 - 19:36:51: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 19:36:51: Started map "de_dust2_2x2" (CRC "1607683513")
+L 04/02/2015 - 19:36:52: [VTC] Player 1 speex
+L 04/02/2015 - 19:36:52: [VTC] Player 2 speex
+L 04/02/2015 - 19:36:52: [VTC] Player 4 speex
+L 04/02/2015 - 19:36:52: [VTC] Player 3 speex
+L 04/02/2015 - 19:36:52: [VTC] Player 6 speex
+L 04/02/2015 - 19:36:52: [VTC] Player 5 silk
+L 04/02/2015 - 19:36:55: "T.N.L. N!keL<249><STEAM_0:4:532139013><>" entered the game
+L 04/02/2015 - 19:36:55: "T.N.L. Leks<240><STEAM_0:4:1399475461><>" entered the game
+L 04/02/2015 - 19:36:55: "ANGELuHA<257><STEAM_0:4:1018023685><>" entered the game
+L 04/02/2015 - 19:36:56: World triggered "Round_Start"
+L 04/02/2015 - 19:36:56: "Na_nax<260><STEAM_0:4:1446693380><>" entered the game
+L 04/02/2015 - 19:36:57: "Anya<236><STEAM_0:0:1429534441><>" entered the game
+L 04/02/2015 - 19:36:58: "ANGELuHA<257><STEAM_0:4:1018023685><>" joined team "TERRORIST"
+L 04/02/2015 - 19:36:58: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:37:00: "T.N.L. Leks<240><STEAM_0:4:1399475461><>" joined team "CT"
+L 04/02/2015 - 19:37:00: World triggered "Game_Commencing"
+L 04/02/2015 - 19:37:00: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/02/2015 - 19:37:00: World triggered "Round_End"
+L 04/02/2015 - 19:37:00: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 19:37:00: "Stefano)*<267><STEAM_0:4:299394259><>" connected, address "31.43.236.138:27005"
+L 04/02/2015 - 19:37:00: [VTC] Player 7 speex
+L 04/02/2015 - 19:37:00: "Na_nax<260><STEAM_0:4:1446693380><>" joined team "CT"
+L 04/02/2015 - 19:37:01: "Anya<236><STEAM_0:0:1429534441><>" joined team "CT"
+L 04/02/2015 - 19:37:02: "T.N.L. N!keL<249><STEAM_0:4:532139013><>" joined team "CT"
+L 04/02/2015 - 19:37:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:37:05: "Stefano)*<267><STEAM_0:4:299394259><>" entered the game
+L 04/02/2015 - 19:37:07: "Stefano)*<267><STEAM_0:4:299394259><>" joined team "CT"
+L 04/02/2015 - 19:37:08: World triggered "Round_Start"
+L 04/02/2015 - 19:37:11: "Stefano)*<267><STEAM_0:4:299394259><CT>" committed suicide with "world"
+L 04/02/2015 - 19:37:11: "Stefano)*<267><STEAM_0:4:299394259><CT>" joined team "TERRORIST"
+L 04/02/2015 - 19:37:26: "T.N.L. Leks<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "usp" (damage "15") (damage_armor "8") (health "85") (armor "92")
+L 04/02/2015 - 19:37:27: "T.N.L. Leks<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "usp" (damage "62") (damage_armor "31") (health "23") (armor "61")
+L 04/02/2015 - 19:37:27: "T.N.L. Leks<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "usp" (damage "62") (damage_armor "31") (health "-39") (armor "30")
+L 04/02/2015 - 19:37:27: "T.N.L. Leks<240><STEAM_0:4:1399475461><CT>" killed "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "usp"
+L 04/02/2015 - 19:37:27: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/02/2015 - 19:37:27: World triggered "Round_End"
+L 04/02/2015 - 19:37:32: "Na_nax<260><STEAM_0:4:1446693380><CT>" joined team "TERRORIST" (auto)
+L 04/02/2015 - 19:37:32: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:37:34: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39b2ad8
+L 04/02/2015 - 19:37:34: "Extazy<268><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 04/02/2015 - 19:37:34: [VTC] Player 5 silk
+L 04/02/2015 - 19:37:37: World triggered "Round_Start"
+L 04/02/2015 - 19:37:48: "T.N.L. Leks<240><STEAM_0:4:1399475461><CT>" changed name to "BANAN"
+L 04/02/2015 - 19:37:51: "Extazy<268><STEAM_0:1:113150434><>" entered the game
+L 04/02/2015 - 19:37:52: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "22") (damage_armor "4") (health "78") (armor "96")
+L 04/02/2015 - 19:37:52: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "22") (damage_armor "3") (health "56") (armor "93")
+L 04/02/2015 - 19:37:52: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "mp5navy" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 04/02/2015 - 19:37:52: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "mp5navy" (damage "23") (damage_armor "0") (health "54") (armor "0")
+L 04/02/2015 - 19:37:53: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "89") (damage_armor "13") (health "-33") (armor "80")
+L 04/02/2015 - 19:37:53: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" killed "Anya<236><STEAM_0:0:1429534441><CT>" with "galil"
+L 04/02/2015 - 19:38:03: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" with "galil" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 19:38:03: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" killed "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" with "galil"
+L 04/02/2015 - 19:38:09: "Extazy<268><STEAM_0:1:113150434><>" joined team "SPECTATOR"
+L 04/02/2015 - 19:38:12: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "23") (armor "0")
+L 04/02/2015 - 19:38:12: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/02/2015 - 19:38:12: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 19:38:12: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:38:12: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 19:38:12: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "47") (armor "0")
+L 04/02/2015 - 19:38:12: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "16") (armor "0")
+L 04/02/2015 - 19:38:14: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "deagle" (damage "168") (damage_armor "0") (health "-152") (armor "0")
+L 04/02/2015 - 19:38:14: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "deagle"
+L 04/02/2015 - 19:38:18: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "42") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 19:38:28: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "Planted_The_Bomb"
+L 04/02/2015 - 19:38:29: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/02/2015 - 19:38:31: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "70") (armor "93")
+L 04/02/2015 - 19:38:31: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "93")
+L 04/02/2015 - 19:38:32: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "27") (armor "88")
+L 04/02/2015 - 19:38:32: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "34") (damage_armor "0") (health "10") (armor "0")
+L 04/02/2015 - 19:38:32: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "6") (armor "84")
+L 04/02/2015 - 19:38:32: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-16") (armor "84")
+L 04/02/2015 - 19:38:32: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:38:40: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 04/02/2015 - 19:38:44: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 04/02/2015 - 19:38:49: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "Defused_The_Bomb"
+L 04/02/2015 - 19:38:49: Team "CT" triggered "Bomb_Defused" (CT "2") (T "0")
+L 04/02/2015 - 19:38:49: World triggered "Round_End"
+L 04/02/2015 - 19:38:54: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:38:59: World triggered "Round_Start"
+L 04/02/2015 - 19:39:13: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "11") (damage_armor "6") (health "89") (armor "94")
+L 04/02/2015 - 19:39:13: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "13") (damage_armor "7") (health "76") (armor "87")
+L 04/02/2015 - 19:39:13: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "16") (damage_armor "0") (health "60") (armor "87")
+L 04/02/2015 - 19:39:13: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "16") (damage_armor "0") (health "44") (armor "87")
+L 04/02/2015 - 19:39:13: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "16") (damage_armor "0") (health "28") (armor "87")
+L 04/02/2015 - 19:39:13: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "28") (damage_armor "5") (health "72") (armor "95")
+L 04/02/2015 - 19:39:14: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "22") (damage_armor "3") (health "50") (armor "92")
+L 04/02/2015 - 19:39:14: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "16") (damage_armor "0") (health "12") (armor "87")
+L 04/02/2015 - 19:39:14: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy" (damage "16") (damage_armor "0") (health "-4") (armor "87")
+L 04/02/2015 - 19:39:14: "Anya<236><STEAM_0:0:1429534441><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "mp5navy"
+L 04/02/2015 - 19:39:14: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:39:15: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47" (damage "27") (damage_armor "4") (health "23") (armor "88")
+L 04/02/2015 - 19:39:15: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "6") (health "90") (armor "94")
+L 04/02/2015 - 19:39:15: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "80") (armor "89")
+L 04/02/2015 - 19:39:16: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "mp5navy" (damage "84") (damage_armor "0") (health "-4") (armor "89")
+L 04/02/2015 - 19:39:16: "Anya<236><STEAM_0:0:1429534441><CT>" killed "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "mp5navy"
+L 04/02/2015 - 19:39:16: "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "famas" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/02/2015 - 19:39:16: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/02/2015 - 19:39:16: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "57") (armor "95")
+L 04/02/2015 - 19:39:16: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "35") (armor "90")
+L 04/02/2015 - 19:39:17: "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "famas" (damage "23") (damage_armor "5") (health "12") (armor "85")
+L 04/02/2015 - 19:39:17: "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "famas" (damage "81") (damage_armor "17") (health "-69") (armor "68")
+L 04/02/2015 - 19:39:17: "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" killed "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "famas"
+L 04/02/2015 - 19:39:17: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/02/2015 - 19:39:17: World triggered "Round_End"
+L 04/02/2015 - 19:39:22: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:39:27: World triggered "Round_Start"
+L 04/02/2015 - 19:39:43: "T.N.L. N!keL<249><STEAM_0:4:532139013><CT>" changed name to "MAMAN"
+L 04/02/2015 - 19:39:46: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "21") (damage_armor "4") (health "79") (armor "96")
+L 04/02/2015 - 19:39:46: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "21") (damage_armor "3") (health "58") (armor "93")
+L 04/02/2015 - 19:39:46: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 19:39:46: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "galil" (damage "21") (damage_armor "0") (health "37") (armor "93")
+L 04/02/2015 - 19:39:49: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 19:39:49: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 04/02/2015 - 19:39:49: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-93") (armor "0")
+L 04/02/2015 - 19:39:49: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:39:58: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas" (damage "112") (damage_armor "0") (health "-37") (armor "0")
+L 04/02/2015 - 19:39:58: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas"
+L 04/02/2015 - 19:39:58: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:40:02: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "famas" (damage "18") (damage_armor "4") (health "79") (armor "96")
+L 04/02/2015 - 19:40:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "100")
+L 04/02/2015 - 19:40:03: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "famas" (damage "18") (damage_armor "4") (health "61") (armor "92")
+L 04/02/2015 - 19:40:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "33") (damage_armor "5") (health "67") (armor "91")
+L 04/02/2015 - 19:40:03: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "39") (armor "87")
+L 04/02/2015 - 19:40:04: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "17") (armor "82")
+L 04/02/2015 - 19:40:04: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "-5") (armor "77")
+L 04/02/2015 - 19:40:04: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:40:04: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 04/02/2015 - 19:40:04: World triggered "Round_End"
+L 04/02/2015 - 19:40:08: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" joined team "CT"
+L 04/02/2015 - 19:40:09: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:40:14: World triggered "Round_Start"
+L 04/02/2015 - 19:40:26: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas" (damage "52") (damage_armor "0") (health "48") (armor "0")
+L 04/02/2015 - 19:40:26: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas" (damage "52") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 19:40:26: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas"
+L 04/02/2015 - 19:40:26: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:40:33: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 19:40:33: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 19:40:34: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "26") (damage_armor "4") (health "70") (armor "85")
+L 04/02/2015 - 19:40:34: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "37") (armor "86")
+L 04/02/2015 - 19:40:35: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "16") (armor "82")
+L 04/02/2015 - 19:40:35: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-6") (armor "82")
+L 04/02/2015 - 19:40:35: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:40:35: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 04/02/2015 - 19:40:35: World triggered "Round_End"
+L 04/02/2015 - 19:40:40: "Na_nax<260><STEAM_0:4:1446693380><CT>" joined team "TERRORIST" (auto)
+L 04/02/2015 - 19:40:40: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:40:45: World triggered "Round_Start"
+L 04/02/2015 - 19:40:58: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 19:40:58: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas" (damage "27") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 19:40:58: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/02/2015 - 19:40:58: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "92")
+L 04/02/2015 - 19:40:58: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "ak47" (damage "32") (damage_armor "5") (health "16") (armor "87")
+L 04/02/2015 - 19:40:59: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "-10") (armor "83")
+L 04/02/2015 - 19:40:59: "Anya<236><STEAM_0:0:1429534441><CT>" killed "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" with "ak47"
+L 04/02/2015 - 19:40:59: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas" (damage "124") (damage_armor "0") (health "-82") (armor "0")
+L 04/02/2015 - 19:40:59: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "famas"
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "4") (deaths "0")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats" (weapon "sg552") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats2" (weapon "sg552") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "49") (hits "6") (kills "0") (headshots "0") (tks "0") (damage "186") (deaths "4")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "2") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "time" (time "4:08")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" triggered "latency" (ping "21")
+L 04/02/2015 - 19:41:03: "ANGELuHA<257><STEAM_0:4:1018023685><TERRORIST>" disconnected
+L 04/02/2015 - 19:41:06: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/02/2015 - 19:41:06: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas" (damage "27") (damage_armor "0") (health "59") (armor "0")
+L 04/02/2015 - 19:41:06: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 19:41:07: "Anya<236><STEAM_0:0:1429534441><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "9") (armor "0")
+L 04/02/2015 - 19:41:09: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/02/2015 - 19:41:10: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 04/02/2015 - 19:41:10: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 04/02/2015 - 19:41:10: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 04/02/2015 - 19:41:10: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" killed "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47"
+L 04/02/2015 - 19:41:17: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-22") (armor "0")
+L 04/02/2015 - 19:41:17: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:41:17: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 04/02/2015 - 19:41:17: World triggered "Round_End"
+L 04/02/2015 - 19:41:22: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:41:27: World triggered "Round_Start"
+L 04/02/2015 - 19:41:39: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 19:41:39: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas"
+L 04/02/2015 - 19:41:47: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/02/2015 - 19:41:47: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "56") (armor "95")
+L 04/02/2015 - 19:41:47: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "35") (armor "90")
+L 04/02/2015 - 19:41:48: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "14") (armor "86")
+L 04/02/2015 - 19:41:48: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "-9") (armor "86")
+L 04/02/2015 - 19:41:48: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:41:48: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 04/02/2015 - 19:41:48: World triggered "Round_End"
+L 04/02/2015 - 19:41:53: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:41:58: World triggered "Round_Start"
+L 04/02/2015 - 19:42:09: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" attacked "Anya<236><STEAM_0:0:1429534441><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/02/2015 - 19:42:09: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 19:42:09: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" with "famas"
+L 04/02/2015 - 19:42:09: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "galil") (shots "15") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "63") (deaths "1")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "galil") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "7") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "14") (deaths "1")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "43") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "161") (deaths "3")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "4") (rightarm "2") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "time" (time "5:20")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" triggered "latency" (ping "86")
+L 04/02/2015 - 19:42:17: "Na_nax<260><STEAM_0:4:1446693380><TERRORIST>" disconnected
+L 04/02/2015 - 19:42:27: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 19:42:27: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 19:42:27: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "37") (armor "86")
+L 04/02/2015 - 19:42:27: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "16") (armor "82")
+L 04/02/2015 - 19:42:28: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "81")
+L 04/02/2015 - 19:42:28: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "77")
+L 04/02/2015 - 19:42:28: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-5") (armor "77")
+L 04/02/2015 - 19:42:28: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:42:28: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 04/02/2015 - 19:42:28: World triggered "Round_End"
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats" (weapon "galil") (shots "46") (hits "6") (kills "2") (headshots "2") (tks "0") (damage "295") (deaths "3")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats2" (weapon "galil") (head "2") (chest "0") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "11") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "52") (deaths "4")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "time" (time "5:24")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" triggered "latency" (ping "62")
+L 04/02/2015 - 19:42:30: "Stefano)*<267><STEAM_0:4:299394259><TERRORIST>" disconnected
+L 04/02/2015 - 19:42:38: World triggered "Round_Start"
+L 04/02/2015 - 19:43:27: "Anya<236><STEAM_0:0:1429534441><CT>" committed suicide with "world"
+L 04/02/2015 - 19:43:27: "Anya<236><STEAM_0:0:1429534441><CT>" joined team "TERRORIST"
+L 04/02/2015 - 19:43:28: World triggered "Game_Commencing"
+L 04/02/2015 - 19:43:28: World triggered "Game_Commencing" (CT "8") (T "0")
+L 04/02/2015 - 19:43:28: World triggered "Round_End"
+L 04/02/2015 - 19:43:31: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:43:36: World triggered "Round_Start"
+L 04/02/2015 - 19:43:47: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "30") (damage_armor "5") (health "70") (armor "95")
+L 04/02/2015 - 19:43:48: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "30") (damage_armor "6") (health "40") (armor "89")
+L 04/02/2015 - 19:43:48: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 19:43:48: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "31") (damage_armor "5") (health "9") (armor "84")
+L 04/02/2015 - 19:43:48: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "57") (armor "0")
+L 04/02/2015 - 19:43:48: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 19:43:49: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 19:43:49: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp"
+L 04/02/2015 - 19:43:49: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/02/2015 - 19:43:49: World triggered "Round_End"
+L 04/02/2015 - 19:43:54: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:43:59: World triggered "Round_Start"
+L 04/02/2015 - 19:44:10: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "28") (damage_armor "5") (health "72") (armor "79")
+L 04/02/2015 - 19:44:10: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 19:44:18: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "55") (armor "0")
+L 04/02/2015 - 19:44:18: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "deagle" (damage "51") (damage_armor "0") (health "49") (armor "0")
+L 04/02/2015 - 19:44:19: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 19:44:20: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 19:44:21: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "10") (armor "0")
+L 04/02/2015 - 19:44:22: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-5") (armor "0")
+L 04/02/2015 - 19:44:22: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife"
+L 04/02/2015 - 19:44:22: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/02/2015 - 19:44:22: World triggered "Round_End"
+L 04/02/2015 - 19:44:27: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:44:32: World triggered "Round_Start"
+L 04/02/2015 - 19:44:45: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "61") (armor "0")
+L 04/02/2015 - 19:44:45: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "46") (armor "0")
+L 04/02/2015 - 19:44:45: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "31") (armor "0")
+L 04/02/2015 - 19:44:46: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "60") (damage_armor "0") (health "-29") (armor "0")
+L 04/02/2015 - 19:44:46: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:44:46: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/02/2015 - 19:44:46: World triggered "Round_End"
+L 04/02/2015 - 19:44:51: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:44:56: World triggered "Round_Start"
+L 04/02/2015 - 19:45:13: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18" (damage "10") (damage_armor "5") (health "90") (armor "95")
+L 04/02/2015 - 19:45:13: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18" (damage "44") (damage_armor "20") (health "46") (armor "75")
+L 04/02/2015 - 19:45:13: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18" (damage "13") (damage_armor "6") (health "33") (armor "69")
+L 04/02/2015 - 19:45:13: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18" (damage "13") (damage_armor "7") (health "20") (armor "62")
+L 04/02/2015 - 19:45:14: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 19:45:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18" (damage "11") (damage_armor "5") (health "9") (armor "57")
+L 04/02/2015 - 19:45:14: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "37") (armor "0")
+L 04/02/2015 - 19:45:14: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "5") (armor "0")
+L 04/02/2015 - 19:45:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18" (damage "11") (damage_armor "5") (health "-2") (armor "52")
+L 04/02/2015 - 19:45:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" killed "MAMAN<249><STEAM_0:4:532139013><CT>" with "glock18"
+L 04/02/2015 - 19:45:14: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-119") (armor "0")
+L 04/02/2015 - 19:45:14: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:45:14: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 04/02/2015 - 19:45:14: World triggered "Round_End"
+L 04/02/2015 - 19:45:19: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:45:24: World triggered "Round_Start"
+L 04/02/2015 - 19:46:28: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "8") (damage_armor "4") (health "92") (armor "96")
+L 04/02/2015 - 19:46:29: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "8") (damage_armor "4") (health "84") (armor "92")
+L 04/02/2015 - 19:46:29: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "65") (armor "87")
+L 04/02/2015 - 19:46:29: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "46") (armor "83")
+L 04/02/2015 - 19:46:29: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "12") (damage_armor "0") (health "34") (armor "83")
+L 04/02/2015 - 19:46:30: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "usp" (damage "32") (damage_armor "16") (health "2") (armor "67")
+L 04/02/2015 - 19:46:39: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "36") (damage_armor "6") (health "64") (armor "94")
+L 04/02/2015 - 19:46:39: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "36") (damage_armor "0") (health "28") (armor "94")
+L 04/02/2015 - 19:46:39: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "36") (damage_armor "0") (health "-8") (armor "94")
+L 04/02/2015 - 19:46:39: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" killed "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle"
+L 04/02/2015 - 19:46:40: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-53") (armor "62")
+L 04/02/2015 - 19:46:40: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "knife"
+L 04/02/2015 - 19:46:40: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 04/02/2015 - 19:46:40: World triggered "Round_End"
+L 04/02/2015 - 19:46:43: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8cf0
+L 04/02/2015 - 19:46:43: "Subaru | STR<269><STEAM_0:4:1026909683><>" connected, address "94.41.54.211:27005"
+L 04/02/2015 - 19:46:43: [VTC] Player 3 speex
+L 04/02/2015 - 19:46:45: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:46:45: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b79cc
+L 04/02/2015 - 19:46:45: "Scorp STR<270><STEAM_0:4:219917546><>" connected, address "109.187.107.179:27005"
+L 04/02/2015 - 19:46:46: [VTC] Player 6 speex
+L 04/02/2015 - 19:46:48: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b79cc
+L 04/02/2015 - 19:46:48: "Scorp STR<271><STEAM_0:4:219917546><>" connected, address "109.187.107.179:27005"
+L 04/02/2015 - 19:46:48: [VTC] Player 6 speex
+L 04/02/2015 - 19:46:48: "Subaru | STR<269><STEAM_0:4:1026909683><>" entered the game
+L 04/02/2015 - 19:46:50: World triggered "Round_Start"
+L 04/02/2015 - 19:46:52: "Scorp STR<271><STEAM_0:4:219917546><>" entered the game
+L 04/02/2015 - 19:46:53: "Scorp STR<271><STEAM_0:4:219917546><>" joined team "TERRORIST"
+L 04/02/2015 - 19:47:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "deagle" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 19:47:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "deagle" (damage "49") (damage_armor "0") (health "1") (armor "0")
+L 04/02/2015 - 19:47:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "deagle" (damage "49") (damage_armor "0") (health "-48") (armor "0")
+L 04/02/2015 - 19:47:14: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" killed "MAMAN<249><STEAM_0:4:532139013><CT>" with "deagle"
+L 04/02/2015 - 19:47:16: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "famas" (damage "23") (damage_armor "5") (health "77") (armor "95")
+L 04/02/2015 - 19:47:16: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "deagle" (damage "37") (damage_armor "7") (health "63") (armor "93")
+L 04/02/2015 - 19:47:16: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "famas" (damage "81") (damage_armor "18") (health "-4") (armor "77")
+L 04/02/2015 - 19:47:16: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "famas"
+L 04/02/2015 - 19:47:16: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:47:26: "Subaru | STR<269><STEAM_0:4:1026909683><>" joined team "TERRORIST"
+L 04/02/2015 - 19:47:37: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/02/2015 - 19:47:39: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "Got_The_Bomb"
+L 04/02/2015 - 19:47:40: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "glock18" (damage "7") (damage_armor "3") (health "56") (armor "90")
+L 04/02/2015 - 19:47:40: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "glock18" (damage "9") (damage_armor "5") (health "47") (armor "85")
+L 04/02/2015 - 19:47:41: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "35") (armor "93")
+L 04/02/2015 - 19:47:41: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "usp" (damage "13") (damage_armor "7") (health "22") (armor "86")
+L 04/02/2015 - 19:47:42: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "9") (armor "80")
+L 04/02/2015 - 19:47:42: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "usp" (damage "104") (damage_armor "0") (health "-95") (armor "80")
+L 04/02/2015 - 19:47:42: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "usp"
+L 04/02/2015 - 19:47:42: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 04/02/2015 - 19:47:42: World triggered "Round_End"
+L 04/02/2015 - 19:47:47: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:47:52: World triggered "Round_Start"
+L 04/02/2015 - 19:48:09: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "81")
+L 04/02/2015 - 19:48:09: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "26") (damage_armor "3") (health "48") (armor "78")
+L 04/02/2015 - 19:48:10: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 04/02/2015 - 19:48:10: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" with "awp"
+L 04/02/2015 - 19:48:10: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:48:11: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" attacked "MAMAN<249><STEAM_0:4:532139013><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/02/2015 - 19:48:12: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" attacked "BANAN<240><STEAM_0:4:1399475461><CT>" with "ak47" (damage "12") (damage_armor "2") (health "36") (armor "76")
+L 04/02/2015 - 19:48:17: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 19:48:17: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 04/02/2015 - 19:48:17: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "37") (armor "86")
+L 04/02/2015 - 19:48:17: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-87") (armor "86")
+L 04/02/2015 - 19:48:17: "MAMAN<249><STEAM_0:4:532139013><CT>" killed "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" with "m4a1"
+L 04/02/2015 - 19:48:18: Kick: "Subaru | STR<269><STEAM_0:4:1026909683><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "52") (deaths "1")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "time" (time "1:30")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" triggered "latency" (ping "106")
+L 04/02/2015 - 19:48:18: "Subaru | STR<269><STEAM_0:4:1026909683><TERRORIST>" disconnected
+L 04/02/2015 - 19:48:58: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/02/2015 - 19:48:59: "MAMAN<249><STEAM_0:4:532139013><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "ak47" (damage "25") (damage_armor "4") (health "50") (armor "92")
+L 04/02/2015 - 19:48:59: "BANAN<240><STEAM_0:4:1399475461><CT>" attacked "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "107") (damage_armor "1") (health "-57") (armor "91")
+L 04/02/2015 - 19:48:59: "BANAN<240><STEAM_0:4:1399475461><CT>" killed "Anya<236><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 04/02/2015 - 19:48:59: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 04/02/2015 - 19:48:59: World triggered "Round_End"
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "8") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "16") (deaths "1")
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "6") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "24") (deaths "1")
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "time" (time "2:08")
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" triggered "latency" (ping "66")
+L 04/02/2015 - 19:49:00: "Scorp STR<271><STEAM_0:4:219917546><TERRORIST>" disconnected
+L 04/02/2015 - 19:49:00: "Extazy<268><STEAM_0:1:113150434><SPECTATOR>" triggered "amx_chat" (text "BANAN<STEAM_0:4:1399475461> был забанен НАВСЕГДА. Причина: Su4ka.")
+L 04/02/2015 - 19:49:04: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:49:09: World triggered "Round_Start"
+L 04/02/2015 - 19:49:10: Kick: "BANAN<240><STEAM_0:4:1399475461><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "24") (deaths "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "famas") (shots "14") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "104") (deaths "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "famas") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "usp") (shots "27") (hits "11") (kills "3") (headshots "2") (tks "0") (damage "381") (deaths "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "usp") (head "3") (chest "0") (stomach "1") (leftarm "4") (rightarm "2") (leftleg "1") (rightleg "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "3") (kills "2") (headshots "1") (tks "0") (damage "608") (deaths "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "m4a1") (shots "218") (hits "39") (kills "9") (headshots "2") (tks "0") (damage "1120") (deaths "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "10") (stomach "1") (leftarm "18") (rightarm "3") (leftleg "4") (rightleg "1")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "168") (deaths "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats" (weapon "knife") (shots "38") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "time" (time "12:14")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" triggered "latency" (ping "58")
+L 04/02/2015 - 19:49:10: "BANAN<240><STEAM_0:4:1399475461><CT>" disconnected
+L 04/02/2015 - 19:49:16: "Extazy<268><STEAM_0:1:113150434><SPECTATOR>" triggered "time" (time "11:25")
+L 04/02/2015 - 19:49:16: "Extazy<268><STEAM_0:1:113150434><SPECTATOR>" triggered "latency" (ping "14")
+L 04/02/2015 - 19:49:16: "Extazy<268><STEAM_0:1:113150434><SPECTATOR>" disconnected
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "famas") (shots "54") (hits "15") (kills "6") (headshots "6") (tks "0") (damage "840") (deaths "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "famas") (head "7") (chest "1") (stomach "0") (leftarm "4") (rightarm "2") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "usp") (shots "18") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "79") (deaths "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "m4a1") (shots "37") (hits "10") (kills "2") (headshots "2") (tks "0") (damage "356") (deaths "2")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "1") (stomach "0") (leftarm "6") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "ak47") (shots "29") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "50") (deaths "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats" (weapon "knife") (shots "131") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "4") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "time" (time "12:33")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" triggered "latency" (ping "27")
+L 04/02/2015 - 19:49:29: "MAMAN<249><STEAM_0:4:532139013><CT>" disconnected
+L 04/02/2015 - 19:50:37: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 19:50:37: "{Virtyal_Pro}_[m][a][t][v][e]i<272><STEAM_0:4:1589418830><>" connected, address "37.212.37.20:46615"
+L 04/02/2015 - 19:50:37: [VTC] Player 2 speex
+L 04/02/2015 - 19:51:07: "{Virtyal_Pro}_[m][a][t][v][e]i<272><STEAM_0:4:1589418830><>" entered the game
+L 04/02/2015 - 19:51:13: "{Virtyal_Pro}_[m][a][t][v][e]i<272><STEAM_0:4:1589418830><>" joined team "CT"
+L 04/02/2015 - 19:51:14: World triggered "Game_Commencing"
+L 04/02/2015 - 19:51:14: World triggered "Game_Commencing" (CT "7") (T "0")
+L 04/02/2015 - 19:51:14: World triggered "Round_End"
+L 04/02/2015 - 19:51:17: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "11") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "102") (deaths "2")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "1") (chest "0") (stomach "2") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "18") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "45") (hits "12") (kills "2") (headshots "1") (tks "0") (damage "254") (deaths "1")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "1") (stomach "1") (leftarm "2") (rightarm "2") (leftleg "1") (rightleg "4")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "68") (hits "12") (kills "2") (headshots "0") (tks "0") (damage "463") (deaths "4")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "6") (leftleg "0") (rightleg "2")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "40") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "185") (deaths "2")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "3") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "18") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "time" (time "14:24")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "latency" (ping "37")
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/02/2015 - 19:51:21: "Anya<236><STEAM_0:0:1429534441><TERRORIST>" disconnected
+L 04/02/2015 - 19:51:22: World triggered "Round_Start"
+L 04/02/2015 - 19:51:39: "{Virtyal_Pro}_[m][a][t][v][e]i<272><STEAM_0:4:1589418830><CT>" triggered "time" (time "0:31")
+L 04/02/2015 - 19:51:39: "{Virtyal_Pro}_[m][a][t][v][e]i<272><STEAM_0:4:1589418830><CT>" triggered "latency" (ping "109")
+L 04/02/2015 - 19:51:39: "{Virtyal_Pro}_[m][a][t][v][e]i<272><STEAM_0:4:1589418830><CT>" disconnected
+L 04/02/2015 - 19:51:39: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/02/2015 - 19:51:39: World triggered "Round_End"
+L 04/02/2015 - 19:51:49: World triggered "Round_Start"
+L 04/02/2015 - 19:52:00: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/02/2015 - 19:52:00: [META] ini: Read plugin config for: AMX Mod X
+L 04/02/2015 - 19:52:00: [META] ini: Read plugin config for: dproto_EF
+L 04/02/2015 - 19:52:00: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/02/2015 - 19:52:00: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/02/2015 - 19:52:00: [META] dll: Updating plugins...
+L 04/02/2015 - 19:52:00: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/02/2015 - 19:52:00: Log file closed

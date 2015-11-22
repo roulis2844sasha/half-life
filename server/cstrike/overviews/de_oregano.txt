@@ -1,0 +1,14 @@
+// overview description file for de_oregano
+
+global 
+{
+	ZOOM	1.09
+	ORIGIN	1460.21 -751.51	464
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_oregano.bmp"
+	HEIGHT	-344
+}

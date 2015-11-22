@@ -1,0 +1,57 @@
+L 11/22/2015 - 18:23:02: Log file started (file "logs/L1122015.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 11/22/2015 - 18:23:02: Server cvar "mp_logdetail" = "3"
+L 11/22/2015 - 18:23:02: Server cvar "mp_timelimit" = "30"
+L 11/22/2015 - 18:23:02: Server cvar "mp_c4timer" = "35"
+L 11/22/2015 - 18:23:02: Server cvar "mp_flashlight" = "1"
+L 11/22/2015 - 18:23:02: Server cvar "mp_freezetime" = "5"
+L 11/22/2015 - 18:23:02: Server cvar "mp_hostagepenalty" = "0"
+L 11/22/2015 - 18:23:02: Server cvar "mp_limitteams" = "5"
+L 11/22/2015 - 18:23:02: Server cvar "mp_roundtime" = "2.57"
+L 11/22/2015 - 18:23:02: Server cvar "mp_tkpunish" = "1"
+L 11/22/2015 - 18:23:02: Server cvar "sv_restartround" = "1"
+L 11/22/2015 - 18:23:02: Server cvar "sv_maxspeed" = "320"
+L 11/22/2015 - 18:23:02: Server cvar "sv_proxies" = "0"
+L 11/22/2015 - 18:23:02: Server cvar "allow_spectators" = "4"
+L 11/22/2015 - 18:23:02: Server cvar "mp_chattime" = "0"
+L 11/22/2015 - 18:23:02: Server cvar "decalfrequency" = "9"
+L 11/22/2015 - 18:23:02: Server cvar "sv_aim" = "0"
+L 11/22/2015 - 18:23:02: Server cvar "sv_minrate" = "100000"
+L 11/22/2015 - 18:23:02: Server cvar "sv_maxrate" = "25000"
+L 11/22/2015 - 18:23:02: Server cvar "sv_region" = "3"
+L 11/22/2015 - 18:23:03: World triggered "Restart_Round_(1_second)"
+L 11/22/2015 - 18:23:03: Team "CT" scored "0" with "0" players
+L 11/22/2015 - 18:23:03: Team "TERRORIST" scored "0" with "0" players
+L 11/22/2015 - 18:23:03: Server cvar "sv_restartround" = "0"
+L 11/22/2015 - 18:23:07: "[POD]Larry_Fishbourne (100)<1><BOT><>" entered the game
+L 11/22/2015 - 18:23:07: "[POD]Larry_Fishbourne (100)<1><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:23:07: "[POD]Larry_Fishbourne (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/22/2015 - 18:23:07: "[P0D]Trust Noone (100)<2><BOT><>" entered the game
+L 11/22/2015 - 18:23:07: "[P0D]Trust Noone (100)<2><BOT><>" joined team "CT"
+L 11/22/2015 - 18:23:07: World triggered "Game_Commencing"
+L 11/22/2015 - 18:23:07: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/22/2015 - 18:23:07: World triggered "Round_End"
+L 11/22/2015 - 18:23:08: "[P0D]BotsBlitz (100)<3><BOT><>" entered the game
+L 11/22/2015 - 18:23:08: "[P0D]BotsBlitz (100)<3><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:23:08: "[P0D]Jennifer_Anniston (100)<4><BOT><>" entered the game
+L 11/22/2015 - 18:23:08: "[P0D]Jennifer_Anniston (100)<4><BOT><>" joined team "CT"
+L 11/22/2015 - 18:23:09: "[P0D]Jackie_Chan (100)<5><BOT><>" entered the game
+L 11/22/2015 - 18:23:09: "[P0D]Jackie_Chan (100)<5><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:23:09: "[P0D]Robert_Downey_Jr (100)<6><BOT><>" entered the game
+L 11/22/2015 - 18:23:09: "[P0D]Robert_Downey_Jr (100)<6><BOT><>" joined team "CT"
+L 11/22/2015 - 18:23:10: "[P0D]Headshot Deluxe (100)<7><BOT><>" entered the game
+L 11/22/2015 - 18:23:10: "[P0D]Headshot Deluxe (100)<7><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:23:10: "[P0D]BotsBlitz (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/22/2015 - 18:23:15: World triggered "Round_Start"
+L 11/22/2015 - 18:23:19: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf39bf7b4
+L 11/22/2015 - 18:23:19: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/22/2015 - 18:23:19: [VTC] Player 8 silk
+L 11/22/2015 - 18:23:22: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf39bf7b4
+L 11/22/2015 - 18:23:22: "DOG_RouL!$<9><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/22/2015 - 18:23:22: [VTC] Player 8 silk
+L 11/22/2015 - 18:23:26: Kick: "[POD]Larry_Fishbourne (100)<1><BOT><>" was kicked by "Console"
+L 11/22/2015 - 18:23:26: "[POD]Larry_Fishbourne (100)<1><BOT><TERRORIST>" disconnected
+L 11/22/2015 - 18:23:26: "DOG_RouL!$<9><VALVE_ID_LAN><>" entered the game
+L 11/22/2015 - 18:23:29: "DOG_RouL!$<9><VALVE_ID_LAN><>" joined team "CT"
+L 11/22/2015 - 18:23:36: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" triggered "time" (time "0:09")
+L 11/22/2015 - 18:23:36: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" triggered "latency" (ping "0")
+L 11/22/2015 - 18:23:36: "D

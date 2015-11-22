@@ -1,0 +1,10 @@
+L 03/05/2015 - 11:08:39: Log file started (file "logs/L0305014.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/05/2015 - 11:08:39: Server cvar "mp_logdetail" = "3"
+L 03/05/2015 - 11:08:47: World triggered "Round_Start"
+L 03/05/2015 - 11:10:54: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/05/2015 - 11:10:54: [META] ini: Read plugin config for: dproto_EF
+L 03/05/2015 - 11:10:54: [META] ini: Read plugin config for: AMX Mod X
+L 03/05/2015 - 11:10:54: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 03/05/2015 - 11:10:54: [META] dll: Updating plugins...
+L 03/05/2015 - 11:10:54: [META] dll: Finished updating 10 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/05/2015 - 11:10:54: Log file closed

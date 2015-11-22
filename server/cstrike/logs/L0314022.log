@@ -1,0 +1,287 @@
+L 03/14/2015 - 14:07:38: Log file started (file "logs/L0314022.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/14/2015 - 14:07:38: Loading map "awp_lol"
+L 03/14/2015 - 14:07:38: Server cvars start
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_debug_level" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_examine_time" = "0.5"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_look_angle" = "10"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_look_distance" = "200"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_message_repeats" = "5"
+L 03/14/2015 - 14:07:38: Server cvar "_tutor_view_distance" = "1000"
+L 03/14/2015 - 14:07:38: Server cvar "aesp_version" = "1.5b_mini"
+L 03/14/2015 - 14:07:38: Server cvar "allow_spectators" = "2"
+L 03/14/2015 - 14:07:38: Server cvar "amx_client_languages" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/14/2015 - 14:07:38: Server cvar "amx_language" = "ru"
+L 03/14/2015 - 14:07:38: Server cvar "amx_nextmap" = "awp_lol"
+L 03/14/2015 - 14:07:38: Server cvar "amx_timeleft" = "00:00"
+L 03/14/2015 - 14:07:38: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/14/2015 - 14:07:38: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/14/2015 - 14:07:38: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Config" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Status" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/14/2015 - 14:07:38: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/14/2015 - 14:07:38: Server cvar "coop" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "deathmatch" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "decalfrequency" = "9"
+L 03/14/2015 - 14:07:38: Server cvar "dp_version" = "0.9.391"
+L 03/14/2015 - 14:07:38: Server cvar "edgefriction" = "2"
+L 03/14/2015 - 14:07:38: Server cvar "hostage_debug" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "hostage_stop" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "humans_join_team" = "any"
+L 03/14/2015 - 14:07:38: Server cvar "jtp10181" = "chute"
+L 03/14/2015 - 14:07:38: Server cvar "max_queries_sec" = "3.0"
+L 03/14/2015 - 14:07:38: Server cvar "max_queries_sec_global" = "30"
+L 03/14/2015 - 14:07:38: Server cvar "max_queries_window" = "60"
+L 03/14/2015 - 14:07:38: Server cvar "metamod_version" = "1.19p32"
+L 03/14/2015 - 14:07:38: Server cvar "mp_allowmonsters" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_autokick" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_autoteambalance" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_buytime" = "1.5"
+L 03/14/2015 - 14:07:38: Server cvar "mp_c4timer" = "35"
+L 03/14/2015 - 14:07:38: Server cvar "mp_chattime" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_consistency" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_fadetoblack" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_flashlight" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_footsteps" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_forcecamera" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_forcechasecam" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_fragsleft" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_freezetime" = "5"
+L 03/14/2015 - 14:07:38: Server cvar "mp_friendlyfire" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_hostagepenalty" = "2"
+L 03/14/2015 - 14:07:38: Server cvar "mp_kickpercent" = "0.66"
+L 03/14/2015 - 14:07:38: Server cvar "mp_limitteams" = "2"
+L 03/14/2015 - 14:07:38: Server cvar "mp_logdetail" = "3"
+L 03/14/2015 - 14:07:38: Server cvar "mp_logfile" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_logmessages" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/14/2015 - 14:07:38: Server cvar "mp_maxrounds" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_mirrordamage" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_playerid" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_roundtime" = "2.57"
+L 03/14/2015 - 14:07:38: Server cvar "mp_startmoney" = "800"
+L 03/14/2015 - 14:07:38: Server cvar "mp_timeleft" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "mp_timelimit" = "30"
+L 03/14/2015 - 14:07:38: Server cvar "mp_tkpunish" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_windifference" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "mp_winlimit" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "pausable" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "sv_accelerate" = "5"
+L 03/14/2015 - 14:07:38: Server cvar "sv_aim" = "off"
+L 03/14/2015 - 14:07:38: Server cvar "sv_airaccelerate" = "10"
+L 03/14/2015 - 14:07:38: Server cvar "sv_airmove" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "sv_allowupload" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "sv_alltalk" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "sv_bounce" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "sv_cheats" = "off"
+L 03/14/2015 - 14:07:38: Server cvar "sv_clienttrace" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "sv_clipmode" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "sv_contact" = ""
+L 03/14/2015 - 14:07:38: Server cvar "sv_friction" = "4"
+L 03/14/2015 - 14:07:38: Server cvar "sv_gravity" = "800"
+L 03/14/2015 - 14:07:38: Server cvar "sv_logblocks" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "sv_maxrate" = "50000"
+L 03/14/2015 - 14:07:38: Server cvar "sv_maxspeed" = "900"
+L 03/14/2015 - 14:07:38: Server cvar "sv_minrate" = "100000"
+L 03/14/2015 - 14:07:38: Server cvar "sv_password" = ""
+L 03/14/2015 - 14:07:38: Server cvar "sv_proxies" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "sv_region" = "3"
+L 03/14/2015 - 14:07:38: Server cvar "sv_restart" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "sv_restartround" = "0"
+L 03/14/2015 - 14:07:38: Server cvar "sv_stepsize" = "18"
+L 03/14/2015 - 14:07:38: Server cvar "sv_stopspeed" = "75"
+L 03/14/2015 - 14:07:38: Server cvar "sv_uploadmax" = "0.5"
+L 03/14/2015 - 14:07:38: Server cvar "sv_voiceenable" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "sv_wateraccelerate" = "10"
+L 03/14/2015 - 14:07:38: Server cvar "sv_waterfriction" = "1"
+L 03/14/2015 - 14:07:38: Server cvar "vtc_version" = "80"
+L 03/14/2015 - 14:07:38: Server cvars end
+L 03/14/2015 - 14:07:39: Server cvar "amx_nextmap" = "awp_india"
+L 03/14/2015 - 14:07:39: Started map "awp_lol" (CRC "599279411")
+L 03/14/2015 - 14:07:39: [VTC] Player 3 speex
+L 03/14/2015 - 14:07:39: [VTC] Player 4 speex
+L 03/14/2015 - 14:07:39: [VTC] Player 1 speex
+L 03/14/2015 - 14:07:39: [VTC] Player 5 speex
+L 03/14/2015 - 14:07:40: [VTC] Player 6 speex
+L 03/14/2015 - 14:07:41: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb397dbe4
+L 03/14/2015 - 14:07:41: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><>" connected, address "37.212.156.253:2741"
+L 03/14/2015 - 14:07:41: [VTC] Player 4 speex
+L 03/14/2015 - 14:07:42: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3982ad8
+L 03/14/2015 - 14:07:42: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><>" connected, address "37.212.156.253:55355"
+L 03/14/2015 - 14:07:42: [VTC] Player 5 speex
+L 03/14/2015 - 14:07:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><>" entered the game
+L 03/14/2015 - 14:07:45: World triggered "Round_Start"
+L 03/14/2015 - 14:07:46: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3978cf0
+L 03/14/2015 - 14:07:46: "JK<30><STEAM_0:0:692244939><>" connected, address "37.214.7.129:3564"
+L 03/14/2015 - 14:07:46: [VTC] Player 3 speex
+L 03/14/2015 - 14:07:48: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><>" entered the game
+L 03/14/2015 - 14:07:50: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><>" joined team "CT"
+L 03/14/2015 - 14:07:50: "JK<30><STEAM_0:0:692244939><>" entered the game
+L 03/14/2015 - 14:07:51: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><>" joined team "TERRORIST"
+L 03/14/2015 - 14:07:51: World triggered "Game_Commencing"
+L 03/14/2015 - 14:07:51: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/14/2015 - 14:07:51: World triggered "Round_End"
+L 03/14/2015 - 14:07:56: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 14:07:56: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><>" connected, address "178.120.129.70:13793"
+L 03/14/2015 - 14:07:57: [VTC] Player 1 speex
+L 03/14/2015 - 14:07:59: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><>" entered the game
+L 03/14/2015 - 14:07:59: World triggered "Round_Start"
+L 03/14/2015 - 14:08:02: "JK<30><STEAM_0:0:692244939><UNASSIGNED>" triggered "time" (time "0:12")
+L 03/14/2015 - 14:08:02: "JK<30><STEAM_0:0:692244939><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/14/2015 - 14:08:02: "JK<30><STEAM_0:0:692244939><>" disconnected
+L 03/14/2015 - 14:08:02: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3978cf0
+L 03/14/2015 - 14:08:02: "JK<32><STEAM_0:0:692244939><>" connected, address "37.214.7.129:3564"
+L 03/14/2015 - 14:08:02: [VTC] Player 3 speex
+L 03/14/2015 - 14:08:02: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39879cc
+L 03/14/2015 - 14:08:02: "ANGELuHA<33><STEAM_0:4:1084575493><>" connected, address "178.124.22.40:27005"
+L 03/14/2015 - 14:08:02: [VTC] Player 6 speex
+L 03/14/2015 - 14:08:06: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><>" joined team "TERRORIST"
+L 03/14/2015 - 14:08:06: "JK<32><STEAM_0:0:692244939><>" entered the game
+L 03/14/2015 - 14:08:06: "ANGELuHA<33><STEAM_0:4:1084575493><>" entered the game
+L 03/14/2015 - 14:08:09: "JK<32><STEAM_0:0:692244939><>" joined team "CT"
+L 03/14/2015 - 14:08:14: "ANGELuHA<33><STEAM_0:4:1084575493><>" joined team "CT"
+L 03/14/2015 - 14:08:17: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/14/2015 - 14:08:17: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp"
+L 03/14/2015 - 14:08:25: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "awp" (damage "54") (damage_armor "0") (health "46") (armor "0")
+L 03/14/2015 - 14:08:28: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "awp" (damage "110") (damage_armor "0") (health "-64") (armor "0")
+L 03/14/2015 - 14:08:28: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "JK<32><STEAM_0:0:692244939><CT>" with "awp"
+L 03/14/2015 - 14:08:30: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 03/14/2015 - 14:08:30: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "awp"
+L 03/14/2015 - 14:08:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/14/2015 - 14:08:30: World triggered "Round_End"
+L 03/14/2015 - 14:08:40: World triggered "Round_Start"
+L 03/14/2015 - 14:09:07: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/14/2015 - 14:09:09: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 14:09:09: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "knife"
+L 03/14/2015 - 14:09:11: "JK<32><STEAM_0:0:692244939><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/14/2015 - 14:09:11: "JK<32><STEAM_0:0:692244939><CT>" killed "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" with "awp"
+L 03/14/2015 - 14:09:23: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/14/2015 - 14:09:24: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 14:09:24: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "JK<32><STEAM_0:0:692244939><CT>" with "knife"
+L 03/14/2015 - 14:09:28: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" attacked "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/14/2015 - 14:09:28: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" killed "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" with "awp"
+L 03/14/2015 - 14:09:28: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/14/2015 - 14:09:28: World triggered "Round_End"
+L 03/14/2015 - 14:09:38: World triggered "Round_Start"
+L 03/14/2015 - 14:09:42: "JK<32><STEAM_0:0:692244939><CT>" committed suicide with "worldspawn" (world)
+L 03/14/2015 - 14:09:43: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "awp" (damage "138") (damage_armor "0") (health "-38") (armor "0")
+L 03/14/2015 - 14:09:43: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "ANGELuHA<33><STEAM_0:4:1084575493><CT>" with "awp"
+L 03/14/2015 - 14:10:00: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/14/2015 - 14:10:00: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp"
+L 03/14/2015 - 14:10:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/14/2015 - 14:10:00: World triggered "Round_End"
+L 03/14/2015 - 14:10:10: World triggered "Round_Start"
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" triggered "time" (time "2:13")
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" triggered "latency" (ping "57")
+L 03/14/2015 - 14:10:20: "ANGELuHA<33><STEAM_0:4:1084575493><CT>" disconnected
+L 03/14/2015 - 14:10:28: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/14/2015 - 14:10:28: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "JK<32><STEAM_0:0:692244939><CT>" with "knife"
+L 03/14/2015 - 14:10:33: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-15") (armor "0")
+L 03/14/2015 - 14:10:33: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" killed "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" with "awp"
+L 03/14/2015 - 14:10:36: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/14/2015 - 14:10:39: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "444") (damage_armor "6") (health "-429") (armor "94")
+L 03/14/2015 - 14:10:39: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp"
+L 03/14/2015 - 14:10:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/14/2015 - 14:10:39: World triggered "Round_End"
+L 03/14/2015 - 14:10:49: World triggered "Round_Start"
+L 03/14/2015 - 14:10:56: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "awp" (damage "440") (damage_armor "0") (health "-340") (armor "0")
+L 03/14/2015 - 14:10:56: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "JK<32><STEAM_0:0:692244939><CT>" with "awp"
+L 03/14/2015 - 14:11:04: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "111") (damage_armor "2") (health "-23") (armor "98")
+L 03/14/2015 - 14:11:04: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp"
+L 03/14/2015 - 14:11:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/14/2015 - 14:11:04: World triggered "Round_End"
+L 03/14/2015 - 14:11:08: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3973dfc
+L 03/14/2015 - 14:11:08: "4ANHNK<34><STEAM_0:4:1135496453><>" connected, address "178.120.0.46:25864"
+L 03/14/2015 - 14:11:08: [VTC] Player 2 speex
+L 03/14/2015 - 14:11:14: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3973dfc
+L 03/14/2015 - 14:11:14: "4ANHNK<35><STEAM_0:4:1135496453><>" connected, address "178.120.0.46:25864"
+L 03/14/2015 - 14:11:14: [VTC] Player 2 speex
+L 03/14/2015 - 14:11:14: World triggered "Round_Start"
+L 03/14/2015 - 14:11:17: "4ANHNK<35><STEAM_0:4:1135496453><>" entered the game
+L 03/14/2015 - 14:11:23: "4ANHNK<35><STEAM_0:4:1135496453><>" joined team "CT"
+L 03/14/2015 - 14:11:33: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" attacked "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/14/2015 - 14:11:33: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" killed "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" with "awp"
+L 03/14/2015 - 14:11:38: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/14/2015 - 14:11:39: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 14:11:39: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "JK<32><STEAM_0:0:692244939><CT>" with "knife"
+L 03/14/2015 - 14:11:39: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/14/2015 - 14:11:39: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" killed "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" with "awp"
+L 03/14/2015 - 14:11:39: Team "CT" triggered "CTs_Win" (CT "2") (T "4")
+L 03/14/2015 - 14:11:39: World triggered "Round_End"
+L 03/14/2015 - 14:11:49: World triggered "Round_Start"
+L 03/14/2015 - 14:11:55: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "0")
+L 03/14/2015 - 14:11:56: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/14/2015 - 14:11:59: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "JK<32><STEAM_0:0:692244939><CT>" with "awp" (damage "83") (damage_armor "0") (health "-66") (armor "0")
+L 03/14/2015 - 14:11:59: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "JK<32><STEAM_0:0:692244939><CT>" with "awp"
+L 03/14/2015 - 14:12:00: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp" (damage "107") (damage_armor "2") (health "-88") (armor "98")
+L 03/14/2015 - 14:12:00: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" with "awp"
+L 03/14/2015 - 14:12:05: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "4ANHNK<35><STEAM_0:4:1135496453><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/14/2015 - 14:12:34: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" attacked "4ANHNK<35><STEAM_0:4:1135496453><CT>" with "awp" (damage "114") (damage_armor "0") (health "-98") (armor "0")
+L 03/14/2015 - 14:12:34: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" killed "4ANHNK<35><STEAM_0:4:1135496453><CT>" with "awp"
+L 03/14/2015 - 14:12:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 03/14/2015 - 14:12:34: World triggered "Round_End"
+L 03/14/2015 - 14:12:44: World triggered "Round_Start"
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "13") (hits "6") (kills "4") (headshots "0") (tks "0") (damage "572") (deaths "2")
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "5") (kills "3") (headshots "0") (tks "0") (damage "455") (deaths "1")
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" triggered "time" (time "4:45")
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" triggered "latency" (ping "30")
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" triggered "time" (time "1:28")
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" triggered "latency" (ping "29")
+L 03/14/2015 - 14:12:45: "JK<32><STEAM_0:0:692244939><CT>" triggered "weaponstats" (weapon "awp") (shots "16") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "142") (deaths "3")
+L 03/14/2015 - 14:12:45: "JK<32><STEAM_0:0:692244939><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "JK<32><STEAM_0:0:692244939><CT>" triggered "time" (time "4:38")
+L 03/14/2015 - 14:12:45: "JK<32><STEAM_0:0:692244939><CT>" triggered "latency" (ping "23")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "awp") (shots "28") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "484") (deaths "1")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "time" (time "5:00")
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" triggered "latency" (ping "32")
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "21") (hits "10") (kills "7") (headshots "2") (tks "0") (damage "1722") (deaths "0")
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "3") (rightleg "1")
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "22") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "130") (deaths "2")
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" triggered "time" (time "4:56")
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" triggered "latency" (ping "44")
+L 03/14/2015 - 14:12:45: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/14/2015 - 14:12:45: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2015 - 14:12:45: [META] ini: Read plugin config for: dproto_EF
+L 03/14/2015 - 14:12:45: [META] ini: Read plugin config for: mmtimer
+L 03/14/2015 - 14:12:45: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/14/2015 - 14:12:45: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/14/2015 - 14:12:45: [META] dll: Updating plugins...
+L 03/14/2015 - 14:12:45: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/14/2015 - 14:12:45: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/14/2015 - 14:12:45: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2015 - 14:12:45: "|Xyligans|_Zl@9|_P@nD@<31><STEAM_0:4:2012138757><TERRORIST>" disconnected
+L 03/14/2015 - 14:12:45: "4ANHNK<35><STEAM_0:4:1135496453><CT>" disconnected
+L 03/14/2015 - 14:12:45: "JK<32><STEAM_0:0:692244939><CT>" disconnected
+L 03/14/2015 - 14:12:45: "[Hard_Skill]_Lexa Kosmonaft<28><STEAM_0:0:226379933><CT>" disconnected
+L 03/14/2015 - 14:12:45: "[One_Skill]$$$$matvei$$$$<29><STEAM_0:4:710941518><TERRORIST>" disconnected
+L 03/14/2015 - 14:12:45: World triggered "Round_Draw" (CT "2") (T "5")
+L 03/14/2015 - 14:12:45: World triggered "Round_End"
+L 03/14/2015 - 14:12:45: Log file closed

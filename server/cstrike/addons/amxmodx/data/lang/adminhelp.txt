@@ -1,3 +1,12 @@
+[ru]
+HELP_COMS = Помощь по AMX Mod X:
+HELP_ENTRIES = Список доступных команд с %d по %d. Всего команд - %d.
+HELP_USE_MORE = Напишите "amx_help %d" для продолжения...
+HELP_USE_BEGIN = Напишите "amx_help 1" для просмотра с начала
+TYPE_HELP = Напишите в консоле "amx_help" для просмотра НОВЫХ доступных команд
+TIME_INFO_1 = До смены карты осталось: %d:%02d мин. Следующая карта: %s.
+TIME_INFO_2 = Ограничения по времени - НЕТ. Следующая карта: %s
+
 [en]
 HELP_COMS = AMX Mod X Help: Commands
 HELP_ENTRIES = Entries %d - %d of %d
@@ -114,66 +123,3 @@ HELP_USE_BEGIN = Kirjoita 'amx_help 1' aloittaaksesi
 TYPE_HELP = Kirjoita 'amx_help' konsoliin nahdaksesi komennot
 TIME_INFO_1 = Aikaa jaljella: %d:%02d minuuttia. Seuraava mappi: %s
 TIME_INFO_2 = Ei aikarajaa. Seuraava mappi: %s
-
-[ls]
-HELP_COMS = 4MXTR3M3 M0d XTR3M3 |-|3l|>: |200t C0mm4ndz
-HELP_ENTRIES = 3nt|2i3z %d - %d 0v %d
-HELP_USE_MORE = uzi 'amx_help %d' f0r m0r3 b4$3
-HELP_USE_BEGIN = uzi 'amx_help 1' f0r b3g!n h4x0rin'
-TYPE_HELP = uzi 'amx_help' t4 s33 r00tz
-TIME_INFO_1 = N0t T!m3 3nu77: %d:%02d min. N3x\ M4|>: %s
-TIME_INFO_2 = T!m3 i$ r3l4t!v3 t0 j00r |200t.  N3x\ M4|>: %s
-
-[bg]
-HELP_COMS = AMX Mod X Help: Comandi
-HELP_ENTRIES = Vkarani %d - %d ot %d
-HELP_USE_MORE = Izpolzvaite 'amx_help %d' za pove4e
-HELP_USE_BEGIN = izpolzvaite 'amx_help 1' za na4alo
-TYPE_HELP = napi6ete 'amx_help' v consolata za da vidite pove4e comandi
-TIME_INFO_1 = Ostava6to vreme: %d:%02d min. Sledva6tata karta: %s
-TIME_INFO_2 = Nqma limit na vremeto. Sledva6tata karta: %s
-
-[ro]
-HELP_COMS = Ajutor AMX Mod X: Comenzi
-HELP_ENTRIES = Intrari %d - %d din %d
-HELP_USE_MORE = Scrie 'amx_help %d' pentru mai mult
-HELP_USE_BEGIN = Scrie 'amx_help 1' pentru inceput
-TYPE_HELP = Scrie 'amx_help' in consola pentru afisare lista comenzi
-TIME_INFO_1 = Timp Ramas: %d:%02d. Urmatoarea Harta: %s
-TIME_INFO_2 = Nici o Limita a Timpului. Urmatoarea Harta: %s
-
-[hu]
-HELP_COMS = AMX Mod X segitseg: Parancsok
-HELP_ENTRIES = Bejegyzes %d - %d of %d
-HELP_USE_MORE = Irj 'amx_help %d' -t tobbhoz
-HELP_USE_BEGIN = Irj 'amx_help 1' -t az elso oldalhoz
-TYPE_HELP = Irj 'amx_help' -t a konzolba hogy lathasd a parancsokat
-TIME_INFO_1 = Hatralevo ido: %d:%02d perc. kovetkezo palya: %s
-TIME_INFO_2 = Nincs idohatar. A kovetkezo palya: %s
-
-[lt]
-HELP_COMS = AMX Mod X Pagalba: Komandos
-HELP_ENTRIES = Irasai %d - %d is %d
-HELP_USE_MORE = Naudok 'amx_help %d' del daugiau info
-HELP_USE_BEGIN = Naudok 'amx_help 1' kad pradetum
-TYPE_HELP = Rasyk 'amx_help' konsoleje, kad pamatytum prieinamas komandas.
-TIME_INFO_1 = Liko laiko: %d:%02d min. Kitas zemelapis: %s
-TIME_INFO_2 = Nera laiko limito. Kitas zemelapis: %s
-
-[sk]
-HELP_COMS = AMX Mod X Help: Prikazy
-HELP_ENTRIES = Polozky %d - %d z %d
-HELP_USE_MORE = Napis 'amx_help %d' pre viac
-HELP_USE_BEGIN = Napis 'amx_help 1' pre zaciatok
-TYPE_HELP = Napis 'amx_help' do konzoly pre vypis prikazov
-TIME_INFO_1 = Ostava este: %d:%02d min. Dalsia mapa: %s
-TIME_INFO_2 = Neni casovy limit. Dalsia mapa: %s
-
-[mk]
-HELP_COMS = AMX Mod X Pomos - Dozvoleni komandi se:
-HELP_ENTRIES = Komandi %d - %d od %d
-HELP_USE_MORE = Napisi 'amx_help %d' za uste komandi
-HELP_USE_BEGIN = Napisi 'amx_help 1' za od pocetok
-TYPE_HELP = Napisi 'amx_help' vo konzolata za da gi vidis dozvolenite komandi
-TIME_INFO_1 = Preostanato Vreme: %d:%02d min. Sledna Mapa: %s
-TIME_INFO_2 = Nema vremensko ogranicuvanje. Sledna Mapa: %s

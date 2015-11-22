@@ -1,0 +1,15 @@
+﻿[ru]
+JOIN_MSG =  Игроки с плохой связью 6удут кикнуты(диапозон скачков: %d,предел потери: %d.)  
+MSG_ALL_KICK = %s был кикнут из-за плохой связи
+MSG_ALL_BAN =  %s  заБАНен из-за плохого соединения 
+MSG_ALL_PBAN =  %s  заБАНен из-за плохого соединения навсегда
+MSG_TARGET_LOSS = Ваша связ плохая(потеря пакетов)
+MSG_TARGET_FLUX = Ваша соедин слишком непостоянно
+
+[en]
+JOIN_MSG = Players with a lame connection will be punished (ping flux limit: %d, loss limit: %d).
+MSG_ALL_KICK = %s was kicked for his lame connection.
+MSG_ALL_BAN = %s was banned %d minutes for his lame connection.
+MSG_ALL_PBAN = %s was permanently banned for his lame connection.
+MSG_TARGET_LOSS = Your connection is loosing too many packets
+MSG_TARGET_FLUX =  Your ping is too unstable.

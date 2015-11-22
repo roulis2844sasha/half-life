@@ -1,0 +1,15 @@
+// overview description file for de_losttemple.bsp
+// by misterj : www.misterjsmaps.ca.cx
+
+global 
+{
+	ZOOM	1.19
+	ORIGIN	649.53 -892.33 395.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_losttemple.bmp"
+	HEIGHT	-43.00
+}

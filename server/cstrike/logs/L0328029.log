@@ -1,0 +1,314 @@
+L 03/28/2015 - 18:39:57: Log file started (file "logs/L0328029.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/28/2015 - 18:39:57: Loading map "35_hp_2011"
+L 03/28/2015 - 18:39:57: Server cvars start
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_debug_level" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_examine_time" = "0.5"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_look_angle" = "10"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_look_distance" = "200"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_message_repeats" = "5"
+L 03/28/2015 - 18:39:57: Server cvar "_tutor_view_distance" = "1000"
+L 03/28/2015 - 18:39:57: Server cvar "aesp_version" = "1.5b_mini"
+L 03/28/2015 - 18:39:57: Server cvar "allow_spectators" = "4"
+L 03/28/2015 - 18:39:57: Server cvar "amx_client_languages" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/28/2015 - 18:39:57: Server cvar "amx_language" = "ru"
+L 03/28/2015 - 18:39:57: Server cvar "amx_nextmap" = "35_hp_2011"
+L 03/28/2015 - 18:39:57: Server cvar "amx_timeleft" = "00:00"
+L 03/28/2015 - 18:39:57: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/28/2015 - 18:39:57: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/28/2015 - 18:39:57: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Config" = "Loaded"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Replace" = "Failed"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Status" = "Loaded"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/28/2015 - 18:39:57: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/28/2015 - 18:39:57: Server cvar "coop" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "deathmatch" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "decalfrequency" = "9"
+L 03/28/2015 - 18:39:57: Server cvar "dp_version" = "0.9.391"
+L 03/28/2015 - 18:39:57: Server cvar "edgefriction" = "2"
+L 03/28/2015 - 18:39:57: Server cvar "hostage_debug" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "hostage_stop" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "humans_join_team" = "any"
+L 03/28/2015 - 18:39:57: Server cvar "jtp10181" = "chute,gore"
+L 03/28/2015 - 18:39:57: Server cvar "max_queries_sec" = "3.0"
+L 03/28/2015 - 18:39:57: Server cvar "max_queries_sec_global" = "30"
+L 03/28/2015 - 18:39:57: Server cvar "max_queries_window" = "60"
+L 03/28/2015 - 18:39:57: Server cvar "metamod_version" = "1.19"
+L 03/28/2015 - 18:39:57: Server cvar "mp_allowmonsters" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_autokick" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_autoteambalance" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_buytime" = "1.5"
+L 03/28/2015 - 18:39:57: Server cvar "mp_c4timer" = "35"
+L 03/28/2015 - 18:39:57: Server cvar "mp_chattime" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_consistency" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_fadetoblack" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_flashlight" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_footsteps" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_forcecamera" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_forcechasecam" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_fragsleft" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_freezetime" = "5"
+L 03/28/2015 - 18:39:57: Server cvar "mp_friendlyfire" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_hostagepenalty" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_kickpercent" = "0.66"
+L 03/28/2015 - 18:39:57: Server cvar "mp_limitteams" = "5"
+L 03/28/2015 - 18:39:57: Server cvar "mp_logdetail" = "3"
+L 03/28/2015 - 18:39:57: Server cvar "mp_logfile" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_logmessages" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/28/2015 - 18:39:57: Server cvar "mp_maxrounds" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_mirrordamage" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_playerid" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_roundtime" = "2.57"
+L 03/28/2015 - 18:39:57: Server cvar "mp_startmoney" = "800"
+L 03/28/2015 - 18:39:57: Server cvar "mp_timeleft" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "mp_timelimit" = "30.000000"
+L 03/28/2015 - 18:39:57: Server cvar "mp_tkpunish" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_windifference" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "mp_winlimit" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "pausable" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_accelerate" = "5"
+L 03/28/2015 - 18:39:57: Server cvar "sv_aim" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_airaccelerate" = "10"
+L 03/28/2015 - 18:39:57: Server cvar "sv_airmove" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "sv_allowupload" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "sv_alltalk" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_bounce" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "sv_cheats" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_clienttrace" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "sv_clipmode" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_contact" = ""
+L 03/28/2015 - 18:39:57: Server cvar "sv_friction" = "4"
+L 03/28/2015 - 18:39:57: Server cvar "sv_gravity" = "800"
+L 03/28/2015 - 18:39:57: Server cvar "sv_logblocks" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_maxrate" = "50000"
+L 03/28/2015 - 18:39:57: Server cvar "sv_maxspeed" = "900"
+L 03/28/2015 - 18:39:57: Server cvar "sv_minrate" = "100000"
+L 03/28/2015 - 18:39:57: Server cvar "sv_password" = ""
+L 03/28/2015 - 18:39:57: Server cvar "sv_proxies" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_region" = "255"
+L 03/28/2015 - 18:39:57: Server cvar "sv_restart" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_restartround" = "0"
+L 03/28/2015 - 18:39:57: Server cvar "sv_stepsize" = "18"
+L 03/28/2015 - 18:39:57: Server cvar "sv_stopspeed" = "75"
+L 03/28/2015 - 18:39:57: Server cvar "sv_uploadmax" = "0.5"
+L 03/28/2015 - 18:39:57: Server cvar "sv_voiceenable" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "sv_wateraccelerate" = "10"
+L 03/28/2015 - 18:39:57: Server cvar "sv_waterfriction" = "1"
+L 03/28/2015 - 18:39:57: Server cvar "travo_statmarquee" = "v1.2"
+L 03/28/2015 - 18:39:57: Server cvar "ultimate_sounds" = "1.7"
+L 03/28/2015 - 18:39:57: Server cvar "vtc_version" = "80"
+L 03/28/2015 - 18:39:57: Server cvar "wallblocker_version" = "1.0"
+L 03/28/2015 - 18:39:57: Server cvar "whb_version" = "1.5.530"
+L 03/28/2015 - 18:39:57: Server cvars end
+L 03/28/2015 - 18:39:57: Server cvar "amx_nextmap" = "awp_india"
+L 03/28/2015 - 18:39:57: Server cvar "sv_restart" = "1"
+L 03/28/2015 - 18:39:57: World triggered "Restart_Round_(1_second)"
+L 03/28/2015 - 18:39:57: Team "CT" scored "0" with "0" players
+L 03/28/2015 - 18:39:57: Team "TERRORIST" scored "0" with "0" players
+L 03/28/2015 - 18:39:57: Server cvar "sv_restart" = "0"
+L 03/28/2015 - 18:39:57: Started map "35_hp_2011" (CRC "1681787481")
+L 03/28/2015 - 18:39:57: [VTC] Player 1 speex
+L 03/28/2015 - 18:39:57: [VTC] Player 2 speex
+L 03/28/2015 - 18:39:57: [VTC] Player 6 speex
+L 03/28/2015 - 18:39:57: [VTC] Player 4 speex
+L 03/28/2015 - 18:39:59: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><>" entered the game
+L 03/28/2015 - 18:40:02: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3979dfc
+L 03/28/2015 - 18:40:02: "solnishko~<46><STEAM_0:4:352164686><>" connected, address "37.212.167.128:14896"
+L 03/28/2015 - 18:40:02: [VTC] Player 2 speex
+L 03/28/2015 - 18:40:02: World triggered "Round_Start"
+L 03/28/2015 - 18:40:03: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3983be4
+L 03/28/2015 - 18:40:03: "Towka :P<47><STEAM_0:4:1634684165><>" connected, address "178.120.130.107:52258"
+L 03/28/2015 - 18:40:03: [VTC] Player 4 speex
+L 03/28/2015 - 18:40:04: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><>" joined team "TERRORIST"
+L 03/28/2015 - 18:40:05: "solnishko~<46><STEAM_0:4:352164686><>" entered the game
+L 03/28/2015 - 18:40:07: "solnishko~<46><STEAM_0:4:352164686><>" joined team "CT"
+L 03/28/2015 - 18:40:07: "Towka :P<47><STEAM_0:4:1634684165><>" entered the game
+L 03/28/2015 - 18:40:07: World triggered "Game_Commencing"
+L 03/28/2015 - 18:40:07: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/28/2015 - 18:40:07: World triggered "Round_End"
+L 03/28/2015 - 18:40:10: "Towka :P<47><STEAM_0:4:1634684165><>" joined team "CT"
+L 03/28/2015 - 18:40:13: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><>" entered the game
+L 03/28/2015 - 18:40:15: World triggered "Round_Start"
+L 03/28/2015 - 18:40:35: "Towka :P<47><STEAM_0:4:1634684165><CT>" attacked "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:40:35: "Towka :P<47><STEAM_0:4:1634684165><CT>" killed "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife"
+L 03/28/2015 - 18:40:35: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/28/2015 - 18:40:35: World triggered "Round_End"
+L 03/28/2015 - 18:40:36: "Towka :P<47><STEAM_0:4:1634684165><CT>" committed suicide with "worldspawn" (world)
+L 03/28/2015 - 18:40:44: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><>" joined team "TERRORIST"
+L 03/28/2015 - 18:40:45: World triggered "Round_Start"
+L 03/28/2015 - 18:40:53: "Towka :P<47><STEAM_0:4:1634684165><CT>" attacked "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:40:53: "Towka :P<47><STEAM_0:4:1634684165><CT>" killed "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife"
+L 03/28/2015 - 18:40:59: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:40:59: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:40:59: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/28/2015 - 18:40:59: World triggered "Round_End"
+L 03/28/2015 - 18:41:09: World triggered "Round_Start"
+L 03/28/2015 - 18:41:17: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397ecf0
+L 03/28/2015 - 18:41:17: "Buka<48><STEAM_0:4:33836421><>" connected, address "178.121.84.173:1644"
+L 03/28/2015 - 18:41:17: [VTC] Player 3 speex
+L 03/28/2015 - 18:41:18: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" attacked "Towka :P<47><STEAM_0:4:1634684165><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:41:18: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" killed "Towka :P<47><STEAM_0:4:1634684165><CT>" with "knife"
+L 03/28/2015 - 18:41:21: "Towka :P<47><STEAM_0:4:1634684165><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "1")
+L 03/28/2015 - 18:41:21: "Towka :P<47><STEAM_0:4:1634684165><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/28/2015 - 18:41:21: "Towka :P<47><STEAM_0:4:1634684165><CT>" triggered "time" (time "1:14")
+L 03/28/2015 - 18:41:21: "Towka :P<47><STEAM_0:4:1634684165><CT>" triggered "latency" (ping "51")
+L 03/28/2015 - 18:41:21: "Towka :P<47><STEAM_0:4:1634684165><CT>" disconnected
+L 03/28/2015 - 18:41:23: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:41:23: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:41:38: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397ecf0
+L 03/28/2015 - 18:41:38: "Buka<49><STEAM_0:4:33836421><>" connected, address "178.121.84.173:1644"
+L 03/28/2015 - 18:41:38: [VTC] Player 3 speex
+L 03/28/2015 - 18:41:47: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:41:47: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife"
+L 03/28/2015 - 18:41:47: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/28/2015 - 18:41:47: World triggered "Round_End"
+L 03/28/2015 - 18:41:49: "Buka<49><STEAM_0:4:33836421><>" entered the game
+L 03/28/2015 - 18:41:54: "Buka<49><STEAM_0:4:33836421><>" joined team "CT"
+L 03/28/2015 - 18:41:57: World triggered "Round_Start"
+L 03/28/2015 - 18:42:06: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" attacked "Buka<49><STEAM_0:4:33836421><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:42:06: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" killed "Buka<49><STEAM_0:4:33836421><CT>" with "knife"
+L 03/28/2015 - 18:42:07: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:42:07: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:42:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 03/28/2015 - 18:42:07: World triggered "Round_End"
+L 03/28/2015 - 18:42:17: World triggered "Round_Start"
+L 03/28/2015 - 18:42:31: "Buka<49><STEAM_0:4:33836421><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:42:31: "Buka<49><STEAM_0:4:33836421><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:42:58: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:42:58: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife"
+L 03/28/2015 - 18:42:58: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 03/28/2015 - 18:42:58: World triggered "Round_End"
+L 03/28/2015 - 18:43:08: World triggered "Round_Start"
+L 03/28/2015 - 18:43:28: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:43:28: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:43:30: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:43:30: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:43:34: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "Buka<49><STEAM_0:4:33836421><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:43:34: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "Buka<49><STEAM_0:4:33836421><CT>" with "knife"
+L 03/28/2015 - 18:43:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 03/28/2015 - 18:43:34: World triggered "Round_End"
+L 03/28/2015 - 18:43:44: World triggered "Round_Start"
+L 03/28/2015 - 18:43:52: "Buka<49><STEAM_0:4:33836421><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:43:52: "Buka<49><STEAM_0:4:33836421><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:43:55: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3983be4
+L 03/28/2015 - 18:43:55: "[Hard_Skill]_AHAKOHDA<50><STEAM_0:4:1668238597><>" connected, address "178.120.130.111:22777"
+L 03/28/2015 - 18:43:55: [VTC] Player 4 speex
+L 03/28/2015 - 18:43:59: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3983be4
+L 03/28/2015 - 18:43:59: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><>" connected, address "178.120.130.111:22777"
+L 03/28/2015 - 18:43:59: [VTC] Player 4 speex
+L 03/28/2015 - 18:44:10: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><>" entered the game
+L 03/28/2015 - 18:44:12: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:44:12: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife"
+L 03/28/2015 - 18:44:12: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 03/28/2015 - 18:44:12: World triggered "Round_End"
+L 03/28/2015 - 18:44:18: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><>" joined team "TERRORIST"
+L 03/28/2015 - 18:44:22: World triggered "Round_Start"
+L 03/28/2015 - 18:44:33: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:44:33: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:44:43: "Buka<49><STEAM_0:4:33836421><CT>" attacked "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:44:43: "Buka<49><STEAM_0:4:33836421><CT>" killed "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" with "knife"
+L 03/28/2015 - 18:45:19: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" attacked "Buka<49><STEAM_0:4:33836421><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:45:19: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" killed "Buka<49><STEAM_0:4:33836421><CT>" with "knife"
+L 03/28/2015 - 18:45:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 03/28/2015 - 18:45:19: World triggered "Round_End"
+L 03/28/2015 - 18:45:29: World triggered "Round_Start"
+L 03/28/2015 - 18:45:41: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" attacked "Buka<49><STEAM_0:4:33836421><CT>" with "knife" (damage "243") (damage_armor "0") (health "-208") (armor "0")
+L 03/28/2015 - 18:45:41: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" killed "Buka<49><STEAM_0:4:33836421><CT>" with "knife"
+L 03/28/2015 - 18:45:45: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:45:45: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:45:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "4")
+L 03/28/2015 - 18:45:45: World triggered "Round_End"
+L 03/28/2015 - 18:45:52: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" committed suicide with "game_player_hurt" (world)
+L 03/28/2015 - 18:45:55: World triggered "Round_Start"
+L 03/28/2015 - 18:46:07: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "Buka<49><STEAM_0:4:33836421><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:46:07: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "Buka<49><STEAM_0:4:33836421><CT>" with "knife"
+L 03/28/2015 - 18:46:09: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:46:09: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:46:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 03/28/2015 - 18:46:09: World triggered "Round_End"
+L 03/28/2015 - 18:46:13: "Buka<49><STEAM_0:4:33836421><CT>" triggered "weaponstats" (weapon "knife") (shots "48") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "195") (deaths "5")
+L 03/28/2015 - 18:46:13: "Buka<49><STEAM_0:4:33836421><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/28/2015 - 18:46:13: "Buka<49><STEAM_0:4:33836421><CT>" triggered "time" (time "4:23")
+L 03/28/2015 - 18:46:13: "Buka<49><STEAM_0:4:33836421><CT>" triggered "latency" (ping "48")
+L 03/28/2015 - 18:46:13: "Buka<49><STEAM_0:4:33836421><CT>" disconnected
+L 03/28/2015 - 18:46:19: World triggered "Round_Start"
+L 03/28/2015 - 18:46:33: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:46:33: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:46:35: "solnishko~<46><STEAM_0:4:352164686><CT>" attacked "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:46:35: "solnishko~<46><STEAM_0:4:352164686><CT>" killed "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" with "knife"
+L 03/28/2015 - 18:46:40: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:46:40: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:46:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 03/28/2015 - 18:46:40: World triggered "Round_End"
+L 03/28/2015 - 18:46:45: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><TERRORIST>" joined team "CT" (auto)
+L 03/28/2015 - 18:46:50: World triggered "Round_Start"
+L 03/28/2015 - 18:47:01: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:47:01: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:47:02: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:47:02: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:47:08: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb397ecf0
+L 03/28/2015 - 18:47:08: "JK<52><STEAM_0:0:692244939><>" connected, address "37.214.171.193:17230"
+L 03/28/2015 - 18:47:09: [VTC] Player 3 speex
+L 03/28/2015 - 18:47:12: "JK<52><STEAM_0:0:692244939><>" entered the game
+L 03/28/2015 - 18:47:18: "JK<52><STEAM_0:0:692244939><>" joined team "CT"
+L 03/28/2015 - 18:47:53: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:47:53: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" with "knife"
+L 03/28/2015 - 18:47:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 03/28/2015 - 18:47:53: World triggered "Round_End"
+L 03/28/2015 - 18:48:03: World triggered "Round_Start"
+L 03/28/2015 - 18:48:12: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "JK<52><STEAM_0:0:692244939><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:48:12: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "JK<52><STEAM_0:0:692244939><CT>" with "knife"
+L 03/28/2015 - 18:48:18: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" attacked "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:48:18: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" killed "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/28/2015 - 18:48:28: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/28/2015 - 18:48:28: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "solnishko~<46><STEAM_0:4:352164686><CT>" with "knife"
+L 03/28/2015 - 18:48:47: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/28/2015 - 18:48:47: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" killed "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" with "knife"
+L 03/28/2015 - 18:48:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 03/28/2015 - 18:48:47: World triggered "Round_End"
+L 03/28/2015 - 18:48:49: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/28/2015 - 18:48:57: World triggered "Round_Start"
+L 03/28/2015 - 18:48:59: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "19") (hits "11") (kills "11") (headshots "0") (tks "0") (damage "845") (deaths "6")
+L 03/28/2015 - 18:48:59: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/28/2015 - 18:48:59: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" triggered "time" (time "8:59")
+L 03/28/2015 - 18:48:59: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" triggered "latency" (ping "38")
+L 03/28/2015 - 18:48:59: "solnishko~<46><STEAM_0:4:352164686><CT>" triggered "weaponstats" (weapon "knife") (shots "37") (hits "8") (kills "8") (headshots "0") (tks "0") (damage "520") (deaths "8")
+L 03/28/2015 - 18:48:59: "solnishko~<46><STEAM_0:4:352164686><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/28/2015 - 18:48:59: "solnishko~<46><STEAM_0:4:352164686><CT>" triggered "time" (time "8:54")
+L 03/28/2015 - 18:48:59: "solnishko~<46><STEAM_0:4:352164686><CT>" triggered "latency" (ping "29")
+L 03/28/2015 - 18:48:59: "JK<52><STEAM_0:0:692244939><CT>" triggered "time" (time "1:47")
+L 03/28/2015 - 18:48:59: "JK<52><STEAM_0:0:692244939><CT>" triggered "latency" (ping "36")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" triggered "weaponstats" (weapon "knife") (shots "22") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "438") (deaths "3")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" triggered "time" (time "4:49")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" triggered "latency" (ping "30")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "260") (deaths "8")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" triggered "time" (time "8:46")
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" triggered "latency" (ping "1")
+L 03/28/2015 - 18:48:59: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 03/28/2015 - 18:48:59: [META] ini: Read plugin config for: AMX Mod X
+L 03/28/2015 - 18:48:59: [META] ini: Read plugin config for: dproto_EF
+L 03/28/2015 - 18:48:59: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/28/2015 - 18:48:59: [META] ini: Read plugin config for: WHBlocker
+L 03/28/2015 - 18:48:59: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/28/2015 - 18:48:59: [META] dll: Updating plugins...
+L 03/28/2015 - 18:48:59: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/28/2015 - 18:48:59: "Dimon_Flo_Rida<36><STEAM_0:4:2096156037><TERRORIST>" disconnected
+L 03/28/2015 - 18:48:59: "solnishko~<46><STEAM_0:4:352164686><CT>" disconnected
+L 03/28/2015 - 18:48:59: "JK<52><STEAM_0:0:692244939><CT>" disconnected
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_AHAKOHDA<51><STEAM_0:4:1668238597><CT>" disconnected
+L 03/28/2015 - 18:48:59: "[Hard_Skill]_Dasha<11><STEAM_0:4:1068366041><TERRORIST>" disconnected
+L 03/28/2015 - 18:48:59: World triggered "Round_Draw" (CT "5") (T "8")
+L 03/28/2015 - 18:48:59: World triggered "Round_End"
+L 03/28/2015 - 18:48:59: Log file closed

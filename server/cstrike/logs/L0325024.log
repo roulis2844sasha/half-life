@@ -1,0 +1,535 @@
+L 03/25/2015 - 20:44:26: Log file started (file "logs/L0325024.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/25/2015 - 20:44:26: Loading map "awp_india2"
+L 03/25/2015 - 20:44:26: Server cvars start
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_debug_level" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_examine_time" = "0.5"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_look_angle" = "10"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_look_distance" = "200"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_message_repeats" = "5"
+L 03/25/2015 - 20:44:26: Server cvar "_tutor_view_distance" = "1000"
+L 03/25/2015 - 20:44:26: Server cvar "aesp_version" = "1.5b_mini"
+L 03/25/2015 - 20:44:26: Server cvar "allow_spectators" = "4"
+L 03/25/2015 - 20:44:26: Server cvar "amx_client_languages" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/25/2015 - 20:44:26: Server cvar "amx_language" = "ru"
+L 03/25/2015 - 20:44:26: Server cvar "amx_nextmap" = "awp_india2"
+L 03/25/2015 - 20:44:26: Server cvar "amx_timeleft" = "00:00"
+L 03/25/2015 - 20:44:26: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/25/2015 - 20:44:26: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/25/2015 - 20:44:26: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Config" = "Loaded"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Replace" = "Failed"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Status" = "Loaded"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/25/2015 - 20:44:26: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/25/2015 - 20:44:26: Server cvar "coop" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "deathmatch" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "decalfrequency" = "9"
+L 03/25/2015 - 20:44:26: Server cvar "dp_version" = "0.9.391"
+L 03/25/2015 - 20:44:26: Server cvar "edgefriction" = "2"
+L 03/25/2015 - 20:44:26: Server cvar "hostage_debug" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "hostage_stop" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "humans_join_team" = "any"
+L 03/25/2015 - 20:44:26: Server cvar "jtp10181" = "chute"
+L 03/25/2015 - 20:44:26: Server cvar "max_queries_sec" = "3.0"
+L 03/25/2015 - 20:44:26: Server cvar "max_queries_sec_global" = "30"
+L 03/25/2015 - 20:44:26: Server cvar "max_queries_window" = "60"
+L 03/25/2015 - 20:44:26: Server cvar "metamod_version" = "1.19"
+L 03/25/2015 - 20:44:26: Server cvar "mp_allowmonsters" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_autokick" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_autoteambalance" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_buytime" = "1.5"
+L 03/25/2015 - 20:44:26: Server cvar "mp_c4timer" = "35"
+L 03/25/2015 - 20:44:26: Server cvar "mp_chattime" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_consistency" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_fadetoblack" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_flashlight" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_footsteps" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_forcecamera" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_forcechasecam" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_fragsleft" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_freezetime" = "5"
+L 03/25/2015 - 20:44:26: Server cvar "mp_friendlyfire" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_hostagepenalty" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_kickpercent" = "0.66"
+L 03/25/2015 - 20:44:26: Server cvar "mp_limitteams" = "5"
+L 03/25/2015 - 20:44:26: Server cvar "mp_logdetail" = "3"
+L 03/25/2015 - 20:44:26: Server cvar "mp_logfile" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_logmessages" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/25/2015 - 20:44:26: Server cvar "mp_maxrounds" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_mirrordamage" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_playerid" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_roundtime" = "2.57"
+L 03/25/2015 - 20:44:26: Server cvar "mp_startmoney" = "800"
+L 03/25/2015 - 20:44:26: Server cvar "mp_timeleft" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "mp_timelimit" = "30.000000"
+L 03/25/2015 - 20:44:26: Server cvar "mp_tkpunish" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_windifference" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "mp_winlimit" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "pausable" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_accelerate" = "5"
+L 03/25/2015 - 20:44:26: Server cvar "sv_aim" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_airaccelerate" = "10"
+L 03/25/2015 - 20:44:26: Server cvar "sv_airmove" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "sv_allowupload" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "sv_alltalk" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_bounce" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "sv_cheats" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_clienttrace" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "sv_clipmode" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_contact" = ""
+L 03/25/2015 - 20:44:26: Server cvar "sv_friction" = "4"
+L 03/25/2015 - 20:44:26: Server cvar "sv_gravity" = "800"
+L 03/25/2015 - 20:44:26: Server cvar "sv_logblocks" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_maxrate" = "50000"
+L 03/25/2015 - 20:44:26: Server cvar "sv_maxspeed" = "900"
+L 03/25/2015 - 20:44:26: Server cvar "sv_minrate" = "100000"
+L 03/25/2015 - 20:44:26: Server cvar "sv_password" = ""
+L 03/25/2015 - 20:44:26: Server cvar "sv_proxies" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_region" = "255"
+L 03/25/2015 - 20:44:26: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_restartround" = "0"
+L 03/25/2015 - 20:44:26: Server cvar "sv_stepsize" = "18"
+L 03/25/2015 - 20:44:26: Server cvar "sv_stopspeed" = "75"
+L 03/25/2015 - 20:44:26: Server cvar "sv_uploadmax" = "0.5"
+L 03/25/2015 - 20:44:26: Server cvar "sv_voiceenable" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "sv_wateraccelerate" = "10"
+L 03/25/2015 - 20:44:26: Server cvar "sv_waterfriction" = "1"
+L 03/25/2015 - 20:44:26: Server cvar "travo_statmarquee" = "v1.2"
+L 03/25/2015 - 20:44:26: Server cvar "ultimate_sounds" = "1.7"
+L 03/25/2015 - 20:44:26: Server cvar "vtc_version" = "80"
+L 03/25/2015 - 20:44:26: Server cvars end
+L 03/25/2015 - 20:44:30: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/25/2015 - 20:44:30: Server cvar "sv_restart" = "1"
+L 03/25/2015 - 20:44:31: World triggered "Restart_Round_(1_second)"
+L 03/25/2015 - 20:44:31: Team "CT" scored "0" with "0" players
+L 03/25/2015 - 20:44:31: Team "TERRORIST" scored "0" with "0" players
+L 03/25/2015 - 20:44:31: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 20:44:31: Started map "awp_india2" (CRC "-1465035671")
+L 03/25/2015 - 20:44:31: [VTC] Player 5 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 6 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 8 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 2 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 3 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 1 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 9 speex
+L 03/25/2015 - 20:44:31: [VTC] Player 4 speex
+L 03/25/2015 - 20:44:35: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3903cf0
+L 03/25/2015 - 20:44:35: "Subaru | STR<107><STEAM_0:4:1254139288><>" connected, address "136.169.221.60:27005"
+L 03/25/2015 - 20:44:35: [VTC] Player 3 speex
+L 03/25/2015 - 20:44:36: World triggered "Round_Start"
+L 03/25/2015 - 20:44:38: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fedfc
+L 03/25/2015 - 20:44:38: "FapToBbIu^<108><STEAM_0:4:1307417166><>" connected, address "37.214.135.50:50809"
+L 03/25/2015 - 20:44:39: [VTC] Player 2 speex
+L 03/25/2015 - 20:44:39: "Subaru | STR<107><STEAM_0:4:1254139288><>" entered the game
+L 03/25/2015 - 20:44:39: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39129cc
+L 03/25/2015 - 20:44:39: "la la la<109><STEAM_0:4:779000654><>" connected, address "37.212.129.245:15586"
+L 03/25/2015 - 20:44:39: [VTC] Player 6 speex
+L 03/25/2015 - 20:44:40: "Egorka s gorky<105><STEAM_0:4:1904582762><>" entered the game
+L 03/25/2015 - 20:44:42: "Egorka s gorky<105><STEAM_0:4:1904582762><>" joined team "CT"
+L 03/25/2015 - 20:44:43: "FapToBbIu^<108><STEAM_0:4:1307417166><>" entered the game
+L 03/25/2015 - 20:44:43: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb391c7b4
+L 03/25/2015 - 20:44:43: "KOT3<110><STEAM_0:4:1778621262><>" connected, address "37.212.91.125:23475"
+L 03/25/2015 - 20:44:43: [VTC] Player 8 speex
+L 03/25/2015 - 20:44:43: "Subaru | STR<107><STEAM_0:4:1254139288><>" joined team "TERRORIST"
+L 03/25/2015 - 20:44:43: World triggered "Game_Commencing"
+L 03/25/2015 - 20:44:43: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 20:44:43: World triggered "Round_End"
+L 03/25/2015 - 20:44:44: "la la la<109><STEAM_0:4:779000654><>" entered the game
+L 03/25/2015 - 20:44:45: "la la la<109><STEAM_0:4:779000654><>" joined team "TERRORIST"
+L 03/25/2015 - 20:44:45: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39216a8
+L 03/25/2015 - 20:44:45: "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><>" connected, address "178.127.11.1:27005"
+L 03/25/2015 - 20:44:46: [VTC] Player 9 speex
+L 03/25/2015 - 20:44:47: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:44:47: "KATERuHKA^^<112><STEAM_0:4:1675218546><>" connected, address "92.126.239.110:27005"
+L 03/25/2015 - 20:44:47: "KOT3<110><STEAM_0:4:1778621262><>" entered the game
+L 03/25/2015 - 20:44:47: [VTC] Player 4 speex
+L 03/25/2015 - 20:44:48: "KOT3<110><STEAM_0:4:1778621262><>" joined team "CT"
+L 03/25/2015 - 20:44:51: World triggered "Round_Start"
+L 03/25/2015 - 20:44:55: "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><>" entered the game
+L 03/25/2015 - 20:44:57: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<110><STEAM_0:4:1778621262><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:44:57: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "KOT3<110><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:45:01: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:45:01: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:45:02: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/25/2015 - 20:45:04: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp" (damage "109") (damage_armor "2") (health "-62") (armor "97")
+L 03/25/2015 - 20:45:04: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 20:45:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/25/2015 - 20:45:04: World triggered "Round_End"
+L 03/25/2015 - 20:45:06: "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><>" joined team "CT"
+L 03/25/2015 - 20:45:09: "FapToBbIu^<108><STEAM_0:4:1307417166><>" joined team "CT"
+L 03/25/2015 - 20:45:14: World triggered "Round_Start"
+L 03/25/2015 - 20:45:16: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:45:16: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:45:18: "KOT3<110><STEAM_0:4:1778621262><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:45:18: "KOT3<110><STEAM_0:4:1778621262><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:45:18: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/25/2015 - 20:45:18: World triggered "Round_End"
+L 03/25/2015 - 20:45:21: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:45:21: "KATERuHKA^^<113><STEAM_0:4:1675218546><>" connected, address "92.126.239.110:27005"
+L 03/25/2015 - 20:45:21: [VTC] Player 4 speex
+L 03/25/2015 - 20:45:28: World triggered "Round_Start"
+L 03/25/2015 - 20:45:28: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:45:28: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:45:33: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:45:33: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:45:34: "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><CT>" triggered "time" (time "0:39")
+L 03/25/2015 - 20:45:34: "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><CT>" triggered "latency" (ping "66")
+L 03/25/2015 - 20:45:34: "[Easy_Skill]_LoL#3<111><STEAM_0:4:1412157061><CT>" disconnected
+L 03/25/2015 - 20:45:36: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "KOT3<110><STEAM_0:4:1778621262><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:45:36: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "KOT3<110><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:46:02: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 03/25/2015 - 20:46:02: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:02: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 03/25/2015 - 20:46:02: World triggered "Round_End"
+L 03/25/2015 - 20:46:12: World triggered "Round_Start"
+L 03/25/2015 - 20:46:12: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/25/2015 - 20:46:12: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:12: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb390dad8
+L 03/25/2015 - 20:46:12: "Scorp STR<114><STEAM_0:4:438290035><>" connected, address "95.110.99.157:27005"
+L 03/25/2015 - 20:46:12: [VTC] Player 5 speex
+L 03/25/2015 - 20:46:15: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb390dad8
+L 03/25/2015 - 20:46:15: "Scorp STR<115><STEAM_0:4:438290035><>" connected, address "95.110.99.157:27005"
+L 03/25/2015 - 20:46:15: [VTC] Player 5 speex
+L 03/25/2015 - 20:46:20: "Scorp STR<115><STEAM_0:4:438290035><>" entered the game
+L 03/25/2015 - 20:46:21: "KOT3<110><STEAM_0:4:1778621262><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:46:21: "KOT3<110><STEAM_0:4:1778621262><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:21: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 03/25/2015 - 20:46:21: World triggered "Round_End"
+L 03/25/2015 - 20:46:22: Kick: "KOT3<110><STEAM_0:4:1778621262><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/25/2015 - 20:46:22: "KOT3<110><STEAM_0:4:1778621262><CT>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "216") (deaths "2")
+L 03/25/2015 - 20:46:22: "KOT3<110><STEAM_0:4:1778621262><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:46:22: "KOT3<110><STEAM_0:4:1778621262><CT>" triggered "time" (time "1:35")
+L 03/25/2015 - 20:46:22: "KOT3<110><STEAM_0:4:1778621262><CT>" triggered "latency" (ping "422")
+L 03/25/2015 - 20:46:22: "KOT3<110><STEAM_0:4:1778621262><CT>" disconnected
+L 03/25/2015 - 20:46:23: "Scorp STR<115><STEAM_0:4:438290035><>" joined team "TERRORIST"
+L 03/25/2015 - 20:46:24: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/25/2015 - 20:46:24: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:30: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb391c7b4
+L 03/25/2015 - 20:46:30: "KOT3<116><STEAM_0:4:1778621262><>" connected, address "37.212.91.125:23475"
+L 03/25/2015 - 20:46:30: [VTC] Player 8 speex
+L 03/25/2015 - 20:46:31: World triggered "Round_Start"
+L 03/25/2015 - 20:46:33: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 03/25/2015 - 20:46:33: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 20:46:35: "KOT3<116><STEAM_0:4:1778621262><>" entered the game
+L 03/25/2015 - 20:46:36: "KOT3<116><STEAM_0:4:1778621262><>" joined team "CT"
+L 03/25/2015 - 20:46:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 20:46:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:43: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/25/2015 - 20:46:43: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:48: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:46:48: "KATERuHKA^^<117><STEAM_0:4:1675218546><>" connected, address "92.126.239.110:27005"
+L 03/25/2015 - 20:46:48: [VTC] Player 4 speex
+L 03/25/2015 - 20:46:50: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 20:46:50: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:46:50: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 03/25/2015 - 20:46:50: World triggered "Round_End"
+L 03/25/2015 - 20:47:00: World triggered "Round_Start"
+L 03/25/2015 - 20:47:04: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:47:04: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:47:06: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:47:06: "KATERuHKA^^<118><STEAM_0:4:1675218546><>" connected, address "92.126.239.110:27005"
+L 03/25/2015 - 20:47:06: [VTC] Player 4 speex
+L 03/25/2015 - 20:47:07: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 20:47:07: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 20:47:11: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" say "lf cer" (dead)
+L 03/25/2015 - 20:47:11: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 20:47:11: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:47:13: "KATERuHKA^^<118><STEAM_0:4:1675218546><>" entered the game
+L 03/25/2015 - 20:47:15: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:47:15: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:47:17: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:47:17: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:47:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 03/25/2015 - 20:47:17: World triggered "Round_End"
+L 03/25/2015 - 20:47:20: "KATERuHKA^^<118><STEAM_0:4:1675218546><>" joined team "CT"
+L 03/25/2015 - 20:47:23: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" say "/cyka"
+L 03/25/2015 - 20:47:27: World triggered "Round_Start"
+L 03/25/2015 - 20:47:32: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:47:32: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:47:38: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:47:38: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" triggered "weaponstats" (weapon "awp") (shots "13") (hits "3") (kills "3") (headshots "1") (tks "0") (damage "633") (deaths "3")
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" triggered "time" (time "3:08")
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" triggered "latency" (ping "76")
+L 03/25/2015 - 20:47:48: "Egorka s gorky<105><STEAM_0:4:1904582762><CT>" disconnected
+L 03/25/2015 - 20:47:50: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "84") (damage_armor "0") (health "-6") (armor "100")
+L 03/25/2015 - 20:47:50: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:47:56: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:47:56: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" with "awp"
+L 03/25/2015 - 20:48:00: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 20:48:00: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:48:17: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:48:17: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:48:20: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/25/2015 - 20:48:20: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife"
+L 03/25/2015 - 20:48:20: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 03/25/2015 - 20:48:20: World triggered "Round_End"
+L 03/25/2015 - 20:48:24: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39216a8
+L 03/25/2015 - 20:48:24: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><>" connected, address "178.127.11.1:27005"
+L 03/25/2015 - 20:48:25: [VTC] Player 9 speex
+L 03/25/2015 - 20:48:29: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><>" entered the game
+L 03/25/2015 - 20:48:30: World triggered "Round_Start"
+L 03/25/2015 - 20:48:30: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:48:30: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:48:30: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:48:30: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" with "awp"
+L 03/25/2015 - 20:48:36: "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/25/2015 - 20:48:36: "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:48:36: "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" triggered "time" (time "1:22")
+L 03/25/2015 - 20:48:36: "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" triggered "latency" (ping "107")
+L 03/25/2015 - 20:48:36: "KATERuHKA^^<118><STEAM_0:4:1675218546><CT>" disconnected
+L 03/25/2015 - 20:48:37: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><>" joined team "TERRORIST"
+L 03/25/2015 - 20:48:44: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/25/2015 - 20:48:44: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 20:48:49: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/25/2015 - 20:48:49: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:49:06: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:49:06: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:49:09: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/25/2015 - 20:49:09: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife"
+L 03/25/2015 - 20:49:18: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "137") (damage_armor "2") (health "-92") (armor "93")
+L 03/25/2015 - 20:49:18: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:49:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 03/25/2015 - 20:49:18: World triggered "Round_End"
+L 03/25/2015 - 20:49:28: World triggered "Round_Start"
+L 03/25/2015 - 20:49:36: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:49:36: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:49:39: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/25/2015 - 20:49:40: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/25/2015 - 20:49:40: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:49:45: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 20:49:45: "nExT --><120><STEAM_0:4:858017029><>" connected, address "178.120.20.207:57367"
+L 03/25/2015 - 20:49:45: [VTC] Player 1 speex
+L 03/25/2015 - 20:49:49: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 20:49:49: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:50:17: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "432") (damage_armor "6") (health "-417") (armor "94")
+L 03/25/2015 - 20:50:17: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:50:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "4")
+L 03/25/2015 - 20:50:17: World triggered "Round_End"
+L 03/25/2015 - 20:50:19: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 20:50:19: "FOUST<121><STEAM_0:4:866248765><>" connected, address "195.50.31.206:28394"
+L 03/25/2015 - 20:50:19: [VTC] Player 1 speex
+L 03/25/2015 - 20:50:22: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><TERRORIST>" joined team "CT" (auto)
+L 03/25/2015 - 20:50:23: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9f08
+L 03/25/2015 - 20:50:23: "FOUST<122><STEAM_0:4:866248765><>" connected, address "195.50.31.206:28394"
+L 03/25/2015 - 20:50:24: [VTC] Player 1 speex
+L 03/25/2015 - 20:50:27: World triggered "Round_Start"
+L 03/25/2015 - 20:50:27: "FOUST<122><STEAM_0:4:866248765><>" entered the game
+L 03/25/2015 - 20:50:33: "FOUST<122><STEAM_0:4:866248765><>" joined team "TERRORIST"
+L 03/25/2015 - 20:50:38: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 20:50:38: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:50:42: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:50:42: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:50:47: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 20:50:47: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:50:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 03/25/2015 - 20:50:47: World triggered "Round_End"
+L 03/25/2015 - 20:50:57: World triggered "Round_Start"
+L 03/25/2015 - 20:51:02: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:51:02: "[TOP-MS] FANAT CAXAPA<123><STEAM_0:4:1358449925><>" connected, address "178.120.172.8:65515"
+L 03/25/2015 - 20:51:02: [VTC] Player 4 speex
+L 03/25/2015 - 20:51:05: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/25/2015 - 20:51:05: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp"
+L 03/25/2015 - 20:51:06: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:51:06: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:51:08: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:51:08: "[TOP-MS] FANAT CAXAPA<124><STEAM_0:4:1358449925><>" connected, address "178.120.172.8:65515"
+L 03/25/2015 - 20:51:08: [VTC] Player 4 speex
+L 03/25/2015 - 20:51:08: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:51:08: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:51:09: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:51:09: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:51:11: "[TOP-MS] FANAT CAXAPA<124><STEAM_0:4:1358449925><>" entered the game
+L 03/25/2015 - 20:51:16: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/25/2015 - 20:51:16: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:51:17: "[TOP-MS] FANAT CAXAPA<124><STEAM_0:4:1358449925><>" joined team "SPECTATOR"
+L 03/25/2015 - 20:51:26: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:51:26: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:51:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 03/25/2015 - 20:51:26: World triggered "Round_End"
+L 03/25/2015 - 20:51:36: World triggered "Round_Start"
+L 03/25/2015 - 20:51:41: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:51:41: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:51:44: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 20:51:44: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp"
+L 03/25/2015 - 20:51:46: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:51:46: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:51:50: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" say ",kz" (dead)
+L 03/25/2015 - 20:51:54: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/25/2015 - 20:51:55: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:51:55: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:52:13: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39178c0
+L 03/25/2015 - 20:52:13: "KATERuHKA^^<125><STEAM_0:4:1675218546><>" connected, address "92.126.239.110:27005"
+L 03/25/2015 - 20:52:14: [VTC] Player 7 speex
+L 03/25/2015 - 20:52:14: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:52:14: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:52:14: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 03/25/2015 - 20:52:14: World triggered "Round_End"
+L 03/25/2015 - 20:52:20: "KATERuHKA^^<125><STEAM_0:4:1675218546><>" entered the game
+L 03/25/2015 - 20:52:24: World triggered "Round_Start"
+L 03/25/2015 - 20:52:29: "KATERuHKA^^<125><STEAM_0:4:1675218546><UNASSIGNED>" triggered "time" (time "0:09")
+L 03/25/2015 - 20:52:29: "KATERuHKA^^<125><STEAM_0:4:1675218546><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/25/2015 - 20:52:29: "KATERuHKA^^<125><STEAM_0:4:1675218546><>" disconnected
+L 03/25/2015 - 20:52:31: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/25/2015 - 20:52:32: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 20:52:32: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp"
+L 03/25/2015 - 20:52:40: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:52:40: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:52:47: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/25/2015 - 20:52:47: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:52:49: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/25/2015 - 20:52:51: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:52:51: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:52:53: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-385") (armor "93")
+L 03/25/2015 - 20:52:53: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:52:53: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 03/25/2015 - 20:52:53: World triggered "Round_End"
+L 03/25/2015 - 20:53:03: World triggered "Round_Start"
+L 03/25/2015 - 20:53:05: "[TOP-MS] FANAT CAXAPA<124><STEAM_0:4:1358449925><SPECTATOR>" triggered "time" (time "1:54")
+L 03/25/2015 - 20:53:05: "[TOP-MS] FANAT CAXAPA<124><STEAM_0:4:1358449925><SPECTATOR>" triggered "latency" (ping "28")
+L 03/25/2015 - 20:53:05: "[TOP-MS] FANAT CAXAPA<124><STEAM_0:4:1358449925><SPECTATOR>" disconnected
+L 03/25/2015 - 20:53:06: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 20:53:06: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:53:07: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:53:07: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:53:07: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 20:53:07: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp"
+L 03/25/2015 - 20:53:16: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "knife" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 03/25/2015 - 20:53:23: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/25/2015 - 20:53:23: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:53:35: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:53:41: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/25/2015 - 20:53:41: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "knife"
+L 03/25/2015 - 20:53:41: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 03/25/2015 - 20:53:41: World triggered "Round_End"
+L 03/25/2015 - 20:53:51: World triggered "Round_Start"
+L 03/25/2015 - 20:54:01: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 03/25/2015 - 20:54:01: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:54:03: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 20:54:03: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:54:03: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/25/2015 - 20:54:03: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:54:15: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:54:15: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:54:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "7")
+L 03/25/2015 - 20:54:15: World triggered "Round_End"
+L 03/25/2015 - 20:54:25: World triggered "Round_Start"
+L 03/25/2015 - 20:54:25: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 20:54:25: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:54:25: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:54:25: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:54:25: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/25/2015 - 20:54:39: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "110") (damage_armor "2") (health "-62") (armor "97")
+L 03/25/2015 - 20:54:39: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:54:47: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/25/2015 - 20:54:47: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:54:47: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:54:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "8")
+L 03/25/2015 - 20:54:47: World triggered "Round_End"
+L 03/25/2015 - 20:54:57: World triggered "Round_Start"
+L 03/25/2015 - 20:54:57: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 20:54:57: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "awp"
+L 03/25/2015 - 20:54:57: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 20:54:57: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "awp"
+L 03/25/2015 - 20:55:09: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 20:55:09: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:55:12: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/25/2015 - 20:55:13: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/25/2015 - 20:55:13: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:55:18: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "110") (damage_armor "2") (health "-94") (armor "98")
+L 03/25/2015 - 20:55:18: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:55:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "9")
+L 03/25/2015 - 20:55:18: World triggered "Round_End"
+L 03/25/2015 - 20:55:28: World triggered "Round_Start"
+L 03/25/2015 - 20:55:32: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" attacked "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 20:55:32: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" killed "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" with "awp"
+L 03/25/2015 - 20:55:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "25") (damage_armor "1") (health "75") (armor "99")
+L 03/25/2015 - 20:55:40: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3908be4
+L 03/25/2015 - 20:55:40: "[TOP-MS] FANAT CAXAPA<126><STEAM_0:4:1358449925><>" connected, address "178.120.172.8:65515"
+L 03/25/2015 - 20:55:40: [VTC] Player 4 speex
+L 03/25/2015 - 20:55:42: "[TOP-MS] FANAT CAXAPA<126><STEAM_0:4:1358449925><>" entered the game
+L 03/25/2015 - 20:55:42: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/25/2015 - 20:55:42: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" with "awp"
+L 03/25/2015 - 20:55:44: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/25/2015 - 20:55:44: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" with "awp"
+L 03/25/2015 - 20:55:44: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp" (damage "440") (damage_armor "5") (health "-365") (armor "94")
+L 03/25/2015 - 20:55:44: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 20:55:45: "[TOP-MS] FANAT CAXAPA<126><STEAM_0:4:1358449925><>" joined team "SPECTATOR"
+L 03/25/2015 - 20:56:00: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 20:56:00: "KOT3<116><STEAM_0:4:1778621262><CT>" killed "FOUST<122><STEAM_0:4:866248765><TERRORIST>" with "awp"
+L 03/25/2015 - 20:56:21: Server cvar "amx_nextmap" = "$5000$"
+L 03/25/2015 - 20:56:21: Server cvar "mp_timelimit" = "0.000000"
+L 03/25/2015 - 20:56:24: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:56:24: "KOT3<116><STEAM_0:4:1778621262><CT>" attacked "la la la<109><STEAM_0:4:779000654><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 20:56:26: "la la la<109><STEAM_0:4:779000654><TERRORIST>" attacked "KOT3<116><STEAM_0:4:1778621262><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/25/2015 - 20:56:26: "la la la<109><STEAM_0:4:779000654><TERRORIST>" killed "KOT3<116><STEAM_0:4:1778621262><CT>" with "knife"
+L 03/25/2015 - 20:56:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "10")
+L 03/25/2015 - 20:56:26: World triggered "Round_End"
+L 03/25/2015 - 20:56:36: Server cvar "mp_timelimit" = "0.010000"
+L 03/25/2015 - 20:56:36: World triggered "Round_Start"
+L 03/25/2015 - 20:56:36: Team "CT" scored "8" with "3" players
+L 03/25/2015 - 20:56:36: Team "TERRORIST" scored "10" with "4" players
+L 03/25/2015 - 20:56:36: Server cvar "mp_chattime" = "3"
+L 03/25/2015 - 20:56:37: Server cvar "mp_chattime" = "1"
+L 03/25/2015 - 20:56:37: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "16") (hits "5") (kills "4") (headshots "1") (tks "0") (damage "798") (deaths "5")
+L 03/25/2015 - 20:56:37: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" triggered "time" (time "6:09")
+L 03/25/2015 - 20:56:37: "FOUST<122><STEAM_0:4:866248765><TERRORIST>" triggered "latency" (ping "41")
+L 03/25/2015 - 20:56:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" triggered "weaponstats" (weapon "awp") (shots "40") (hits "22") (kills "21") (headshots "20") (tks "0") (damage "8618") (deaths "9")
+L 03/25/2015 - 20:56:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" triggered "weaponstats2" (weapon "awp") (head "20") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" triggered "weaponstats" (weapon "knife") (shots "26") (hits "6") (kills "3") (headshots "0") (tks "0") (damage "330") (deaths "1")
+L 03/25/2015 - 20:56:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" triggered "time" (time "11:54")
+L 03/25/2015 - 20:56:37: "FapToBbIu^<108><STEAM_0:4:1307417166><CT>" triggered "latency" (ping "35")
+L 03/25/2015 - 20:56:37: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "61") (hits "14") (kills "13") (headshots "5") (tks "0") (damage "2829") (deaths "10")
+L 03/25/2015 - 20:56:37: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "3") (stomach "0") (leftarm "2") (rightarm "2") (leftleg "2") (rightleg "0")
+L 03/25/2015 - 20:56:37: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "55") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "110") (deaths "3")
+L 03/25/2015 - 20:56:37: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" triggered "time" (time "11:57")
+L 03/25/2015 - 20:56:37: "Subaru | STR<107><STEAM_0:4:1254139288><TERRORIST>" triggered "latency" (ping "95")
+L 03/25/2015 - 20:56:37: "[TOP-MS] FANAT CAXAPA<126><STEAM_0:4:1358449925><SPECTATOR>" triggered "time" (time "0:54")
+L 03/25/2015 - 20:56:37: "[TOP-MS] FANAT CAXAPA<126><STEAM_0:4:1358449925><SPECTATOR>" triggered "latency" (ping "28")
+L 03/25/2015 - 20:56:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "23") (hits "10") (kills "8") (headshots "2") (tks "0") (damage "1638") (deaths "9")
+L 03/25/2015 - 20:56:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "2") (stomach "1") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 20:56:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 20:56:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" triggered "time" (time "10:17")
+L 03/25/2015 - 20:56:37: "Scorp STR<115><STEAM_0:4:438290035><TERRORIST>" triggered "latency" (ping "58")
+L 03/25/2015 - 20:56:37: "la la la<109><STEAM_0:4:779000654><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "46") (hits "13") (kills "10") (headshots "3") (tks "0") (damage "2066") (deaths "13")
+L 03/25/2015 - 20:56:37: "la la la<109><STEAM_0:4:779000654><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "1") (stomach "0") (leftarm "7") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/25/2015 - 20:56:37: "la la la<109><STEAM_0:4:779000654><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "122") (deaths "2")
+L 03/25/2015 - 20:56:37: "la la la<109><STEAM_0:4:779000654><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "la la la<109><STEAM_0:4:779000654><TERRORIST>" triggered "time" (time "11:52")
+L 03/25/2015 - 20:56:37: "la la la<109><STEAM_0:4:779000654><TERRORIST>" triggered "latency" (ping "54")
+L 03/25/2015 - 20:56:37: "KOT3<116><STEAM_0:4:1778621262><CT>" triggered "weaponstats" (weapon "awp") (shots "30") (hits "9") (kills "9") (headshots "1") (tks "0") (damage "1300") (deaths "9")
+L 03/25/2015 - 20:56:37: "KOT3<116><STEAM_0:4:1778621262><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "0") (leftarm "5") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "KOT3<116><STEAM_0:4:1778621262><CT>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 03/25/2015 - 20:56:37: "KOT3<116><STEAM_0:4:1778621262><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 20:56:37: "KOT3<116><STEAM_0:4:1778621262><CT>" triggered "time" (time "10:01")
+L 03/25/2015 - 20:56:37: "KOT3<116><STEAM_0:4:1778621262><CT>" triggered "latency" (ping "32")
+L 03/25/2015 - 20:56:37: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "awp") (shots "33") (hits "7") (kills "6") (headshots "3") (tks "0") (damage "1697") (deaths "9")
+L 03/25/2015 - 20:56:37: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/25/2015 - 20:56:37: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" triggered "time" (time "8:07")
+L 03/25/2015 - 20:56:37: "[Easy_Skill]_LoL#3<119><STEAM_0:4:1412157061><CT>" triggered "latency" (ping "70")
+L 03/25/2015 - 20:56:37: Server cvar "mp_timelimit" = "30.000000"
+L 03/25/2015 - 20:56:37: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/25/2015 - 20:56:37: [META] ini: Read plugin config for: AMX Mod X
+L 03/25/2015 - 20:56:37: [META] ini: Read plugin config for: dproto_EF
+L 03/25/2015 - 20:56:37: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/25/2015 - 20:56:37: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/25/2015 - 20:56:37: [META] dll: Updating plugins...
+L 03/25/2015 - 20:56:37: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/25/2015 - 20:56:37: Log file closed

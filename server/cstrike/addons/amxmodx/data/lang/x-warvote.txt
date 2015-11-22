@@ -1,0 +1,7 @@
+[en]
+failed = Voting failed (yes "%d") (no "%d") (not voted "%d") (needed "%d")
+notallowed = Voting not allowed at this time
+
+[ru]
+failed = Голосование неуспешно (за "%d") (против "%d") (воздержалось "%d") (требуется "%d")
+notallowed = Голосование не разрешено в данный момент

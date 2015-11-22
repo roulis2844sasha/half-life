@@ -1,0 +1,54 @@
+L 03/13/2015 - 17:14:36: Log file started (file "logs/L0313018.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/13/2015 - 17:14:36: Server cvar "mp_logdetail" = "3"
+L 03/13/2015 - 17:14:44: World triggered "Round_Start"
+L 03/13/2015 - 17:15:00: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3925f08
+L 03/13/2015 - 17:15:00: "[Hard_Skill]_Extazy<1><STEAM_0:0:1814174262><>" connected, address "10.19.7.134:27005"
+L 03/13/2015 - 17:15:00: [VTC] Player 1 speex
+L 03/13/2015 - 17:15:09: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3925f08
+L 03/13/2015 - 17:15:09: "[Hard_Skill]_Extazy<2><STEAM_0:0:1814174262><>" connected, address "10.19.7.134:27005"
+L 03/13/2015 - 17:15:09: [VTC] Player 1 speex
+L 03/13/2015 - 17:15:16: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb392adfc
+L 03/13/2015 - 17:15:16: "anton135<3><STEAM_0:0:1070535545><>" connected, address "176.215.163.159:27005"
+L 03/13/2015 - 17:15:16: [VTC] Player 2 speex
+L 03/13/2015 - 17:15:19: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb392adfc
+L 03/13/2015 - 17:15:19: "anton135<4><STEAM_0:0:1070535545><>" connected, address "176.215.163.159:27005"
+L 03/13/2015 - 17:15:20: [VTC] Player 2 speex
+L 03/13/2015 - 17:15:21: [DPROTO]: Client 2 - Set AuthIdType 7 [HLTV]; pClient = 0xb392fcf0
+L 03/13/2015 - 17:15:21: "3POuHuK0BCKy<5><HLTV><>" connected, address "178.120.8.174:38543"
+L 03/13/2015 - 17:15:24: [DPROTO]: Client 2 - Set AuthIdType 7 [HLTV]; pClient = 0xb392fcf0
+L 03/13/2015 - 17:15:24: "3POuHuK0BCKy<6><HLTV><>" connected, address "178.120.8.174:38543"
+L 03/13/2015 - 17:15:24: "anton135<4><STEAM_0:0:1070535545><>" entered the game
+L 03/13/2015 - 17:15:25: [DPROTO]: banned ip 178.120.8.174 for 120.000000 minutes for fake players spamming or protocol violations
+L 03/13/2015 - 17:15:26: "anton135<4><STEAM_0:0:1070535545><>" joined team "TERRORIST"
+L 03/13/2015 - 17:15:26: "[Hard_Skill]_Extazy<2><STEAM_0:0:1814174262><>" entered the game
+L 03/13/2015 - 17:15:33: "anton135<4><STEAM_0:0:1070535545><TERRORIST>" triggered "time" (time "0:09")
+L 03/13/2015 - 17:15:33: "anton135<4><STEAM_0:0:1070535545><TERRORIST>" triggered "latency" (ping "0")
+L 03/13/2015 - 17:15:33: "anton135<4><STEAM_0:0:1070535545><TERRORIST>" disconnected
+L 03/13/2015 - 17:15:33: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/13/2015 - 17:15:33: World triggered "Round_End"
+L 03/13/2015 - 17:15:34: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb392adfc
+L 03/13/2015 - 17:15:34: "anton135<7><STEAM_0:0:1070535545><>" connected, address "176.215.163.159:27005"
+L 03/13/2015 - 17:15:34: [VTC] Player 2 speex
+L 03/13/2015 - 17:15:38: "anton135<7><STEAM_0:0:1070535545><>" entered the game
+L 03/13/2015 - 17:15:43: World triggered "Round_Start"
+L 03/13/2015 - 17:15:46: "[Hard_Skill]_Extazy<2><STEAM_0:0:1814174262><UNASSIGNED>" triggered "time" (time "0:19")
+L 03/13/2015 - 17:15:46: "[Hard_Skill]_Extazy<2><STEAM_0:0:1814174262><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/13/2015 - 17:15:46: "anton135<7><STEAM_0:0:1070535545><UNASSIGNED>" triggered "time" (time "0:07")
+L 03/13/2015 - 17:15:46: "anton135<7><STEAM_0:0:1070535545><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/13/2015 - 17:15:46: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/13/2015 - 17:15:46: [META] ini: Read plugin config for: AMX Mod X
+L 03/13/2015 - 17:15:46: [META] ini: Read plugin config for: dproto_EF
+L 03/13/2015 - 17:15:46: [META] ini: Read plugin config for: mmtimer
+L 03/13/2015 - 17:15:46: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/13/2015 - 17:15:46: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/13/2015 - 17:15:46: [META] dll: Updating plugins...
+L 03/13/2015 - 17:15:46: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/13/2015 - 17:15:46: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/13/2015 - 17:15:46: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/13/2015 - 17:15:46: "[Hard_Skill]_Extazy<2><STEAM_0:0:1814174262><>" disconnected
+L 03/13/2015 - 17:15:46: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/13/2015 - 17:15:46: World triggered "Round_End"
+L 03/13/2015 - 17:15:46: "anton135<7><STEAM_0:0:1070535545><>" disconnected
+L 03/13/2015 - 17:15:46: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/13/2015 - 17:15:46: World triggered "Round_End"
+L 03/13/2015 - 17:15:46: Log file closed

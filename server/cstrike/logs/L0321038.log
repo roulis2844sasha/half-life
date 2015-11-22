@@ -1,0 +1,411 @@
+L 03/21/2015 - 20:23:38: Log file started (file "logs/L0321038.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/21/2015 - 20:23:38: Loading map "awp_lol"
+L 03/21/2015 - 20:23:38: Server cvars start
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_debug_level" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_examine_time" = "0.5"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_look_angle" = "10"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_look_distance" = "200"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_message_repeats" = "5"
+L 03/21/2015 - 20:23:38: Server cvar "_tutor_view_distance" = "1000"
+L 03/21/2015 - 20:23:38: Server cvar "aesp_version" = "1.5b_mini"
+L 03/21/2015 - 20:23:38: Server cvar "allow_spectators" = "4"
+L 03/21/2015 - 20:23:38: Server cvar "amx_client_languages" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/21/2015 - 20:23:38: Server cvar "amx_language" = "ru"
+L 03/21/2015 - 20:23:38: Server cvar "amx_nextmap" = "awp_lol"
+L 03/21/2015 - 20:23:38: Server cvar "amx_timeleft" = "00:00"
+L 03/21/2015 - 20:23:38: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/21/2015 - 20:23:38: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/21/2015 - 20:23:38: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Config" = "Loaded"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Replace" = "Failed"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Status" = "Loaded"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/21/2015 - 20:23:38: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/21/2015 - 20:23:38: Server cvar "coop" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "deathmatch" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "decalfrequency" = "9"
+L 03/21/2015 - 20:23:38: Server cvar "dp_version" = "0.9.391"
+L 03/21/2015 - 20:23:38: Server cvar "edgefriction" = "2"
+L 03/21/2015 - 20:23:38: Server cvar "hostage_debug" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "hostage_stop" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "humans_join_team" = "any"
+L 03/21/2015 - 20:23:38: Server cvar "jtp10181" = "chute"
+L 03/21/2015 - 20:23:38: Server cvar "max_queries_sec" = "3.0"
+L 03/21/2015 - 20:23:38: Server cvar "max_queries_sec_global" = "30"
+L 03/21/2015 - 20:23:38: Server cvar "max_queries_window" = "60"
+L 03/21/2015 - 20:23:38: Server cvar "metamod_version" = "1.19"
+L 03/21/2015 - 20:23:38: Server cvar "mp_allowmonsters" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_autokick" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_autoteambalance" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_buytime" = "1.5"
+L 03/21/2015 - 20:23:38: Server cvar "mp_c4timer" = "35"
+L 03/21/2015 - 20:23:38: Server cvar "mp_chattime" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_consistency" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_fadetoblack" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_flashlight" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_footsteps" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_forcecamera" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_forcechasecam" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_fragsleft" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_freezetime" = "5"
+L 03/21/2015 - 20:23:38: Server cvar "mp_friendlyfire" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_hostagepenalty" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_kickpercent" = "0.66"
+L 03/21/2015 - 20:23:38: Server cvar "mp_limitteams" = "5"
+L 03/21/2015 - 20:23:38: Server cvar "mp_logdetail" = "3"
+L 03/21/2015 - 20:23:38: Server cvar "mp_logfile" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_logmessages" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/21/2015 - 20:23:38: Server cvar "mp_maxrounds" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_mirrordamage" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_playerid" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_roundtime" = "2.57"
+L 03/21/2015 - 20:23:38: Server cvar "mp_startmoney" = "800"
+L 03/21/2015 - 20:23:38: Server cvar "mp_timeleft" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "mp_timelimit" = "30.000000"
+L 03/21/2015 - 20:23:38: Server cvar "mp_tkpunish" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_windifference" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "mp_winlimit" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "pausable" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_accelerate" = "5"
+L 03/21/2015 - 20:23:38: Server cvar "sv_aim" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_airaccelerate" = "10"
+L 03/21/2015 - 20:23:38: Server cvar "sv_airmove" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "sv_allowupload" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "sv_alltalk" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_bounce" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "sv_cheats" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_clienttrace" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "sv_clipmode" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_contact" = ""
+L 03/21/2015 - 20:23:38: Server cvar "sv_friction" = "4"
+L 03/21/2015 - 20:23:38: Server cvar "sv_gravity" = "800"
+L 03/21/2015 - 20:23:38: Server cvar "sv_logblocks" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_maxrate" = "50000"
+L 03/21/2015 - 20:23:38: Server cvar "sv_maxspeed" = "900"
+L 03/21/2015 - 20:23:38: Server cvar "sv_minrate" = "100000"
+L 03/21/2015 - 20:23:38: Server cvar "sv_password" = ""
+L 03/21/2015 - 20:23:38: Server cvar "sv_proxies" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_region" = "255"
+L 03/21/2015 - 20:23:38: Server cvar "sv_restart" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_restartround" = "0"
+L 03/21/2015 - 20:23:38: Server cvar "sv_stepsize" = "18"
+L 03/21/2015 - 20:23:38: Server cvar "sv_stopspeed" = "75"
+L 03/21/2015 - 20:23:38: Server cvar "sv_uploadmax" = "0.5"
+L 03/21/2015 - 20:23:38: Server cvar "sv_voiceenable" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "sv_wateraccelerate" = "10"
+L 03/21/2015 - 20:23:38: Server cvar "sv_waterfriction" = "1"
+L 03/21/2015 - 20:23:38: Server cvar "vtc_version" = "80"
+L 03/21/2015 - 20:23:38: Server cvars end
+L 03/21/2015 - 20:23:38: Server cvar "amx_nextmap" = "he_tennis"
+L 03/21/2015 - 20:23:38: Server cvar "sv_restart" = "1"
+L 03/21/2015 - 20:23:38: World triggered "Restart_Round_(1_second)"
+L 03/21/2015 - 20:23:38: Team "CT" scored "0" with "0" players
+L 03/21/2015 - 20:23:38: Team "TERRORIST" scored "0" with "0" players
+L 03/21/2015 - 20:23:38: Server cvar "sv_restart" = "0"
+L 03/21/2015 - 20:23:39: Started map "awp_lol" (CRC "599279411")
+L 03/21/2015 - 20:23:39: [VTC] Player 1 speex
+L 03/21/2015 - 20:23:39: [VTC] Player 2 speex
+L 03/21/2015 - 20:23:39: [VTC] Player 4 speex
+L 03/21/2015 - 20:23:39: [VTC] Player 6 speex
+L 03/21/2015 - 20:23:39: [VTC] Player 8 silk
+L 03/21/2015 - 20:23:39: [VTC] Player 5 speex
+L 03/21/2015 - 20:23:40: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39b4dfc
+L 03/21/2015 - 20:23:40: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61709"
+L 03/21/2015 - 20:23:40: [VTC] Player 2 speex
+L 03/21/2015 - 20:23:43: [VTC] Player 10 speex
+L 03/21/2015 - 20:23:43: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><>" entered the game
+L 03/21/2015 - 20:23:44: World triggered "Round_Start"
+L 03/21/2015 - 20:23:45: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39d27b4
+L 03/21/2015 - 20:23:45: "GG<170><STEAM_0:0:88702332><>" connected, address "31.132.176.132:3089"
+L 03/21/2015 - 20:23:45: [VTC] Player 8 silk
+L 03/21/2015 - 20:23:45: "GG<170><STEAM_0:0:88702332><>" STEAM USERID validated
+L 03/21/2015 - 20:23:46: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39c89cc
+L 03/21/2015 - 20:23:46: "matvei nub<171><STEAM_0:0:1771118830><>" connected, address "37.212.11.197:18625"
+L 03/21/2015 - 20:23:46: [VTC] Player 6 speex
+L 03/21/2015 - 20:23:47: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><>" joined team "CT"
+L 03/21/2015 - 20:23:48: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dc59c
+L 03/21/2015 - 20:23:48: "Nuid<172><STEAM_0:4:1932038250><>" connected, address "109.194.13.79:27005"
+L 03/21/2015 - 20:23:48: [VTC] Player 10 speex
+L 03/21/2015 - 20:23:49: "GG<170><STEAM_0:0:88702332><>" entered the game
+L 03/21/2015 - 20:23:52: "matvei nub<171><STEAM_0:0:1771118830><>" entered the game
+L 03/21/2015 - 20:23:53: "Nuid<172><STEAM_0:4:1932038250><>" entered the game
+L 03/21/2015 - 20:23:53: "GG<170><STEAM_0:0:88702332><>" joined team "CT"
+L 03/21/2015 - 20:23:56: "Nuid<172><STEAM_0:4:1932038250><>" joined team "CT"
+L 03/21/2015 - 20:23:56: "matvei nub<171><STEAM_0:0:1771118830><>" joined team "TERRORIST"
+L 03/21/2015 - 20:23:56: World triggered "Game_Commencing"
+L 03/21/2015 - 20:23:56: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/21/2015 - 20:23:56: World triggered "Round_End"
+L 03/21/2015 - 20:24:04: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39aff08
+L 03/21/2015 - 20:24:04: "[Hard_Skill]_Lexa kosmonaft<173><STEAM_0:0:226379933><>" connected, address "37.212.11.197:15471"
+L 03/21/2015 - 20:24:04: [VTC] Player 1 speex
+L 03/21/2015 - 20:24:04: World triggered "Round_Start"
+L 03/21/2015 - 20:24:09: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39aff08
+L 03/21/2015 - 20:24:09: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><>" connected, address "37.212.11.197:15471"
+L 03/21/2015 - 20:24:09: [VTC] Player 1 speex
+L 03/21/2015 - 20:24:09: "GG<170><STEAM_0:0:88702332><CT>" committed suicide with "worldspawn" (world)
+L 03/21/2015 - 20:24:13: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><>" entered the game
+L 03/21/2015 - 20:24:15: "Nuid<172><STEAM_0:4:1932038250><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "444") (damage_armor "0") (health "-344") (armor "0")
+L 03/21/2015 - 20:24:15: "Nuid<172><STEAM_0:4:1932038250><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:24:15: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/21/2015 - 20:24:15: World triggered "Round_End"
+L 03/21/2015 - 20:24:17: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/21/2015 - 20:24:18: "Nuid<172><STEAM_0:4:1932038250><CT>" committed suicide with "world"
+L 03/21/2015 - 20:24:18: "Nuid<172><STEAM_0:4:1932038250><CT>" joined team "TERRORIST"
+L 03/21/2015 - 20:24:25: World triggered "Round_Start"
+L 03/21/2015 - 20:24:35: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-79") (armor "98")
+L 03/21/2015 - 20:24:35: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:24:45: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/21/2015 - 20:24:45: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:24:46: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/21/2015 - 20:24:46: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "knife"
+L 03/21/2015 - 20:24:51: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/21/2015 - 20:24:51: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:24:51: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/21/2015 - 20:24:51: World triggered "Round_End"
+L 03/21/2015 - 20:25:01: World triggered "Round_Start"
+L 03/21/2015 - 20:25:08: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "452") (damage_armor "0") (health "-352") (armor "0")
+L 03/21/2015 - 20:25:08: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:25:31: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:25:31: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:25:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 03/21/2015 - 20:25:31: World triggered "Round_End"
+L 03/21/2015 - 20:25:41: World triggered "Round_Start"
+L 03/21/2015 - 20:25:59: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:26:00: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 20:26:00: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "knife"
+L 03/21/2015 - 20:26:04: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:26:04: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:26:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 03/21/2015 - 20:26:04: World triggered "Round_End"
+L 03/21/2015 - 20:26:14: World triggered "Round_Start"
+L 03/21/2015 - 20:26:18: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/21/2015 - 20:26:18: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:26:23: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/21/2015 - 20:26:23: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:26:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/21/2015 - 20:26:23: World triggered "Round_End"
+L 03/21/2015 - 20:26:33: World triggered "Round_Start"
+L 03/21/2015 - 20:26:43: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:26:43: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:26:47: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-384") (armor "94")
+L 03/21/2015 - 20:26:47: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:27:08: "GG<170><STEAM_0:0:88702332><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:27:08: "GG<170><STEAM_0:0:88702332><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:27:08: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 03/21/2015 - 20:27:08: World triggered "Round_End"
+L 03/21/2015 - 20:27:18: World triggered "Round_Start"
+L 03/21/2015 - 20:27:23: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/21/2015 - 20:27:23: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:27:30: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/21/2015 - 20:27:31: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/21/2015 - 20:27:31: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:27:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 03/21/2015 - 20:27:31: World triggered "Round_End"
+L 03/21/2015 - 20:27:41: World triggered "Round_Start"
+L 03/21/2015 - 20:27:46: "GG<170><STEAM_0:0:88702332><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/21/2015 - 20:27:46: "GG<170><STEAM_0:0:88702332><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:27:46: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "452") (damage_armor "0") (health "-352") (armor "0")
+L 03/21/2015 - 20:27:46: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:28:03: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:28:03: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "80") (damage_armor "2") (health "-45") (armor "98")
+L 03/21/2015 - 20:28:03: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:28:03: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 03/21/2015 - 20:28:03: World triggered "Round_End"
+L 03/21/2015 - 20:28:13: World triggered "Round_Start"
+L 03/21/2015 - 20:28:28: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:28:28: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:28:28: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:28:28: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/21/2015 - 20:28:29: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/21/2015 - 20:28:29: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/21/2015 - 20:28:30: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:28:30: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:28:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 03/21/2015 - 20:28:30: World triggered "Round_End"
+L 03/21/2015 - 20:28:40: World triggered "Round_Start"
+L 03/21/2015 - 20:28:45: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:28:45: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:28:55: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "452") (damage_armor "0") (health "-355") (armor "0")
+L 03/21/2015 - 20:28:55: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:29:43: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:29:44: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 20:29:44: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife"
+L 03/21/2015 - 20:29:47: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/21/2015 - 20:29:47: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "knife"
+L 03/21/2015 - 20:29:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 03/21/2015 - 20:29:47: World triggered "Round_End"
+L 03/21/2015 - 20:29:57: World triggered "Round_Start"
+L 03/21/2015 - 20:30:03: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/21/2015 - 20:30:03: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:30:03: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39b9cf0
+L 03/21/2015 - 20:30:03: "tolik ebolik<175><STEAM_0:0:1538445346><>" connected, address "37.215.183.88:48519"
+L 03/21/2015 - 20:30:04: [VTC] Player 3 speex
+L 03/21/2015 - 20:30:09: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39b9cf0
+L 03/21/2015 - 20:30:09: "tolik ebolik<176><STEAM_0:0:1538445346><>" connected, address "37.215.183.88:48519"
+L 03/21/2015 - 20:30:10: [VTC] Player 3 speex
+L 03/21/2015 - 20:30:17: "tolik ebolik<176><STEAM_0:0:1538445346><>" entered the game
+L 03/21/2015 - 20:30:24: "tolik ebolik<176><STEAM_0:0:1538445346><>" joined team "CT"
+L 03/21/2015 - 20:30:25: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "114") (damage_armor "0") (health "-29") (armor "0")
+L 03/21/2015 - 20:30:25: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:30:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "7")
+L 03/21/2015 - 20:30:25: World triggered "Round_End"
+L 03/21/2015 - 20:30:35: World triggered "Round_Start"
+L 03/21/2015 - 20:30:43: "GG<170><STEAM_0:0:88702332><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/21/2015 - 20:30:44: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-98") (armor "0")
+L 03/21/2015 - 20:30:44: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:30:45: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "81") (damage_armor "2") (health "7") (armor "98")
+L 03/21/2015 - 20:30:46: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "111") (damage_armor "1") (health "-104") (armor "97")
+L 03/21/2015 - 20:30:46: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:30:47: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:30:48: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/21/2015 - 20:30:48: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "knife"
+L 03/21/2015 - 20:30:50: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:30:50: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:30:50: Team "CT" triggered "CTs_Win" (CT "5") (T "7")
+L 03/21/2015 - 20:30:50: World triggered "Round_End"
+L 03/21/2015 - 20:31:00: World triggered "Round_Start"
+L 03/21/2015 - 20:31:05: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "tolik ebolik<176><STEAM_0:0:1538445346><CT>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "0")
+L 03/21/2015 - 20:31:07: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "tolik ebolik<176><STEAM_0:0:1538445346><CT>" with "awp" (damage "111") (damage_armor "0") (health "-93") (armor "0")
+L 03/21/2015 - 20:31:07: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "tolik ebolik<176><STEAM_0:0:1538445346><CT>" with "awp"
+L 03/21/2015 - 20:31:11: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:31:11: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:31:14: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "142") (damage_armor "0") (health "-47") (armor "0")
+L 03/21/2015 - 20:31:14: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:31:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 03/21/2015 - 20:31:14: World triggered "Round_End"
+L 03/21/2015 - 20:31:24: World triggered "Round_Start"
+L 03/21/2015 - 20:31:37: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/21/2015 - 20:31:37: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:31:46: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:31:46: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "0")
+L 03/21/2015 - 20:31:52: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "tolik ebolik<176><STEAM_0:0:1538445346><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:31:54: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:31:57: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-99") (armor "0")
+L 03/21/2015 - 20:31:57: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:31:59: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "tolik ebolik<176><STEAM_0:0:1538445346><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 20:31:59: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "tolik ebolik<176><STEAM_0:0:1538445346><CT>" with "knife"
+L 03/21/2015 - 20:32:03: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "142") (damage_armor "0") (health "-107") (armor "0")
+L 03/21/2015 - 20:32:03: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:32:06: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "114") (damage_armor "0") (health "-79") (armor "0")
+L 03/21/2015 - 20:32:06: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:32:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 03/21/2015 - 20:32:06: World triggered "Round_End"
+L 03/21/2015 - 20:32:13: "tolik ebolik<176><STEAM_0:0:1538445346><CT>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/21/2015 - 20:32:13: "tolik ebolik<176><STEAM_0:0:1538445346><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:32:13: "tolik ebolik<176><STEAM_0:0:1538445346><CT>" triggered "time" (time "1:55")
+L 03/21/2015 - 20:32:13: "tolik ebolik<176><STEAM_0:0:1538445346><CT>" triggered "latency" (ping "62")
+L 03/21/2015 - 20:32:13: "tolik ebolik<176><STEAM_0:0:1538445346><CT>" disconnected
+L 03/21/2015 - 20:32:15: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb39b9cf0
+L 03/21/2015 - 20:32:15: "h4rd[V]<177><STEAM_0:0:105245523><>" connected, address "178.120.214.83:15199"
+L 03/21/2015 - 20:32:15: [VTC] Player 3 silk
+L 03/21/2015 - 20:32:16: World triggered "Round_Start"
+L 03/21/2015 - 20:32:19: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/21/2015 - 20:32:19: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:32:53: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:32:53: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:32:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "10")
+L 03/21/2015 - 20:32:53: World triggered "Round_End"
+L 03/21/2015 - 20:33:03: World triggered "Round_Start"
+L 03/21/2015 - 20:33:08: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp" (damage "440") (damage_armor "0") (health "-340") (armor "0")
+L 03/21/2015 - 20:33:08: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" with "awp"
+L 03/21/2015 - 20:33:12: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:33:12: "GG<170><STEAM_0:0:88702332><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:33:12: "GG<170><STEAM_0:0:88702332><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:33:16: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-29") (armor "98")
+L 03/21/2015 - 20:33:16: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:33:16: Team "CT" triggered "CTs_Win" (CT "6") (T "10")
+L 03/21/2015 - 20:33:16: World triggered "Round_End"
+L 03/21/2015 - 20:33:26: World triggered "Round_Start"
+L 03/21/2015 - 20:33:30: "GG<170><STEAM_0:0:88702332><CT>" committed suicide with "worldspawn" (world)
+L 03/21/2015 - 20:33:36: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/21/2015 - 20:33:36: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:33:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "11")
+L 03/21/2015 - 20:33:36: World triggered "Round_End"
+L 03/21/2015 - 20:33:46: World triggered "Round_Start"
+L 03/21/2015 - 20:34:00: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:34:01: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 20:34:01: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "knife"
+L 03/21/2015 - 20:34:05: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/21/2015 - 20:34:05: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:34:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "12")
+L 03/21/2015 - 20:34:05: World triggered "Round_End"
+L 03/21/2015 - 20:34:15: World triggered "Round_Start"
+L 03/21/2015 - 20:34:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "awp" (damage "84") (damage_armor "0") (health "-49") (armor "0")
+L 03/21/2015 - 20:34:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" killed "GG<170><STEAM_0:0:88702332><CT>" with "awp"
+L 03/21/2015 - 20:34:47: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/21/2015 - 20:34:49: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/21/2015 - 20:34:49: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/21/2015 - 20:34:51: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" attacked "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp" (damage "112") (damage_armor "0") (health "-19") (armor "0")
+L 03/21/2015 - 20:34:51: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" killed "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" with "awp"
+L 03/21/2015 - 20:34:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "13")
+L 03/21/2015 - 20:34:51: World triggered "Round_End"
+L 03/21/2015 - 20:35:01: World triggered "Round_Start"
+L 03/21/2015 - 20:35:08: "GG<170><STEAM_0:0:88702332><CT>" attacked "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 20:35:08: "GG<170><STEAM_0:0:88702332><CT>" killed "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/21/2015 - 20:35:17: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" attacked "GG<170><STEAM_0:0:88702332><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/21/2015 - 20:35:17: "GG<170><STEAM_0:0:88702332><CT>" attacked "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-27") (armor "0")
+L 03/21/2015 - 20:35:17: "GG<170><STEAM_0:0:88702332><CT>" killed "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/21/2015 - 20:35:20: "matvei nub<171><STEAM_0:0:1771118830><TERRORIST>" joined team "SPECTATOR"
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "50") (hits "9") (kills "9") (headshots "1") (tks "0") (damage "1351") (deaths "3")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "1") (leftarm "1") (rightarm "4") (leftleg "1") (rightleg "0")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "390") (deaths "5")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "2") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "11:25")
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "32")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "awp") (shots "59") (hits "12") (kills "11") (headshots "3") (tks "0") (damage "2362") (deaths "5")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "3") (stomach "1") (leftarm "3") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "230") (deaths "8")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "time" (time "11:55")
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" triggered "latency" (ping "21")
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "32") (hits "9") (kills "8") (headshots "1") (tks "0") (damage "1349") (deaths "2")
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "3") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "33") (hits "8") (kills "3") (headshots "0") (tks "0") (damage "780") (deaths "6")
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "1") (stomach "3") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" triggered "time" (time "11:46")
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" triggered "latency" (ping "50")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "weaponstats" (weapon "awp") (shots "60") (hits "12") (kills "10") (headshots "1") (tks "0") (damage "1586") (deaths "7")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "3") (stomach "0") (leftarm "5") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "weaponstats" (weapon "deagle") (shots "28") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "weaponstats" (weapon "knife") (shots "17") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "7")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "time" (time "11:49")
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" triggered "latency" (ping "64")
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "44") (hits "6") (kills "6") (headshots "2") (tks "0") (damage "1346") (deaths "1")
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "3") (kills "2") (headshots "0") (tks "0") (damage "325") (deaths "6")
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" triggered "time" (time "11:46")
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" triggered "latency" (ping "42")
+L 03/21/2015 - 20:35:39: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/21/2015 - 20:35:39: [META] ini: Read plugin config for: AMX Mod X
+L 03/21/2015 - 20:35:39: [META] ini: Read plugin config for: dproto_EF
+L 03/21/2015 - 20:35:39: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/21/2015 - 20:35:39: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/21/2015 - 20:35:39: [META] dll: Updating plugins...
+L 03/21/2015 - 20:35:39: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/21/2015 - 20:35:39: "[Hard_Skill]_Lexa kosmonaft<174><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/21/2015 - 20:35:39: "[Easy_Skill]_Faza#1<169><STEAM_0:0:969824236><CT>" disconnected
+L 03/21/2015 - 20:35:39: "matvei nub<171><STEAM_0:0:1771118830><SPECTATOR>" disconnected
+L 03/21/2015 - 20:35:39: "GG<170><STEAM_0:0:88702332><CT>" disconnected
+L 03/21/2015 - 20:35:39: "Nuid<172><STEAM_0:4:1932038250><TERRORIST>" disconnected
+L 03/21/2015 - 20:35:39: World triggered "Round_Draw" (CT "6") (T "13")
+L 03/21/2015 - 20:35:39: World triggered "Round_End"
+L 03/21/2015 - 20:35:39: Log file closed

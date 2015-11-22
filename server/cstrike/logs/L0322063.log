@@ -1,0 +1,837 @@
+L 03/22/2015 - 21:51:03: Log file started (file "logs/L0322063.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/22/2015 - 21:51:03: Loading map "awp_lol"
+L 03/22/2015 - 21:51:03: Server cvars start
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_debug_level" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_examine_time" = "0.5"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_look_angle" = "10"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_look_distance" = "200"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_message_repeats" = "5"
+L 03/22/2015 - 21:51:03: Server cvar "_tutor_view_distance" = "1000"
+L 03/22/2015 - 21:51:03: Server cvar "aesp_version" = "1.5b_mini"
+L 03/22/2015 - 21:51:03: Server cvar "allow_spectators" = "4"
+L 03/22/2015 - 21:51:03: Server cvar "amx_client_languages" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/22/2015 - 21:51:03: Server cvar "amx_language" = "ru"
+L 03/22/2015 - 21:51:03: Server cvar "amx_nextmap" = "awp_lol"
+L 03/22/2015 - 21:51:03: Server cvar "amx_timeleft" = "00:00"
+L 03/22/2015 - 21:51:03: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/22/2015 - 21:51:03: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/22/2015 - 21:51:03: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Config" = "Loaded"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Replace" = "Failed"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Status" = "Loaded"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/22/2015 - 21:51:03: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/22/2015 - 21:51:03: Server cvar "coop" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "deathmatch" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "decalfrequency" = "9"
+L 03/22/2015 - 21:51:03: Server cvar "dp_version" = "0.9.391"
+L 03/22/2015 - 21:51:03: Server cvar "edgefriction" = "2"
+L 03/22/2015 - 21:51:03: Server cvar "hostage_debug" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "hostage_stop" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "humans_join_team" = "any"
+L 03/22/2015 - 21:51:03: Server cvar "jtp10181" = "chute"
+L 03/22/2015 - 21:51:03: Server cvar "max_queries_sec" = "3.0"
+L 03/22/2015 - 21:51:03: Server cvar "max_queries_sec_global" = "30"
+L 03/22/2015 - 21:51:03: Server cvar "max_queries_window" = "60"
+L 03/22/2015 - 21:51:03: Server cvar "metamod_version" = "1.19"
+L 03/22/2015 - 21:51:03: Server cvar "mp_allowmonsters" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_autokick" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_autoteambalance" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_buytime" = "1.5"
+L 03/22/2015 - 21:51:03: Server cvar "mp_c4timer" = "35"
+L 03/22/2015 - 21:51:03: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_consistency" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_fadetoblack" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_flashlight" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_footsteps" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_forcecamera" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_forcechasecam" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_fragsleft" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_freezetime" = "5"
+L 03/22/2015 - 21:51:03: Server cvar "mp_friendlyfire" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_hostagepenalty" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_kickpercent" = "0.66"
+L 03/22/2015 - 21:51:03: Server cvar "mp_limitteams" = "5"
+L 03/22/2015 - 21:51:03: Server cvar "mp_logdetail" = "3"
+L 03/22/2015 - 21:51:03: Server cvar "mp_logfile" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_logmessages" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/22/2015 - 21:51:03: Server cvar "mp_maxrounds" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_mirrordamage" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_playerid" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_roundtime" = "2.57"
+L 03/22/2015 - 21:51:03: Server cvar "mp_startmoney" = "800"
+L 03/22/2015 - 21:51:03: Server cvar "mp_timeleft" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 21:51:03: Server cvar "mp_tkpunish" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_windifference" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "mp_winlimit" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "pausable" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_accelerate" = "5"
+L 03/22/2015 - 21:51:03: Server cvar "sv_aim" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_airaccelerate" = "10"
+L 03/22/2015 - 21:51:03: Server cvar "sv_airmove" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "sv_allowupload" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "sv_alltalk" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_bounce" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "sv_cheats" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_clienttrace" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "sv_clipmode" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_contact" = ""
+L 03/22/2015 - 21:51:03: Server cvar "sv_friction" = "4"
+L 03/22/2015 - 21:51:03: Server cvar "sv_gravity" = "800"
+L 03/22/2015 - 21:51:03: Server cvar "sv_logblocks" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_maxrate" = "50000"
+L 03/22/2015 - 21:51:03: Server cvar "sv_maxspeed" = "900"
+L 03/22/2015 - 21:51:03: Server cvar "sv_minrate" = "100000"
+L 03/22/2015 - 21:51:03: Server cvar "sv_password" = ""
+L 03/22/2015 - 21:51:03: Server cvar "sv_proxies" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_region" = "255"
+L 03/22/2015 - 21:51:03: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_restartround" = "0"
+L 03/22/2015 - 21:51:03: Server cvar "sv_stepsize" = "18"
+L 03/22/2015 - 21:51:03: Server cvar "sv_stopspeed" = "75"
+L 03/22/2015 - 21:51:03: Server cvar "sv_uploadmax" = "0.5"
+L 03/22/2015 - 21:51:03: Server cvar "sv_voiceenable" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "sv_wateraccelerate" = "10"
+L 03/22/2015 - 21:51:03: Server cvar "sv_waterfriction" = "1"
+L 03/22/2015 - 21:51:03: Server cvar "travo_statmarquee" = "v1.2"
+L 03/22/2015 - 21:51:03: Server cvar "ultimate_sounds" = "1.7"
+L 03/22/2015 - 21:51:03: Server cvar "vtc_version" = "80"
+L 03/22/2015 - 21:51:03: Server cvars end
+L 03/22/2015 - 21:51:04: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/22/2015 - 21:51:04: Server cvar "sv_restart" = "1"
+L 03/22/2015 - 21:51:04: World triggered "Restart_Round_(1_second)"
+L 03/22/2015 - 21:51:04: Team "CT" scored "0" with "0" players
+L 03/22/2015 - 21:51:04: Team "TERRORIST" scored "0" with "0" players
+L 03/22/2015 - 21:51:04: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 21:51:04: Started map "awp_lol" (CRC "599279411")
+L 03/22/2015 - 21:51:04: [VTC] Player 9 speex
+L 03/22/2015 - 21:51:04: [VTC] Player 5 speex
+L 03/22/2015 - 21:51:04: [VTC] Player 4 speex
+L 03/22/2015 - 21:51:04: [VTC] Player 10 speex
+L 03/22/2015 - 21:51:04: [VTC] Player 2 speex
+L 03/22/2015 - 21:51:05: [VTC] Player 6 speex
+L 03/22/2015 - 21:51:05: [VTC] Player 1 speex
+L 03/22/2015 - 21:51:06: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39a46a8
+L 03/22/2015 - 21:51:06: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61709"
+L 03/22/2015 - 21:51:06: [VTC] Player 9 speex
+L 03/22/2015 - 21:51:06: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a959c
+L 03/22/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><>" connected, address "178.120.164.13:41112"
+L 03/22/2015 - 21:51:07: [VTC] Player 10 speex
+L 03/22/2015 - 21:51:08: "zloe solnishko<454><STEAM_0:4:134224718><>" entered the game
+L 03/22/2015 - 21:51:09: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39959cc
+L 03/22/2015 - 21:51:09: "*_*Daha*_*<467><STEAM_0:0:1771118830><>" connected, address "37.212.11.197:28011"
+L 03/22/2015 - 21:51:09: [VTC] Player 6 speex
+L 03/22/2015 - 21:51:09: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><>" entered the game
+L 03/22/2015 - 21:51:09: [VTC] Player 3 speex
+L 03/22/2015 - 21:51:09: World triggered "Round_Start"
+L 03/22/2015 - 21:51:10: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><>" entered the game
+L 03/22/2015 - 21:51:10: "VIKa:***<463><STEAM_0:0:1429534441><>" entered the game
+L 03/22/2015 - 21:51:10: "zloe solnishko<454><STEAM_0:4:134224718><>" joined team "CT"
+L 03/22/2015 - 21:51:12: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><>" joined team "TERRORIST"
+L 03/22/2015 - 21:51:12: World triggered "Game_Commencing"
+L 03/22/2015 - 21:51:12: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/22/2015 - 21:51:12: World triggered "Round_End"
+L 03/22/2015 - 21:51:13: "Vika*<455><STEAM_0:4:1889913547><>" entered the game
+L 03/22/2015 - 21:51:14: "VIKa:***<463><STEAM_0:0:1429534441><>" joined team "TERRORIST"
+L 03/22/2015 - 21:51:15: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 21:51:15: "[TOP-MS] FANAT CAXAPA<468><STEAM_0:4:2048937221><>" connected, address "178.120.28.93:65227"
+L 03/22/2015 - 21:51:15: [VTC] Player 3 speex
+L 03/22/2015 - 21:51:15: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><>" joined team "CT"
+L 03/22/2015 - 21:51:17: "*_*Daha*_*<467><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 21:51:18: "[TOP-MS] FANAT CAXAPA<468><STEAM_0:4:2048937221><>" entered the game
+L 03/22/2015 - 21:51:20: World triggered "Round_Start"
+L 03/22/2015 - 21:51:24: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 21:51:24: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:51:24: "*_*Daha*_*<467><STEAM_0:0:1771118830><>" joined team "TERRORIST"
+L 03/22/2015 - 21:51:29: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398bbe4
+L 03/22/2015 - 21:51:29: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><>" connected, address "10.19.7.214:27005"
+L 03/22/2015 - 21:51:29: [VTC] Player 4 speex
+L 03/22/2015 - 21:51:29: "Vika*<455><STEAM_0:4:1889913547><>" joined team "CT"
+L 03/22/2015 - 21:51:34: "[TOP-MS] FANAT CAXAPA<468><STEAM_0:4:2048937221><UNASSIGNED>" triggered "time" (time "0:15")
+L 03/22/2015 - 21:51:34: "[TOP-MS] FANAT CAXAPA<468><STEAM_0:4:2048937221><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/22/2015 - 21:51:34: "[TOP-MS] FANAT CAXAPA<468><STEAM_0:4:2048937221><>" disconnected
+L 03/22/2015 - 21:51:36: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:51:36: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp"
+L 03/22/2015 - 21:51:44: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><>" entered the game
+L 03/22/2015 - 21:51:45: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 03/22/2015 - 21:51:45: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:51:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/22/2015 - 21:51:45: World triggered "Round_End"
+L 03/22/2015 - 21:51:52: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399f7b4
+L 03/22/2015 - 21:51:52: "[Easy_Skill]_LoL#3<470><STEAM_0:4:1537134213><>" connected, address "178.127.97.30:27005"
+L 03/22/2015 - 21:51:52: [VTC] Player 8 speex
+L 03/22/2015 - 21:51:55: World triggered "Round_Start"
+L 03/22/2015 - 21:51:57: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399f7b4
+L 03/22/2015 - 21:51:57: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><>" connected, address "178.127.97.30:27005"
+L 03/22/2015 - 21:51:57: [VTC] Player 8 speex
+L 03/22/2015 - 21:51:57: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><>" joined team "CT"
+L 03/22/2015 - 21:52:02: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><>" entered the game
+L 03/22/2015 - 21:52:03: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:52:03: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 21:52:08: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><>" joined team "TERRORIST"
+L 03/22/2015 - 21:52:13: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:52:13: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/22/2015 - 21:52:13: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:52:33: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "11") (damage_armor "0") (health "79") (armor "0")
+L 03/22/2015 - 21:52:33: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "15") (damage_armor "0") (health "64") (armor "0")
+L 03/22/2015 - 21:52:37: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "11") (damage_armor "0") (health "24") (armor "0")
+L 03/22/2015 - 21:52:37: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "105") (damage_armor "0") (health "-98") (armor "0")
+L 03/22/2015 - 21:52:37: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:52:42: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-41") (armor "0")
+L 03/22/2015 - 21:52:42: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 21:53:01: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "224") (damage_armor "0") (health "-124") (armor "0")
+L 03/22/2015 - 21:53:01: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:53:01: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/22/2015 - 21:53:01: World triggered "Round_End"
+L 03/22/2015 - 21:53:11: World triggered "Round_Start"
+L 03/22/2015 - 21:53:14: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 21:53:14: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp"
+L 03/22/2015 - 21:53:16: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/22/2015 - 21:53:16: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 21:53:17: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:53:19: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:53:19: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:53:25: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "114") (damage_armor "0") (health "-29") (armor "0")
+L 03/22/2015 - 21:53:25: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:53:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/22/2015 - 21:53:25: World triggered "Round_End"
+L 03/22/2015 - 21:53:35: World triggered "Round_Start"
+L 03/22/2015 - 21:53:38: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" attacked "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 21:53:38: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "141") (damage_armor "0") (health "-125") (armor "0")
+L 03/22/2015 - 21:53:38: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 21:53:58: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/22/2015 - 21:53:58: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "20") (armor "0")
+L 03/22/2015 - 21:53:59: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-84") (armor "0")
+L 03/22/2015 - 21:53:59: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:54:01: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-23") (armor "0")
+L 03/22/2015 - 21:54:01: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:54:04: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:54:05: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/22/2015 - 21:54:06: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:54:06: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:54:06: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 03/22/2015 - 21:54:06: World triggered "Round_End"
+L 03/22/2015 - 21:54:16: World triggered "Round_Start"
+L 03/22/2015 - 21:54:18: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 21:54:18: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp"
+L 03/22/2015 - 21:54:21: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "444") (damage_armor "0") (health "-344") (armor "0")
+L 03/22/2015 - 21:54:21: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:54:27: Kick: "*_*Daha*_*<467><STEAM_0:0:1771118830><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" triggered "time" (time "3:10")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" triggered "latency" (ping "87")
+L 03/22/2015 - 21:54:27: "*_*Daha*_*<467><STEAM_0:0:1771118830><TERRORIST>" disconnected
+L 03/22/2015 - 21:54:28: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 21:54:28: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 21:54:31: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39959cc
+L 03/22/2015 - 21:54:31: "*_*Daha*_*<472><STEAM_0:0:1771118830><>" connected, address "37.212.11.197:28011"
+L 03/22/2015 - 21:54:32: [VTC] Player 6 speex
+L 03/22/2015 - 21:54:41: "*_*Daha*_*<472><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 21:54:42: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "456") (damage_armor "0") (health "-357") (armor "0")
+L 03/22/2015 - 21:54:42: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:54:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/22/2015 - 21:54:42: World triggered "Round_End"
+L 03/22/2015 - 21:54:46: "*_*Daha*_*<472><STEAM_0:0:1771118830><>" joined team "TERRORIST"
+L 03/22/2015 - 21:54:52: World triggered "Round_Start"
+L 03/22/2015 - 21:55:00: "*_*Daha*_*<472><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:55:01: "*_*Daha*_*<472><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 21:55:01: "*_*Daha*_*<472><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 21:55:02: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "*_*Daha*_*<472><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:55:02: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "*_*Daha*_*<472><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 21:55:05: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:55:06: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/22/2015 - 21:55:06: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:55:14: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "141") (damage_armor "0") (health "-111") (armor "0")
+L 03/22/2015 - 21:55:14: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:55:16: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 21:55:16: "[TOP-MS] FANAT CAXAPA<473><STEAM_0:4:2048937221><>" connected, address "178.120.28.93:65227"
+L 03/22/2015 - 21:55:16: [VTC] Player 3 speex
+L 03/22/2015 - 21:55:19: "[TOP-MS] FANAT CAXAPA<473><STEAM_0:4:2048937221><>" entered the game
+L 03/22/2015 - 21:55:20: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:55:20: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:55:20: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 03/22/2015 - 21:55:20: World triggered "Round_End"
+L 03/22/2015 - 21:55:25: "*_*Daha*_*<472><STEAM_0:0:1771118830><TERRORIST>" changed name to "ma"
+L 03/22/2015 - 21:55:30: World triggered "Round_Start"
+L 03/22/2015 - 21:55:36: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 21:55:36: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "awp"
+L 03/22/2015 - 21:55:38: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 21:55:38: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 21:55:40: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 21:55:40: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:55:41: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "ma<472><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:55:42: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "ma<472><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 21:55:42: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "ma<472><STEAM_0:0:1771118830><TERRORIST>" with "knife"
+L 03/22/2015 - 21:55:45: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "113") (damage_armor "0") (health "-78") (armor "0")
+L 03/22/2015 - 21:55:45: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:55:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 03/22/2015 - 21:55:45: World triggered "Round_End"
+L 03/22/2015 - 21:55:53: "[TOP-MS] FANAT CAXAPA<473><STEAM_0:4:2048937221><>" joined team "SPECTATOR"
+L 03/22/2015 - 21:55:55: World triggered "Round_Start"
+L 03/22/2015 - 21:56:04: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-81") (armor "0")
+L 03/22/2015 - 21:56:04: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:56:06: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "ma<472><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 21:56:06: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "ma<472><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-98") (armor "0")
+L 03/22/2015 - 21:56:06: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "ma<472><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 21:56:11: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:56:12: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 21:56:12: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" with "knife"
+L 03/22/2015 - 21:56:14: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "55") (damage_armor "0") (health "32") (armor "0")
+L 03/22/2015 - 21:56:18: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "0")
+L 03/22/2015 - 21:56:19: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "-70") (armor "0")
+L 03/22/2015 - 21:56:19: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:56:20: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" joined team "SPECTATOR"
+L 03/22/2015 - 21:56:26: Kick: "ma<472><STEAM_0:0:1771118830><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "130") (deaths "2")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" triggered "time" (time "1:45")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" triggered "latency" (ping "73")
+L 03/22/2015 - 21:56:26: "ma<472><STEAM_0:0:1771118830><TERRORIST>" disconnected
+L 03/22/2015 - 21:56:27: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-84") (armor "0")
+L 03/22/2015 - 21:56:27: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:56:27: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 03/22/2015 - 21:56:27: World triggered "Round_End"
+L 03/22/2015 - 21:56:30: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39959cc
+L 03/22/2015 - 21:56:30: "mat<474><STEAM_0:0:1771118830><>" connected, address "37.212.11.197:28011"
+L 03/22/2015 - 21:56:30: [VTC] Player 6 speex
+L 03/22/2015 - 21:56:37: World triggered "Round_Start"
+L 03/22/2015 - 21:56:40: "mat<474><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 21:56:44: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 21:56:44: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 21:56:44: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "114") (damage_armor "0") (health "-102") (armor "0")
+L 03/22/2015 - 21:56:44: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:56:46: "mat<474><STEAM_0:0:1771118830><>" joined team "TERRORIST"
+L 03/22/2015 - 21:56:54: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:56:54: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:56:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 03/22/2015 - 21:56:54: World triggered "Round_End"
+L 03/22/2015 - 21:57:00: "[TOP-MS] FANAT CAXAPA<473><STEAM_0:4:2048937221><SPECTATOR>" triggered "time" (time "1:41")
+L 03/22/2015 - 21:57:00: "[TOP-MS] FANAT CAXAPA<473><STEAM_0:4:2048937221><SPECTATOR>" triggered "latency" (ping "14")
+L 03/22/2015 - 21:57:00: "[TOP-MS] FANAT CAXAPA<473><STEAM_0:4:2048937221><SPECTATOR>" disconnected
+L 03/22/2015 - 21:57:04: World triggered "Round_Start"
+L 03/22/2015 - 21:57:14: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "mat<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:57:14: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "mat<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 21:57:21: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/22/2015 - 21:57:21: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 21:57:21: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:57:21: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "20") (armor "0")
+L 03/22/2015 - 21:57:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-100") (armor "0")
+L 03/22/2015 - 21:57:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:57:25: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-45") (armor "0")
+L 03/22/2015 - 21:57:25: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 21:57:26: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "8") (armor "0")
+L 03/22/2015 - 21:57:28: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-104") (armor "0")
+L 03/22/2015 - 21:57:28: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:57:28: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 03/22/2015 - 21:57:28: World triggered "Round_End"
+L 03/22/2015 - 21:57:38: World triggered "Round_Start"
+L 03/22/2015 - 21:57:40: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 21:57:40: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:57:44: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "mat<474><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:57:44: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "83") (damage_armor "0") (health "-43") (armor "0")
+L 03/22/2015 - 21:57:44: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:57:47: "mat<474><STEAM_0:0:1771118830><TERRORIST>" changed name to "*_*Daha*_*"
+L 03/22/2015 - 21:57:48: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 21:57:48: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 21:57:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 03/22/2015 - 21:57:48: World triggered "Round_End"
+L 03/22/2015 - 21:57:58: World triggered "Round_Start"
+L 03/22/2015 - 21:58:07: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-68") (armor "0")
+L 03/22/2015 - 21:58:07: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:58:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:58:11: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 21:58:11: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife"
+L 03/22/2015 - 21:58:14: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "141") (damage_armor "0") (health "-41") (armor "0")
+L 03/22/2015 - 21:58:14: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:58:19: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "55") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 21:58:21: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-74") (armor "0")
+L 03/22/2015 - 21:58:21: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 21:58:29: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 21:58:29: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:58:29: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 03/22/2015 - 21:58:29: World triggered "Round_End"
+L 03/22/2015 - 21:58:39: World triggered "Round_Start"
+L 03/22/2015 - 21:58:43: "Vika*<455><STEAM_0:4:1889913547><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 21:58:50: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 21:58:50: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 21:58:59: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "114") (damage_armor "0") (health "-77") (armor "0")
+L 03/22/2015 - 21:58:59: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:58:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "7")
+L 03/22/2015 - 21:58:59: World triggered "Round_End"
+L 03/22/2015 - 21:59:09: World triggered "Round_Start"
+L 03/22/2015 - 21:59:21: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "260") (damage_armor "0") (health "-160") (armor "0")
+L 03/22/2015 - 21:59:21: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 21:59:25: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/22/2015 - 21:59:25: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 21:59:28: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 21:59:29: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><SPECTATOR>" say "jq ,kz"
+L 03/22/2015 - 21:59:29: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "456") (damage_armor "0") (health "-356") (armor "0")
+L 03/22/2015 - 21:59:29: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 21:59:33: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-32") (armor "0")
+L 03/22/2015 - 21:59:33: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 21:59:33: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "332") (damage_armor "0") (health "-232") (armor "0")
+L 03/22/2015 - 21:59:33: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 21:59:42: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "85") (damage_armor "0") (health "-50") (armor "0")
+L 03/22/2015 - 21:59:42: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 21:59:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "8")
+L 03/22/2015 - 21:59:42: World triggered "Round_End"
+L 03/22/2015 - 21:59:52: World triggered "Round_Start"
+L 03/22/2015 - 22:00:00: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 22:00:00: "Rakal<475><STEAM_0:4:1031326981><>" connected, address "178.120.173.211:53903"
+L 03/22/2015 - 22:00:00: [VTC] Player 3 speex
+L 03/22/2015 - 22:00:01: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:00:02: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 22:00:03: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:00:03: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:00:05: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:00:05: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/22/2015 - 22:00:06: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/22/2015 - 22:00:06: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "knife"
+L 03/22/2015 - 22:00:07: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "112") (damage_armor "0") (health "-96") (armor "0")
+L 03/22/2015 - 22:00:07: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:00:07: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "112") (damage_armor "0") (health "-25") (armor "0")
+L 03/22/2015 - 22:00:07: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 22:00:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "9")
+L 03/22/2015 - 22:00:07: World triggered "Round_End"
+L 03/22/2015 - 22:00:12: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 22:00:12: "Rakal<476><STEAM_0:4:1031326981><>" connected, address "178.120.173.211:53903"
+L 03/22/2015 - 22:00:12: [VTC] Player 3 speex
+L 03/22/2015 - 22:00:17: World triggered "Round_Start"
+L 03/22/2015 - 22:00:18: "Rakal<476><STEAM_0:4:1031326981><>" entered the game
+L 03/22/2015 - 22:00:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-82") (armor "0")
+L 03/22/2015 - 22:00:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 22:00:24: "Rakal<476><STEAM_0:4:1031326981><>" joined team "CT"
+L 03/22/2015 - 22:00:29: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 22:00:29: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 22:00:39: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-64") (armor "0")
+L 03/22/2015 - 22:00:39: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:00:46: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "260") (damage_armor "0") (health "-170") (armor "0")
+L 03/22/2015 - 22:00:46: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife"
+L 03/22/2015 - 22:01:08: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "0")
+L 03/22/2015 - 22:01:08: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:01:08: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:01:08: Team "CT" triggered "CTs_Win" (CT "7") (T "9")
+L 03/22/2015 - 22:01:08: World triggered "Round_End"
+L 03/22/2015 - 22:01:18: World triggered "Round_Start"
+L 03/22/2015 - 22:01:22: "Vika*<455><STEAM_0:4:1889913547><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:01:24: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "440") (damage_armor "0") (health "-340") (armor "0")
+L 03/22/2015 - 22:01:24: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:01:28: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:01:28: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:02:12: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399a8c0
+L 03/22/2015 - 22:02:12: "Na'vi XyliGan<477><STEAM_0:4:92543566><>" connected, address "37.214.84.162:56579"
+L 03/22/2015 - 22:02:12: [VTC] Player 7 speex
+L 03/22/2015 - 22:02:15: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399a8c0
+L 03/22/2015 - 22:02:15: "Na'vi XyliGan<478><STEAM_0:4:92543566><>" connected, address "37.214.84.162:56579"
+L 03/22/2015 - 22:02:15: [VTC] Player 7 speex
+L 03/22/2015 - 22:02:19: "Na'vi XyliGan<478><STEAM_0:4:92543566><>" entered the game
+L 03/22/2015 - 22:02:26: "Na'vi XyliGan<478><STEAM_0:4:92543566><>" joined team "TERRORIST"
+L 03/22/2015 - 22:02:26: [AMXBans] SteamID 'STEAM_0:4:1031326981' успешно забанен (IP записан). Игрок будет удален с сервера.
+L 03/22/2015 - 22:02:26: "Server<0><><>" triggered "amx_chat" (text "Rakal<STEAM_0:4:1031326981> был забанен на 1 час (60 минут). Причина: Voteban.")
+L 03/22/2015 - 22:02:30: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Rakal<476><STEAM_0:4:1031326981><CT>" with "awp" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 03/22/2015 - 22:02:30: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Rakal<476><STEAM_0:4:1031326981><CT>" with "awp"
+L 03/22/2015 - 22:02:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "10")
+L 03/22/2015 - 22:02:30: World triggered "Round_End"
+L 03/22/2015 - 22:02:36: Kick: "Rakal<476><STEAM_0:4:1031326981><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/22/2015 - 22:02:36: "Rakal<476><STEAM_0:4:1031326981><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 22:02:36: "Rakal<476><STEAM_0:4:1031326981><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:02:36: "Rakal<476><STEAM_0:4:1031326981><CT>" triggered "time" (time "2:17")
+L 03/22/2015 - 22:02:36: "Rakal<476><STEAM_0:4:1031326981><CT>" triggered "latency" (ping "68")
+L 03/22/2015 - 22:02:36: "Rakal<476><STEAM_0:4:1031326981><CT>" disconnected
+L 03/22/2015 - 22:02:40: World triggered "Round_Start"
+L 03/22/2015 - 22:02:45: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:02:49: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/22/2015 - 22:02:49: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:02:50: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:02:50: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 22:02:52: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" with "awp" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 22:02:53: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:02:53: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 22:02:54: "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 22:02:54: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-44") (armor "0")
+L 03/22/2015 - 22:02:54: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" with "awp"
+L 03/22/2015 - 22:02:58: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:02:58: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:02:58: Team "CT" triggered "CTs_Win" (CT "8") (T "10")
+L 03/22/2015 - 22:02:58: World triggered "Round_End"
+L 03/22/2015 - 22:03:08: World triggered "Round_Start"
+L 03/22/2015 - 22:03:09: "*_*Daha*_*<474><STEAM_0:0:1771118830><TERRORIST>" changed name to "$$$$matvei$$$$"
+L 03/22/2015 - 22:03:15: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:03:15: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:03:17: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 03/22/2015 - 22:03:17: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:03:19: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/22/2015 - 22:03:19: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "knife"
+L 03/22/2015 - 22:03:22: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "0")
+L 03/22/2015 - 22:03:23: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-99") (armor "0")
+L 03/22/2015 - 22:03:23: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" with "awp"
+L 03/22/2015 - 22:03:24: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "112") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:03:24: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 22:03:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "11")
+L 03/22/2015 - 22:03:24: World triggered "Round_End"
+L 03/22/2015 - 22:03:29: "Na'vi XyliGan<478><STEAM_0:4:92543566><TERRORIST>" joined team "CT" (auto)
+L 03/22/2015 - 22:03:34: World triggered "Round_Start"
+L 03/22/2015 - 22:03:41: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 22:03:42: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-97") (armor "0")
+L 03/22/2015 - 22:03:42: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:03:47: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:03:47: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" with "awp"
+L 03/22/2015 - 22:04:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-87") (armor "0")
+L 03/22/2015 - 22:04:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:04:24: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 22:04:24: "[TOP-MS] FANAT CAXAPA<479><STEAM_0:4:2048937221><>" connected, address "178.120.28.93:65227"
+L 03/22/2015 - 22:04:24: [VTC] Player 3 speex
+L 03/22/2015 - 22:04:24: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:04:24: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 22:04:24: Team "CT" triggered "CTs_Win" (CT "9") (T "11")
+L 03/22/2015 - 22:04:24: World triggered "Round_End"
+L 03/22/2015 - 22:04:34: World triggered "Round_Start"
+L 03/22/2015 - 22:04:35: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 22:04:35: "[TOP-MS] FANAT CAXAPA<480><STEAM_0:4:2048937221><>" connected, address "178.120.28.93:65227"
+L 03/22/2015 - 22:04:35: [VTC] Player 3 speex
+L 03/22/2015 - 22:04:37: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 22:04:37: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 22:04:38: "[TOP-MS] FANAT CAXAPA<480><STEAM_0:4:2048937221><>" entered the game
+L 03/22/2015 - 22:04:39: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "110") (damage_armor "0") (health "-84") (armor "0")
+L 03/22/2015 - 22:04:39: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:04:42: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "110") (damage_armor "0") (health "-80") (armor "0")
+L 03/22/2015 - 22:04:42: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:04:42: "[TOP-MS] FANAT CAXAPA<480><STEAM_0:4:2048937221><>" joined team "SPECTATOR"
+L 03/22/2015 - 22:04:55: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:04:55: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:04:55: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp"
+L 03/22/2015 - 22:04:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "12")
+L 03/22/2015 - 22:04:55: World triggered "Round_End"
+L 03/22/2015 - 22:04:59: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:04:59: "prost)0)<481><STEAM_0:4:872652930><>" connected, address "188.163.91.193:44673"
+L 03/22/2015 - 22:05:00: [VTC] Player 11 speex
+L 03/22/2015 - 22:05:05: World triggered "Round_Start"
+L 03/22/2015 - 22:05:06: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:05:06: "prost)0)<482><STEAM_0:4:872652930><>" connected, address "188.163.91.193:44673"
+L 03/22/2015 - 22:05:06: [VTC] Player 11 speex
+L 03/22/2015 - 22:05:07: [DPROTO]: Client 11 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b3384
+L 03/22/2015 - 22:05:07: "privet<483><STEAM_0:4:2044874117><>" connected, address "178.121.152.90:47695"
+L 03/22/2015 - 22:05:07: [VTC] Player 12 speex
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "45") (hits "28") (kills "28") (headshots "2") (tks "0") (damage "3784") (deaths "2")
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "13") (stomach "1") (leftarm "8") (rightarm "4") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "10") (kills "3") (headshots "0") (tks "0") (damage "730") (deaths "9")
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "4") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" triggered "time" (time "13:58")
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" triggered "latency" (ping "37")
+L 03/22/2015 - 22:05:08: "|Xyligans|_Zl@9|_P@nD@<466><STEAM_0:4:1383877893><TERRORIST>" disconnected
+L 03/22/2015 - 22:05:09: [DPROTO]: Client 11 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b3384
+L 03/22/2015 - 22:05:09: "privet<484><STEAM_0:4:2044874117><>" connected, address "178.121.152.90:47695"
+L 03/22/2015 - 22:05:09: [VTC] Player 12 speex
+L 03/22/2015 - 22:05:15: "privet<484><STEAM_0:4:2044874117><>" entered the game
+L 03/22/2015 - 22:05:27: "privet<484><STEAM_0:4:2044874117><>" joined team "TERRORIST"
+L 03/22/2015 - 22:05:36: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:05:36: "prost)0)<485><STEAM_0:4:872652930><>" connected, address "188.163.91.193:44673"
+L 03/22/2015 - 22:05:36: [VTC] Player 11 speex
+L 03/22/2015 - 22:05:39: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:05:39: "prost)0)<486><STEAM_0:4:872652930><>" connected, address "188.163.91.193:44673"
+L 03/22/2015 - 22:05:39: [VTC] Player 11 speex
+L 03/22/2015 - 22:05:40: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-95") (armor "0")
+L 03/22/2015 - 22:05:40: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:05:42: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-77") (armor "0")
+L 03/22/2015 - 22:05:42: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:05:43: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/22/2015 - 22:05:43: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 22:05:44: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "15") (damage_armor "0") (health "55") (armor "0")
+L 03/22/2015 - 22:05:44: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "15") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 22:05:45: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife" (damage "60") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 22:05:45: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "knife"
+L 03/22/2015 - 22:05:45: "prost)0)<486><STEAM_0:4:872652930><>" entered the game
+L 03/22/2015 - 22:05:48: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/22/2015 - 22:05:48: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-22") (armor "0")
+L 03/22/2015 - 22:05:48: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 22:05:48: Team "CT" triggered "CTs_Win" (CT "10") (T "12")
+L 03/22/2015 - 22:05:48: World triggered "Round_End"
+L 03/22/2015 - 22:05:48: "prost)0)<486><STEAM_0:4:872652930><>" joined team "TERRORIST"
+L 03/22/2015 - 22:05:58: World triggered "Round_Start"
+L 03/22/2015 - 22:06:04: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-95") (armor "0")
+L 03/22/2015 - 22:06:04: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "knife"
+L 03/22/2015 - 22:06:04: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:06:05: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:06:05: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 22:06:05: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "140") (damage_armor "0") (health "-104") (armor "0")
+L 03/22/2015 - 22:06:05: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:06:05: "privet<484><STEAM_0:4:2044874117><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 22:06:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:06:10: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:06:10: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife"
+L 03/22/2015 - 22:06:12: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-79") (armor "0")
+L 03/22/2015 - 22:06:12: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:06:12: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp" (damage "140") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 22:06:12: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp"
+L 03/22/2015 - 22:06:22: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a959c
+L 03/22/2015 - 22:06:22: "HIRURG<487><STEAM_0:4:647908613><>" connected, address "178.120.96.228:59672"
+L 03/22/2015 - 22:06:22: [VTC] Player 10 speex
+L 03/22/2015 - 22:06:25: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a959c
+L 03/22/2015 - 22:06:25: "HIRURG<488><STEAM_0:4:647908613><>" connected, address "178.120.96.228:59672"
+L 03/22/2015 - 22:06:25: [VTC] Player 10 speex
+L 03/22/2015 - 22:06:26: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "114") (damage_armor "0") (health "-98") (armor "0")
+L 03/22/2015 - 22:06:26: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:06:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "13")
+L 03/22/2015 - 22:06:26: World triggered "Round_End"
+L 03/22/2015 - 22:06:33: "HIRURG<488><STEAM_0:4:647908613><>" entered the game
+L 03/22/2015 - 22:06:36: World triggered "Round_Start"
+L 03/22/2015 - 22:06:38: "HIRURG<488><STEAM_0:4:647908613><>" joined team "CT"
+L 03/22/2015 - 22:06:47: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:06:47: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:06:52: "HIRURG<488><STEAM_0:4:647908613><CT>" attacked "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:06:52: "HIRURG<488><STEAM_0:4:647908613><CT>" killed "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 22:06:53: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 22:06:53: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:07:00: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-26") (armor "0")
+L 03/22/2015 - 22:07:00: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "awp"
+L 03/22/2015 - 22:07:00: "HIRURG<488><STEAM_0:4:647908613><CT>" attacked "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:07:00: "HIRURG<488><STEAM_0:4:647908613><CT>" killed "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "awp"
+L 03/22/2015 - 22:07:00: Team "CT" triggered "CTs_Win" (CT "11") (T "13")
+L 03/22/2015 - 22:07:00: World triggered "Round_End"
+L 03/22/2015 - 22:07:10: World triggered "Round_Start"
+L 03/22/2015 - 22:07:18: "[TOP-MS] FANAT CAXAPA<480><STEAM_0:4:2048937221><SPECTATOR>" triggered "time" (time "2:40")
+L 03/22/2015 - 22:07:18: "[TOP-MS] FANAT CAXAPA<480><STEAM_0:4:2048937221><SPECTATOR>" triggered "latency" (ping "22")
+L 03/22/2015 - 22:07:18: "[TOP-MS] FANAT CAXAPA<480><STEAM_0:4:2048937221><SPECTATOR>" disconnected
+L 03/22/2015 - 22:07:19: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:07:19: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:07:23: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "HIRURG<488><STEAM_0:4:647908613><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 22:07:23: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "HIRURG<488><STEAM_0:4:647908613><CT>" with "awp"
+L 03/22/2015 - 22:07:26: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:07:27: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/22/2015 - 22:07:27: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife"
+L 03/22/2015 - 22:07:31: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:07:32: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "456") (damage_armor "0") (health "-356") (armor "0")
+L 03/22/2015 - 22:07:32: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 22:07:33: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:07:33: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" with "knife"
+L 03/22/2015 - 22:07:36: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:07:36: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:07:41: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><SPECTATOR>" joined team "CT"
+L 03/22/2015 - 22:07:41: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:07:41: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp"
+L 03/22/2015 - 22:07:44: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 22:07:44: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "awp") (shots "23") (hits "4") (kills "3") (headshots "0") (tks "0") (damage "426") (deaths "1")
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" triggered "time" (time "16:36")
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" triggered "latency" (ping "25")
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<465><STEAM_0:0:969824236><CT>" disconnected
+L 03/22/2015 - 22:07:46: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39a46a8
+L 03/22/2015 - 22:07:46: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61709"
+L 03/22/2015 - 22:07:46: [VTC] Player 9 speex
+L 03/22/2015 - 22:07:48: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><>" entered the game
+L 03/22/2015 - 22:07:50: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><>" joined team "TERRORIST"
+L 03/22/2015 - 22:07:52: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "111") (damage_armor "0") (health "-44") (armor "0")
+L 03/22/2015 - 22:07:52: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:07:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "14")
+L 03/22/2015 - 22:07:52: World triggered "Round_End"
+L 03/22/2015 - 22:08:02: World triggered "Round_Start"
+L 03/22/2015 - 22:08:08: "HIRURG<488><STEAM_0:4:647908613><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "awp" (damage "141") (damage_armor "0") (health "-41") (armor "0")
+L 03/22/2015 - 22:08:08: "HIRURG<488><STEAM_0:4:647908613><CT>" killed "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "awp"
+L 03/22/2015 - 22:08:14: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:08:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:08:23: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/22/2015 - 22:08:30: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 22:08:31: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" joined team "SPECTATOR"
+L 03/22/2015 - 22:08:31: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:08:34: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" attacked "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-98") (armor "0")
+L 03/22/2015 - 22:08:34: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" killed "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" with "awp"
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "224") (deaths "1")
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" triggered "time" (time "2:52")
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" triggered "latency" (ping "80")
+L 03/22/2015 - 22:08:38: "prost)0)<486><STEAM_0:4:872652930><TERRORIST>" disconnected
+L 03/22/2015 - 22:08:39: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-19") (armor "0")
+L 03/22/2015 - 22:08:39: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" with "awp"
+L 03/22/2015 - 22:08:45: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" joined team "SPECTATOR"
+L 03/22/2015 - 22:09:20: Kick: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "21") (hits "6") (kills "6") (headshots "1") (tks "0") (damage "993") (deaths "1")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "2") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "19") (hits "6") (kills "1") (headshots "1") (tks "0") (damage "135") (deaths "7")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "4") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" triggered "time" (time "12:40")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" triggered "latency" (ping "104")
+L 03/22/2015 - 22:09:20: "$$$$matvei$$$$<474><STEAM_0:0:1771118830><TERRORIST>" disconnected
+L 03/22/2015 - 22:09:20: Team "CT" triggered "CTs_Win" (CT "12") (T "14")
+L 03/22/2015 - 22:09:20: World triggered "Round_End"
+L 03/22/2015 - 22:09:25: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39959cc
+L 03/22/2015 - 22:09:25: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><>" connected, address "37.212.11.197:28011"
+L 03/22/2015 - 22:09:25: [VTC] Player 6 speex
+L 03/22/2015 - 22:09:30: World triggered "Round_Start"
+L 03/22/2015 - 22:09:34: "Vika*<455><STEAM_0:4:1889913547><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:09:35: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 22:09:37: "HIRURG<488><STEAM_0:4:647908613><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:09:41: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/22/2015 - 22:09:48: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp" (damage "113") (damage_armor "0") (health "-41") (armor "0")
+L 03/22/2015 - 22:09:48: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp"
+L 03/22/2015 - 22:10:00: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-160") (armor "0")
+L 03/22/2015 - 22:10:00: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><CT>" killed "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "knife"
+L 03/22/2015 - 22:10:08: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "$$$$matvei$$$$<490><STEAM_0:0:1771118830><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 22:10:10: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:10:10: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:10:11: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:10:11: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:10:11: Team "CT" triggered "CTs_Win" (CT "13") (T "14")
+L 03/22/2015 - 22:10:11: World triggered "Round_End"
+L 03/22/2015 - 22:10:16: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><CT>" joined team "TERRORIST" (auto)
+L 03/22/2015 - 22:10:16: "HIRURG<488><STEAM_0:4:647908613><CT>" joined team "TERRORIST" (auto)
+L 03/22/2015 - 22:10:21: World triggered "Round_Start"
+L 03/22/2015 - 22:10:26: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 22:10:26: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "privet<484><STEAM_0:4:2044874117><TERRORIST>" with "awp"
+L 03/22/2015 - 22:10:27: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/22/2015 - 22:10:27: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/22/2015 - 22:10:28: "privet<484><STEAM_0:4:2044874117><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "84") (deaths "3")
+L 03/22/2015 - 22:10:28: "privet<484><STEAM_0:4:2044874117><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:10:28: "privet<484><STEAM_0:4:2044874117><TERRORIST>" triggered "time" (time "5:12")
+L 03/22/2015 - 22:10:28: "privet<484><STEAM_0:4:2044874117><TERRORIST>" triggered "latency" (ping "60")
+L 03/22/2015 - 22:10:28: "privet<484><STEAM_0:4:2044874117><TERRORIST>" disconnected
+L 03/22/2015 - 22:10:43: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-37") (armor "0")
+L 03/22/2015 - 22:10:43: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" with "awp"
+L 03/22/2015 - 22:10:55: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" joined team "CT"
+L 03/22/2015 - 22:10:56: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-79") (armor "0")
+L 03/22/2015 - 22:10:56: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:10:56: Team "CT" triggered "CTs_Win" (CT "14") (T "14")
+L 03/22/2015 - 22:10:56: World triggered "Round_End"
+L 03/22/2015 - 22:11:01: "HIRURG<488><STEAM_0:4:647908613><CT>" joined team "TERRORIST" (auto)
+L 03/22/2015 - 22:11:06: World triggered "Round_Start"
+L 03/22/2015 - 22:11:15: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:11:17: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/22/2015 - 22:11:17: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" with "knife"
+L 03/22/2015 - 22:11:19: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp" (damage "114") (damage_armor "0") (health "-23") (armor "0")
+L 03/22/2015 - 22:11:19: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" killed "Vika*<455><STEAM_0:4:1889913547><CT>" with "awp"
+L 03/22/2015 - 22:11:22: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:11:22: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 22:11:22: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:11:24: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:11:24: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/22/2015 - 22:11:27: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:11:27: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" with "awp"
+L 03/22/2015 - 22:11:27: Team "CT" triggered "CTs_Win" (CT "15") (T "14")
+L 03/22/2015 - 22:11:27: World triggered "Round_End"
+L 03/22/2015 - 22:11:37: World triggered "Round_Start"
+L 03/22/2015 - 22:11:45: Kick: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "1")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "260") (deaths "1")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" triggered "time" (time "2:10")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" triggered "latency" (ping "69")
+L 03/22/2015 - 22:11:45: "$$$$matvei$$$$<490><STEAM_0:0:1771118830><TERRORIST>" disconnected
+L 03/22/2015 - 22:11:46: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><SPECTATOR>" joined team "TERRORIST"
+L 03/22/2015 - 22:11:48: "zloe solnishko<454><STEAM_0:4:134224718><CT>" attacked "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 22:11:48: "zloe solnishko<454><STEAM_0:4:134224718><CT>" killed "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" with "awp"
+L 03/22/2015 - 22:11:49: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39959cc
+L 03/22/2015 - 22:11:49: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><>" connected, address "37.212.11.197:28011"
+L 03/22/2015 - 22:11:49: [VTC] Player 6 speex
+L 03/22/2015 - 22:11:57: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" attacked "Vika*<455><STEAM_0:4:1889913547><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:11:58: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 22:11:59: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:11:59: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "knife"
+L 03/22/2015 - 22:11:59: "Vika*<455><STEAM_0:4:1889913547><CT>" attacked "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 22:11:59: "Vika*<455><STEAM_0:4:1889913547><CT>" killed "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" with "awp"
+L 03/22/2015 - 22:11:59: Team "CT" triggered "CTs_Win" (CT "16") (T "14")
+L 03/22/2015 - 22:11:59: World triggered "Round_End"
+L 03/22/2015 - 22:12:01: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 22:12:05: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><>" joined team "TERRORIST"
+L 03/22/2015 - 22:12:09: World triggered "Round_Start"
+L 03/22/2015 - 22:12:13: "Vika*<455><STEAM_0:4:1889913547><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:12:25: "VIKa:***<463><STEAM_0:0:1429534441><SPECTATOR>" joined team "TERRORIST"
+L 03/22/2015 - 22:12:25: Server cvar "amx_nextmap" = "aim_headshot"
+L 03/22/2015 - 22:12:25: Server cvar "mp_timelimit" = "0.000000"
+L 03/22/2015 - 22:12:34: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" attacked "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp" (damage "456") (damage_armor "0") (health "-356") (armor "0")
+L 03/22/2015 - 22:12:34: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" killed "zloe solnishko<454><STEAM_0:4:134224718><CT>" with "awp"
+L 03/22/2015 - 22:12:39: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 22:12:39: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" killed "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 22:12:58: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" attacked "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp" (damage "114") (damage_armor "0") (health "-15") (armor "0")
+L 03/22/2015 - 22:12:58: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" killed "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" with "awp"
+L 03/22/2015 - 22:12:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "15")
+L 03/22/2015 - 22:12:58: World triggered "Round_End"
+L 03/22/2015 - 22:13:08: Server cvar "mp_timelimit" = "0.010000"
+L 03/22/2015 - 22:13:08: World triggered "Round_Start"
+L 03/22/2015 - 22:13:08: Team "CT" scored "16" with "4" players
+L 03/22/2015 - 22:13:08: Team "TERRORIST" scored "15" with "5" players
+L 03/22/2015 - 22:13:08: Server cvar "mp_chattime" = "3"
+L 03/22/2015 - 22:13:09: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 22:13:09: "Vika*<455><STEAM_0:4:1889913547><CT>" triggered "weaponstats" (weapon "awp") (shots "90") (hits "29") (kills "24") (headshots "1") (tks "0") (damage "3448") (deaths "6")
+L 03/22/2015 - 22:13:09: "Vika*<455><STEAM_0:4:1889913547><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "9") (stomach "5") (leftarm "8") (rightarm "3") (leftleg "0") (rightleg "3")
+L 03/22/2015 - 22:13:09: "Vika*<455><STEAM_0:4:1889913547><CT>" triggered "weaponstats" (weapon "knife") (shots "18") (hits "9") (kills "5") (headshots "0") (tks "0") (damage "1105") (deaths "7")
+L 03/22/2015 - 22:13:09: "Vika*<455><STEAM_0:4:1889913547><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/22/2015 - 22:13:09: "Vika*<455><STEAM_0:4:1889913547><CT>" triggered "time" (time "21:55")
+L 03/22/2015 - 22:13:09: "Vika*<455><STEAM_0:4:1889913547><CT>" triggered "latency" (ping "77")
+L 03/22/2015 - 22:13:09: "zloe solnishko<454><STEAM_0:4:134224718><CT>" triggered "weaponstats" (weapon "awp") (shots "80") (hits "28") (kills "26") (headshots "5") (tks "0") (damage "4164") (deaths "6")
+L 03/22/2015 - 22:13:09: "zloe solnishko<454><STEAM_0:4:134224718><CT>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "5") (stomach "2") (leftarm "13") (rightarm "1") (leftleg "1") (rightleg "1")
+L 03/22/2015 - 22:13:09: "zloe solnishko<454><STEAM_0:4:134224718><CT>" triggered "weaponstats" (weapon "knife") (shots "17") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "390") (deaths "13")
+L 03/22/2015 - 22:13:09: "zloe solnishko<454><STEAM_0:4:134224718><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:13:09: "zloe solnishko<454><STEAM_0:4:134224718><CT>" triggered "time" (time "22:00")
+L 03/22/2015 - 22:13:09: "zloe solnishko<454><STEAM_0:4:134224718><CT>" triggered "latency" (ping "34")
+L 03/22/2015 - 22:13:09: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "awp") (shots "45") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "114") (deaths "5")
+L 03/22/2015 - 22:13:09: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "65") (deaths "14")
+L 03/22/2015 - 22:13:09: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" triggered "time" (time "21:24")
+L 03/22/2015 - 22:13:09: "[Hard_Skill]_Dasha<469><STEAM_0:4:1068366041><CT>" triggered "latency" (ping "6")
+L 03/22/2015 - 22:13:09: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "55") (hits "10") (kills "8") (headshots "2") (tks "0") (damage "1806") (deaths "7")
+L 03/22/2015 - 22:13:09: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "2") (stomach "2") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:13:09: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "15") (hits "4") (kills "3") (headshots "1") (tks "0") (damage "455") (deaths "8")
+L 03/22/2015 - 22:13:09: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" triggered "time" (time "21:58")
+L 03/22/2015 - 22:13:09: "VIKa:***<463><STEAM_0:0:1429534441><TERRORIST>" triggered "latency" (ping "25")
+L 03/22/2015 - 22:13:09: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 22:13:09: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 22:13:09: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><TERRORIST>" triggered "time" (time "1:07")
+L 03/22/2015 - 22:13:09: "$$$$matvei$$$$<491><STEAM_0:0:1771118830><TERRORIST>" triggered "latency" (ping "139")
+L 03/22/2015 - 22:13:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" triggered "weaponstats" (weapon "awp") (shots "37") (hits "8") (kills "5") (headshots "0") (tks "0") (damage "878") (deaths "5")
+L 03/22/2015 - 22:13:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "2") (leftarm "1") (rightarm "2") (leftleg "1") (rightleg "1")
+L 03/22/2015 - 22:13:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "5") (kills "3") (headshots "0") (tks "0") (damage "455") (deaths "3")
+L 03/22/2015 - 22:13:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "0")
+L 03/22/2015 - 22:13:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" triggered "time" (time "10:49")
+L 03/22/2015 - 22:13:09: "Na'vi XyliGan<478><STEAM_0:4:92543566><CT>" triggered "latency" (ping "55")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "50") (hits "7") (kills "6") (headshots "1") (tks "0") (damage "1125") (deaths "6")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "37") (hits "8") (kills "1") (headshots "1") (tks "0") (damage "457") (deaths "12")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "3") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "2")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" triggered "time" (time "21:06")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_LoL#3<471><STEAM_0:4:1537134213><TERRORIST>" triggered "latency" (ping "78")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "3") (kills "3") (headshots "1") (tks "0") (damage "682") (deaths "0")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" triggered "time" (time "5:20")
+L 03/22/2015 - 22:13:09: "[Easy_Skill]_Faza#1<489><STEAM_0:0:969824236><TERRORIST>" triggered "latency" (ping "28")
+L 03/22/2015 - 22:13:09: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "15") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "481") (deaths "1")
+L 03/22/2015 - 22:13:09: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "2") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "195") (deaths "3")
+L 03/22/2015 - 22:13:09: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:13:09: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" triggered "time" (time "6:36")
+L 03/22/2015 - 22:13:09: "HIRURG<488><STEAM_0:4:647908613><TERRORIST>" triggered "latency" (ping "50")
+L 03/22/2015 - 22:13:09: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 22:13:09: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/22/2015 - 22:13:09: [META] ini: Read plugin config for: AMX Mod X
+L 03/22/2015 - 22:13:09: [META] ini: Read plugin config for: dproto_EF
+L 03/22/2015 - 22:13:09: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/22/2015 - 22:13:09: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/22/2015 - 22:13:09: [META] dll: Updating plugins...
+L 03/22/2015 - 22:13:09: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/22/2015 - 22:13:09: Log file closed

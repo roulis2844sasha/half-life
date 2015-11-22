@@ -1,0 +1,528 @@
+L 03/29/2015 - 14:36:11: Log file started (file "logs/L0329016.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/29/2015 - 14:36:11: Loading map "de_westwood"
+L 03/29/2015 - 14:36:11: Server cvars start
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_debug_level" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_examine_time" = "0.5"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_look_angle" = "10"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_look_distance" = "200"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_message_repeats" = "5"
+L 03/29/2015 - 14:36:11: Server cvar "_tutor_view_distance" = "1000"
+L 03/29/2015 - 14:36:11: Server cvar "aesp_version" = "1.5b_mini"
+L 03/29/2015 - 14:36:11: Server cvar "allow_spectators" = "4"
+L 03/29/2015 - 14:36:11: Server cvar "amx_client_languages" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/29/2015 - 14:36:11: Server cvar "amx_language" = "ru"
+L 03/29/2015 - 14:36:11: Server cvar "amx_nextmap" = "de_westwood"
+L 03/29/2015 - 14:36:11: Server cvar "amx_timeleft" = "00:00"
+L 03/29/2015 - 14:36:11: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/29/2015 - 14:36:11: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/29/2015 - 14:36:11: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Config" = "Loaded"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Replace" = "Failed"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Status" = "Loaded"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/29/2015 - 14:36:11: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/29/2015 - 14:36:11: Server cvar "coop" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "deathmatch" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "decalfrequency" = "9"
+L 03/29/2015 - 14:36:11: Server cvar "dp_version" = "0.9.391"
+L 03/29/2015 - 14:36:11: Server cvar "edgefriction" = "2"
+L 03/29/2015 - 14:36:11: Server cvar "hostage_debug" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "hostage_stop" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "humans_join_team" = "any"
+L 03/29/2015 - 14:36:11: Server cvar "jtp10181" = "chute,gore"
+L 03/29/2015 - 14:36:11: Server cvar "max_queries_sec" = "3.0"
+L 03/29/2015 - 14:36:11: Server cvar "max_queries_sec_global" = "30"
+L 03/29/2015 - 14:36:11: Server cvar "max_queries_window" = "60"
+L 03/29/2015 - 14:36:11: Server cvar "metamod_version" = "1.19"
+L 03/29/2015 - 14:36:11: Server cvar "mp_allowmonsters" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_autokick" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_autoteambalance" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_buytime" = "1.5"
+L 03/29/2015 - 14:36:11: Server cvar "mp_c4timer" = "35"
+L 03/29/2015 - 14:36:11: Server cvar "mp_chattime" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_consistency" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_fadetoblack" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_flashlight" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_footsteps" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_forcecamera" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_forcechasecam" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_fragsleft" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_freezetime" = "5"
+L 03/29/2015 - 14:36:11: Server cvar "mp_friendlyfire" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_hostagepenalty" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_kickpercent" = "0.66"
+L 03/29/2015 - 14:36:11: Server cvar "mp_limitteams" = "5"
+L 03/29/2015 - 14:36:11: Server cvar "mp_logdetail" = "3"
+L 03/29/2015 - 14:36:11: Server cvar "mp_logfile" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_logmessages" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/29/2015 - 14:36:11: Server cvar "mp_maxrounds" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_mirrordamage" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_playerid" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_roundtime" = "2.57"
+L 03/29/2015 - 14:36:11: Server cvar "mp_startmoney" = "800"
+L 03/29/2015 - 14:36:11: Server cvar "mp_timeleft" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "mp_timelimit" = "30.000000"
+L 03/29/2015 - 14:36:11: Server cvar "mp_tkpunish" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_windifference" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "mp_winlimit" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "pausable" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_accelerate" = "5"
+L 03/29/2015 - 14:36:11: Server cvar "sv_aim" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_airaccelerate" = "10"
+L 03/29/2015 - 14:36:11: Server cvar "sv_airmove" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "sv_allowupload" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "sv_alltalk" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_bounce" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "sv_cheats" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_clienttrace" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "sv_clipmode" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_contact" = ""
+L 03/29/2015 - 14:36:11: Server cvar "sv_friction" = "4"
+L 03/29/2015 - 14:36:11: Server cvar "sv_gravity" = "800"
+L 03/29/2015 - 14:36:11: Server cvar "sv_logblocks" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_maxrate" = "50000"
+L 03/29/2015 - 14:36:11: Server cvar "sv_maxspeed" = "900"
+L 03/29/2015 - 14:36:11: Server cvar "sv_minrate" = "100000"
+L 03/29/2015 - 14:36:11: Server cvar "sv_password" = ""
+L 03/29/2015 - 14:36:11: Server cvar "sv_proxies" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_region" = "255"
+L 03/29/2015 - 14:36:11: Server cvar "sv_restart" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_restartround" = "0"
+L 03/29/2015 - 14:36:11: Server cvar "sv_stepsize" = "18"
+L 03/29/2015 - 14:36:11: Server cvar "sv_stopspeed" = "75"
+L 03/29/2015 - 14:36:11: Server cvar "sv_uploadmax" = "0.5"
+L 03/29/2015 - 14:36:11: Server cvar "sv_voiceenable" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "sv_wateraccelerate" = "10"
+L 03/29/2015 - 14:36:11: Server cvar "sv_waterfriction" = "1"
+L 03/29/2015 - 14:36:11: Server cvar "travo_statmarquee" = "v1.2"
+L 03/29/2015 - 14:36:11: Server cvar "vtc_version" = "80"
+L 03/29/2015 - 14:36:11: Server cvar "wallblocker_version" = "1.0"
+L 03/29/2015 - 14:36:11: Server cvar "whb_version" = "1.5.530"
+L 03/29/2015 - 14:36:11: Server cvars end
+L 03/29/2015 - 14:36:12: Server cvar "amx_nextmap" = "fy_pool_day"
+L 03/29/2015 - 14:36:12: Server cvar "sv_restart" = "1"
+L 03/29/2015 - 14:36:12: World triggered "Restart_Round_(1_second)"
+L 03/29/2015 - 14:36:12: Team "CT" scored "0" with "0" players
+L 03/29/2015 - 14:36:12: Team "TERRORIST" scored "0" with "0" players
+L 03/29/2015 - 14:36:12: Server cvar "sv_restart" = "0"
+L 03/29/2015 - 14:36:12: Started map "de_westwood" (CRC "-1879789846")
+L 03/29/2015 - 14:36:12: [VTC] Player 7 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 8 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 10 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 5 silk
+L 03/29/2015 - 14:36:12: [VTC] Player 3 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 6 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 1 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 9 speex
+L 03/29/2015 - 14:36:12: [VTC] Player 4 silk
+L 03/29/2015 - 14:36:13: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ec490
+L 03/29/2015 - 14:36:13: "Neskafe<104><STEAM_0:4:1366210894><>" connected, address "37.144.129.11:27005"
+L 03/29/2015 - 14:36:13: [VTC] Player 2 speex
+L 03/29/2015 - 14:36:13: [VTC] Player 11 speex
+L 03/29/2015 - 14:36:13: [DPROTO]: Client 11 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39f1384
+L 03/29/2015 - 14:36:13: "MaKsuM<105><STEAM_0:4:528764293><>" connected, address "178.121.84.150:4993"
+L 03/29/2015 - 14:36:13: [VTC] Player 12 speex
+L 03/29/2015 - 14:36:14: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dd7b4
+L 03/29/2015 - 14:36:14: "NiceL<106><STEAM_0:4:45698053><>" connected, address "178.122.46.172:27005"
+L 03/29/2015 - 14:36:14: [VTC] Player 8 speex
+L 03/29/2015 - 14:36:15: "kill<96><STEAM_0:4:1943378766><>" entered the game
+L 03/29/2015 - 14:36:16: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><>" entered the game
+L 03/29/2015 - 14:36:16: "RoJleM ;)<97><STEAM_0:4:402902405><>" entered the game
+L 03/29/2015 - 14:36:17: "Leks<60><STEAM_0:4:569822469><>" entered the game
+L 03/29/2015 - 14:36:17: World triggered "Round_Start"
+L 03/29/2015 - 14:36:18: "NiceL<106><STEAM_0:4:45698053><>" entered the game
+L 03/29/2015 - 14:36:18: "kill<96><STEAM_0:4:1943378766><>" joined team "TERRORIST"
+L 03/29/2015 - 14:36:18: "kill<96><STEAM_0:4:1943378766><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:36:21: "NiceL<106><STEAM_0:4:45698053><>" joined team "CT"
+L 03/29/2015 - 14:36:22: World triggered "Game_Commencing"
+L 03/29/2015 - 14:36:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/29/2015 - 14:36:22: World triggered "Round_End"
+L 03/29/2015 - 14:36:23: "kill<96><STEAM_0:4:1943378766><TERRORIST>" triggered "time" (time "0:08")
+L 03/29/2015 - 14:36:23: "kill<96><STEAM_0:4:1943378766><TERRORIST>" triggered "latency" (ping "0")
+L 03/29/2015 - 14:36:23: "kill<96><STEAM_0:4:1943378766><TERRORIST>" disconnected
+L 03/29/2015 - 14:36:24: "Leks<60><STEAM_0:4:569822469><>" joined team "TERRORIST"
+L 03/29/2015 - 14:36:25: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:36:26: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39cead8
+L 03/29/2015 - 14:36:26: "[Angels]DarkAngel<107><STEAM_0:0:4482036><>" connected, address "94.180.235.37:27005"
+L 03/29/2015 - 14:36:26: [VTC] Player 5 silk
+L 03/29/2015 - 14:36:27: "[Angels]DarkAngel<107><STEAM_0:0:4482036><>" STEAM USERID validated
+L 03/29/2015 - 14:36:27: "Neskafe<104><STEAM_0:4:1366210894><>" entered the game
+L 03/29/2015 - 14:36:28: "MaKsuM<105><STEAM_0:4:528764293><>" entered the game
+L 03/29/2015 - 14:36:30: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><>" joined team "TERRORIST"
+L 03/29/2015 - 14:36:30: World triggered "Round_Start"
+L 03/29/2015 - 14:36:30: "[Angels]DarkAngel<107><STEAM_0:0:4482036><>" entered the game
+L 03/29/2015 - 14:36:32: "Neskafe<104><STEAM_0:4:1366210894><>" joined team "CT"
+L 03/29/2015 - 14:36:32: "MaKsuM<105><STEAM_0:4:528764293><>" joined team "CT"
+L 03/29/2015 - 14:36:38: "RoJleM ;)<97><STEAM_0:4:402902405><UNASSIGNED>" triggered "time" (time "0:21")
+L 03/29/2015 - 14:36:38: "RoJleM ;)<97><STEAM_0:4:402902405><UNASSIGNED>" triggered "latency" (ping "51")
+L 03/29/2015 - 14:36:38: "RoJleM ;)<97><STEAM_0:4:402902405><>" disconnected
+L 03/29/2015 - 14:36:41: [DPROTO]: Client 3 - Set AuthIdType 1 [Native]; pClient = 0xb39c9be4
+L 03/29/2015 - 14:36:41: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/29/2015 - 14:36:41: [VTC] Player 4 silk
+L 03/29/2015 - 14:36:42: [DPROTO]: Client 6 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39d88c0
+L 03/29/2015 - 14:36:42: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><>" connected, address "37.212.173.189:2137"
+L 03/29/2015 - 14:36:42: [VTC] Player 7 speex
+L 03/29/2015 - 14:36:42: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39baf08
+L 03/29/2015 - 14:36:42: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><>" connected, address "37.213.39.80:27005"
+L 03/29/2015 - 14:36:42: [VTC] Player 1 speex
+L 03/29/2015 - 14:36:42: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39d39cc
+L 03/29/2015 - 14:36:42: "$$$$matvei$$$$<111><STEAM_0:4:175676238><>" connected, address "37.212.173.189:1937"
+L 03/29/2015 - 14:36:43: [VTC] Player 6 speex
+L 03/29/2015 - 14:36:46: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><>" entered the game
+L 03/29/2015 - 14:36:48: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><>" entered the game
+L 03/29/2015 - 14:36:50: "$$$$matvei$$$$<111><STEAM_0:4:175676238><>" entered the game
+L 03/29/2015 - 14:36:51: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "NiceL<106><STEAM_0:4:45698053><CT>" with "deagle" (damage "192") (damage_armor "0") (health "-92") (armor "0")
+L 03/29/2015 - 14:36:51: "Leks<60><STEAM_0:4:569822469><TERRORIST>" killed "NiceL<106><STEAM_0:4:45698053><CT>" with "deagle"
+L 03/29/2015 - 14:36:52: "MaKsuM<105><STEAM_0:4:528764293><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "61") (armor "0")
+L 03/29/2015 - 14:36:52: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "48") (damage_armor "0") (health "52") (armor "0")
+L 03/29/2015 - 14:36:53: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "47") (damage_armor "0") (health "5") (armor "0")
+L 03/29/2015 - 14:36:54: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><>" joined team "TERRORIST"
+L 03/29/2015 - 14:36:56: "NiceL<106><STEAM_0:4:45698053><CT>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/29/2015 - 14:36:56: "NiceL<106><STEAM_0:4:45698053><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:36:56: "NiceL<106><STEAM_0:4:45698053><CT>" triggered "time" (time "0:38")
+L 03/29/2015 - 14:36:56: "NiceL<106><STEAM_0:4:45698053><CT>" triggered "latency" (ping "0")
+L 03/29/2015 - 14:36:56: "NiceL<106><STEAM_0:4:45698053><CT>" disconnected
+L 03/29/2015 - 14:36:59: "$$$$matvei$$$$<111><STEAM_0:4:175676238><>" joined team "CT"
+L 03/29/2015 - 14:37:04: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><>" entered the game
+L 03/29/2015 - 14:37:08: "[Angels]DarkAngel<107><STEAM_0:0:4482036><>" joined team "TERRORIST"
+L 03/29/2015 - 14:37:12: "Neskafe<104><STEAM_0:4:1366210894><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "deagle" (damage "23") (damage_armor "0") (health "38") (armor "0")
+L 03/29/2015 - 14:37:13: "Neskafe<104><STEAM_0:4:1366210894><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "deagle" (damage "92") (damage_armor "0") (health "-54") (armor "0")
+L 03/29/2015 - 14:37:13: "Neskafe<104><STEAM_0:4:1366210894><CT>" killed "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "deagle"
+L 03/29/2015 - 14:37:13: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/29/2015 - 14:37:36: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "30") (damage_armor "0") (health "-25") (armor "0")
+L 03/29/2015 - 14:37:36: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle"
+L 03/29/2015 - 14:37:39: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><>" joined team "SPECTATOR"
+L 03/29/2015 - 14:37:42: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39dd7b4
+L 03/29/2015 - 14:37:42: "Timy<112><STEAM_0:0:76760449><>" connected, address "178.122.46.172:27005"
+L 03/29/2015 - 14:37:42: [VTC] Player 8 silk
+L 03/29/2015 - 14:37:43: "Timy<112><STEAM_0:0:76760449><>" STEAM USERID validated
+L 03/29/2015 - 14:37:43: "Neskafe<104><STEAM_0:4:1366210894><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "deagle" (damage "12") (damage_armor "3") (health "88") (armor "97")
+L 03/29/2015 - 14:37:44: Kick: "Timy<112><STEAM_0:0:76760449><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/29/2015 - 14:37:47: "Neskafe<104><STEAM_0:4:1366210894><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "deagle" (damage "51") (damage_armor "8") (health "37") (armor "89")
+L 03/29/2015 - 14:38:14: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><>" joined team "CT"
+L 03/29/2015 - 14:38:22: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "deagle" (damage "152") (damage_armor "0") (health "-52") (armor "0")
+L 03/29/2015 - 14:38:22: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "Neskafe<104><STEAM_0:4:1366210894><CT>" with "deagle"
+L 03/29/2015 - 14:38:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/29/2015 - 14:38:22: World triggered "Round_End"
+L 03/29/2015 - 14:38:27: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:38:32: World triggered "Round_Start"
+L 03/29/2015 - 14:38:47: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 14:38:48: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-69") (armor "0")
+L 03/29/2015 - 14:38:48: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47"
+L 03/29/2015 - 14:38:52: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dd7b4
+L 03/29/2015 - 14:38:52: "NiceL<113><STEAM_0:4:45698053><>" connected, address "178.122.46.172:27005"
+L 03/29/2015 - 14:38:52: [VTC] Player 8 speex
+L 03/29/2015 - 14:38:54: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dd7b4
+L 03/29/2015 - 14:38:54: "NiceL<114><STEAM_0:4:45698053><>" connected, address "178.122.46.172:27005"
+L 03/29/2015 - 14:38:54: [VTC] Player 8 speex
+L 03/29/2015 - 14:38:57: "NiceL<114><STEAM_0:4:45698053><>" entered the game
+L 03/29/2015 - 14:38:58: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/29/2015 - 14:39:01: "NiceL<114><STEAM_0:4:45698053><>" joined team "TERRORIST"
+L 03/29/2015 - 14:39:01: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "92")
+L 03/29/2015 - 14:39:02: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47" (damage "26") (damage_armor "4") (health "22") (armor "88")
+L 03/29/2015 - 14:39:02: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-4") (armor "84")
+L 03/29/2015 - 14:39:02: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47"
+L 03/29/2015 - 14:39:09: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/29/2015 - 14:39:13: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/29/2015 - 14:39:13: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/29/2015 - 14:39:13: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "88") (armor "94")
+L 03/29/2015 - 14:39:13: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 03/29/2015 - 14:39:13: "Leks<60><STEAM_0:4:569822469><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 03/29/2015 - 14:39:13: "Leks<60><STEAM_0:4:569822469><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47"
+L 03/29/2015 - 14:39:25: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bfdfc
+L 03/29/2015 - 14:39:25: "aFg     :D<115><STEAM_0:4:528764293><>" connected, address "178.121.84.150:13407"
+L 03/29/2015 - 14:39:26: [VTC] Player 2 speex
+L 03/29/2015 - 14:39:41: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/29/2015 - 14:39:41: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" attacked "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" with "mp5navy" (damage "13") (damage_armor "0") (health "87") (armor "100")
+L 03/29/2015 - 14:39:41: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 14:39:43: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 03/29/2015 - 14:39:43: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47"
+L 03/29/2015 - 14:39:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/29/2015 - 14:39:43: World triggered "Round_End"
+L 03/29/2015 - 14:39:48: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:39:51: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bfdfc
+L 03/29/2015 - 14:39:51: "aFg     :D<116><STEAM_0:4:528764293><>" connected, address "178.121.84.150:13407"
+L 03/29/2015 - 14:39:51: [VTC] Player 2 speex
+L 03/29/2015 - 14:39:53: World triggered "Round_Start"
+L 03/29/2015 - 14:40:02: "aFg     :D<116><STEAM_0:4:528764293><>" entered the game
+L 03/29/2015 - 14:40:05: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "89") (damage_armor "20") (health "11") (armor "80")
+L 03/29/2015 - 14:40:05: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "-11") (armor "76")
+L 03/29/2015 - 14:40:05: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" killed "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:40:07: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><SPECTATOR>" joined team "CT"
+L 03/29/2015 - 14:40:08: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/29/2015 - 14:40:09: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "16") (damage_armor "0") (health "50") (armor "0")
+L 03/29/2015 - 14:40:09: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "16") (damage_armor "0") (health "34") (armor "0")
+L 03/29/2015 - 14:40:09: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100")
+L 03/29/2015 - 14:40:09: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "73") (armor "94")
+L 03/29/2015 - 14:40:09: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "100")
+L 03/29/2015 - 14:40:09: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "52") (armor "89")
+L 03/29/2015 - 14:40:09: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1" (damage "86") (damage_armor "19") (health "-34") (armor "70")
+L 03/29/2015 - 14:40:09: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" killed "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:40:10: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e759c
+L 03/29/2015 - 14:40:10: "Impossible is Nothing<117><STEAM_0:4:1836640133><>" connected, address "178.45.173.115:27005"
+L 03/29/2015 - 14:40:10: [VTC] Player 10 speex
+L 03/29/2015 - 14:40:12: "aFg     :D<116><STEAM_0:4:528764293><>" joined team "CT"
+L 03/29/2015 - 14:40:13: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "27") (damage_armor "4") (health "21") (armor "96")
+L 03/29/2015 - 14:40:13: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-87") (armor "80")
+L 03/29/2015 - 14:40:13: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47"
+L 03/29/2015 - 14:40:14: "Impossible is Nothing<117><STEAM_0:4:1836640133><>" entered the game
+L 03/29/2015 - 14:40:15: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "25") (damage_armor "0") (health "9") (armor "0")
+L 03/29/2015 - 14:40:15: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" attacked "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" with "mp5navy" (damage "8") (damage_armor "5") (health "92") (armor "95")
+L 03/29/2015 - 14:40:15: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" attacked "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" with "mp5navy" (damage "8") (damage_armor "4") (health "84") (armor "91")
+L 03/29/2015 - 14:40:16: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-25") (armor "0")
+L 03/29/2015 - 14:40:16: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "ak47"
+L 03/29/2015 - 14:40:19: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/29/2015 - 14:40:19: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 14:40:19: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 03/29/2015 - 14:40:19: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47"
+L 03/29/2015 - 14:40:27: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "100")
+L 03/29/2015 - 14:40:27: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47"
+L 03/29/2015 - 14:40:35: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" joined team "TERRORIST"
+L 03/29/2015 - 14:40:36: "Impossible is Nothing<117><STEAM_0:4:1836640133><>" joined team "TERRORIST"
+L 03/29/2015 - 14:40:41: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/29/2015 - 14:40:41: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "100")
+L 03/29/2015 - 14:40:41: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "52") (armor "100")
+L 03/29/2015 - 14:40:41: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-66") (armor "0")
+L 03/29/2015 - 14:40:41: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47"
+L 03/29/2015 - 14:40:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/29/2015 - 14:40:41: World triggered "Round_End"
+L 03/29/2015 - 14:40:46: "$$$$matvei$$$$<111><STEAM_0:4:175676238><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:40:51: World triggered "Round_Start"
+L 03/29/2015 - 14:41:08: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/29/2015 - 14:41:08: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "46") (armor "0")
+L 03/29/2015 - 14:41:08: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "15") (armor "0")
+L 03/29/2015 - 14:41:08: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-16") (armor "0")
+L 03/29/2015 - 14:41:08: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" killed "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:41:09: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><TERRORIST>" with "m4a1" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/29/2015 - 14:41:09: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><TERRORIST>" with "m4a1" (damage "100") (damage_armor "0") (health "-25") (armor "0")
+L 03/29/2015 - 14:41:09: "aFg     :D<116><STEAM_0:4:528764293><CT>" killed "$$$$matvei$$$$<111><STEAM_0:4:175676238><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:41:09: "$$$$matvei$$$$<111><STEAM_0:4:175676238><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/29/2015 - 14:41:10: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 14:41:10: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 03/29/2015 - 14:41:10: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "53") (armor "89")
+L 03/29/2015 - 14:41:13: "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" triggered "time" (time "0:58")
+L 03/29/2015 - 14:41:13: "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" triggered "latency" (ping "40")
+L 03/29/2015 - 14:41:13: "Impossible is Nothing<117><STEAM_0:4:1836640133><TERRORIST>" disconnected
+L 03/29/2015 - 14:41:16: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "Got_The_Bomb"
+L 03/29/2015 - 14:41:17: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "32") (damage_armor "0") (health "53") (armor "0")
+L 03/29/2015 - 14:41:17: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "128") (damage_armor "0") (health "-75") (armor "0")
+L 03/29/2015 - 14:41:17: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" killed "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47"
+L 03/29/2015 - 14:41:18: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/29/2015 - 14:41:19: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "ak47" (damage "12") (damage_armor "2") (health "62") (armor "94")
+L 03/29/2015 - 14:41:20: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "ak47" (damage "12") (damage_armor "2") (health "50") (armor "92")
+L 03/29/2015 - 14:41:20: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "92")
+L 03/29/2015 - 14:41:20: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "ak47" (damage "25") (damage_armor "0") (health "0") (armor "92")
+L 03/29/2015 - 14:41:20: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "ak47"
+L 03/29/2015 - 14:41:24: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/29/2015 - 14:41:24: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 03/29/2015 - 14:41:25: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-26") (armor "73")
+L 03/29/2015 - 14:41:25: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" killed "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:41:25: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "32") (armor "85")
+L 03/29/2015 - 14:41:26: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "10") (armor "85")
+L 03/29/2015 - 14:41:27: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/29/2015 - 14:41:27: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "96")
+L 03/29/2015 - 14:41:27: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "26") (damage_armor "4") (health "23") (armor "92")
+L 03/29/2015 - 14:41:27: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-3") (armor "88")
+L 03/29/2015 - 14:41:27: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47"
+L 03/29/2015 - 14:41:28: "MaKsuM<105><STEAM_0:4:528764293><CT>" attacked "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" with "usp" (damage "20") (damage_armor "10") (health "51") (armor "90")
+L 03/29/2015 - 14:41:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 03/29/2015 - 14:41:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "204") (damage_armor "0") (health "-128") (armor "0")
+L 03/29/2015 - 14:41:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle"
+L 03/29/2015 - 14:41:29: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e759c
+L 03/29/2015 - 14:41:29: "One Love is WoT<118><STEAM_0:4:69453750><>" connected, address "212.109.27.161:27005"
+L 03/29/2015 - 14:41:30: [VTC] Player 10 speex
+L 03/29/2015 - 14:41:50: "$$$$matvei$$$$<111><STEAM_0:4:175676238><TERRORIST>" joined team "CT"
+L 03/29/2015 - 14:41:50: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e759c
+L 03/29/2015 - 14:41:50: "One Love is WoT<119><STEAM_0:4:69453750><>" connected, address "212.109.27.161:27005"
+L 03/29/2015 - 14:41:50: [VTC] Player 10 speex
+L 03/29/2015 - 14:41:53: "Neskafe<104><STEAM_0:4:1366210894><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "deagle" (damage "34") (damage_armor "0") (health "66") (armor "100")
+L 03/29/2015 - 14:41:54: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-74") (armor "100")
+L 03/29/2015 - 14:41:54: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" killed "Neskafe<104><STEAM_0:4:1366210894><CT>" with "ak47"
+L 03/29/2015 - 14:41:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/29/2015 - 14:41:54: World triggered "Round_End"
+L 03/29/2015 - 14:41:55: "One Love is WoT<119><STEAM_0:4:69453750><>" entered the game
+L 03/29/2015 - 14:41:59: "One Love is WoT<119><STEAM_0:4:69453750><>" joined team "TERRORIST"
+L 03/29/2015 - 14:41:59: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:42:04: World triggered "Round_Start"
+L 03/29/2015 - 14:42:14: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "m4a1" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/29/2015 - 14:42:14: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "m4a1" (damage "8") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 14:42:15: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "m4a1" (damage "28") (damage_armor "0") (health "39") (armor "0")
+L 03/29/2015 - 14:42:15: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" attacked "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "m4a1" (damage "100") (damage_armor "0") (health "-61") (armor "0")
+L 03/29/2015 - 14:42:15: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" killed "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" with "m4a1"
+L 03/29/2015 - 14:42:21: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 03/29/2015 - 14:42:22: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "m4a1" (damage "13") (damage_armor "3") (health "87") (armor "97")
+L 03/29/2015 - 14:42:23: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "m4a1" (damage "11") (damage_armor "0") (health "76") (armor "97")
+L 03/29/2015 - 14:42:23: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "12") (damage_armor "3") (health "4") (armor "79")
+L 03/29/2015 - 14:42:23: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "-5") (armor "77")
+L 03/29/2015 - 14:42:23: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" killed "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:42:23: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "55") (armor "92")
+L 03/29/2015 - 14:42:24: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "m4a1" (damage "86") (damage_armor "19") (health "-31") (armor "73")
+L 03/29/2015 - 14:42:24: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" with "m4a1"
+L 03/29/2015 - 14:42:29: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "100")
+L 03/29/2015 - 14:42:29: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "100")
+L 03/29/2015 - 14:42:29: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "100")
+L 03/29/2015 - 14:42:29: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "12") (armor "100")
+L 03/29/2015 - 14:42:30: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-9") (armor "95")
+L 03/29/2015 - 14:42:30: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" killed "Leks<60><STEAM_0:4:569822469><TERRORIST>" with "m4a1"
+L 03/29/2015 - 14:42:42: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "75") (armor "100")
+L 03/29/2015 - 14:42:42: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "54") (armor "95")
+L 03/29/2015 - 14:42:42: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/29/2015 - 14:42:42: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" attacked "NiceL<114><STEAM_0:4:45698053><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "45") (armor "93")
+L 03/29/2015 - 14:42:43: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 03/29/2015 - 14:42:43: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 03/29/2015 - 14:42:44: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "37") (armor "86")
+L 03/29/2015 - 14:42:44: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "15") (armor "86")
+L 03/29/2015 - 14:42:45: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" attacked "Neskafe<104><STEAM_0:4:1366210894><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "-6") (armor "82")
+L 03/29/2015 - 14:42:45: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" killed "Neskafe<104><STEAM_0:4:1366210894><CT>" with "m4a1"
+L 03/29/2015 - 14:42:45: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "12") (damage_armor "0") (health "72") (armor "0")
+L 03/29/2015 - 14:42:45: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "42") (damage_armor "0") (health "30") (armor "0")
+L 03/29/2015 - 14:42:46: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "33") (damage_armor "5") (health "56") (armor "95")
+L 03/29/2015 - 14:42:46: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "27") (damage_armor "4") (health "29") (armor "91")
+L 03/29/2015 - 14:42:46: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-79") (armor "75")
+L 03/29/2015 - 14:42:46: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" with "ak47"
+L 03/29/2015 - 14:42:47: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/29/2015 - 14:42:51: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "0")
+L 03/29/2015 - 14:42:55: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 03/29/2015 - 14:42:55: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "54") (armor "100")
+L 03/29/2015 - 14:42:55: "aFg     :D<116><STEAM_0:4:528764293><CT>" attacked "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "33") (armor "95")
+L 03/29/2015 - 14:42:55: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "12") (damage_armor "0") (health "18") (armor "0")
+L 03/29/2015 - 14:42:56: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "16") (damage_armor "0") (health "2") (armor "0")
+L 03/29/2015 - 14:42:56: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" attacked "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-14") (armor "0")
+L 03/29/2015 - 14:42:56: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" killed "aFg     :D<116><STEAM_0:4:528764293><CT>" with "ak47"
+L 03/29/2015 - 14:43:05: "MaKsuM<105><STEAM_0:4:528764293><CT>" attacked "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" with "usp" (damage "11") (damage_armor "6") (health "89") (armor "94")
+L 03/29/2015 - 14:43:05: "MaKsuM<105><STEAM_0:4:528764293><CT>" attacked "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" with "usp" (damage "11") (damage_armor "5") (health "78") (armor "89")
+L 03/29/2015 - 14:43:07: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "52") (damage_armor "0") (health "24") (armor "0")
+L 03/29/2015 - 14:43:08: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" attacked "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle" (damage "53") (damage_armor "0") (health "-29") (armor "0")
+L 03/29/2015 - 14:43:08: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" killed "MaKsuM<105><STEAM_0:4:528764293><CT>" with "deagle"
+L 03/29/2015 - 14:43:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 03/29/2015 - 14:43:08: World triggered "Round_End"
+L 03/29/2015 - 14:43:13: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/29/2015 - 14:43:18: World triggered "Round_Start"
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "48") (hits "9") (kills "2") (headshots "1") (tks "0") (damage "237") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "1") (leftarm "4") (rightarm "1") (leftleg "0") (rightleg "2")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "4") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "228") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "77") (hits "18") (kills "5") (headshots "1") (tks "0") (damage "607") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "3") (stomach "0") (leftarm "9") (rightarm "4") (leftleg "0") (rightleg "1")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "time" (time "6:39")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" triggered "latency" (ping "48")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "weaponstats" (weapon "usp") (shots "5") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "48") (deaths "1")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "0")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "weaponstats" (weapon "m4a1") (shots "30") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "192") (deaths "2")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "2") (rightleg "0")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "time" (time "3:25")
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" triggered "latency" (ping "41")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "17") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "287") (deaths "1")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "19") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "141") (deaths "1")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "3") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "time" (time "7:11")
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" triggered "latency" (ping "53")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "weaponstats" (weapon "m4a1") (shots "19") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "time" (time "6:23")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" triggered "latency" (ping "7")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "7") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "161") (deaths "1")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "31") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "118") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "time" (time "6:58")
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" triggered "latency" (ping "47")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats" (weapon "usp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "53") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "29") (deaths "2")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "time" (time "6:38")
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" triggered "latency" (ping "60")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "12") (deaths "1")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "m4a1") (shots "93") (hits "27") (kills "6") (headshots "2") (tks "0") (damage "844") (deaths "2")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "m4a1") (head "4") (chest "6") (stomach "3") (leftarm "4") (rightarm "3") (leftleg "2") (rightleg "5")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "deagle") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "time" (time "6:42")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" triggered "latency" (ping "37")
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "109") (hits "9") (kills "3") (headshots "3") (tks "0") (damage "532") (deaths "1")
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "0") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "2")
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" triggered "time" (time "4:30")
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" triggered "latency" (ping "37")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "27") (hits "4") (kills "3") (headshots "1") (tks "0") (damage "287") (deaths "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "2") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "36") (hits "8") (kills "4") (headshots "3") (tks "0") (damage "503") (deaths "1")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "3") (rightleg "0")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "time" (time "7:12")
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" triggered "latency" (ping "79")
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "46") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "126") (deaths "0")
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "2") (rightleg "1")
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "time" (time "1:33")
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "latency" (ping "73")
+L 03/29/2015 - 14:43:28: "Neskafe<104><STEAM_0:4:1366210894><CT>" triggered "weaponstats" (weapon "deagle") (shots "54") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "212") (deaths "5")
+L 03/29/2015 - 14:43:28: "Neskafe<104><STEAM_0:4:1366210894><CT>" triggered "weaponstats2" (weapon "deagle") (head "2") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/29/2015 - 14:43:28: "Neskafe<104><STEAM_0:4:1366210894><CT>" triggered "time" (time "7:01")
+L 03/29/2015 - 14:43:28: "Neskafe<104><STEAM_0:4:1366210894><CT>" triggered "latency" (ping "37")
+L 03/29/2015 - 14:43:28: "MaKsuM<105><STEAM_0:4:528764293><CT>" triggered "weaponstats" (weapon "usp") (shots "21") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "72") (deaths "4")
+L 03/29/2015 - 14:43:28: "MaKsuM<105><STEAM_0:4:528764293><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "2") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 14:43:28: "MaKsuM<105><STEAM_0:4:528764293><CT>" triggered "time" (time "7:00")
+L 03/29/2015 - 14:43:28: "MaKsuM<105><STEAM_0:4:528764293><CT>" triggered "latency" (ping "46")
+L 03/29/2015 - 14:43:28: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 03/29/2015 - 14:43:28: [META] ini: Read plugin config for: AMX Mod X
+L 03/29/2015 - 14:43:28: [META] ini: Read plugin config for: dproto_EF
+L 03/29/2015 - 14:43:28: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/29/2015 - 14:43:28: [META] ini: Read plugin config for: WHBlocker
+L 03/29/2015 - 14:43:28: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/29/2015 - 14:43:28: [META] dll: Updating plugins...
+L 03/29/2015 - 14:43:28: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Mi{x}eR<110><STEAM_0:4:2092800974><TERRORIST>" disconnected
+L 03/29/2015 - 14:43:28: "aFg     :D<116><STEAM_0:4:528764293><CT>" disconnected
+L 03/29/2015 - 14:43:28: "Leks<60><STEAM_0:4:569822469><TERRORIST>" disconnected
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Extazy<108><STEAM_0:1:113150434><CT>" disconnected
+L 03/29/2015 - 14:43:28: "[Angels]DarkAngel<107><STEAM_0:0:4482036><TERRORIST>" disconnected
+L 03/29/2015 - 14:43:28: "$$$$matvei$$$$<111><STEAM_0:4:175676238><CT>" disconnected
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_Lexa Kosmonaft<109><STEAM_0:0:226379933><CT>" disconnected
+L 03/29/2015 - 14:43:28: "NiceL<114><STEAM_0:4:45698053><TERRORIST>" disconnected
+L 03/29/2015 - 14:43:28: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:1668238597><TERRORIST>" disconnected
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/29/2015 - 14:43:28: "One Love is WoT<119><STEAM_0:4:69453750><TERRORIST>" disconnected
+L 03/29/2015 - 14:43:28: "Neskafe<104><STEAM_0:4:1366210894><CT>" disconnected
+L 03/29/2015 - 14:43:28: "MaKsuM<105><STEAM_0:4:528764293><CT>" disconnected
+L 03/29/2015 - 14:43:28: World triggered "Round_Draw" (CT "0") (T "5")
+L 03/29/2015 - 14:43:28: World triggered "Round_End"
+L 03/29/2015 - 14:43:28: Log file closed

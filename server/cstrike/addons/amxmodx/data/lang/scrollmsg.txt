@@ -1,3 +1,8 @@
+[ru]
+MIN_FREQ = Частота появления этого сообщения %d секунд
+MSG_FREQ = Частота появления бегущей строки: %d:%02d минут
+MSG_DISABLED = Бегущая строка заблокирована
+
 [en]
 MIN_FREQ = Minimal frequency for this message is %d seconds
 MSG_FREQ = Scrolling message displaying frequency: %d:%02d minutes
@@ -62,38 +67,3 @@ MSG_DISABLED = Skrolovaci zpravy vyple
 MIN_FREQ = Minimitaajuus talle viestille on %d sekuntia
 MSG_FREQ = Vierivan tekstin taajuus on: %d:%02d minuuttia
 MSG_DISABLED = Vieriva teksti poissa kaytosta
-
-[ls]
-MIN_FREQ = M!n!m4| fr3qu3ncy f0r th!s m3ss4ge !s %d s3c0ndz
-MSG_FREQ = $cr0||!ng m3ss4g3 d!spl4y!ng fr3qu3ncy: %d:%02d m!nut3z
-MSG_DISABLED = |N0T 3NUFF M4N4!| - $cr0||!ng m3ss4g3 d!s4bl3d
-
-[bg]
-MIN_FREQ = Minimalnoto povtarq6to vreme za tova saob6tenie e %d secundi
-MSG_FREQ = Scrolling saob6tenieto se pokazva vseki: %d:%02d minuti
-MSG_DISABLED = Scrolling saob6tenieto e isklu4eno
-
-[ro]
-MIN_FREQ = Frecventa minima pentru acest mesaj este %d secunde
-MSG_FREQ = Frecventa afisarii messajului Rulant: %d:%02d minute
-MSG_DISABLED = Mesajul Rulant dezactivat
-
-[hu]
-MIN_FREQ = A minimum ido erre az uzenetre %d perc
-MSG_FREQ = Mozgo uzenet: %d:%02d percenkent
-MSG_DISABLED = Scrolling uzenet letiltva
-
-[lt]
-MIN_FREQ = Minimalus daznumas siai zinutei yra %d sekundes
-MSG_FREQ = Slenkancios zinutes daznumas: %d:%02d minutes
-MSG_DISABLED = Slenkancioji zinute isjungta
-
-[sk]
-MIN_FREQ = Minimalna frekvencia tejto spravy je %d sekund
-MSG_FREQ = Frekvencia zobrazenia skrolovacej spravy: %d:%02d minut
-MSG_DISABLED = Skrolovacie zpravy vypnute
-
-[mk]
-MIN_FREQ = Minimalnoto vreme na prikazuvanje na ovaa poraka e %d sekundi
-MSG_FREQ = Vreme za prikazuvanje na leteckite poraki: %d:%02d minuti
-MSG_DISABLED = Leteckata poraka e isklucena

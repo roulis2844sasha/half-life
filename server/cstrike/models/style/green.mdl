@@ -1,0 +1,114 @@
+body {
+	background:#232323;
+	color:#cfcbc2;
+	font-family:sans-serif;
+}
+
+table {
+	font-size:12px;
+}
+
+th {
+	background:#2f3030;
+	color:#93ba10;
+	text-align:left;
+}
+
+tr {
+	background:#262626;
+}
+
+.q {
+	border:1px solid #4a4945;
+}
+
+.b {
+	background:#2a2a2a;
+}
+
+
+.iN {
+	color:#FF0000;
+}
+.iY {
+	color:#008000;
+}
+
+
+#Lm {
+	text-indent: 16px;
+	background-image: url(skill/Lm.png);
+	background-repeat: no-repeat
+}
+
+#L {
+	text-indent: 16px;
+	background-image: url(skill/L.png);
+	background-repeat: no-repeat
+}
+
+#Lp {
+	text-indent: 16px;
+	background-image: url(skill/Lp.png);
+	background-repeat: no-repeat
+}
+
+#Mm {
+	text-indent: 16px;
+	background-image: url(skill/Mm.png);
+	background-repeat: no-repeat
+}
+
+#M {
+	text-indent: 16px;
+	background-image: url(skill/M.png);
+	background-repeat: no-repeat
+}
+
+#Mp {
+	text-indent: 16px;
+	background-image: url(skill/Mp.png);
+	background-repeat: no-repeat
+}
+
+#Hm {
+	text-indent: 16px;
+	background-image: url(skill/Hm.png);
+	background-repeat: no-repeat
+}
+
+#H {
+	text-indent: 16px;
+	background-image: url(skill/H.png);
+	background-repeat: no-repeat
+}
+
+#Hp {
+	text-indent: 16px;
+	background-image: url(skill/Hp.png);
+	background-repeat: no-repeat
+}
+
+#Pm {
+	text-indent: 16px;
+	background-image: url(skill/Pm.png);
+	background-repeat: no-repeat
+}
+
+#P {
+	text-indent: 16px;
+	background-image: url(skill/P.png);
+	background-repeat: no-repeat
+}
+
+#Pp {
+	text-indent: 16px;
+	background-image: url(skill/Pp.png);
+	background-repeat: no-repeat
+}
+
+#G {
+	text-indent: 16px;
+	background-image: url(skill/G.png);
+	background-repeat: no-repeat
+}

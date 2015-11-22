@@ -1,0 +1,118 @@
+L 03/16/2015 - 15:09:22: Log file started (file "logs/L0316034.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/16/2015 - 15:09:22: Server cvar "mp_logdetail" = "3"
+L 03/16/2015 - 15:09:22: Server cvar "mp_timelimit" = "30"
+L 03/16/2015 - 15:09:22: Server cvar "mp_c4timer" = "35"
+L 03/16/2015 - 15:09:22: Server cvar "mp_flashlight" = "1"
+L 03/16/2015 - 15:09:22: Server cvar "mp_freezetime" = "5"
+L 03/16/2015 - 15:09:22: Server cvar "mp_hostagepenalty" = "0"
+L 03/16/2015 - 15:09:22: Server cvar "mp_limitteams" = "5"
+L 03/16/2015 - 15:09:22: Server cvar "mp_roundtime" = "2.57"
+L 03/16/2015 - 15:09:22: Server cvar "mp_tkpunish" = "1"
+L 03/16/2015 - 15:09:22: Server cvar "sv_restartround" = "1"
+L 03/16/2015 - 15:09:22: Server cvar "sv_maxspeed" = "320"
+L 03/16/2015 - 15:09:22: Server cvar "sv_proxies" = "0"
+L 03/16/2015 - 15:09:22: Server cvar "allow_spectators" = "4"
+L 03/16/2015 - 15:09:22: Server cvar "mp_chattime" = "0"
+L 03/16/2015 - 15:09:22: Server cvar "decalfrequency" = "9"
+L 03/16/2015 - 15:09:22: Server cvar "sv_aim" = "0"
+L 03/16/2015 - 15:09:22: Server cvar "sv_minrate" = "100000"
+L 03/16/2015 - 15:09:22: Server cvar "sv_maxrate" = "50000"
+L 03/16/2015 - 15:09:22: World triggered "Restart_Round_(1_second)"
+L 03/16/2015 - 15:09:22: Team "CT" scored "0" with "0" players
+L 03/16/2015 - 15:09:22: Team "TERRORIST" scored "0" with "0" players
+L 03/16/2015 - 15:09:22: Server cvar "sv_restartround" = "0"
+L 03/16/2015 - 15:09:26: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992f08
+L 03/16/2015 - 15:09:26: "[:.ThE_MoB.:]-KvAS:D<1><STEAM_0:4:196529157><>" connected, address "178.122.49.190:27005"
+L 03/16/2015 - 15:09:26: [VTC] Player 1 speex
+L 03/16/2015 - 15:09:27: Kick: "[:.ThE_MoB.:]-KvAS:D<1><STEAM_0:4:196529157><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/16/2015 - 15:09:28: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992f08
+L 03/16/2015 - 15:09:28: "Panisher<2><STEAM_0:4:1999280846><>" connected, address "37.215.9.71:29677"
+L 03/16/2015 - 15:09:28: World triggered "Round_Start"
+L 03/16/2015 - 15:09:28: [VTC] Player 1 speex
+L 03/16/2015 - 15:09:33: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992f08
+L 03/16/2015 - 15:09:33: "Panisher<3><STEAM_0:4:1999280846><>" connected, address "37.215.9.71:29677"
+L 03/16/2015 - 15:09:33: [VTC] Player 1 speex
+L 03/16/2015 - 15:09:39: "Panisher<3><STEAM_0:4:1999280846><>" entered the game
+L 03/16/2015 - 15:09:42: "Panisher<3><STEAM_0:4:1999280846><>" joined team "CT"
+L 03/16/2015 - 15:09:46: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997dfc
+L 03/16/2015 - 15:09:46: "[:.ThE_MoB.:]-KvAS:D<4><STEAM_0:4:196529157><>" connected, address "178.122.49.190:27005"
+L 03/16/2015 - 15:09:46: [VTC] Player 2 speex
+L 03/16/2015 - 15:09:48: Kick: "[:.ThE_MoB.:]-KvAS:D<4><STEAM_0:4:196529157><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/16/2015 - 15:09:49: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997dfc
+L 03/16/2015 - 15:09:49: "[:.ThE_MoB.:]-KvAS:D<5><STEAM_0:4:196529157><>" connected, address "178.122.49.190:27005"
+L 03/16/2015 - 15:09:50: [VTC] Player 2 speex
+L 03/16/2015 - 15:09:51: Kick: "[:.ThE_MoB.:]-KvAS:D<5><STEAM_0:4:196529157><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" triggered "time" (time "0:30")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" triggered "latency" (ping "39")
+L 03/16/2015 - 15:10:09: "Panisher<3><STEAM_0:4:1999280846><CT>" disconnected
+L 03/16/2015 - 15:10:09: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/16/2015 - 15:10:09: World triggered "Round_End"
+L 03/16/2015 - 15:10:19: World triggered "Round_Start"
+L 03/16/2015 - 15:10:32: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992f08
+L 03/16/2015 - 15:10:32: "MOMENT_ilyha<6><STEAM_0:4:1785762166><>" connected, address "85.192.189.125:33581"
+L 03/16/2015 - 15:10:32: [VTC] Player 1 speex
+L 03/16/2015 - 15:10:40: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992f08
+L 03/16/2015 - 15:10:40: "MOMENT_ilyha<7><STEAM_0:4:1785762166><>" connected, address "85.192.189.125:33581"
+L 03/16/2015 - 15:10:40: [VTC] Player 1 speex
+L 03/16/2015 - 15:10:40: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997dfc
+L 03/16/2015 - 15:10:40: "MO_oNiken<8><STEAM_0:4:469814533><>" connected, address "178.120.93.145:23262"
+L 03/16/2015 - 15:10:41: [VTC] Player 2 speex
+L 03/16/2015 - 15:10:44: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997dfc
+L 03/16/2015 - 15:10:44: "MO_oNiken<9><STEAM_0:4:469814533><>" connected, address "178.120.93.145:23262"
+L 03/16/2015 - 15:10:44: [VTC] Player 2 speex
+L 03/16/2015 - 15:10:46: "MOMENT_ilyha<7><STEAM_0:4:1785762166><>" entered the game
+L 03/16/2015 - 15:10:48: "MO_oNiken<9><STEAM_0:4:469814533><>" entered the game
+L 03/16/2015 - 15:10:51: "MO_oNiken<9><STEAM_0:4:469814533><>" joined team "TERRORIST"
+L 03/16/2015 - 15:10:51: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/16/2015 - 15:10:51: "MOMENT_ilyha<7><STEAM_0:4:1785762166><>" joined team "TERRORIST"
+L 03/16/2015 - 15:11:05: "MOMENT_ilyha<7><STEAM_0:4:1785762166><TERRORIST>" committed suicide with "world"
+L 03/16/2015 - 15:11:05: "MOMENT_ilyha<7><STEAM_0:4:1785762166><TERRORIST>" joined team "TERRORIST"
+L 03/16/2015 - 15:11:10: "MOMENT_ilyha<7><STEAM_0:4:1785762166><TERRORIST>" triggered "time" (time "0:23")
+L 03/16/2015 - 15:11:10: "MOMENT_ilyha<7><STEAM_0:4:1785762166><TERRORIST>" triggered "latency" (ping "93")
+L 03/16/2015 - 15:11:10: "MOMENT_ilyha<7><STEAM_0:4:1785762166><TERRORIST>" disconnected
+L 03/16/2015 - 15:11:10: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992f08
+L 03/16/2015 - 15:11:10: "MOMENT_ilyha<10><STEAM_0:4:1785762166><>" connected, address "85.192.189.125:33581"
+L 03/16/2015 - 15:11:10: [VTC] Player 1 speex
+L 03/16/2015 - 15:11:15: "MOMENT_ilyha<10><STEAM_0:4:1785762166><>" entered the game
+L 03/16/2015 - 15:11:18: "MOMENT_ilyha<10><STEAM_0:4:1785762166><>" joined team "CT"
+L 03/16/2015 - 15:11:18: World triggered "Game_Commencing"
+L 03/16/2015 - 15:11:18: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/16/2015 - 15:11:18: World triggered "Round_End"
+L 03/16/2015 - 15:11:21: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/16/2015 - 15:11:26: World triggered "Round_Start"
+L 03/16/2015 - 15:12:11: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" attacked "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" with "deagle" (damage "188") (damage_armor "0") (health "-88") (armor "0")
+L 03/16/2015 - 15:12:11: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" killed "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" with "deagle"
+L 03/16/2015 - 15:12:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/16/2015 - 15:12:11: World triggered "Round_End"
+L 03/16/2015 - 15:12:16: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/16/2015 - 15:12:21: World triggered "Round_Start"
+L 03/16/2015 - 15:12:23: "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/16/2015 - 15:12:23: "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 15:12:23: "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" triggered "time" (time "1:08")
+L 03/16/2015 - 15:12:23: "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" triggered "latency" (ping "105")
+L 03/16/2015 - 15:12:23: "MOMENT_ilyha<10><STEAM_0:4:1785762166><CT>" disconnected
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "188") (deaths "0")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "15") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "time" (time "1:57")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "latency" (ping "39")
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/16/2015 - 15:12:45: "MO_oNiken<9><STEAM_0:4:469814533><TERRORIST>" disconnected
+L 03/16/2015 - 15:12:45: World triggered "Round_Draw" (CT "0") (T "1")
+L 03/16/2015 - 15:12:45: World triggered "Round_End"
+L 03/16/2015 - 15:12:55: World triggered "Round_Start"
+L 03/16/2015 - 15:14:31: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/16/2015 - 15:14:31: [META] ini: Read plugin config for: AMX Mod X
+L 03/16/2015 - 15:14:31: [META] ini: Read plugin config for: dproto_EF
+L 03/16/2015 - 15:14:31: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/16/2015 - 15:14:31: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/16/2015 - 15:14:31: [META] dll: Updating plugins...
+L 03/16/2015 - 15:14:31: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/16/2015 - 15:14:31: Log file closed

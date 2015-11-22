@@ -1,0 +1,70 @@
+L 03/16/2015 - 19:27:12: Log file started (file "logs/L0316043.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/16/2015 - 19:27:12: Server cvar "mp_logdetail" = "3"
+L 03/16/2015 - 19:27:12: Server cvar "mp_timelimit" = "30"
+L 03/16/2015 - 19:27:12: Server cvar "mp_c4timer" = "35"
+L 03/16/2015 - 19:27:12: Server cvar "mp_flashlight" = "1"
+L 03/16/2015 - 19:27:12: Server cvar "mp_freezetime" = "5"
+L 03/16/2015 - 19:27:12: Server cvar "mp_hostagepenalty" = "0"
+L 03/16/2015 - 19:27:12: Server cvar "mp_limitteams" = "5"
+L 03/16/2015 - 19:27:12: Server cvar "mp_roundtime" = "2.57"
+L 03/16/2015 - 19:27:12: Server cvar "mp_tkpunish" = "1"
+L 03/16/2015 - 19:27:12: Server cvar "sv_restartround" = "1"
+L 03/16/2015 - 19:27:12: Server cvar "sv_maxspeed" = "320"
+L 03/16/2015 - 19:27:12: Server cvar "sv_proxies" = "0"
+L 03/16/2015 - 19:27:12: Server cvar "allow_spectators" = "4"
+L 03/16/2015 - 19:27:12: Server cvar "mp_chattime" = "0"
+L 03/16/2015 - 19:27:12: Server cvar "decalfrequency" = "9"
+L 03/16/2015 - 19:27:12: Server cvar "sv_aim" = "0"
+L 03/16/2015 - 19:27:12: Server cvar "sv_minrate" = "100000"
+L 03/16/2015 - 19:27:12: Server cvar "sv_maxrate" = "50000"
+L 03/16/2015 - 19:27:13: World triggered "Restart_Round_(1_second)"
+L 03/16/2015 - 19:27:13: Team "CT" scored "0" with "0" players
+L 03/16/2015 - 19:27:13: Team "TERRORIST" scored "0" with "0" players
+L 03/16/2015 - 19:27:13: Server cvar "sv_restartround" = "0"
+L 03/16/2015 - 19:27:19: World triggered "Round_Start"
+L 03/16/2015 - 19:29:23: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb390ef08
+L 03/16/2015 - 19:29:23: "[Hard_Skill]_Extazy<1><STEAM_0:4:397277401><>" connected, address "10.19.7.134:27005"
+L 03/16/2015 - 19:29:24: [VTC] Player 1 speex
+L 03/16/2015 - 19:29:34: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb390ef08
+L 03/16/2015 - 19:29:34: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><>" connected, address "10.19.7.134:27005"
+L 03/16/2015 - 19:29:34: [VTC] Player 1 speex
+L 03/16/2015 - 19:29:37: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3913dfc
+L 03/16/2015 - 19:29:37: "Petryshka)))<3><STEAM_0:4:1818729166><>" connected, address "37.215.147.113:56959"
+L 03/16/2015 - 19:29:37: [VTC] Player 2 speex
+L 03/16/2015 - 19:29:40: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3913dfc
+L 03/16/2015 - 19:29:40: "Petryshka)))<4><STEAM_0:4:1818729166><>" connected, address "37.215.147.113:56959"
+L 03/16/2015 - 19:29:46: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3913dfc
+L 03/16/2015 - 19:29:46: "Petryshka)))<5><STEAM_0:4:1818729166><>" connected, address "37.215.147.113:56959"
+L 03/16/2015 - 19:29:46: [VTC] Player 2 speex
+L 03/16/2015 - 19:29:48: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><>" entered the game
+L 03/16/2015 - 19:29:48: "Petryshka)))<5><STEAM_0:4:1818729166><>" entered the game
+L 03/16/2015 - 19:29:51: "Petryshka)))<5><STEAM_0:4:1818729166><>" joined team "TERRORIST"
+L 03/16/2015 - 19:29:51: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/16/2015 - 19:29:53: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 03/16/2015 - 19:29:53: World triggered "Round_End"
+L 03/16/2015 - 19:29:58: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/16/2015 - 19:30:02: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><>" joined team "CT"
+L 03/16/2015 - 19:30:02: World triggered "Game_Commencing"
+L 03/16/2015 - 19:30:02: World triggered "Game_Commencing" (CT "1") (T "0")
+L 03/16/2015 - 19:30:02: World triggered "Round_End"
+L 03/16/2015 - 19:30:05: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/16/2015 - 19:30:10: World triggered "Round_Start"
+L 03/16/2015 - 19:30:22: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 19:30:22: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 19:30:22: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" triggered "time" (time "0:33")
+L 03/16/2015 - 19:30:22: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" triggered "latency" (ping "0")
+L 03/16/2015 - 19:30:22: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" triggered "time" (time "0:33")
+L 03/16/2015 - 19:30:22: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" triggered "latency" (ping "41")
+L 03/16/2015 - 19:30:22: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/16/2015 - 19:30:22: [META] ini: Read plugin config for: AMX Mod X
+L 03/16/2015 - 19:30:22: [META] ini: Read plugin config for: dproto_EF
+L 03/16/2015 - 19:30:22: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/16/2015 - 19:30:22: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/16/2015 - 19:30:22: [META] dll: Updating plugins...
+L 03/16/2015 - 19:30:22: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/16/2015 - 19:30:22: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" disconnected
+L 03/16/2015 - 19:30:22: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/16/2015 - 19:30:22: "Petryshka)))<5><STEAM_0:4:1818729166><TERRORIST>" disconnected
+L 03/16/2015 - 19:30:22: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/16/2015 - 19:30:22: World triggered "Round_End"
+L 03/16/2015 - 19:30:22: Log file closed

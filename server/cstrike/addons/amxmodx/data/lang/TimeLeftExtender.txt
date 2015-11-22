@@ -1,0 +1,14 @@
+[en]
+ADMIN_CHANGENOW_2 = ADMIN %s: Change to nextmap (%s) now.
+ADMIN_CHANGENOW_1 = ADMIN: Change to nextmap (%s) now.
+LAST_ROUND = This is the last round
+
+[de]
+ADMIN_CHANGENOW_2 = ADMIN %s: Zur nextmap (%s) jetzt wechseln.
+ADMIN_CHANGENOW_1 = ADMIN: Zur nextmap (%s) jetzt wechseln.
+LAST_ROUND = Dies ist die letzte Runde
+
+[ru]
+ADMIN_CHANGENOW_2 = АДМИНИСТРАТОР %s: измененил следующая карта (%s).
+ADMIN_CHANGENOW_1 = АДМИНИСТРАТОР: измененил,следующей картой будет (%s).
+LAST_ROUND = Это - Последний Раунд!

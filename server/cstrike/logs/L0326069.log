@@ -1,0 +1,42 @@
+L 03/26/2015 - 19:24:49: Log file started (file "logs/L0326069.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/26/2015 - 19:24:49: Server cvar "mp_logdetail" = "3"
+L 03/26/2015 - 19:24:49: Server cvar "mp_timelimit" = "30"
+L 03/26/2015 - 19:24:49: Server cvar "mp_c4timer" = "35"
+L 03/26/2015 - 19:24:49: Server cvar "mp_flashlight" = "1"
+L 03/26/2015 - 19:24:49: Server cvar "mp_freezetime" = "5"
+L 03/26/2015 - 19:24:49: Server cvar "mp_hostagepenalty" = "0"
+L 03/26/2015 - 19:24:49: Server cvar "mp_limitteams" = "5"
+L 03/26/2015 - 19:24:49: Server cvar "mp_roundtime" = "2.57"
+L 03/26/2015 - 19:24:49: Server cvar "mp_tkpunish" = "1"
+L 03/26/2015 - 19:24:49: Server cvar "sv_restartround" = "1"
+L 03/26/2015 - 19:24:49: Server cvar "sv_maxspeed" = "320"
+L 03/26/2015 - 19:24:49: Server cvar "sv_proxies" = "0"
+L 03/26/2015 - 19:24:49: Server cvar "allow_spectators" = "4"
+L 03/26/2015 - 19:24:49: Server cvar "mp_chattime" = "0"
+L 03/26/2015 - 19:24:49: Server cvar "decalfrequency" = "9"
+L 03/26/2015 - 19:24:49: Server cvar "sv_aim" = "0"
+L 03/26/2015 - 19:24:49: Server cvar "sv_minrate" = "100000"
+L 03/26/2015 - 19:24:49: Server cvar "sv_maxrate" = "50000"
+L 03/26/2015 - 19:24:50: World triggered "Restart_Round_(1_second)"
+L 03/26/2015 - 19:24:50: Team "CT" scored "0" with "0" players
+L 03/26/2015 - 19:24:50: Team "TERRORIST" scored "0" with "0" players
+L 03/26/2015 - 19:24:50: Server cvar "sv_restartround" = "0"
+L 03/26/2015 - 19:24:56: World triggered "Round_Start"
+L 03/26/2015 - 19:26:07: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0xb39bcf08
+L 03/26/2015 - 19:26:07: "[Hard_Skill]_Extazy<1><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/26/2015 - 19:26:07: [VTC] Player 1 silk
+L 03/26/2015 - 19:27:30: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 03/26/2015 - 19:27:30: World triggered "Round_End"
+L 03/26/2015 - 19:27:30: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0xb39bcf08
+L 03/26/2015 - 19:27:30: "[Hard_Skill]_Extazy<2><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/26/2015 - 19:27:30: [VTC] Player 1 silk
+L 03/26/2015 - 19:27:40: World triggered "Round_Start"
+L 03/26/2015 - 19:29:59: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 03/26/2015 - 19:29:59: [META] ini: Read plugin config for: AMX Mod X
+L 03/26/2015 - 19:29:59: [META] ini: Read plugin config for: dproto_EF
+L 03/26/2015 - 19:29:59: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/26/2015 - 19:29:59: [META] ini: Read plugin config for: WHBlocker
+L 03/26/2015 - 19:29:59: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/26/2015 - 19:29:59: [META] dll: Updating plugins...
+L 03/26/2015 - 19:29:59: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/26/2015 - 19:29:59: Log file closed

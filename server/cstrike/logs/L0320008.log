@@ -1,0 +1,425 @@
+L 03/20/2015 - 20:26:01: Log file started (file "logs/L0320008.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/20/2015 - 20:26:01: Loading map "cs_assault_1337"
+L 03/20/2015 - 20:26:01: Server cvars start
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_debug_level" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_examine_time" = "0.5"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_look_angle" = "10"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_look_distance" = "200"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_message_repeats" = "5"
+L 03/20/2015 - 20:26:01: Server cvar "_tutor_view_distance" = "1000"
+L 03/20/2015 - 20:26:01: Server cvar "aesp_version" = "1.5b_mini"
+L 03/20/2015 - 20:26:01: Server cvar "allow_spectators" = "4"
+L 03/20/2015 - 20:26:01: Server cvar "amx_client_languages" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/20/2015 - 20:26:01: Server cvar "amx_language" = "ru"
+L 03/20/2015 - 20:26:01: Server cvar "amx_nextmap" = "cs_assault_1337"
+L 03/20/2015 - 20:26:01: Server cvar "amx_timeleft" = "00:00"
+L 03/20/2015 - 20:26:01: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/20/2015 - 20:26:01: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/20/2015 - 20:26:01: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Config" = "Loaded"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Replace" = "Failed"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Status" = "Loaded"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/20/2015 - 20:26:01: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/20/2015 - 20:26:01: Server cvar "coop" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "deathmatch" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "decalfrequency" = "9"
+L 03/20/2015 - 20:26:01: Server cvar "dp_version" = "0.9.391"
+L 03/20/2015 - 20:26:01: Server cvar "edgefriction" = "2"
+L 03/20/2015 - 20:26:01: Server cvar "hostage_debug" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "hostage_stop" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "humans_join_team" = "any"
+L 03/20/2015 - 20:26:01: Server cvar "jtp10181" = "chute"
+L 03/20/2015 - 20:26:01: Server cvar "max_queries_sec" = "3.0"
+L 03/20/2015 - 20:26:01: Server cvar "max_queries_sec_global" = "30"
+L 03/20/2015 - 20:26:01: Server cvar "max_queries_window" = "60"
+L 03/20/2015 - 20:26:01: Server cvar "metamod_version" = "1.19"
+L 03/20/2015 - 20:26:01: Server cvar "mp_allowmonsters" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_autokick" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_autoteambalance" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_buytime" = "1.5"
+L 03/20/2015 - 20:26:01: Server cvar "mp_c4timer" = "35"
+L 03/20/2015 - 20:26:01: Server cvar "mp_chattime" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_consistency" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_fadetoblack" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_flashlight" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_footsteps" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_forcecamera" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_forcechasecam" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_fragsleft" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_freezetime" = "5"
+L 03/20/2015 - 20:26:01: Server cvar "mp_friendlyfire" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_hostagepenalty" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_kickpercent" = "0.66"
+L 03/20/2015 - 20:26:01: Server cvar "mp_limitteams" = "5"
+L 03/20/2015 - 20:26:01: Server cvar "mp_logdetail" = "3"
+L 03/20/2015 - 20:26:01: Server cvar "mp_logfile" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_logmessages" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/20/2015 - 20:26:01: Server cvar "mp_maxrounds" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_mirrordamage" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_playerid" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_roundtime" = "2.57"
+L 03/20/2015 - 20:26:01: Server cvar "mp_startmoney" = "800"
+L 03/20/2015 - 20:26:01: Server cvar "mp_timeleft" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "mp_timelimit" = "30.000000"
+L 03/20/2015 - 20:26:01: Server cvar "mp_tkpunish" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_windifference" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "mp_winlimit" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "pausable" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_accelerate" = "5"
+L 03/20/2015 - 20:26:01: Server cvar "sv_aim" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_airaccelerate" = "10"
+L 03/20/2015 - 20:26:01: Server cvar "sv_airmove" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "sv_allowupload" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "sv_alltalk" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_bounce" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "sv_cheats" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_clienttrace" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "sv_clipmode" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_contact" = ""
+L 03/20/2015 - 20:26:01: Server cvar "sv_friction" = "4"
+L 03/20/2015 - 20:26:01: Server cvar "sv_gravity" = "800"
+L 03/20/2015 - 20:26:01: Server cvar "sv_logblocks" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_maxrate" = "50000"
+L 03/20/2015 - 20:26:01: Server cvar "sv_maxspeed" = "900"
+L 03/20/2015 - 20:26:01: Server cvar "sv_minrate" = "100000"
+L 03/20/2015 - 20:26:01: Server cvar "sv_password" = ""
+L 03/20/2015 - 20:26:01: Server cvar "sv_proxies" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_region" = "255"
+L 03/20/2015 - 20:26:01: Server cvar "sv_restart" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_restartround" = "0"
+L 03/20/2015 - 20:26:01: Server cvar "sv_stepsize" = "18"
+L 03/20/2015 - 20:26:01: Server cvar "sv_stopspeed" = "75"
+L 03/20/2015 - 20:26:01: Server cvar "sv_uploadmax" = "0.5"
+L 03/20/2015 - 20:26:01: Server cvar "sv_voiceenable" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "sv_wateraccelerate" = "10"
+L 03/20/2015 - 20:26:01: Server cvar "sv_waterfriction" = "1"
+L 03/20/2015 - 20:26:01: Server cvar "vtc_version" = "80"
+L 03/20/2015 - 20:26:01: Server cvars end
+L 03/20/2015 - 20:26:02: Server cvar "amx_nextmap" = "aim_awp"
+L 03/20/2015 - 20:26:02: Server cvar "sv_restart" = "1"
+L 03/20/2015 - 20:26:02: World triggered "Restart_Round_(1_second)"
+L 03/20/2015 - 20:26:02: Team "CT" scored "0" with "0" players
+L 03/20/2015 - 20:26:02: Team "TERRORIST" scored "0" with "0" players
+L 03/20/2015 - 20:26:02: Server cvar "sv_restart" = "0"
+L 03/20/2015 - 20:26:03: Started map "cs_assault_1337" (CRC "-408774136")
+L 03/20/2015 - 20:26:03: [VTC] Player 8 speex
+L 03/20/2015 - 20:26:03: [VTC] Player 4 speex
+L 03/20/2015 - 20:26:03: [VTC] Player 3 speex
+L 03/20/2015 - 20:26:03: [VTC] Player 1 speex
+L 03/20/2015 - 20:26:03: [VTC] Player 6 speex
+L 03/20/2015 - 20:26:06: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><>" entered the game
+L 03/20/2015 - 20:26:08: World triggered "Round_Start"
+L 03/20/2015 - 20:26:08: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39949cc
+L 03/20/2015 - 20:26:08: "Silvia Saint<71><STEAM_0:4:1181841502><>" connected, address "5.18.190.37:27005"
+L 03/20/2015 - 20:26:08: "lnquisitor<66><STEAM_0:4:74829189><>" entered the game
+L 03/20/2015 - 20:26:08: [VTC] Player 6 speex
+L 03/20/2015 - 20:26:09: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><>" joined team "TERRORIST"
+L 03/20/2015 - 20:26:09: "emo_Karasb<65><STEAM_0:4:1499929166><>" entered the game
+L 03/20/2015 - 20:26:10: "lnquisitor<66><STEAM_0:4:74829189><>" joined team "CT"
+L 03/20/2015 - 20:26:11: World triggered "Game_Commencing"
+L 03/20/2015 - 20:26:11: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/20/2015 - 20:26:11: World triggered "Round_End"
+L 03/20/2015 - 20:26:12: "Silvia Saint<71><STEAM_0:4:1181841502><>" entered the game
+L 03/20/2015 - 20:26:14: "emo_Karasb<65><STEAM_0:4:1499929166><>" joined team "CT"
+L 03/20/2015 - 20:26:15: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398abe4
+L 03/20/2015 - 20:26:15: "Radik<72><STEAM_0:4:411291013><>" connected, address "178.121.91.152:58455"
+L 03/20/2015 - 20:26:15: [VTC] Player 4 speex
+L 03/20/2015 - 20:26:19: World triggered "Round_Start"
+L 03/20/2015 - 20:26:20: "Silvia Saint<71><STEAM_0:4:1181841502><>" joined team "TERRORIST"
+L 03/20/2015 - 20:26:20: "Radik<72><STEAM_0:4:411291013><>" entered the game
+L 03/20/2015 - 20:26:22: "Radik<72><STEAM_0:4:411291013><>" joined team "CT"
+L 03/20/2015 - 20:26:37: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "deagle" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/20/2015 - 20:26:42: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "deagle" (damage "36") (damage_armor "0") (health "43") (armor "0")
+L 03/20/2015 - 20:26:42: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "deagle" (damage "29") (damage_armor "0") (health "14") (armor "0")
+L 03/20/2015 - 20:26:46: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3980dfc
+L 03/20/2015 - 20:26:46: "[Easy_Skill]_LoL#3<73><STEAM_0:4:1861111429><>" connected, address "178.127.128.116:27005"
+L 03/20/2015 - 20:26:46: [VTC] Player 2 speex
+L 03/20/2015 - 20:26:52: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3980dfc
+L 03/20/2015 - 20:26:52: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><>" connected, address "178.127.128.116:27005"
+L 03/20/2015 - 20:26:53: [VTC] Player 2 speex
+L 03/20/2015 - 20:27:02: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "deagle" (damage "33") (damage_armor "6") (health "67") (armor "94")
+L 03/20/2015 - 20:27:03: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/20/2015 - 20:27:03: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "deagle" (damage "32") (damage_armor "5") (health "35") (armor "89")
+L 03/20/2015 - 20:27:03: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "45") (damage_armor "0") (health "18") (armor "0")
+L 03/20/2015 - 20:27:04: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "deagle" (damage "41") (damage_armor "7") (health "-6") (armor "82")
+L 03/20/2015 - 20:27:04: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "deagle"
+L 03/20/2015 - 20:27:09: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><>" entered the game
+L 03/20/2015 - 20:27:14: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "deagle" (damage "49") (damage_armor "0") (health "-38") (armor "0")
+L 03/20/2015 - 20:27:14: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "Radik<72><STEAM_0:4:411291013><CT>" with "deagle"
+L 03/20/2015 - 20:27:19: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><>" joined team "CT"
+L 03/20/2015 - 20:27:19: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/20/2015 - 20:27:19: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "deagle" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/20/2015 - 20:27:20: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "usp" (damage "20") (damage_armor "0") (health "43") (armor "0")
+L 03/20/2015 - 20:27:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "usp" (damage "20") (damage_armor "0") (health "23") (armor "0")
+L 03/20/2015 - 20:27:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "usp" (damage "20") (damage_armor "0") (health "3") (armor "0")
+L 03/20/2015 - 20:27:24: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "35") (damage_armor "0") (health "28") (armor "0")
+L 03/20/2015 - 20:27:39: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "43") (damage_armor "0") (health "-25") (armor "0")
+L 03/20/2015 - 20:27:39: "lnquisitor<66><STEAM_0:4:74829189><CT>" killed "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle"
+L 03/20/2015 - 20:27:46: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "deagle" (damage "46") (damage_armor "0") (health "-43") (armor "0")
+L 03/20/2015 - 20:27:46: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "lnquisitor<66><STEAM_0:4:74829189><CT>" with "deagle"
+L 03/20/2015 - 20:27:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/20/2015 - 20:27:46: World triggered "Round_End"
+L 03/20/2015 - 20:27:56: World triggered "Round_Start"
+L 03/20/2015 - 20:28:22: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "26") (damage_armor "5") (health "74") (armor "95")
+L 03/20/2015 - 20:28:22: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/20/2015 - 20:28:23: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "7") (health "59") (armor "88")
+L 03/20/2015 - 20:28:23: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "7") (health "47") (armor "81")
+L 03/20/2015 - 20:28:24: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "35") (armor "75")
+L 03/20/2015 - 20:28:24: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "23") (armor "69")
+L 03/20/2015 - 20:28:24: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "11") (armor "63")
+L 03/20/2015 - 20:28:24: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy" (damage "50") (damage_armor "25") (health "-39") (armor "38")
+L 03/20/2015 - 20:28:24: "Radik<72><STEAM_0:4:411291013><CT>" killed "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "mp5navy"
+L 03/20/2015 - 20:28:24: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/20/2015 - 20:28:25: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "27") (damage_armor "4") (health "47") (armor "96")
+L 03/20/2015 - 20:28:32: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "27") (damage_armor "4") (health "20") (armor "92")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "18") (damage_armor "0") (health "14") (armor "0")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-11") (armor "0")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "Radik<72><STEAM_0:4:411291013><CT>" with "ak47"
+L 03/20/2015 - 20:28:32: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-7") (armor "88")
+L 03/20/2015 - 20:28:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47"
+L 03/20/2015 - 20:28:34: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-74") (armor "0")
+L 03/20/2015 - 20:28:34: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "lnquisitor<66><STEAM_0:4:74829189><CT>" with "ak47"
+L 03/20/2015 - 20:28:46: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "35") (damage_armor "0") (health "11") (armor "92")
+L 03/20/2015 - 20:28:46: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/20/2015 - 20:28:46: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><CT>" with "ak47" (damage "35") (damage_armor "0") (health "39") (armor "0")
+L 03/20/2015 - 20:28:46: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "44") (damage_armor "8") (health "-33") (armor "84")
+L 03/20/2015 - 20:28:46: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><CT>" killed "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle"
+L 03/20/2015 - 20:28:46: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/20/2015 - 20:28:46: World triggered "Round_End"
+L 03/20/2015 - 20:28:51: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><CT>" joined team "TERRORIST" (auto)
+L 03/20/2015 - 20:28:56: World triggered "Round_Start"
+L 03/20/2015 - 20:29:13: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" with "deagle" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/20/2015 - 20:29:14: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" with "deagle" (damage "148") (damage_armor "0") (health "-66") (armor "0")
+L 03/20/2015 - 20:29:14: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" killed "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" with "deagle"
+L 03/20/2015 - 20:29:15: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "86") (armor "100")
+L 03/20/2015 - 20:29:15: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "72") (armor "100")
+L 03/20/2015 - 20:29:15: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "58") (armor "100")
+L 03/20/2015 - 20:29:15: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "49") (armor "95")
+L 03/20/2015 - 20:29:15: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "35") (armor "95")
+L 03/20/2015 - 20:29:16: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "26") (armor "90")
+L 03/20/2015 - 20:29:16: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "17") (armor "85")
+L 03/20/2015 - 20:29:25: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "deagle" (damage "152") (damage_armor "0") (health "-52") (armor "0")
+L 03/20/2015 - 20:29:25: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "Radik<72><STEAM_0:4:411291013><CT>" with "deagle"
+L 03/20/2015 - 20:29:28: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "51") (damage_armor "0") (health "49") (armor "0")
+L 03/20/2015 - 20:29:28: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "mp5navy" (damage "10") (damage_armor "5") (health "7") (armor "80")
+L 03/20/2015 - 20:29:28: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "41") (damage_armor "0") (health "8") (armor "0")
+L 03/20/2015 - 20:29:28: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "41") (damage_armor "0") (health "-33") (armor "0")
+L 03/20/2015 - 20:29:28: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" killed "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle"
+L 03/20/2015 - 20:29:34: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "deagle" (damage "30") (damage_armor "0") (health "-23") (armor "80")
+L 03/20/2015 - 20:29:34: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "deagle"
+L 03/20/2015 - 20:29:44: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/20/2015 - 20:29:45: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 03/20/2015 - 20:29:47: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/20/2015 - 20:29:47: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "33") (armor "0")
+L 03/20/2015 - 20:29:47: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 03/20/2015 - 20:29:47: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-117") (armor "0")
+L 03/20/2015 - 20:29:47: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1"
+L 03/20/2015 - 20:29:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/20/2015 - 20:29:47: World triggered "Round_End"
+L 03/20/2015 - 20:29:49: Kick: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/20/2015 - 20:29:49: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "6") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "79") (deaths "1")
+L 03/20/2015 - 20:29:49: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/20/2015 - 20:29:49: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" triggered "time" (time "2:40")
+L 03/20/2015 - 20:29:49: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" triggered "latency" (ping "70")
+L 03/20/2015 - 20:29:49: "[Easy_Skill]_LoL#3<74><STEAM_0:4:1861111429><TERRORIST>" disconnected
+L 03/20/2015 - 20:29:57: World triggered "Round_Start"
+L 03/20/2015 - 20:30:09: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3980dfc
+L 03/20/2015 - 20:30:09: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><>" connected, address "178.127.128.116:27005"
+L 03/20/2015 - 20:30:09: [VTC] Player 2 speex
+L 03/20/2015 - 20:30:12: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398fad8
+L 03/20/2015 - 20:30:12: "B9TICH_Carlos<76><STEAM_0:4:213082102><>" connected, address "85.93.58.176:39431"
+L 03/20/2015 - 20:30:12: [VTC] Player 5 speex
+L 03/20/2015 - 20:30:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><>" entered the game
+L 03/20/2015 - 20:30:26: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><>" joined team "TERRORIST"
+L 03/20/2015 - 20:30:30: "Radik<72><STEAM_0:4:411291013><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 03/20/2015 - 20:30:30: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "49") (damage_armor "8") (health "51") (armor "92")
+L 03/20/2015 - 20:30:30: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "27") (damage_armor "4") (health "24") (armor "88")
+L 03/20/2015 - 20:30:30: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "Radik<72><STEAM_0:4:411291013><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-3") (armor "84")
+L 03/20/2015 - 20:30:30: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "Radik<72><STEAM_0:4:411291013><CT>" with "ak47"
+L 03/20/2015 - 20:30:32: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "12") (damage_armor "0") (health "79") (armor "95")
+L 03/20/2015 - 20:30:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "m4a1" (damage "25") (damage_armor "6") (health "75") (armor "94")
+L 03/20/2015 - 20:30:33: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "m4a1" (damage "25") (damage_armor "5") (health "50") (armor "89")
+L 03/20/2015 - 20:30:33: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "30") (armor "84")
+L 03/20/2015 - 20:30:33: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "m4a1" (damage "25") (damage_armor "5") (health "5") (armor "79")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "weaponstats" (weapon "usp") (shots "31") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "21") (deaths "2")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "27") (hits "6") (kills "1") (headshots "1") (tks "0") (damage "113") (deaths "1")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "1") (stomach "1") (leftarm "0") (rightarm "3") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "weaponstats" (weapon "m4a1") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "time" (time "4:13")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" triggered "latency" (ping "66")
+L 03/20/2015 - 20:30:34: "Radik<72><STEAM_0:4:411291013><CT>" disconnected
+L 03/20/2015 - 20:30:35: "lnquisitor<66><STEAM_0:4:74829189><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "30") (damage_armor "6") (health "49") (armor "89")
+L 03/20/2015 - 20:30:37: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1" (damage "17") (damage_armor "0") (health "78") (armor "0")
+L 03/20/2015 - 20:30:45: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-38") (armor "0")
+L 03/20/2015 - 20:30:45: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "lnquisitor<66><STEAM_0:4:74829189><CT>" with "m4a1"
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "9") (deaths "0")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats" (weapon "m4a1") (shots "21") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "40") (deaths "1")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats" (weapon "deagle") (shots "52") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "253") (deaths "2")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "2") (leftarm "4") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats" (weapon "knife") (shots "16") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "time" (time "4:40")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" triggered "latency" (ping "42")
+L 03/20/2015 - 20:30:49: "lnquisitor<66><STEAM_0:4:74829189><CT>" disconnected
+L 03/20/2015 - 20:30:49: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "29") (damage_armor "5") (health "50") (armor "95")
+L 03/20/2015 - 20:30:49: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "29") (damage_armor "0") (health "21") (armor "95")
+L 03/20/2015 - 20:30:50: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "29") (damage_armor "0") (health "-8") (armor "95")
+L 03/20/2015 - 20:30:50: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" killed "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle"
+L 03/20/2015 - 20:31:10: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:31:10: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:31:14: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:31:14: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:31:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-18") (armor "74")
+L 03/20/2015 - 20:31:32: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "m4a1"
+L 03/20/2015 - 20:31:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/20/2015 - 20:31:32: World triggered "Round_End"
+L 03/20/2015 - 20:31:41: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3985cf0
+L 03/20/2015 - 20:31:41: "Islam<77><STEAM_0:4:670200066><>" connected, address "188.0.184.230:23561"
+L 03/20/2015 - 20:31:41: [VTC] Player 3 speex
+L 03/20/2015 - 20:31:42: World triggered "Round_Start"
+L 03/20/2015 - 20:32:03: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/20/2015 - 20:32:03: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/20/2015 - 20:32:03: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "26") (damage_armor "0") (health "20") (armor "92")
+L 03/20/2015 - 20:32:03: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "26") (damage_armor "0") (health "-6") (armor "92")
+L 03/20/2015 - 20:32:03: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47"
+L 03/20/2015 - 20:32:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/20/2015 - 20:32:03: World triggered "Round_End"
+L 03/20/2015 - 20:32:08: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><TERRORIST>" joined team "CT" (auto)
+L 03/20/2015 - 20:32:13: World triggered "Round_Start"
+L 03/20/2015 - 20:32:26: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "deagle" (damage "36") (damage_armor "0") (health "64") (armor "100")
+L 03/20/2015 - 20:32:27: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/20/2015 - 20:32:27: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/20/2015 - 20:32:27: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "0") (armor "0")
+L 03/20/2015 - 20:32:27: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" killed "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "m4a1"
+L 03/20/2015 - 20:32:28: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3985cf0
+L 03/20/2015 - 20:32:28: "Islam<78><STEAM_0:4:670200066><>" connected, address "188.0.184.230:23561"
+L 03/20/2015 - 20:32:29: [VTC] Player 3 speex
+L 03/20/2015 - 20:32:45: "Islam<78><STEAM_0:4:670200066><>" entered the game
+L 03/20/2015 - 20:32:57: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:32:57: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:33:00: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:33:01: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "Touched_A_Hostage"
+L 03/20/2015 - 20:33:16: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "48") (armor "100")
+L 03/20/2015 - 20:33:16: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "32") (armor "100")
+L 03/20/2015 - 20:33:17: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "16") (armor "100")
+L 03/20/2015 - 20:33:17: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "0") (armor "100")
+L 03/20/2015 - 20:33:17: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" killed "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" with "usp"
+L 03/20/2015 - 20:33:39: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "58") (damage_armor "29") (health "42") (armor "71")
+L 03/20/2015 - 20:33:39: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "14") (damage_armor "8") (health "28") (armor "63")
+L 03/20/2015 - 20:33:40: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "14") (armor "56")
+L 03/20/2015 - 20:33:40: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "0") (armor "49")
+L 03/20/2015 - 20:33:40: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" killed "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp"
+L 03/20/2015 - 20:33:40: Team "CT" triggered "CTs_Win" (CT "2") (T "4")
+L 03/20/2015 - 20:33:40: World triggered "Round_End"
+L 03/20/2015 - 20:33:50: World triggered "Round_Start"
+L 03/20/2015 - 20:34:06: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "36") (damage_armor "1") (health "64") (armor "99")
+L 03/20/2015 - 20:34:06: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "36") (damage_armor "1") (health "28") (armor "98")
+L 03/20/2015 - 20:34:10: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "25") (damage_armor "0") (health "3") (armor "98")
+L 03/20/2015 - 20:34:10: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47" (damage "37") (damage_armor "1") (health "-34") (armor "97")
+L 03/20/2015 - 20:34:10: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "emo_Karasb<65><STEAM_0:4:1499929166><CT>" with "ak47"
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats" (weapon "usp") (shots "25") (hits "8") (kills "2") (headshots "0") (tks "0") (damage "164") (deaths "0")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "3") (rightleg "1")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats" (weapon "deagle") (shots "28") (hits "9") (kills "3") (headshots "1") (tks "0") (damage "398") (deaths "4")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "3")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats" (weapon "ak47") (shots "6") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "54") (deaths "1")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "time" (time "8:19")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" triggered "latency" (ping "45")
+L 03/20/2015 - 20:34:29: "emo_Karasb<65><STEAM_0:4:1499929166><CT>" disconnected
+L 03/20/2015 - 20:34:39: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 03/20/2015 - 20:34:39: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "ak47"
+L 03/20/2015 - 20:34:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 03/20/2015 - 20:34:39: World triggered "Round_End"
+L 03/20/2015 - 20:34:49: World triggered "Round_Start"
+L 03/20/2015 - 20:35:15: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "deagle" (damage "46") (damage_armor "0") (health "54") (armor "0")
+L 03/20/2015 - 20:35:40: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" committed suicide with "worldspawn" (world)
+L 03/20/2015 - 20:35:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 03/20/2015 - 20:35:40: World triggered "Round_End"
+L 03/20/2015 - 20:35:50: World triggered "Round_Start"
+L 03/20/2015 - 20:36:12: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "15") (damage_armor "4") (health "85") (armor "96")
+L 03/20/2015 - 20:36:26: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "deagle" (damage "42") (damage_armor "0") (health "35") (armor "0")
+L 03/20/2015 - 20:36:26: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "usp" (damage "17") (damage_armor "4") (health "68") (armor "92")
+L 03/20/2015 - 20:36:30: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "deagle" (damage "44") (damage_armor "0") (health "-9") (armor "0")
+L 03/20/2015 - 20:36:30: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "deagle"
+L 03/20/2015 - 20:36:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 03/20/2015 - 20:36:30: World triggered "Round_End"
+L 03/20/2015 - 20:36:40: World triggered "Round_Start"
+L 03/20/2015 - 20:37:09: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" attacked "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "39") (damage_armor "0") (health "61") (armor "92")
+L 03/20/2015 - 20:37:09: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "deagle" (damage "208") (damage_armor "0") (health "-108") (armor "0")
+L 03/20/2015 - 20:37:09: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" killed "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" with "deagle"
+L 03/20/2015 - 20:37:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 03/20/2015 - 20:37:09: World triggered "Round_End"
+L 03/20/2015 - 20:37:16: Server cvar "amx_nextmap" = "$2000$"
+L 03/20/2015 - 20:37:16: Server cvar "mp_timelimit" = "0.000000"
+L 03/20/2015 - 20:37:19: Server cvar "mp_timelimit" = "0.010000"
+L 03/20/2015 - 20:37:19: World triggered "Round_Start"
+L 03/20/2015 - 20:37:19: Team "CT" scored "2" with "1" players
+L 03/20/2015 - 20:37:19: Team "TERRORIST" scored "8" with "2" players
+L 03/20/2015 - 20:37:19: Server cvar "mp_chattime" = "3"
+L 03/20/2015 - 20:37:21: Server cvar "mp_chattime" = "1"
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" triggered "weaponstats" (weapon "usp") (shots "36") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "32") (deaths "1")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" triggered "weaponstats" (weapon "deagle") (shots "30") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "75") (deaths "3")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" triggered "time" (time "6:59")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_LoL#3<75><STEAM_0:4:1861111429><CT>" triggered "latency" (ping "66")
+L 03/20/2015 - 20:37:21: "Islam<78><STEAM_0:4:670200066><UNASSIGNED>" triggered "time" (time "4:35")
+L 03/20/2015 - 20:37:21: "Islam<78><STEAM_0:4:670200066><UNASSIGNED>" triggered "latency" (ping "43")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "28") (deaths "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "12") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "60") (deaths "1")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "64") (hits "13") (kills "4") (headshots "2") (tks "0") (damage "566") (deaths "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "1") (stomach "6") (leftarm "2") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "33") (hits "6") (kills "3") (headshots "1") (tks "0") (damage "317") (deaths "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "2") (rightleg "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "71") (hits "11") (kills "3") (headshots "1") (tks "0") (damage "419") (deaths "2")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "1") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "3") (rightleg "2")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "time" (time "11:08")
+L 03/20/2015 - 20:37:21: "Silvia Saint<71><STEAM_0:4:1181841502><TERRORIST>" triggered "latency" (ping "37")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "53") (hits "8") (kills "0") (headshots "0") (tks "0") (damage "93") (deaths "1")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "3") (rightleg "1")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "44") (hits "9") (kills "4") (headshots "1") (tks "0") (damage "529") (deaths "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "1") (leftarm "3") (rightarm "3") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "90") (hits "13") (kills "4") (headshots "1") (tks "0") (damage "513") (deaths "3")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "4") (stomach "0") (leftarm "1") (rightarm "3") (leftleg "2") (rightleg "1")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "time" (time "11:14")
+L 03/20/2015 - 20:37:21: "[Easy_Skill]_Faza#1<60><STEAM_0:0:969824236><TERRORIST>" triggered "latency" (ping "18")
+L 03/20/2015 - 20:37:21: Server cvar "mp_timelimit" = "30.000000"
+L 03/20/2015 - 20:37:21: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/20/2015 - 20:37:21: [META] ini: Read plugin config for: AMX Mod X
+L 03/20/2015 - 20:37:21: [META] ini: Read plugin config for: dproto_EF
+L 03/20/2015 - 20:37:21: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/20/2015 - 20:37:21: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/20/2015 - 20:37:21: [META] dll: Updating plugins...
+L 03/20/2015 - 20:37:21: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/20/2015 - 20:37:21: Log file closed

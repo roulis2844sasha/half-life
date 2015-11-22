@@ -1,0 +1,725 @@
+L 03/22/2015 - 22:50:49: Log file started (file "logs/L0322066.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/22/2015 - 22:50:49: Loading map "35_hp_2011"
+L 03/22/2015 - 22:50:49: Server cvars start
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_debug_level" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_examine_time" = "0.5"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_look_angle" = "10"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_look_distance" = "200"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_message_repeats" = "5"
+L 03/22/2015 - 22:50:49: Server cvar "_tutor_view_distance" = "1000"
+L 03/22/2015 - 22:50:49: Server cvar "aesp_version" = "1.5b_mini"
+L 03/22/2015 - 22:50:49: Server cvar "allow_spectators" = "4"
+L 03/22/2015 - 22:50:49: Server cvar "amx_client_languages" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/22/2015 - 22:50:49: Server cvar "amx_language" = "ru"
+L 03/22/2015 - 22:50:49: Server cvar "amx_nextmap" = "35_hp_2011"
+L 03/22/2015 - 22:50:49: Server cvar "amx_timeleft" = "00:00"
+L 03/22/2015 - 22:50:49: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/22/2015 - 22:50:49: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/22/2015 - 22:50:49: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Config" = "Loaded"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Replace" = "Failed"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Status" = "Loaded"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/22/2015 - 22:50:49: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/22/2015 - 22:50:49: Server cvar "coop" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "deathmatch" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "decalfrequency" = "9"
+L 03/22/2015 - 22:50:49: Server cvar "dp_version" = "0.9.391"
+L 03/22/2015 - 22:50:49: Server cvar "edgefriction" = "2"
+L 03/22/2015 - 22:50:49: Server cvar "hostage_debug" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "hostage_stop" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "humans_join_team" = "any"
+L 03/22/2015 - 22:50:49: Server cvar "jtp10181" = "chute"
+L 03/22/2015 - 22:50:49: Server cvar "max_queries_sec" = "3.0"
+L 03/22/2015 - 22:50:49: Server cvar "max_queries_sec_global" = "30"
+L 03/22/2015 - 22:50:49: Server cvar "max_queries_window" = "60"
+L 03/22/2015 - 22:50:49: Server cvar "metamod_version" = "1.19"
+L 03/22/2015 - 22:50:49: Server cvar "mp_allowmonsters" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_autokick" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_autoteambalance" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_buytime" = "1.5"
+L 03/22/2015 - 22:50:49: Server cvar "mp_c4timer" = "35"
+L 03/22/2015 - 22:50:49: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_consistency" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_fadetoblack" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_flashlight" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_footsteps" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_forcecamera" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_forcechasecam" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_fragsleft" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_freezetime" = "5"
+L 03/22/2015 - 22:50:49: Server cvar "mp_friendlyfire" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_hostagepenalty" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_kickpercent" = "0.66"
+L 03/22/2015 - 22:50:49: Server cvar "mp_limitteams" = "5"
+L 03/22/2015 - 22:50:49: Server cvar "mp_logdetail" = "3"
+L 03/22/2015 - 22:50:49: Server cvar "mp_logfile" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_logmessages" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/22/2015 - 22:50:49: Server cvar "mp_maxrounds" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_mirrordamage" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_playerid" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_roundtime" = "2.57"
+L 03/22/2015 - 22:50:49: Server cvar "mp_startmoney" = "800"
+L 03/22/2015 - 22:50:49: Server cvar "mp_timeleft" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 22:50:49: Server cvar "mp_tkpunish" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_windifference" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "mp_winlimit" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "pausable" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_accelerate" = "5"
+L 03/22/2015 - 22:50:49: Server cvar "sv_aim" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_airaccelerate" = "10"
+L 03/22/2015 - 22:50:49: Server cvar "sv_airmove" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "sv_allowupload" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "sv_alltalk" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_bounce" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "sv_cheats" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_clienttrace" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "sv_clipmode" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_contact" = ""
+L 03/22/2015 - 22:50:49: Server cvar "sv_friction" = "4"
+L 03/22/2015 - 22:50:49: Server cvar "sv_gravity" = "800"
+L 03/22/2015 - 22:50:49: Server cvar "sv_logblocks" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_maxrate" = "50000"
+L 03/22/2015 - 22:50:49: Server cvar "sv_maxspeed" = "900"
+L 03/22/2015 - 22:50:49: Server cvar "sv_minrate" = "100000"
+L 03/22/2015 - 22:50:49: Server cvar "sv_password" = ""
+L 03/22/2015 - 22:50:49: Server cvar "sv_proxies" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_region" = "255"
+L 03/22/2015 - 22:50:49: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_restartround" = "0"
+L 03/22/2015 - 22:50:49: Server cvar "sv_stepsize" = "18"
+L 03/22/2015 - 22:50:49: Server cvar "sv_stopspeed" = "75"
+L 03/22/2015 - 22:50:49: Server cvar "sv_uploadmax" = "0.5"
+L 03/22/2015 - 22:50:49: Server cvar "sv_voiceenable" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "sv_wateraccelerate" = "10"
+L 03/22/2015 - 22:50:49: Server cvar "sv_waterfriction" = "1"
+L 03/22/2015 - 22:50:49: Server cvar "travo_statmarquee" = "v1.2"
+L 03/22/2015 - 22:50:49: Server cvar "ultimate_sounds" = "1.7"
+L 03/22/2015 - 22:50:49: Server cvar "vtc_version" = "80"
+L 03/22/2015 - 22:50:49: Server cvars end
+L 03/22/2015 - 22:50:52: Server cvar "sv_restart" = "1"
+L 03/22/2015 - 22:50:52: World triggered "Restart_Round_(1_second)"
+L 03/22/2015 - 22:50:52: Team "CT" scored "0" with "0" players
+L 03/22/2015 - 22:50:52: Team "TERRORIST" scored "0" with "0" players
+L 03/22/2015 - 22:50:52: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 22:50:52: Started map "35_hp_2011" (CRC "1681787481")
+L 03/22/2015 - 22:50:52: [VTC] Player 5 speex
+L 03/22/2015 - 22:50:53: [VTC] Player 10 speex
+L 03/22/2015 - 22:50:53: [VTC] Player 11 speex
+L 03/22/2015 - 22:50:53: [VTC] Player 3 speex
+L 03/22/2015 - 22:50:53: [VTC] Player 7 speex
+L 03/22/2015 - 22:50:55: [DPROTO]: Client 9 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39a959c
+L 03/22/2015 - 22:50:55: "Lerochka<517><STEAM_0:0:226379933><>" connected, address "37.212.90.94:7741"
+L 03/22/2015 - 22:50:55: [VTC] Player 10 speex
+L 03/22/2015 - 22:50:55: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 22:50:55: "Nastenbka :*<518><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/22/2015 - 22:50:55: [VTC] Player 3 speex
+L 03/22/2015 - 22:50:56: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:50:56: "Dasha krytaay<519><STEAM_0:0:1771118830><>" connected, address "37.212.90.94:48981"
+L 03/22/2015 - 22:50:56: [VTC] Player 11 speex
+L 03/22/2015 - 22:50:57: World triggered "Round_Start"
+L 03/22/2015 - 22:50:58: "VIKa:***<463><STEAM_0:0:1429534441><>" entered the game
+L 03/22/2015 - 22:50:58: "Lerochka<517><STEAM_0:0:226379933><>" entered the game
+L 03/22/2015 - 22:51:00: "Nastenbka :*<518><STEAM_0:4:696196046><>" entered the game
+L 03/22/2015 - 22:51:01: "Lerochka<517><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/22/2015 - 22:51:02: "VIKa:***<463><STEAM_0:0:1429534441><>" joined team "CT"
+L 03/22/2015 - 22:51:03: World triggered "Game_Commencing"
+L 03/22/2015 - 22:51:03: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/22/2015 - 22:51:03: World triggered "Round_End"
+L 03/22/2015 - 22:51:04: "Dasha krytaay<519><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 22:51:08: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><>" entered the game
+L 03/22/2015 - 22:51:09: "VIKa:***<463><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 03/22/2015 - 22:51:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/22/2015 - 22:51:09: World triggered "Round_End"
+L 03/22/2015 - 22:51:11: World triggered "Round_Start"
+L 03/22/2015 - 22:51:18: "VIKa:***<463><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 03/22/2015 - 22:51:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/22/2015 - 22:51:18: World triggered "Round_End"
+L 03/22/2015 - 22:51:19: World triggered "Round_Start"
+L 03/22/2015 - 22:51:19: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><>" joined team "CT"
+L 03/22/2015 - 22:51:21: "Dasha krytaay<519><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/22/2015 - 22:51:28: World triggered "Round_Start"
+L 03/22/2015 - 22:51:31: "Nastenbka :*<518><STEAM_0:4:696196046><>" joined team "TERRORIST"
+L 03/22/2015 - 22:51:37: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:51:37: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:51:39: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:51:39: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:51:47: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "VIKa:***<463><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:51:47: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "VIKa:***<463><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 22:51:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/22/2015 - 22:51:47: World triggered "Round_End"
+L 03/22/2015 - 22:51:57: World triggered "Round_Start"
+L 03/22/2015 - 22:52:02: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:02: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:52:08: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "VIKa:***<463><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:08: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "VIKa:***<463><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 22:52:09: "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/22/2015 - 22:52:09: "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:52:09: "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" triggered "time" (time "1:05")
+L 03/22/2015 - 22:52:09: "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "92")
+L 03/22/2015 - 22:52:09: "Dasha krytaay<519><STEAM_0:0:1771118830><CT>" disconnected
+L 03/22/2015 - 22:52:10: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:10: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:52:12: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:52:12: "Dasha krytaay<520><STEAM_0:0:1771118830><>" connected, address "37.212.90.94:48981"
+L 03/22/2015 - 22:52:13: [VTC] Player 11 speex
+L 03/22/2015 - 22:52:20: "Dasha krytaay<520><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 22:52:25: "Dasha krytaay<520><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/22/2015 - 22:52:26: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:26: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:52:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/22/2015 - 22:52:26: World triggered "Round_End"
+L 03/22/2015 - 22:52:36: World triggered "Round_Start"
+L 03/22/2015 - 22:52:44: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 22:52:44: "Zl@9|_P@nDa<521><STEAM_0:4:1383877893><>" connected, address "178.120.164.13:41112"
+L 03/22/2015 - 22:52:44: [VTC] Player 1 speex
+L 03/22/2015 - 22:52:46: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:46: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:52:53: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:53: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 22:52:56: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:52:56: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:52:56: Team "CT" triggered "CTs_Win" (CT "1") (T "4")
+L 03/22/2015 - 22:52:56: World triggered "Round_End"
+L 03/22/2015 - 22:53:03: "VIKa:***<463><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 03/22/2015 - 22:53:06: World triggered "Round_Start"
+L 03/22/2015 - 22:53:11: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:53:11: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:53:18: "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:53:18: "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:53:19: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:53:19: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:53:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 03/22/2015 - 22:53:19: World triggered "Round_End"
+L 03/22/2015 - 22:53:29: World triggered "Round_Start"
+L 03/22/2015 - 22:53:36: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:53:36: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:53:39: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:53:39: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:53:52: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "VIKa:***<463><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:53:52: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "VIKa:***<463><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 22:53:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 03/22/2015 - 22:53:52: World triggered "Round_End"
+L 03/22/2015 - 22:54:02: World triggered "Round_Start"
+L 03/22/2015 - 22:54:03: "VIKa:***<463><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/22/2015 - 22:54:03: "VIKa:***<463><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:54:03: "VIKa:***<463><STEAM_0:0:1429534441><CT>" triggered "time" (time "3:05")
+L 03/22/2015 - 22:54:03: "VIKa:***<463><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "17")
+L 03/22/2015 - 22:54:03: "VIKa:***<463><STEAM_0:0:1429534441><CT>" disconnected
+L 03/22/2015 - 22:54:04: "Dasha krytaay<520><STEAM_0:0:1771118830><CT>" changed name to "Dasha ymnitsay"
+L 03/22/2015 - 22:54:09: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:54:09: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:54:13: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:54:13: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:54:29: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "3")
+L 03/22/2015 - 22:54:29: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:54:29: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" triggered "time" (time "2:09")
+L 03/22/2015 - 22:54:29: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "88")
+L 03/22/2015 - 22:54:29: "Dasha ymnitsay<520><STEAM_0:0:1771118830><CT>" disconnected
+L 03/22/2015 - 22:54:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "7")
+L 03/22/2015 - 22:54:29: World triggered "Round_End"
+L 03/22/2015 - 22:54:39: World triggered "Round_Start"
+L 03/22/2015 - 22:54:48: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 22:54:48: "matvei nikto<522><STEAM_0:0:1771118830><>" connected, address "37.212.90.94:48981"
+L 03/22/2015 - 22:54:48: [VTC] Player 11 speex
+L 03/22/2015 - 22:54:56: "matvei nikto<522><STEAM_0:0:1771118830><>" entered the game
+L 03/22/2015 - 22:55:01: "matvei nikto<522><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/22/2015 - 22:55:03: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:55:03: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:55:09: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:55:09: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 22:55:09: Team "CT" triggered "CTs_Win" (CT "2") (T "7")
+L 03/22/2015 - 22:55:09: World triggered "Round_End"
+L 03/22/2015 - 22:55:19: World triggered "Round_Start"
+L 03/22/2015 - 22:55:43: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:55:44: "matvei nikto<522><STEAM_0:0:1771118830><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:55:44: "matvei nikto<522><STEAM_0:0:1771118830><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:55:48: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:55:48: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:55:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 03/22/2015 - 22:55:48: World triggered "Round_End"
+L 03/22/2015 - 22:55:58: World triggered "Round_Start"
+L 03/22/2015 - 22:56:14: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:56:14: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:56:20: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:56:20: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:56:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "9")
+L 03/22/2015 - 22:56:20: World triggered "Round_End"
+L 03/22/2015 - 22:56:24: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 22:56:30: World triggered "Round_Start"
+L 03/22/2015 - 22:56:56: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 22:56:56: "FOUST<523><STEAM_0:4:866248765><>" connected, address "195.50.31.206:36759"
+L 03/22/2015 - 22:56:56: [VTC] Player 1 speex
+L 03/22/2015 - 22:56:58: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/22/2015 - 22:56:59: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/22/2015 - 22:57:00: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 22:57:00: "FOUST<524><STEAM_0:4:866248765><>" connected, address "195.50.31.206:36759"
+L 03/22/2015 - 22:57:00: [VTC] Player 1 speex
+L 03/22/2015 - 22:57:02: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:57:02: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:57:09: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:57:09: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:57:11: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:57:11: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 22:57:11: Team "CT" triggered "CTs_Win" (CT "3") (T "9")
+L 03/22/2015 - 22:57:11: World triggered "Round_End"
+L 03/22/2015 - 22:57:21: World triggered "Round_Start"
+L 03/22/2015 - 22:57:28: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:57:28: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:57:32: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:57:32: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 22:57:38: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:57:38: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/22/2015 - 22:57:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "10")
+L 03/22/2015 - 22:57:38: World triggered "Round_End"
+L 03/22/2015 - 22:57:42: "FOUST<524><STEAM_0:4:866248765><>" entered the game
+L 03/22/2015 - 22:57:47: "FOUST<524><STEAM_0:4:866248765><>" joined team "CT"
+L 03/22/2015 - 22:57:48: World triggered "Round_Start"
+L 03/22/2015 - 22:57:51: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "8") (kills "8") (headshots "0") (tks "0") (damage "520") (deaths "7")
+L 03/22/2015 - 22:57:51: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:57:51: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" triggered "time" (time "6:43")
+L 03/22/2015 - 22:57:51: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" triggered "latency" (ping "1")
+L 03/22/2015 - 22:57:51: "[Hard_Skill]_Dasha<508><STEAM_0:4:1068366041><CT>" disconnected
+L 03/22/2015 - 22:57:53: "matvei nikto<522><STEAM_0:0:1771118830><CT>" changed name to "matvei nikto skazala Dasha"
+L 03/22/2015 - 22:58:00: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:58:00: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:58:01: "FOUST<524><STEAM_0:4:866248765><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:58:01: "FOUST<524><STEAM_0:4:866248765><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 22:58:15: "FOUST<524><STEAM_0:4:866248765><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/22/2015 - 22:58:15: "FOUST<524><STEAM_0:4:866248765><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 22:58:15: Team "CT" triggered "CTs_Win" (CT "4") (T "10")
+L 03/22/2015 - 22:58:15: World triggered "Round_End"
+L 03/22/2015 - 22:58:25: World triggered "Round_Start"
+L 03/22/2015 - 22:58:33: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "FOUST<524><STEAM_0:4:866248765><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:58:33: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "FOUST<524><STEAM_0:4:866248765><CT>" with "knife"
+L 03/22/2015 - 22:58:44: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:58:44: "SkUll<525><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:58:45: [VTC] Player 2 speex
+L 03/22/2015 - 22:58:57: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:58:57: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:58:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "11")
+L 03/22/2015 - 22:58:57: World triggered "Round_End"
+L 03/22/2015 - 22:59:07: World triggered "Round_Start"
+L 03/22/2015 - 22:59:12: "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:59:12: "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 22:59:13: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:59:13: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:59:23: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "FOUST<524><STEAM_0:4:866248765><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:59:23: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "FOUST<524><STEAM_0:4:866248765><CT>" with "knife"
+L 03/22/2015 - 22:59:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "12")
+L 03/22/2015 - 22:59:23: World triggered "Round_End"
+L 03/22/2015 - 22:59:24: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:24: "SkUll<526><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:25: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:25: "SkUll<527><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:28: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:28: "SkUll<528><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:28: [DPROTO]: Reconnecting without previously passed bot detection; assuming that it's a bot. (WL=0.500000)
+L 03/22/2015 - 22:59:28: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:28: "SkUll<529><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:28: [VTC] Player 2 speex
+L 03/22/2015 - 22:59:33: World triggered "Round_Start"
+L 03/22/2015 - 22:59:40: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "FOUST<524><STEAM_0:4:866248765><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 22:59:40: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "FOUST<524><STEAM_0:4:866248765><CT>" with "knife"
+L 03/22/2015 - 22:59:41: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:41: "SkUll<530><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:42: "FOUST<524><STEAM_0:4:866248765><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "2") (kills "2") (headshots "1") (tks "0") (damage "325") (deaths "3")
+L 03/22/2015 - 22:59:42: "FOUST<524><STEAM_0:4:866248765><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 22:59:42: "FOUST<524><STEAM_0:4:866248765><CT>" triggered "time" (time "1:59")
+L 03/22/2015 - 22:59:42: "FOUST<524><STEAM_0:4:866248765><CT>" triggered "latency" (ping "40")
+L 03/22/2015 - 22:59:42: "FOUST<524><STEAM_0:4:866248765><CT>" disconnected
+L 03/22/2015 - 22:59:42: [VTC] Player 2 speex
+L 03/22/2015 - 22:59:47: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/22/2015 - 22:59:47: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 22:59:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "13")
+L 03/22/2015 - 22:59:47: World triggered "Round_End"
+L 03/22/2015 - 22:59:51: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:51: "SkUll<531><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:52: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:52: "SkUll<532><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:54: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:54: "SkUll<533><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:56: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 22:59:56: "SkUll<534><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 22:59:57: [VTC] Player 2 speex
+L 03/22/2015 - 22:59:57: World triggered "Round_Start"
+L 03/22/2015 - 23:00:04: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:00:04: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:00:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "14")
+L 03/22/2015 - 23:00:04: World triggered "Round_End"
+L 03/22/2015 - 23:00:06: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:00:06: "SkUll<535><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:00:07: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:00:07: "SkUll<536><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:00:08: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:00:08: "SkUll<537><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:00:08: [VTC] Player 2 speex
+L 03/22/2015 - 23:00:14: World triggered "Round_Start"
+L 03/22/2015 - 23:00:17: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:00:17: "SkUll<538><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:00:17: [DPROTO]: Reconnecting without previously passed bot detection; assuming that it's a bot. (WL=0.500000)
+L 03/22/2015 - 23:00:17: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:00:17: "SkUll<539><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:00:17: [DPROTO]: Reconnecting without previously passed bot detection; assuming that it's a bot. (WL=1.000000)
+L 03/22/2015 - 23:00:17: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:00:17: "SkUll<540><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:00:18: [VTC] Player 2 speex
+L 03/22/2015 - 23:00:22: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:00:22: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:00:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "15")
+L 03/22/2015 - 23:00:22: World triggered "Round_End"
+L 03/22/2015 - 23:00:32: World triggered "Round_Start"
+L 03/22/2015 - 23:00:38: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:00:38: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:00:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "16")
+L 03/22/2015 - 23:00:38: World triggered "Round_End"
+L 03/22/2015 - 23:00:48: World triggered "Round_Start"
+L 03/22/2015 - 23:01:07: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:01:07: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:01:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "17")
+L 03/22/2015 - 23:01:07: World triggered "Round_End"
+L 03/22/2015 - 23:01:17: World triggered "Round_Start"
+L 03/22/2015 - 23:01:37: "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:01:37: "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 23:02:01: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 23:02:01: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><>" connected, address "37.212.179.99:52700"
+L 03/22/2015 - 23:02:01: [VTC] Player 1 speex
+L 03/22/2015 - 23:02:03: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:02:03: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:02:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "18")
+L 03/22/2015 - 23:02:03: World triggered "Round_End"
+L 03/22/2015 - 23:02:06: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><>" entered the game
+L 03/22/2015 - 23:02:08: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><>" joined team "CT"
+L 03/22/2015 - 23:02:13: World triggered "Round_Start"
+L 03/22/2015 - 23:02:20: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/22/2015 - 23:02:20: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" with "knife"
+L 03/22/2015 - 23:02:30: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:02:30: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:02:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "19")
+L 03/22/2015 - 23:02:30: World triggered "Round_End"
+L 03/22/2015 - 23:02:40: World triggered "Round_Start"
+L 03/22/2015 - 23:02:44: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:02:44: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:02:54: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:02:54: "SkUll<542><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:02:56: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:02:56: "SkUll<543><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:02:56: [VTC] Player 2 speex
+L 03/22/2015 - 23:02:59: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:02:59: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" with "knife"
+L 03/22/2015 - 23:02:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "20")
+L 03/22/2015 - 23:02:59: World triggered "Round_End"
+L 03/22/2015 - 23:03:01: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/22/2015 - 23:03:01: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:03:01: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" triggered "time" (time "0:54")
+L 03/22/2015 - 23:03:01: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" triggered "latency" (ping "26")
+L 03/22/2015 - 23:03:01: "3JlOu_XJlE6yWEK<541><STEAM_0:4:1702337358><CT>" disconnected
+L 03/22/2015 - 23:03:09: World triggered "Round_Start"
+L 03/22/2015 - 23:03:19: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3990ad8
+L 03/22/2015 - 23:03:19: "VIKa:***<544><STEAM_0:0:1429534441><>" connected, address "37.214.188.209:41722"
+L 03/22/2015 - 23:03:19: [VTC] Player 5 speex
+L 03/22/2015 - 23:03:24: "VIKa:***<544><STEAM_0:0:1429534441><>" entered the game
+L 03/22/2015 - 23:03:24: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/22/2015 - 23:03:24: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:03:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "21")
+L 03/22/2015 - 23:03:24: World triggered "Round_End"
+L 03/22/2015 - 23:03:27: "VIKa:***<544><STEAM_0:0:1429534441><>" joined team "CT"
+L 03/22/2015 - 23:03:34: World triggered "Round_Start"
+L 03/22/2015 - 23:03:57: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:03:57: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:04:06: "VIKa:***<544><STEAM_0:0:1429534441><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:04:06: "VIKa:***<544><STEAM_0:0:1429534441><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 23:04:07: "VIKa:***<544><STEAM_0:0:1429534441><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:04:07: "VIKa:***<544><STEAM_0:0:1429534441><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 23:04:07: Team "CT" triggered "CTs_Win" (CT "5") (T "21")
+L 03/22/2015 - 23:04:07: World triggered "Round_End"
+L 03/22/2015 - 23:04:17: World triggered "Round_Start"
+L 03/22/2015 - 23:04:31: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:04:31: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:04:39: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "VIKa:***<544><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:04:39: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "VIKa:***<544><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:04:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "22")
+L 03/22/2015 - 23:04:39: World triggered "Round_End"
+L 03/22/2015 - 23:04:45: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:04:45: "SkUll<545><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:04:46: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 23:04:46: "SkUll<546><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26217"
+L 03/22/2015 - 23:04:47: [VTC] Player 2 speex
+L 03/22/2015 - 23:04:49: World triggered "Round_Start"
+L 03/22/2015 - 23:04:54: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:04:54: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:05:00: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "VIKa:***<544><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:05:00: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "VIKa:***<544><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:05:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "23")
+L 03/22/2015 - 23:05:00: World triggered "Round_End"
+L 03/22/2015 - 23:05:10: World triggered "Round_Start"
+L 03/22/2015 - 23:05:11: "VIKa:***<544><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "2")
+L 03/22/2015 - 23:05:11: "VIKa:***<544><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:05:11: "VIKa:***<544><STEAM_0:0:1429534441><CT>" triggered "time" (time "1:47")
+L 03/22/2015 - 23:05:11: "VIKa:***<544><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "8")
+L 03/22/2015 - 23:05:11: "VIKa:***<544><STEAM_0:0:1429534441><CT>" disconnected
+L 03/22/2015 - 23:05:21: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "48") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 23:05:21: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:05:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "24")
+L 03/22/2015 - 23:05:21: World triggered "Round_End"
+L 03/22/2015 - 23:05:26: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:05:31: World triggered "Round_Start"
+L 03/22/2015 - 23:05:52: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:05:54: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3990ad8
+L 03/22/2015 - 23:05:54: "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><>" connected, address "37.214.188.209:41722"
+L 03/22/2015 - 23:05:54: [VTC] Player 5 speex
+L 03/22/2015 - 23:05:55: "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:05:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "25")
+L 03/22/2015 - 23:05:55: World triggered "Round_End"
+L 03/22/2015 - 23:05:56: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:05:59: "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><>" entered the game
+L 03/22/2015 - 23:06:02: "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><>" joined team "CT"
+L 03/22/2015 - 23:06:05: World triggered "Round_Start"
+L 03/22/2015 - 23:06:15: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:06:15: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:06:22: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:06:22: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:06:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "26")
+L 03/22/2015 - 23:06:22: World triggered "Round_End"
+L 03/22/2015 - 23:06:26: "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><CT>" triggered "time" (time "0:26")
+L 03/22/2015 - 23:06:26: "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "56")
+L 03/22/2015 - 23:06:26: "VIKa:*** dyra Lexa Kosmanaft my<547><STEAM_0:0:1429534441><CT>" disconnected
+L 03/22/2015 - 23:06:32: World triggered "Round_Start"
+L 03/22/2015 - 23:06:47: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:06:48: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:06:48: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:06:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "27")
+L 03/22/2015 - 23:06:48: World triggered "Round_End"
+L 03/22/2015 - 23:06:56: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399f7b4
+L 03/22/2015 - 23:06:56: "[Easy_Skill]_LoL#3<548><STEAM_0:4:1537134213><>" connected, address "178.127.97.30:27005"
+L 03/22/2015 - 23:06:56: [VTC] Player 8 speex
+L 03/22/2015 - 23:06:58: World triggered "Round_Start"
+L 03/22/2015 - 23:07:00: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399f7b4
+L 03/22/2015 - 23:07:00: "[Easy_Skill]_LoL#3<549><STEAM_0:4:1537134213><>" connected, address "178.127.97.30:27005"
+L 03/22/2015 - 23:07:00: [VTC] Player 8 speex
+L 03/22/2015 - 23:07:09: "[Easy_Skill]_LoL#3<549><STEAM_0:4:1537134213><>" entered the game
+L 03/22/2015 - 23:07:11: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/22/2015 - 23:07:11: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:07:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "28")
+L 03/22/2015 - 23:07:11: World triggered "Round_End"
+L 03/22/2015 - 23:07:17: "matvei nikto skazala Dasha<522><STEAM_0:0:1771118830><CT>" changed name to "matvei Dylak f )I(eka kryt"
+L 03/22/2015 - 23:07:20: "[Easy_Skill]_LoL#3<549><STEAM_0:4:1537134213><UNASSIGNED>" triggered "time" (time "0:11")
+L 03/22/2015 - 23:07:20: "[Easy_Skill]_LoL#3<549><STEAM_0:4:1537134213><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/22/2015 - 23:07:20: "[Easy_Skill]_LoL#3<549><STEAM_0:4:1537134213><>" disconnected
+L 03/22/2015 - 23:07:21: World triggered "Round_Start"
+L 03/22/2015 - 23:07:31: "matvei Dylak f )I(eka kryt<522><STEAM_0:0:1771118830><CT>" changed name to "matvei Dylak a )I(eka kryt"
+L 03/22/2015 - 23:07:35: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:07:35: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" killed "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:07:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "29")
+L 03/22/2015 - 23:07:35: World triggered "Round_End"
+L 03/22/2015 - 23:07:35: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3990ad8
+L 03/22/2015 - 23:07:35: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><>" connected, address "37.214.188.209:41722"
+L 03/22/2015 - 23:07:35: [VTC] Player 5 speex
+L 03/22/2015 - 23:07:40: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><>" entered the game
+L 03/22/2015 - 23:07:42: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><>" joined team "CT"
+L 03/22/2015 - 23:07:45: World triggered "Round_Start"
+L 03/22/2015 - 23:07:59: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 23:07:59: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:07:59: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><CT>" triggered "time" (time "0:19")
+L 03/22/2015 - 23:07:59: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "21")
+L 03/22/2015 - 23:07:59: "VIKa: dyra Lexa Kosmanaft mydak<550><STEAM_0:0:1429534441><CT>" disconnected
+L 03/22/2015 - 23:08:04: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:08:04: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" killed "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 23:08:04: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3990ad8
+L 03/22/2015 - 23:08:04: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><>" connected, address "37.214.188.209:41722"
+L 03/22/2015 - 23:08:04: [VTC] Player 5 speex
+L 03/22/2015 - 23:08:09: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><>" entered the game
+L 03/22/2015 - 23:08:11: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><>" joined team "CT"
+L 03/22/2015 - 23:08:21: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" say_team "gjxtve z cexrf&" (dead)
+L 03/22/2015 - 23:08:29: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "150") (hits "34") (kills "34") (headshots "2") (tks "0") (damage "2713") (deaths "8")
+L 03/22/2015 - 23:08:29: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:08:29: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" triggered "time" (time "17:29")
+L 03/22/2015 - 23:08:29: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" triggered "latency" (ping "46")
+L 03/22/2015 - 23:08:29: "Nastenbka :*<518><STEAM_0:4:696196046><TERRORIST>" disconnected
+L 03/22/2015 - 23:08:29: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 23:08:29: "[Hard_Skill]_Lexa Kosmonaft<552><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/22/2015 - 23:08:29: [VTC] Player 3 speex
+L 03/22/2015 - 23:08:29: Kick: "[Hard_Skill]_Lexa Kosmonaft<552><STEAM_0:4:696196046><>" was kicked by "Console" (message " Вы не имеете права входа на этот сервер...")
+L 03/22/2015 - 23:08:32: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 23:08:32: "[Hard_Skill]_Lexa Kosmonaft<553><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/22/2015 - 23:08:32: [VTC] Player 3 speex
+L 03/22/2015 - 23:08:32: Kick: "[Hard_Skill]_Lexa Kosmonaft<553><STEAM_0:4:696196046><>" was kicked by "Console" (message " Вы не имеете права входа на этот сервер...")
+L 03/22/2015 - 23:08:33: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:08:33: Team "CT" triggered "CTs_Win" (CT "6") (T "29")
+L 03/22/2015 - 23:08:33: World triggered "Round_End"
+L 03/22/2015 - 23:08:43: World triggered "Round_Start"
+L 03/22/2015 - 23:08:46: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 23:08:46: "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/22/2015 - 23:08:47: [VTC] Player 3 speex
+L 03/22/2015 - 23:08:51: "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><>" entered the game
+L 03/22/2015 - 23:08:54: "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><>" joined team "TERRORIST"
+L 03/22/2015 - 23:08:57: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:09:02: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" attacked "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:09:02: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" killed "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 23:09:12: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:09:12: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:09:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "30")
+L 03/22/2015 - 23:09:12: World triggered "Round_End"
+L 03/22/2015 - 23:09:22: World triggered "Round_Start"
+L 03/22/2015 - 23:09:24: "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><TERRORIST>" triggered "time" (time "0:32")
+L 03/22/2015 - 23:09:24: "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><TERRORIST>" triggered "latency" (ping "67")
+L 03/22/2015 - 23:09:24: "[Hard_Skill] Lexa Kosmonaft<554><STEAM_0:4:696196046><TERRORIST>" disconnected
+L 03/22/2015 - 23:09:36: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:09:38: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986cf0
+L 03/22/2015 - 23:09:38: "Nastenbka :*<555><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/22/2015 - 23:09:38: [VTC] Player 3 speex
+L 03/22/2015 - 23:09:43: "Nastenbka :*<555><STEAM_0:4:696196046><>" entered the game
+L 03/22/2015 - 23:09:47: "Nastenbka :*<555><STEAM_0:4:696196046><>" joined team "TERRORIST"
+L 03/22/2015 - 23:09:48: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:09:48: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:09:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "31")
+L 03/22/2015 - 23:09:48: World triggered "Round_End"
+L 03/22/2015 - 23:09:52: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 23:09:52: "SkUll<556><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26613"
+L 03/22/2015 - 23:09:53: [VTC] Player 1 speex
+L 03/22/2015 - 23:09:58: World triggered "Round_Start"
+L 03/22/2015 - 23:10:12: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:10:15: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:10:28: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:10:28: Team "CT" triggered "CTs_Win" (CT "7") (T "31")
+L 03/22/2015 - 23:10:28: World triggered "Round_End"
+L 03/22/2015 - 23:10:38: World triggered "Round_Start"
+L 03/22/2015 - 23:10:58: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:10:58: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 23:10:58: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:11:08: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" attacked "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:11:08: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" killed "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:11:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "32")
+L 03/22/2015 - 23:11:08: World triggered "Round_End"
+L 03/22/2015 - 23:11:18: World triggered "Round_Start"
+L 03/22/2015 - 23:11:28: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:11:28: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:11:51: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:11:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "33")
+L 03/22/2015 - 23:11:51: World triggered "Round_End"
+L 03/22/2015 - 23:12:01: World triggered "Round_Start"
+L 03/22/2015 - 23:12:15: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:12:18: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:12:18: Team "CT" triggered "CTs_Win" (CT "8") (T "33")
+L 03/22/2015 - 23:12:18: World triggered "Round_End"
+L 03/22/2015 - 23:12:26: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 03/22/2015 - 23:12:28: World triggered "Round_Start"
+L 03/22/2015 - 23:12:38: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:12:43: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:12:43: Team "CT" triggered "CTs_Win" (CT "9") (T "33")
+L 03/22/2015 - 23:12:43: World triggered "Round_End"
+L 03/22/2015 - 23:12:53: World triggered "Round_Start"
+L 03/22/2015 - 23:12:58: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:12:58: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" killed "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 23:12:59: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:12:59: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:13:23: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:13:23: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" with "knife"
+L 03/22/2015 - 23:13:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "34")
+L 03/22/2015 - 23:13:23: World triggered "Round_End"
+L 03/22/2015 - 23:13:33: World triggered "Round_Start"
+L 03/22/2015 - 23:13:41: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-54") (armor "0")
+L 03/22/2015 - 23:13:41: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" killed "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:13:45: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 23:13:45: "SkUll<557><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26613"
+L 03/22/2015 - 23:13:48: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:13:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "35")
+L 03/22/2015 - 23:13:48: World triggered "Round_End"
+L 03/22/2015 - 23:13:57: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 03/22/2015 - 23:13:58: World triggered "Round_Start"
+L 03/22/2015 - 23:14:09: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:14:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "36")
+L 03/22/2015 - 23:14:09: World triggered "Round_End"
+L 03/22/2015 - 23:14:11: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "knife") (shots "36") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "5")
+L 03/22/2015 - 23:14:11: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:14:11: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" triggered "time" (time "6:01")
+L 03/22/2015 - 23:14:11: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "17")
+L 03/22/2015 - 23:14:11: "VIKa: dyra Lexa Kosmanaft mydak<551><STEAM_0:0:1429534441><CT>" disconnected
+L 03/22/2015 - 23:14:13: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:14:19: World triggered "Round_Start"
+L 03/22/2015 - 23:14:24: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:14:49: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:14:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "37")
+L 03/22/2015 - 23:14:49: World triggered "Round_End"
+L 03/22/2015 - 23:14:50: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:14:59: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397cf08
+L 03/22/2015 - 23:14:59: "SkUll<558><STEAM_0:4:1572291016><>" connected, address "41.97.50.18:26613"
+L 03/22/2015 - 23:14:59: World triggered "Round_Start"
+L 03/22/2015 - 23:14:59: [VTC] Player 1 speex
+L 03/22/2015 - 23:15:08: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:15:39: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:15:39: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 23:15:39: Team "CT" triggered "CTs_Win" (CT "10") (T "37")
+L 03/22/2015 - 23:15:39: World triggered "Round_End"
+L 03/22/2015 - 23:15:49: World triggered "Round_Start"
+L 03/22/2015 - 23:16:03: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:16:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "38")
+L 03/22/2015 - 23:16:03: World triggered "Round_End"
+L 03/22/2015 - 23:16:05: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:16:13: World triggered "Round_Start"
+L 03/22/2015 - 23:16:18: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:16:18: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" killed "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:16:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "39")
+L 03/22/2015 - 23:16:18: World triggered "Round_End"
+L 03/22/2015 - 23:16:28: World triggered "Round_Start"
+L 03/22/2015 - 23:16:39: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:16:39: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" killed "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/22/2015 - 23:16:40: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" attacked "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:16:40: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" killed "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/22/2015 - 23:16:40: Team "CT" triggered "CTs_Win" (CT "11") (T "39")
+L 03/22/2015 - 23:16:40: World triggered "Round_End"
+L 03/22/2015 - 23:16:50: World triggered "Round_Start"
+L 03/22/2015 - 23:17:29: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 23:17:29: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:17:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "40")
+L 03/22/2015 - 23:17:29: World triggered "Round_End"
+L 03/22/2015 - 23:17:33: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:17:39: World triggered "Round_Start"
+L 03/22/2015 - 23:17:51: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/22/2015 - 23:17:51: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/22/2015 - 23:17:52: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" attacked "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife" (damage "15") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 23:17:52: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" killed "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/22/2015 - 23:17:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "41")
+L 03/22/2015 - 23:17:52: World triggered "Round_End"
+L 03/22/2015 - 23:17:58: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "97") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "195") (deaths "2")
+L 03/22/2015 - 23:17:58: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:17:58: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" triggered "time" (time "8:15")
+L 03/22/2015 - 23:17:58: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" triggered "latency" (ping "46")
+L 03/22/2015 - 23:17:58: "Nastenbka :*<555><STEAM_0:4:696196046><TERRORIST>" disconnected
+L 03/22/2015 - 23:18:02: World triggered "Round_Start"
+L 03/22/2015 - 23:18:13: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" committed suicide with "worldspawn" (world)
+L 03/22/2015 - 23:18:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "42")
+L 03/22/2015 - 23:18:13: World triggered "Round_End"
+L 03/22/2015 - 23:18:18: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "263") (hits "24") (kills "20") (headshots "1") (tks "0") (damage "1505") (deaths "13")
+L 03/22/2015 - 23:18:18: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:18:18: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "27:20")
+L 03/22/2015 - 23:18:18: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "28")
+L 03/22/2015 - 23:18:18: "Lerochka<517><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/22/2015 - 23:18:23: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" triggered "weaponstats" (weapon "knife") (shots "166") (hits "8") (kills "8") (headshots "0") (tks "0") (damage "520") (deaths "29")
+L 03/22/2015 - 23:18:23: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 23:18:23: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" triggered "time" (time "23:26")
+L 03/22/2015 - 23:18:23: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "70")
+L 03/22/2015 - 23:18:23: "matvei Dylak a )I(eka kryt<522><STEAM_0:0:1771118830><CT>" disconnected
+L 03/22/2015 - 23:18:23: World triggered "Round_Draw" (CT "11") (T "42")
+L 03/22/2015 - 23:18:23: World triggered "Round_End"
+L 03/22/2015 - 23:18:23: World triggered "Round_Start"
+L 03/22/2015 - 23:18:33: World triggered "Round_Start"
+L 03/22/2015 - 23:19:24: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/22/2015 - 23:19:24: [META] ini: Read plugin config for: AMX Mod X
+L 03/22/2015 - 23:19:24: [META] ini: Read plugin config for: dproto_EF
+L 03/22/2015 - 23:19:24: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/22/2015 - 23:19:24: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/22/2015 - 23:19:24: [META] dll: Updating plugins...
+L 03/22/2015 - 23:19:24: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/22/2015 - 23:19:24: Log file closed

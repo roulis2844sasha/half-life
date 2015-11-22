@@ -1,0 +1,460 @@
+L 03/22/2015 - 19:50:20: Log file started (file "logs/L0322058.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/22/2015 - 19:50:20: Loading map "awp_india"
+L 03/22/2015 - 19:50:20: Server cvars start
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_debug_level" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_examine_time" = "0.5"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_look_angle" = "10"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_look_distance" = "200"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_message_repeats" = "5"
+L 03/22/2015 - 19:50:20: Server cvar "_tutor_view_distance" = "1000"
+L 03/22/2015 - 19:50:20: Server cvar "aesp_version" = "1.5b_mini"
+L 03/22/2015 - 19:50:20: Server cvar "allow_spectators" = "4"
+L 03/22/2015 - 19:50:20: Server cvar "amx_client_languages" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/22/2015 - 19:50:20: Server cvar "amx_language" = "ru"
+L 03/22/2015 - 19:50:20: Server cvar "amx_nextmap" = "awp_india"
+L 03/22/2015 - 19:50:20: Server cvar "amx_timeleft" = "00:00"
+L 03/22/2015 - 19:50:20: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/22/2015 - 19:50:20: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/22/2015 - 19:50:20: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Config" = "Loaded"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Replace" = "Failed"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Status" = "Loaded"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/22/2015 - 19:50:20: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/22/2015 - 19:50:20: Server cvar "coop" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "deathmatch" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "decalfrequency" = "9"
+L 03/22/2015 - 19:50:20: Server cvar "dp_version" = "0.9.391"
+L 03/22/2015 - 19:50:20: Server cvar "edgefriction" = "2"
+L 03/22/2015 - 19:50:20: Server cvar "hostage_debug" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "hostage_stop" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "humans_join_team" = "any"
+L 03/22/2015 - 19:50:20: Server cvar "jtp10181" = "chute"
+L 03/22/2015 - 19:50:20: Server cvar "max_queries_sec" = "3.0"
+L 03/22/2015 - 19:50:20: Server cvar "max_queries_sec_global" = "30"
+L 03/22/2015 - 19:50:20: Server cvar "max_queries_window" = "60"
+L 03/22/2015 - 19:50:20: Server cvar "metamod_version" = "1.19"
+L 03/22/2015 - 19:50:20: Server cvar "mp_allowmonsters" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_autokick" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_autoteambalance" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_buytime" = "1.5"
+L 03/22/2015 - 19:50:20: Server cvar "mp_c4timer" = "35"
+L 03/22/2015 - 19:50:20: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_consistency" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_fadetoblack" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_flashlight" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_footsteps" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_forcecamera" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_forcechasecam" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_fragsleft" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_freezetime" = "5"
+L 03/22/2015 - 19:50:20: Server cvar "mp_friendlyfire" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_hostagepenalty" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_kickpercent" = "0.66"
+L 03/22/2015 - 19:50:20: Server cvar "mp_limitteams" = "5"
+L 03/22/2015 - 19:50:20: Server cvar "mp_logdetail" = "3"
+L 03/22/2015 - 19:50:20: Server cvar "mp_logfile" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_logmessages" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/22/2015 - 19:50:20: Server cvar "mp_maxrounds" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_mirrordamage" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_playerid" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_roundtime" = "2.57"
+L 03/22/2015 - 19:50:20: Server cvar "mp_startmoney" = "800"
+L 03/22/2015 - 19:50:20: Server cvar "mp_timeleft" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 19:50:20: Server cvar "mp_tkpunish" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_windifference" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "mp_winlimit" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "pausable" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_accelerate" = "5"
+L 03/22/2015 - 19:50:20: Server cvar "sv_aim" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_airaccelerate" = "10"
+L 03/22/2015 - 19:50:20: Server cvar "sv_airmove" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "sv_allowupload" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "sv_alltalk" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_bounce" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "sv_cheats" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_clienttrace" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "sv_clipmode" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_contact" = ""
+L 03/22/2015 - 19:50:20: Server cvar "sv_friction" = "4"
+L 03/22/2015 - 19:50:20: Server cvar "sv_gravity" = "800"
+L 03/22/2015 - 19:50:20: Server cvar "sv_logblocks" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_maxrate" = "50000"
+L 03/22/2015 - 19:50:20: Server cvar "sv_maxspeed" = "900"
+L 03/22/2015 - 19:50:20: Server cvar "sv_minrate" = "100000"
+L 03/22/2015 - 19:50:20: Server cvar "sv_password" = ""
+L 03/22/2015 - 19:50:20: Server cvar "sv_proxies" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_region" = "255"
+L 03/22/2015 - 19:50:20: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_restartround" = "0"
+L 03/22/2015 - 19:50:20: Server cvar "sv_stepsize" = "18"
+L 03/22/2015 - 19:50:20: Server cvar "sv_stopspeed" = "75"
+L 03/22/2015 - 19:50:20: Server cvar "sv_uploadmax" = "0.5"
+L 03/22/2015 - 19:50:20: Server cvar "sv_voiceenable" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "sv_wateraccelerate" = "10"
+L 03/22/2015 - 19:50:20: Server cvar "sv_waterfriction" = "1"
+L 03/22/2015 - 19:50:20: Server cvar "travo_statmarquee" = "v1.2"
+L 03/22/2015 - 19:50:20: Server cvar "ultimate_sounds" = "1.7"
+L 03/22/2015 - 19:50:20: Server cvar "vtc_version" = "80"
+L 03/22/2015 - 19:50:20: Server cvars end
+L 03/22/2015 - 19:50:20: Server cvar "amx_nextmap" = "awp_lol"
+L 03/22/2015 - 19:50:20: Server cvar "sv_restart" = "1"
+L 03/22/2015 - 19:50:20: World triggered "Restart_Round_(1_second)"
+L 03/22/2015 - 19:50:20: Team "CT" scored "0" with "0" players
+L 03/22/2015 - 19:50:20: Team "TERRORIST" scored "0" with "0" players
+L 03/22/2015 - 19:50:20: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 19:50:20: Started map "awp_india" (CRC "534917220")
+L 03/22/2015 - 19:50:21: [VTC] Player 3 speex
+L 03/22/2015 - 19:50:21: [VTC] Player 10 speex
+L 03/22/2015 - 19:50:21: [VTC] Player 1 speex
+L 03/22/2015 - 19:50:21: [VTC] Player 11 speex
+L 03/22/2015 - 19:50:21: [VTC] Player 2 speex
+L 03/22/2015 - 19:50:21: [VTC] Player 6 speex
+L 03/22/2015 - 19:50:23: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 19:50:23: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><>" connected, address "178.120.16.127:12851"
+L 03/22/2015 - 19:50:23: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><>" entered the game
+L 03/22/2015 - 19:50:23: [VTC] Player 2 speex
+L 03/22/2015 - 19:50:24: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 19:50:24: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><>" connected, address "178.127.97.30:27005"
+L 03/22/2015 - 19:50:24: [VTC] Player 11 speex
+L 03/22/2015 - 19:50:24: "RoJleM ;)<357><STEAM_0:4:563891589><>" entered the game
+L 03/22/2015 - 19:50:25: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><>" joined team "CT"
+L 03/22/2015 - 19:50:25: "RoJleM ;)<357><STEAM_0:4:563891589><>" joined team "CT"
+L 03/22/2015 - 19:50:26: World triggered "Round_Start"
+L 03/22/2015 - 19:50:26: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><>" entered the game
+L 03/22/2015 - 19:50:28: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><>" entered the game
+L 03/22/2015 - 19:50:30: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><>" joined team "TERRORIST"
+L 03/22/2015 - 19:50:30: "*_*Daha*_*<358><STEAM_0:4:908827470><>" entered the game
+L 03/22/2015 - 19:50:30: World triggered "Game_Commencing"
+L 03/22/2015 - 19:50:30: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/22/2015 - 19:50:30: World triggered "Round_End"
+L 03/22/2015 - 19:50:33: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><>" joined team "CT"
+L 03/22/2015 - 19:50:35: "*_*Daha*_*<358><STEAM_0:4:908827470><>" joined team "TERRORIST"
+L 03/22/2015 - 19:50:35: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><>" entered the game
+L 03/22/2015 - 19:50:38: World triggered "Round_Start"
+L 03/22/2015 - 19:50:41: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:50:41: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:50:49: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><>" joined team "TERRORIST"
+L 03/22/2015 - 19:50:55: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:50:55: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 19:50:58: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 19:50:58: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/22/2015 - 19:51:07: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/22/2015 - 19:51:31: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/22/2015 - 19:51:31: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" with "awp"
+L 03/22/2015 - 19:51:46: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "134") (damage_armor "2") (health "-117") (armor "98")
+L 03/22/2015 - 19:51:46: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:51:46: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/22/2015 - 19:51:46: World triggered "Round_End"
+L 03/22/2015 - 19:51:56: World triggered "Round_Start"
+L 03/22/2015 - 19:51:58: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:51:58: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/22/2015 - 19:52:01: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:52:01: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:52:02: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/22/2015 - 19:52:02: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 19:52:02: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" triggered "time" (time "1:26")
+L 03/22/2015 - 19:52:02: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" triggered "latency" (ping "8")
+L 03/22/2015 - 19:52:02: "[Hard_Skill]_Dasha<346><STEAM_0:4:1068366041><TERRORIST>" disconnected
+L 03/22/2015 - 19:52:09: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/22/2015 - 19:52:09: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:52:09: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/22/2015 - 19:52:09: World triggered "Round_End"
+L 03/22/2015 - 19:52:19: World triggered "Round_Start"
+L 03/22/2015 - 19:52:26: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" attacked "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/22/2015 - 19:52:26: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" killed "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" with "awp"
+L 03/22/2015 - 19:52:42: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/22/2015 - 19:52:42: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:52:45: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:52:45: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:52:45: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/22/2015 - 19:52:45: World triggered "Round_End"
+L 03/22/2015 - 19:52:55: World triggered "Round_Start"
+L 03/22/2015 - 19:52:58: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:52:58: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:53:00: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:53:00: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:53:00: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/22/2015 - 19:53:00: World triggered "Round_End"
+L 03/22/2015 - 19:53:00: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a959c
+L 03/22/2015 - 19:53:00: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><>" connected, address "10.19.7.214:27005"
+L 03/22/2015 - 19:53:00: [VTC] Player 10 speex
+L 03/22/2015 - 19:53:03: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" committed suicide with "world"
+L 03/22/2015 - 19:53:03: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><CT>" joined team "TERRORIST"
+L 03/22/2015 - 19:53:10: World triggered "Round_Start"
+L 03/22/2015 - 19:53:16: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><>" entered the game
+L 03/22/2015 - 19:53:18: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:53:18: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:53:27: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/22/2015 - 19:53:27: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 19:53:28: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><>" joined team "CT"
+L 03/22/2015 - 19:53:30: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 19:53:30: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" killed "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 19:53:41: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" attacked "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/22/2015 - 19:53:41: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/22/2015 - 19:53:41: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:54:11: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/22/2015 - 19:54:11: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/22/2015 - 19:54:11: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 03/22/2015 - 19:54:11: World triggered "Round_End"
+L 03/22/2015 - 19:54:21: World triggered "Round_Start"
+L 03/22/2015 - 19:54:23: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:54:23: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:54:36: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:54:36: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:54:42: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/22/2015 - 19:54:42: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/22/2015 - 19:54:42: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 03/22/2015 - 19:54:42: World triggered "Round_End"
+L 03/22/2015 - 19:54:52: World triggered "Round_Start"
+L 03/22/2015 - 19:54:52: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 19:54:52: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/22/2015 - 19:55:02: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" attacked "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:55:02: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" killed "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 19:55:07: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:55:07: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" with "awp"
+L 03/22/2015 - 19:55:14: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "9") (hits "4") (kills "3") (headshots "0") (tks "0") (damage "377") (deaths "7")
+L 03/22/2015 - 19:55:14: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 19:55:14: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" triggered "time" (time "4:47")
+L 03/22/2015 - 19:55:14: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" triggered "latency" (ping "56")
+L 03/22/2015 - 19:55:14: "[Small-Skill] azot_klas<360><STEAM_0:4:1797672197><TERRORIST>" disconnected
+L 03/22/2015 - 19:55:22: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:55:22: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 19:55:53: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:55:53: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:55:53: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 03/22/2015 - 19:55:53: World triggered "Round_End"
+L 03/22/2015 - 19:56:03: World triggered "Round_Start"
+L 03/22/2015 - 19:56:05: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/22/2015 - 19:56:05: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 19:56:17: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/22/2015 - 19:56:17: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" killed "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 19:56:23: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/22/2015 - 19:56:23: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 19:56:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "1")
+L 03/22/2015 - 19:56:23: World triggered "Round_End"
+L 03/22/2015 - 19:56:33: World triggered "Round_Start"
+L 03/22/2015 - 19:56:43: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" attacked "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 19:56:43: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" killed "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "32") (hits "5") (kills "4") (headshots "3") (tks "0") (damage "1476") (deaths "3")
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" triggered "time" (time "6:21")
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" triggered "latency" (ping "14")
+L 03/22/2015 - 19:56:45: "[Easy_Skill]_Faza#1<344><STEAM_0:0:969824236><TERRORIST>" disconnected
+L 03/22/2015 - 19:56:56: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/22/2015 - 19:56:57: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/22/2015 - 19:56:57: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 19:57:06: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-91") (armor "98")
+L 03/22/2015 - 19:57:06: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 19:57:06: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 03/22/2015 - 19:57:06: World triggered "Round_End"
+L 03/22/2015 - 19:57:07: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" committed suicide with "world"
+L 03/22/2015 - 19:57:07: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" joined team "TERRORIST"
+L 03/22/2015 - 19:57:11: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" joined team "CT"
+L 03/22/2015 - 19:57:16: World triggered "Round_Start"
+L 03/22/2015 - 19:57:19: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:57:19: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" with "awp"
+L 03/22/2015 - 19:57:19: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:57:19: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" killed "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp"
+L 03/22/2015 - 19:57:19: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 03/22/2015 - 19:57:19: World triggered "Round_End"
+L 03/22/2015 - 19:57:24: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><CT>" joined team "TERRORIST" (auto)
+L 03/22/2015 - 19:57:29: World triggered "Round_Start"
+L 03/22/2015 - 19:57:33: Kick: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 03/22/2015 - 19:57:33: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" triggered "weaponstats" (weapon "awp") (shots "29") (hits "7") (kills "7") (headshots "0") (tks "0") (damage "778") (deaths "2")
+L 03/22/2015 - 19:57:33: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "1") (leftarm "5") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 19:57:33: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" triggered "time" (time "7:05")
+L 03/22/2015 - 19:57:33: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" triggered "latency" (ping "62")
+L 03/22/2015 - 19:57:33: "[Easy_Skill]_LoL#3<361><STEAM_0:4:1537134213><CT>" disconnected
+L 03/22/2015 - 19:57:34: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" attacked "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:57:34: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" killed "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/22/2015 - 19:57:44: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ae490
+L 03/22/2015 - 19:57:44: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><>" connected, address "178.127.97.30:27005"
+L 03/22/2015 - 19:57:44: [VTC] Player 11 speex
+L 03/22/2015 - 19:57:52: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><TERRORIST>" joined team "SPECTATOR"
+L 03/22/2015 - 19:57:55: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><>" entered the game
+L 03/22/2015 - 19:58:01: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><>" joined team "CT"
+L 03/22/2015 - 19:58:01: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/22/2015 - 19:58:01: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" with "awp"
+L 03/22/2015 - 19:58:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "2")
+L 03/22/2015 - 19:58:01: World triggered "Round_End"
+L 03/22/2015 - 19:58:11: World triggered "Round_Start"
+L 03/22/2015 - 19:58:13: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3981dfc
+L 03/22/2015 - 19:58:13: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><>" connected, address "178.120.176.24:33513"
+L 03/22/2015 - 19:58:13: [VTC] Player 2 speex
+L 03/22/2015 - 19:58:18: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><>" entered the game
+L 03/22/2015 - 19:58:21: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><>" joined team "TERRORIST"
+L 03/22/2015 - 19:58:24: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:58:24: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 19:58:25: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb3986cf0
+L 03/22/2015 - 19:58:25: "KvAS:D<365><STEAM_0:0:76760449><>" connected, address "178.122.42.48:27005"
+L 03/22/2015 - 19:58:25: [VTC] Player 3 silk
+L 03/22/2015 - 19:58:25: "KvAS:D<365><STEAM_0:0:76760449><>" STEAM USERID validated
+L 03/22/2015 - 19:58:28: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb3986cf0
+L 03/22/2015 - 19:58:28: "KvAS:D<366><STEAM_0:0:76760449><>" connected, address "178.122.42.48:27005"
+L 03/22/2015 - 19:58:28: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/22/2015 - 19:58:28: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" killed "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp"
+L 03/22/2015 - 19:58:28: [VTC] Player 3 silk
+L 03/22/2015 - 19:58:28: "KvAS:D<366><STEAM_0:0:76760449><>" STEAM USERID validated
+L 03/22/2015 - 19:58:31: "KvAS:D<366><STEAM_0:0:76760449><>" entered the game
+L 03/22/2015 - 19:58:37: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-22") (armor "98")
+L 03/22/2015 - 19:58:37: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" killed "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp"
+L 03/22/2015 - 19:58:37: Team "CT" triggered "CTs_Win" (CT "10") (T "2")
+L 03/22/2015 - 19:58:37: World triggered "Round_End"
+L 03/22/2015 - 19:58:47: World triggered "Round_Start"
+L 03/22/2015 - 19:58:52: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 19:58:52: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 19:58:54: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/22/2015 - 19:58:54: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" killed "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp"
+L 03/22/2015 - 19:59:09: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/22/2015 - 19:59:09: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" with "awp"
+L 03/22/2015 - 19:59:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "3")
+L 03/22/2015 - 19:59:09: World triggered "Round_End"
+L 03/22/2015 - 19:59:12: "*_*Daha*_*<358><STEAM_0:4:908827470><CT>" joined team "SPECTATOR"
+L 03/22/2015 - 19:59:12: "KvAS:D<366><STEAM_0:0:76760449><>" joined team "TERRORIST"
+L 03/22/2015 - 19:59:19: World triggered "Round_Start"
+L 03/22/2015 - 19:59:25: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" attacked "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 19:59:25: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" killed "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp"
+L 03/22/2015 - 19:59:27: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 19:59:27: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 19:59:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "4")
+L 03/22/2015 - 19:59:27: World triggered "Round_End"
+L 03/22/2015 - 19:59:32: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" joined team "CT" (auto)
+L 03/22/2015 - 19:59:37: World triggered "Round_Start"
+L 03/22/2015 - 19:59:55: "KvAS:D<366><STEAM_0:0:76760449><CT>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp" (damage "68") (damage_armor "1") (health "32") (armor "99")
+L 03/22/2015 - 19:59:56: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/22/2015 - 19:59:56: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 19:59:58: "KvAS:D<366><STEAM_0:0:76760449><CT>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-23") (armor "94")
+L 03/22/2015 - 19:59:58: "KvAS:D<366><STEAM_0:0:76760449><CT>" killed "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "knife"
+L 03/22/2015 - 20:00:03: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" joined team "CT"
+L 03/22/2015 - 20:00:06: "KvAS:D<366><STEAM_0:0:76760449><CT>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 20:00:06: "KvAS:D<366><STEAM_0:0:76760449><CT>" killed "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp"
+L 03/22/2015 - 20:00:06: Team "CT" triggered "CTs_Win" (CT "11") (T "4")
+L 03/22/2015 - 20:00:06: World triggered "Round_End"
+L 03/22/2015 - 20:00:11: "KvAS:D<366><STEAM_0:0:76760449><CT>" joined team "TERRORIST" (auto)
+L 03/22/2015 - 20:00:16: World triggered "Round_Start"
+L 03/22/2015 - 20:00:25: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><CT>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/22/2015 - 20:00:25: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" killed "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><CT>" with "awp"
+L 03/22/2015 - 20:00:27: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><CT>" joined team "TERRORIST"
+L 03/22/2015 - 20:00:27: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" attacked "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 20:00:27: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" killed "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp"
+L 03/22/2015 - 20:00:41: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 20:00:41: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" killed "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" with "awp"
+L 03/22/2015 - 20:00:41: Team "CT" triggered "CTs_Win" (CT "12") (T "4")
+L 03/22/2015 - 20:00:41: World triggered "Round_End"
+L 03/22/2015 - 20:00:44: "RoJleM ;)<357><STEAM_0:4:563891589><TERRORIST>" joined team "CT"
+L 03/22/2015 - 20:00:51: World triggered "Round_Start"
+L 03/22/2015 - 20:01:01: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/22/2015 - 20:01:01: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 20:01:01: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 20:01:04: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "54") (damage_armor "1") (health "46") (armor "99")
+L 03/22/2015 - 20:01:11: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" attacked "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/22/2015 - 20:01:11: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" killed "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp"
+L 03/22/2015 - 20:01:11: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "107") (damage_armor "2") (health "-61") (armor "97")
+L 03/22/2015 - 20:01:11: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 20:01:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "5")
+L 03/22/2015 - 20:01:11: World triggered "Round_End"
+L 03/22/2015 - 20:01:18: "*_*Daha*_*<358><STEAM_0:4:908827470><SPECTATOR>" joined team "TERRORIST"
+L 03/22/2015 - 20:01:21: World triggered "Round_Start"
+L 03/22/2015 - 20:01:30: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/22/2015 - 20:01:30: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 20:01:49: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "knife" (damage "165") (damage_armor "15") (health "-65") (armor "85")
+L 03/22/2015 - 20:01:49: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "knife"
+L 03/22/2015 - 20:01:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "6")
+L 03/22/2015 - 20:01:49: World triggered "Round_End"
+L 03/22/2015 - 20:01:59: World triggered "Round_Start"
+L 03/22/2015 - 20:02:01: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/22/2015 - 20:02:01: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 20:02:10: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/22/2015 - 20:02:10: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 20:02:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "7")
+L 03/22/2015 - 20:02:10: World triggered "Round_End"
+L 03/22/2015 - 20:02:20: World triggered "Round_Start"
+L 03/22/2015 - 20:02:30: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/22/2015 - 20:02:30: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 20:02:31: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/22/2015 - 20:02:31: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 20:02:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "8")
+L 03/22/2015 - 20:02:31: World triggered "Round_End"
+L 03/22/2015 - 20:02:41: World triggered "Round_Start"
+L 03/22/2015 - 20:02:49: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" attacked "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/22/2015 - 20:02:49: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" killed "RoJleM ;)<357><STEAM_0:4:563891589><CT>" with "awp"
+L 03/22/2015 - 20:02:49: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" attacked "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/22/2015 - 20:02:49: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" killed "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp"
+L 03/22/2015 - 20:02:58: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/22/2015 - 20:02:58: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" attacked "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp" (damage "53") (damage_armor "1") (health "-8") (armor "94")
+L 03/22/2015 - 20:02:58: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" killed "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" with "awp"
+L 03/22/2015 - 20:02:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "9")
+L 03/22/2015 - 20:02:58: World triggered "Round_End"
+L 03/22/2015 - 20:03:08: World triggered "Round_Start"
+L 03/22/2015 - 20:03:15: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" attacked "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/22/2015 - 20:03:15: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" killed "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" with "awp"
+L 03/22/2015 - 20:03:20: Server cvar "amx_nextmap" = "cs_assault"
+L 03/22/2015 - 20:03:20: Server cvar "mp_timelimit" = "0.000000"
+L 03/22/2015 - 20:03:23: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398bbe4
+L 03/22/2015 - 20:03:23: "[TOP-MS] FANAT CAXAPA<367><STEAM_0:4:1512688901><>" connected, address "178.120.15.29:35129"
+L 03/22/2015 - 20:03:23: [VTC] Player 4 speex
+L 03/22/2015 - 20:03:25: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/22/2015 - 20:03:25: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" with "awp"
+L 03/22/2015 - 20:03:27: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" attacked "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 03/22/2015 - 20:03:27: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" killed "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" with "awp"
+L 03/22/2015 - 20:03:27: Team "CT" triggered "CTs_Win" (CT "13") (T "9")
+L 03/22/2015 - 20:03:27: World triggered "Round_End"
+L 03/22/2015 - 20:03:37: Server cvar "mp_timelimit" = "0.010000"
+L 03/22/2015 - 20:03:37: World triggered "Round_Start"
+L 03/22/2015 - 20:03:37: Team "CT" scored "13" with "2" players
+L 03/22/2015 - 20:03:37: Team "TERRORIST" scored "9" with "3" players
+L 03/22/2015 - 20:03:37: Server cvar "mp_chattime" = "3"
+L 03/22/2015 - 20:03:38: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 20:03:38: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" triggered "weaponstats" (weapon "awp") (shots "49") (hits "21") (kills "20") (headshots "7") (tks "0") (damage "4238") (deaths "10")
+L 03/22/2015 - 20:03:38: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" triggered "weaponstats2" (weapon "awp") (head "7") (chest "5") (stomach "1") (leftarm "7") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" triggered "time" (time "13:13")
+L 03/22/2015 - 20:03:38: "RoJleM ;)<357><STEAM_0:4:563891589><CT>" triggered "latency" (ping "51")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "32") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "324") (deaths "4")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "3") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "218") (deaths "1")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" triggered "time" (time "5:19")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Leks<364><STEAM_0:4:1492536581><TERRORIST>" triggered "latency" (ping "45")
+L 03/22/2015 - 20:03:38: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "24") (hits "8") (kills "6") (headshots "1") (tks "0") (damage "1119") (deaths "4")
+L 03/22/2015 - 20:03:38: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "2") (stomach "2") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 03/22/2015 - 20:03:38: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" triggered "time" (time "5:06")
+L 03/22/2015 - 20:03:38: "KvAS:D<366><STEAM_0:0:76760449><TERRORIST>" triggered "latency" (ping "27")
+L 03/22/2015 - 20:03:38: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "40") (hits "12") (kills "12") (headshots "8") (tks "0") (damage "3862") (deaths "11")
+L 03/22/2015 - 20:03:38: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "8") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "0")
+L 03/22/2015 - 20:03:38: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 20:03:38: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" triggered "time" (time "13:07")
+L 03/22/2015 - 20:03:38: "*_*Daha*_*<358><STEAM_0:4:908827470><TERRORIST>" triggered "latency" (ping "94")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "189") (deaths "6")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><SPECTATOR>" triggered "time" (time "10:21")
+L 03/22/2015 - 20:03:38: "[Hard_Skill]_Dasha<362><STEAM_0:4:1068366041><SPECTATOR>" triggered "latency" (ping "3")
+L 03/22/2015 - 20:03:38: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" triggered "weaponstats" (weapon "awp") (shots "24") (hits "6") (kills "6") (headshots "0") (tks "0") (damage "644") (deaths "9")
+L 03/22/2015 - 20:03:38: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "6") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 20:03:38: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" triggered "time" (time "5:43")
+L 03/22/2015 - 20:03:38: "[Easy_Skill]_LoL#3<363><STEAM_0:4:1537134213><CT>" triggered "latency" (ping "69")
+L 03/22/2015 - 20:03:38: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 20:03:38: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/22/2015 - 20:03:38: [META] ini: Read plugin config for: AMX Mod X
+L 03/22/2015 - 20:03:38: [META] ini: Read plugin config for: dproto_EF
+L 03/22/2015 - 20:03:38: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/22/2015 - 20:03:38: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/22/2015 - 20:03:38: [META] dll: Updating plugins...
+L 03/22/2015 - 20:03:38: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/22/2015 - 20:03:38: Log file closed

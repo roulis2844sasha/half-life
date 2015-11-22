@@ -1,3 +1,10 @@
+[ru]
+ADMIN_TELEPORT_1 = АДМИНИСТРАТОР телепортировал %s
+ADMIN_TELEPORT_2 = АДМИНИСТРАТОР %s телепортировал %s
+TELE_MENU = Телепорт меню
+CUR_LOC = Текущее положение
+SAVE_LOC = Сохранить положение
+
 [en]
 ADMIN_TELEPORT_1 = ADMIN: teleport %s
 ADMIN_TELEPORT_2 = ADMIN %s: teleport %s
@@ -88,52 +95,3 @@ ADMIN_TELEPORT_2 = ADMIN %s: teleporttasi pelaajan %s
 TELE_MENU = Teleportvalikko
 CUR_LOC = Nykyinen sijainti
 SAVE_LOC = Tallenna sijainti
-
-[ls]
-ADMIN_TELEPORT_1 = l33t s3rv3r 0P: h4x3d %s t0 n3w ISP
-ADMIN_TELEPORT_2 = l33t s3rv3r 0P %s: h4x3d %s t0 n3w ISP
-TELE_MENU = l33t T3l3p0rt M3nu
-CUR_LOC = Cu|2|2en7 ISP
-SAVE_LOC = S4v3 ISP
-
-[bg]
-ADMIN_TELEPORT_1 = ADMININISTRATOR: teleportira %s
-ADMIN_TELEPORT_2 = ADMINISTRATOR %s: teleportira %s
-TELE_MENU = Teleport Menu
-CUR_LOC = Mestopolojenie
-SAVE_LOC = Zapazi mestopolojenieto
-
-[ro]
-ADMIN_TELEPORT_1 = ADMIN: teleportare %s
-ADMIN_TELEPORT_2 = ADMIN %s: teleportare %s
-TELE_MENU = Menu Teleportare
-CUR_LOC = Locatia Actuala
-SAVE_LOC = Salveaza Locatie
-
-[hu]
-ADMIN_TELEPORT_1 = ADMIN: %s teleport
-ADMIN_TELEPORT_2 = ADMIN %s: %s teleport
-TELE_MENU = Teleport Menu
-CUR_LOC = Mostani hely
-SAVE_LOC = Hely mentese
-
-[lt]
-ADMIN_TELEPORT_1 = ADMINAS: teleportavo %s
-ADMIN_TELEPORT_2 = ADMINAS %s: teleportavo %s
-TELE_MENU = Teleporto Meniu
-CUR_LOC = Dabartine vieta
-SAVE_LOC = Issaugoti vietove
-
-[sk]
-ADMIN_TELEPORT_1 = ADMIN: teleportoval %s
-ADMIN_TELEPORT_2 = ADMIN %s: teleportovali %s
-TELE_MENU = MENU: Teleport
-CUR_LOC = Sucasne miesto
-SAVE_LOC = Ulozit miesto
-
-[mk]
-ADMIN_TELEPORT_1 = ADMIN: go teleportira %s
-ADMIN_TELEPORT_2 = ADMIN %s: go teleportira %s
-TELE_MENU = Meni za teleportiranje
-CUR_LOC = Vidi ja zacuvanata lokacija
-SAVE_LOC = Zacuvaj ja segasnata lokacija

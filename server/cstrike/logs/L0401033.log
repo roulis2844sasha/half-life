@@ -1,0 +1,463 @@
+L 04/01/2015 - 17:51:57: Log file started (file "logs/L0401033.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/01/2015 - 17:51:57: Loading map "awp_india2"
+L 04/01/2015 - 17:51:57: Server cvars start
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_debug_level" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_examine_time" = "0.5"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_look_angle" = "10"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_look_distance" = "200"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_message_repeats" = "5"
+L 04/01/2015 - 17:51:57: Server cvar "_tutor_view_distance" = "1000"
+L 04/01/2015 - 17:51:57: Server cvar "aesp_version" = "1.5b_mini"
+L 04/01/2015 - 17:51:57: Server cvar "allow_spectators" = "4"
+L 04/01/2015 - 17:51:57: Server cvar "amx_client_languages" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/01/2015 - 17:51:57: Server cvar "amx_language" = "ru"
+L 04/01/2015 - 17:51:57: Server cvar "amx_nextmap" = "awp_india2"
+L 04/01/2015 - 17:51:57: Server cvar "amx_timeleft" = "00:00"
+L 04/01/2015 - 17:51:57: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/01/2015 - 17:51:57: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/01/2015 - 17:51:57: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Config" = "Loaded"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Replace" = "Failed"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Status" = "Loaded"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/01/2015 - 17:51:57: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/01/2015 - 17:51:57: Server cvar "coop" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "deathmatch" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "decalfrequency" = "9"
+L 04/01/2015 - 17:51:57: Server cvar "dp_version" = "0.9.391"
+L 04/01/2015 - 17:51:57: Server cvar "edgefriction" = "2"
+L 04/01/2015 - 17:51:57: Server cvar "hostage_debug" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "hostage_stop" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "humans_join_team" = "any"
+L 04/01/2015 - 17:51:57: Server cvar "jtp10181" = "chute,gore"
+L 04/01/2015 - 17:51:57: Server cvar "max_queries_sec" = "3.0"
+L 04/01/2015 - 17:51:57: Server cvar "max_queries_sec_global" = "30"
+L 04/01/2015 - 17:51:57: Server cvar "max_queries_window" = "60"
+L 04/01/2015 - 17:51:57: Server cvar "metamod_version" = "1.19"
+L 04/01/2015 - 17:51:57: Server cvar "mp_allowmonsters" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_autokick" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_autoteambalance" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_buytime" = "1.5"
+L 04/01/2015 - 17:51:57: Server cvar "mp_c4timer" = "35"
+L 04/01/2015 - 17:51:57: Server cvar "mp_chattime" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_consistency" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_fadetoblack" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_flashlight" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_footsteps" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_forcecamera" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_forcechasecam" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_fragsleft" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_freezetime" = "5"
+L 04/01/2015 - 17:51:57: Server cvar "mp_friendlyfire" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_hostagepenalty" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_kickpercent" = "0.66"
+L 04/01/2015 - 17:51:57: Server cvar "mp_limitteams" = "5"
+L 04/01/2015 - 17:51:57: Server cvar "mp_logdetail" = "3"
+L 04/01/2015 - 17:51:57: Server cvar "mp_logfile" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_logmessages" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/01/2015 - 17:51:57: Server cvar "mp_maxrounds" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_mirrordamage" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_playerid" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_roundtime" = "2.57"
+L 04/01/2015 - 17:51:57: Server cvar "mp_startmoney" = "800"
+L 04/01/2015 - 17:51:57: Server cvar "mp_timeleft" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "mp_timelimit" = "30.000000"
+L 04/01/2015 - 17:51:57: Server cvar "mp_tkpunish" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_windifference" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "mp_winlimit" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "pausable" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_accelerate" = "5"
+L 04/01/2015 - 17:51:57: Server cvar "sv_aim" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_airaccelerate" = "10"
+L 04/01/2015 - 17:51:57: Server cvar "sv_airmove" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "sv_allowupload" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "sv_alltalk" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_bounce" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "sv_cheats" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_clienttrace" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "sv_clipmode" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_contact" = ""
+L 04/01/2015 - 17:51:57: Server cvar "sv_friction" = "4"
+L 04/01/2015 - 17:51:57: Server cvar "sv_gravity" = "800"
+L 04/01/2015 - 17:51:57: Server cvar "sv_logblocks" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_maxrate" = "25000"
+L 04/01/2015 - 17:51:57: Server cvar "sv_maxspeed" = "900"
+L 04/01/2015 - 17:51:57: Server cvar "sv_minrate" = "100000"
+L 04/01/2015 - 17:51:57: Server cvar "sv_password" = ""
+L 04/01/2015 - 17:51:57: Server cvar "sv_proxies" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_region" = "3"
+L 04/01/2015 - 17:51:57: Server cvar "sv_restart" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_restartround" = "0"
+L 04/01/2015 - 17:51:57: Server cvar "sv_stepsize" = "18"
+L 04/01/2015 - 17:51:57: Server cvar "sv_stopspeed" = "75"
+L 04/01/2015 - 17:51:57: Server cvar "sv_uploadmax" = "0.5"
+L 04/01/2015 - 17:51:57: Server cvar "sv_voiceenable" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "sv_wateraccelerate" = "10"
+L 04/01/2015 - 17:51:57: Server cvar "sv_waterfriction" = "1"
+L 04/01/2015 - 17:51:57: Server cvar "travo_statmarquee" = "v1.2"
+L 04/01/2015 - 17:51:57: Server cvar "vtc_version" = "80"
+L 04/01/2015 - 17:51:57: Server cvar "wallblocker_version" = "1.0"
+L 04/01/2015 - 17:51:57: Server cvar "whb_version" = "1.5.530"
+L 04/01/2015 - 17:51:57: Server cvars end
+L 04/01/2015 - 17:51:58: Server cvar "sv_restart" = "1"
+L 04/01/2015 - 17:51:58: World triggered "Restart_Round_(1_second)"
+L 04/01/2015 - 17:51:58: Team "CT" scored "0" with "0" players
+L 04/01/2015 - 17:51:58: Team "TERRORIST" scored "0" with "0" players
+L 04/01/2015 - 17:51:58: Server cvar "sv_restart" = "0"
+L 04/01/2015 - 17:51:58: Started map "awp_india2" (CRC "-1465035671")
+L 04/01/2015 - 17:51:58: [VTC] Player 6 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 2 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 10 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 12 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 7 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 1 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 3 speex
+L 04/01/2015 - 17:51:58: [VTC] Player 4 speex
+L 04/01/2015 - 17:52:03: World triggered "Round_Start"
+L 04/01/2015 - 17:52:03: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394fdfc
+L 04/01/2015 - 17:52:03: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><>" connected, address "46.151.5.251:27005"
+L 04/01/2015 - 17:52:03: [VTC] Player 2 speex
+L 04/01/2015 - 17:52:04: "Novi4ek<152><STEAM_0:4:1881338368><>" entered the game
+L 04/01/2015 - 17:52:06: [VTC] Player 11 silk
+L 04/01/2015 - 17:52:08: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39639cc
+L 04/01/2015 - 17:52:08: "kefir<158><STEAM_0:4:186371333><>" connected, address "178.120.107.191:24097"
+L 04/01/2015 - 17:52:08: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><>" entered the game
+L 04/01/2015 - 17:52:08: [VTC] Player 6 speex
+L 04/01/2015 - 17:52:08: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_SC2009]; pClient = 0xb3954cf0
+L 04/01/2015 - 17:52:08: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><>" connected, address "79.133.141.254:27005"
+L 04/01/2015 - 17:52:08: [VTC] Player 3 speex
+L 04/01/2015 - 17:52:10: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3959be4
+L 04/01/2015 - 17:52:10: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><>" connected, address "79.133.138.100:11936"
+L 04/01/2015 - 17:52:10: [VTC] Player 4 speex
+L 04/01/2015 - 17:52:12: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><>" entered the game
+L 04/01/2015 - 17:52:12: "Novi4ek<152><STEAM_0:4:1881338368><>" joined team "CT"
+L 04/01/2015 - 17:52:12: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394af08
+L 04/01/2015 - 17:52:12: "MYRAVEy*<161><STEAM_0:4:829897456><>" connected, address "89.151.178.203:45933"
+L 04/01/2015 - 17:52:13: [VTC] Player 1 speex
+L 04/01/2015 - 17:52:13: "kefir<158><STEAM_0:4:186371333><>" entered the game
+L 04/01/2015 - 17:52:15: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><>" joined team "TERRORIST"
+L 04/01/2015 - 17:52:15: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><>" joined team "TERRORIST"
+L 04/01/2015 - 17:52:15: World triggered "Game_Commencing"
+L 04/01/2015 - 17:52:15: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/01/2015 - 17:52:15: World triggered "Round_End"
+L 04/01/2015 - 17:52:16: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><>" entered the game
+L 04/01/2015 - 17:52:17: "kefir<158><STEAM_0:4:186371333><>" joined team "CT"
+L 04/01/2015 - 17:52:17: "MYRAVEy*<161><STEAM_0:4:829897456><>" entered the game
+L 04/01/2015 - 17:52:20: "MYRAVEy*<161><STEAM_0:4:829897456><>" joined team "TERRORIST"
+L 04/01/2015 - 17:52:23: World triggered "Round_Start"
+L 04/01/2015 - 17:52:23: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><>" joined team "TERRORIST"
+L 04/01/2015 - 17:52:25: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/01/2015 - 17:52:25: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:52:30: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/01/2015 - 17:52:30: "Novi4ek<152><STEAM_0:4:1881338368><CT>" killed "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp"
+L 04/01/2015 - 17:52:33: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" attacked "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:52:33: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" killed "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp"
+L 04/01/2015 - 17:52:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/01/2015 - 17:52:33: World triggered "Round_End"
+L 04/01/2015 - 17:52:34: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39688c0
+L 04/01/2015 - 17:52:34: "ANGELuHA<162><STEAM_0:4:1018023685><>" connected, address "178.124.7.208:27005"
+L 04/01/2015 - 17:52:34: [VTC] Player 7 speex
+L 04/01/2015 - 17:52:36: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb395ead8
+L 04/01/2015 - 17:52:36: "bum<163><STEAM_0:4:2060242565><>" connected, address "178.127.197.92:27005"
+L 04/01/2015 - 17:52:36: [VTC] Player 5 speex
+L 04/01/2015 - 17:52:38: "ANGELuHA<162><STEAM_0:4:1018023685><>" entered the game
+L 04/01/2015 - 17:52:42: "ANGELuHA<162><STEAM_0:4:1018023685><>" joined team "CT"
+L 04/01/2015 - 17:52:43: World triggered "Round_Start"
+L 04/01/2015 - 17:52:44: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb395ead8
+L 04/01/2015 - 17:52:44: "FlaTiK<164><STEAM_0:4:1585053065><>" connected, address "171.25.175.21:58056"
+L 04/01/2015 - 17:52:44: [VTC] Player 5 speex
+L 04/01/2015 - 17:52:46: "Extazy<156><STEAM_0:1:113150434><>" entered the game
+L 04/01/2015 - 17:52:50: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 04/01/2015 - 17:52:50: "Novi4ek<152><STEAM_0:4:1881338368><CT>" killed "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp"
+L 04/01/2015 - 17:52:55: "kefir<158><STEAM_0:4:186371333><CT>" attacked "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:52:55: "kefir<158><STEAM_0:4:186371333><CT>" killed "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp"
+L 04/01/2015 - 17:52:59: "kefir<158><STEAM_0:4:186371333><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:52:59: "kefir<158><STEAM_0:4:186371333><CT>" killed "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp"
+L 04/01/2015 - 17:53:01: "Extazy<156><STEAM_0:1:113150434><>" joined team "SPECTATOR"
+L 04/01/2015 - 17:53:05: "kefir<158><STEAM_0:4:186371333><CT>" attacked "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:53:05: "kefir<158><STEAM_0:4:186371333><CT>" killed "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" with "awp"
+L 04/01/2015 - 17:53:05: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/01/2015 - 17:53:05: World triggered "Round_End"
+L 04/01/2015 - 17:53:09: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb395ead8
+L 04/01/2015 - 17:53:09: "FlaTiK<165><STEAM_0:4:1585053065><>" connected, address "171.25.175.21:58056"
+L 04/01/2015 - 17:53:09: [VTC] Player 5 speex
+L 04/01/2015 - 17:53:15: World triggered "Round_Start"
+L 04/01/2015 - 17:53:17: "FlaTiK<165><STEAM_0:4:1585053065><>" entered the game
+L 04/01/2015 - 17:53:20: "kefir<158><STEAM_0:4:186371333><CT>" attacked "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/01/2015 - 17:53:20: "kefir<158><STEAM_0:4:186371333><CT>" killed "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp"
+L 04/01/2015 - 17:53:21: [DPROTO]: Client 12 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986278
+L 04/01/2015 - 17:53:21: "Lobotryas<166><STEAM_0:4:87177211><>" connected, address "79.141.56.163:27005"
+L 04/01/2015 - 17:53:21: [VTC] Player 13 speex
+L 04/01/2015 - 17:53:23: "FlaTiK<165><STEAM_0:4:1585053065><>" joined team "CT"
+L 04/01/2015 - 17:53:24: "kefir<158><STEAM_0:4:186371333><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:53:24: "kefir<158><STEAM_0:4:186371333><CT>" killed "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp"
+L 04/01/2015 - 17:53:26: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/01/2015 - 17:53:26: "Novi4ek<152><STEAM_0:4:1881338368><CT>" killed "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" with "awp"
+L 04/01/2015 - 17:53:27: [DPROTO]: Client 12 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3986278
+L 04/01/2015 - 17:53:27: "Lobotryas<167><STEAM_0:4:87177211><>" connected, address "79.141.56.163:27005"
+L 04/01/2015 - 17:53:28: [VTC] Player 13 speex
+L 04/01/2015 - 17:53:29: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/01/2015 - 17:53:29: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp"
+L 04/01/2015 - 17:53:33: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 04/01/2015 - 17:53:33: "Lobotryas<167><STEAM_0:4:87177211><>" entered the game
+L 04/01/2015 - 17:53:36: "Lobotryas<167><STEAM_0:4:87177211><>" joined team "CT"
+L 04/01/2015 - 17:53:37: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/01/2015 - 17:53:37: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:53:37: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" triggered "time" (time "1:21")
+L 04/01/2015 - 17:53:37: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" triggered "latency" (ping "91")
+L 04/01/2015 - 17:53:37: "MiIIIanya(21RUS)<160><STEAM_0:4:1726690299><TERRORIST>" disconnected
+L 04/01/2015 - 17:53:40: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3959be4
+L 04/01/2015 - 17:53:40: "bum<168><STEAM_0:4:2060242565><>" connected, address "178.127.197.92:27005"
+L 04/01/2015 - 17:53:40: [VTC] Player 4 speex
+L 04/01/2015 - 17:53:40: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" attacked "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/01/2015 - 17:53:40: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" killed "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp"
+L 04/01/2015 - 17:53:40: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 04/01/2015 - 17:53:40: World triggered "Round_End"
+L 04/01/2015 - 17:53:50: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397759c
+L 04/01/2015 - 17:53:50: "{awP}Dimasik<169><STEAM_0:4:2069941637><>" connected, address "178.121.157.95:19097"
+L 04/01/2015 - 17:53:50: [VTC] Player 10 speex
+L 04/01/2015 - 17:53:50: World triggered "Round_Start"
+L 04/01/2015 - 17:53:54: "{awP}Dimasik<169><STEAM_0:4:2069941637><>" entered the game
+L 04/01/2015 - 17:53:58: "bum<168><STEAM_0:4:2060242565><>" entered the game
+L 04/01/2015 - 17:53:59: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" attacked "FlaTiK<165><STEAM_0:4:1585053065><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:53:59: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" killed "FlaTiK<165><STEAM_0:4:1585053065><CT>" with "awp"
+L 04/01/2015 - 17:54:03: "{awP}Dimasik<169><STEAM_0:4:2069941637><>" joined team "TERRORIST"
+L 04/01/2015 - 17:54:04: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" attacked "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp" (damage "214") (damage_armor "3") (health "-114") (armor "97")
+L 04/01/2015 - 17:54:04: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" killed "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp"
+L 04/01/2015 - 17:54:04: "kefir<158><STEAM_0:4:186371333><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "41") (damage_armor "0") (health "59") (armor "100")
+L 04/01/2015 - 17:54:08: "kefir<158><STEAM_0:4:186371333><CT>" attacked "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:54:08: "kefir<158><STEAM_0:4:186371333><CT>" killed "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp"
+L 04/01/2015 - 17:54:08: "bum<168><STEAM_0:4:2060242565><>" joined team "TERRORIST"
+L 04/01/2015 - 17:54:09: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396d7b4
+L 04/01/2015 - 17:54:09: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><>" connected, address "79.133.138.100:11936"
+L 04/01/2015 - 17:54:09: [VTC] Player 8 speex
+L 04/01/2015 - 17:54:10: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 04/01/2015 - 17:54:10: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:54:12: "Lobotryas<167><STEAM_0:4:87177211><CT>" attacked "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 04/01/2015 - 17:54:13: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "Lobotryas<167><STEAM_0:4:87177211><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 04/01/2015 - 17:54:13: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "Lobotryas<167><STEAM_0:4:87177211><CT>" with "awp"
+L 04/01/2015 - 17:54:16: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 04/01/2015 - 17:54:16: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" killed "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp"
+L 04/01/2015 - 17:54:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 04/01/2015 - 17:54:16: World triggered "Round_End"
+L 04/01/2015 - 17:54:16: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><>" entered the game
+L 04/01/2015 - 17:54:21: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><>" joined team "TERRORIST"
+L 04/01/2015 - 17:54:26: World triggered "Round_Start"
+L 04/01/2015 - 17:54:28: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 04/01/2015 - 17:54:28: "Novi4ek<152><STEAM_0:4:1881338368><CT>" killed "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp"
+L 04/01/2015 - 17:54:33: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39726a8
+L 04/01/2015 - 17:54:33: "KoH4EHHblu<171><STEAM_0:4:1486671109><>" connected, address "178.120.101.24:48695"
+L 04/01/2015 - 17:54:34: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:54:34: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:54:34: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 04/01/2015 - 17:54:34: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39726a8
+L 04/01/2015 - 17:54:34: "Vitaliy_Voitovich<172><STEAM_0:4:183225035><>" connected, address "46.119.139.188:27005"
+L 04/01/2015 - 17:54:34: [DPROTO]: Client 13 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398b16c
+L 04/01/2015 - 17:54:34: "KoH4EHHblu<173><STEAM_0:4:1486671109><>" connected, address "178.120.101.24:48695"
+L 04/01/2015 - 17:54:35: [VTC] Player 9 speex
+L 04/01/2015 - 17:54:37: "KoH4EHHblu<173><STEAM_0:4:1486671109><>" entered the game
+L 04/01/2015 - 17:54:40: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "106") (damage_armor "2") (health "-71") (armor "97")
+L 04/01/2015 - 17:54:40: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp"
+L 04/01/2015 - 17:54:41: "KoH4EHHblu<173><STEAM_0:4:1486671109><>" joined team "CT"
+L 04/01/2015 - 17:54:41: "Lobotryas<167><STEAM_0:4:87177211><CT>" attacked "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:54:41: "Lobotryas<167><STEAM_0:4:87177211><CT>" killed "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" with "awp"
+L 04/01/2015 - 17:54:46: "FlaTiK<165><STEAM_0:4:1585053065><CT>" attacked "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 04/01/2015 - 17:54:46: "FlaTiK<165><STEAM_0:4:1585053065><CT>" killed "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><TERRORIST>" with "awp"
+L 04/01/2015 - 17:54:46: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:54:46: "Novi4ek<152><STEAM_0:4:1881338368><CT>" killed "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp"
+L 04/01/2015 - 17:54:49: "KoH4EHHblu<173><STEAM_0:4:1486671109><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/01/2015 - 17:54:49: "KoH4EHHblu<173><STEAM_0:4:1486671109><CT>" killed "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp"
+L 04/01/2015 - 17:54:50: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/01/2015 - 17:54:50: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp"
+L 04/01/2015 - 17:54:52: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "15") (hits "4") (kills "4") (headshots "2") (tks "0") (damage "861") (deaths "3")
+L 04/01/2015 - 17:54:52: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:54:52: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" triggered "time" (time "2:44")
+L 04/01/2015 - 17:54:52: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" triggered "latency" (ping "51")
+L 04/01/2015 - 17:54:52: "BigRussianBoss(21RUS)<157><STEAM_0:4:690797259><TERRORIST>" disconnected
+L 04/01/2015 - 17:54:59: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "Lobotryas<167><STEAM_0:4:87177211><CT>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/01/2015 - 17:54:59: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "Lobotryas<167><STEAM_0:4:87177211><CT>" with "awp"
+L 04/01/2015 - 17:55:00: "FlaTiK<165><STEAM_0:4:1585053065><CT>" attacked "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/01/2015 - 17:55:00: "FlaTiK<165><STEAM_0:4:1585053065><CT>" killed "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp"
+L 04/01/2015 - 17:55:00: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 04/01/2015 - 17:55:00: World triggered "Round_End"
+L 04/01/2015 - 17:55:03: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39726a8
+L 04/01/2015 - 17:55:03: "Vitaliy_Voitovich<174><STEAM_0:4:183225035><>" connected, address "46.119.139.188:27005"
+L 04/01/2015 - 17:55:03: [VTC] Player 9 speex
+L 04/01/2015 - 17:55:10: World triggered "Round_Start"
+L 04/01/2015 - 17:55:10: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "KoH4EHHblu<173><STEAM_0:4:1486671109><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 04/01/2015 - 17:55:10: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "KoH4EHHblu<173><STEAM_0:4:1486671109><CT>" with "awp"
+L 04/01/2015 - 17:55:20: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 04/01/2015 - 17:55:20: "Novi4ek<152><STEAM_0:4:1881338368><CT>" killed "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp"
+L 04/01/2015 - 17:55:20: "Novi4ek<152><STEAM_0:4:1881338368><CT>" attacked "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp" (damage "38") (damage_armor "1") (health "62") (armor "99")
+L 04/01/2015 - 17:55:22: "kefir<158><STEAM_0:4:186371333><CT>" attacked "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:55:22: "kefir<158><STEAM_0:4:186371333><CT>" killed "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp"
+L 04/01/2015 - 17:55:23: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "FlaTiK<165><STEAM_0:4:1585053065><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/01/2015 - 17:55:23: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "FlaTiK<165><STEAM_0:4:1585053065><CT>" with "awp"
+L 04/01/2015 - 17:55:23: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" attacked "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp" (damage "425") (damage_armor "5") (health "-363") (armor "94")
+L 04/01/2015 - 17:55:23: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" killed "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp"
+L 04/01/2015 - 17:55:31: "FlaTiK<165><STEAM_0:4:1585053065><CT>" triggered "weaponstats" (weapon "awp") (shots "8") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "268") (deaths "2")
+L 04/01/2015 - 17:55:31: "FlaTiK<165><STEAM_0:4:1585053065><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:55:31: "FlaTiK<165><STEAM_0:4:1585053065><CT>" triggered "time" (time "2:14")
+L 04/01/2015 - 17:55:31: "FlaTiK<165><STEAM_0:4:1585053065><CT>" triggered "latency" (ping "61")
+L 04/01/2015 - 17:55:31: "FlaTiK<165><STEAM_0:4:1585053065><CT>" disconnected
+L 04/01/2015 - 17:55:33: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394fdfc
+L 04/01/2015 - 17:55:33: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><>" connected, address "46.151.5.251:27005"
+L 04/01/2015 - 17:55:33: [VTC] Player 2 speex
+L 04/01/2015 - 17:55:35: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" attacked "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><TERRORIST>" with "awp" (damage "64") (damage_armor "1") (health "36") (armor "99")
+L 04/01/2015 - 17:55:35: "kefir<158><STEAM_0:4:186371333><CT>" attacked "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-400") (armor "93")
+L 04/01/2015 - 17:55:35: "kefir<158><STEAM_0:4:186371333><CT>" killed "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><TERRORIST>" with "awp"
+L 04/01/2015 - 17:55:37: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><>" entered the game
+L 04/01/2015 - 17:55:39: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 04/01/2015 - 17:55:39: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp"
+L 04/01/2015 - 17:55:40: "KoH4EHHblu<173><STEAM_0:4:1486671109><CT>" joined team "SPECTATOR"
+L 04/01/2015 - 17:55:41: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/01/2015 - 17:55:41: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp"
+L 04/01/2015 - 17:55:42: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><>" joined team "TERRORIST"
+L 04/01/2015 - 17:56:01: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "Lobotryas<167><STEAM_0:4:87177211><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/01/2015 - 17:56:01: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "Lobotryas<167><STEAM_0:4:87177211><CT>" with "awp"
+L 04/01/2015 - 17:56:01: "kefir<158><STEAM_0:4:186371333><CT>" attacked "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp" (damage "31") (damage_armor "1") (health "69") (armor "99")
+L 04/01/2015 - 17:56:04: "Lobotryas<167><STEAM_0:4:87177211><CT>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "190") (deaths "3")
+L 04/01/2015 - 17:56:04: "Lobotryas<167><STEAM_0:4:87177211><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/01/2015 - 17:56:04: "Lobotryas<167><STEAM_0:4:87177211><CT>" triggered "time" (time "2:30")
+L 04/01/2015 - 17:56:04: "Lobotryas<167><STEAM_0:4:87177211><CT>" triggered "latency" (ping "65")
+L 04/01/2015 - 17:56:04: "Lobotryas<167><STEAM_0:4:87177211><CT>" disconnected
+L 04/01/2015 - 17:56:05: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/01/2015 - 17:56:05: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:56:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 04/01/2015 - 17:56:05: World triggered "Round_End"
+L 04/01/2015 - 17:56:07: "kefir<158><STEAM_0:4:186371333><CT>" say "cerf" (dead)
+L 04/01/2015 - 17:56:15: World triggered "Round_Start"
+L 04/01/2015 - 17:56:16: "bum<168><STEAM_0:4:2060242565><TERRORIST>" attacked "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 04/01/2015 - 17:56:16: "bum<168><STEAM_0:4:2060242565><TERRORIST>" killed "Novi4ek<152><STEAM_0:4:1881338368><CT>" with "awp"
+L 04/01/2015 - 17:56:20: "Novi4ek<152><STEAM_0:4:1881338368><CT>" joined team "SPECTATOR"
+L 04/01/2015 - 17:56:23: "kefir<158><STEAM_0:4:186371333><CT>" attacked "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/01/2015 - 17:56:23: "kefir<158><STEAM_0:4:186371333><CT>" killed "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp"
+L 04/01/2015 - 17:56:25: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/01/2015 - 17:56:25: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:56:29: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:56:29: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><TERRORIST>" killed "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp"
+L 04/01/2015 - 17:56:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 04/01/2015 - 17:56:29: World triggered "Round_End"
+L 04/01/2015 - 17:56:34: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><TERRORIST>" joined team "CT" (auto)
+L 04/01/2015 - 17:56:34: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><TERRORIST>" joined team "CT" (auto)
+L 04/01/2015 - 17:56:39: World triggered "Round_Start"
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "19") (hits "7") (kills "6") (headshots "3") (tks "0") (damage "1516") (deaths "4")
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "0") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" triggered "time" (time "4:41")
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" triggered "latency" (ping "90")
+L 04/01/2015 - 17:56:45: "Novi4ek<152><STEAM_0:4:1881338368><SPECTATOR>" disconnected
+L 04/01/2015 - 17:56:46: "kefir<158><STEAM_0:4:186371333><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 04/01/2015 - 17:56:46: "kefir<158><STEAM_0:4:186371333><CT>" killed "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp"
+L 04/01/2015 - 17:56:49: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/01/2015 - 17:56:49: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" with "awp"
+L 04/01/2015 - 17:56:49: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" attacked "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/01/2015 - 17:56:49: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" killed "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp"
+L 04/01/2015 - 17:56:53: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/01/2015 - 17:56:53: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp"
+L 04/01/2015 - 17:56:58: "kefir<158><STEAM_0:4:186371333><CT>" attacked "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/01/2015 - 17:57:00: "kefir<158><STEAM_0:4:186371333><CT>" attacked "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-89") (armor "97")
+L 04/01/2015 - 17:57:00: "kefir<158><STEAM_0:4:186371333><CT>" killed "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" with "awp"
+L 04/01/2015 - 17:57:07: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:57:07: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:57:10: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/01/2015 - 17:57:10: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" with "awp"
+L 04/01/2015 - 17:57:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 04/01/2015 - 17:57:10: World triggered "Round_End"
+L 04/01/2015 - 17:57:20: World triggered "Round_Start"
+L 04/01/2015 - 17:57:20: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/01/2015 - 17:57:20: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" with "awp"
+L 04/01/2015 - 17:57:24: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 04/01/2015 - 17:57:24: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "ANGELuHA<162><STEAM_0:4:1018023685><CT>" with "awp"
+L 04/01/2015 - 17:57:27: "kefir<158><STEAM_0:4:186371333><CT>" attacked "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/01/2015 - 17:57:27: "kefir<158><STEAM_0:4:186371333><CT>" killed "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" with "awp"
+L 04/01/2015 - 17:57:36: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" attacked "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 04/01/2015 - 17:57:36: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" killed "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" with "awp"
+L 04/01/2015 - 17:57:38: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "16") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "501") (deaths "5")
+L 04/01/2015 - 17:57:38: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:57:38: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" triggered "time" (time "5:25")
+L 04/01/2015 - 17:57:38: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" triggered "latency" (ping "70")
+L 04/01/2015 - 17:57:38: "RASTAMAN (21RUS)<159><STEAM_0:4:736670715><TERRORIST>" disconnected
+L 04/01/2015 - 17:57:38: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "2") (kills "2") (headshots "1") (tks "0") (damage "548") (deaths "2")
+L 04/01/2015 - 17:57:38: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:57:38: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" triggered "time" (time "2:01")
+L 04/01/2015 - 17:57:38: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" triggered "latency" (ping "54")
+L 04/01/2015 - 17:57:38: "BigRussianBoss(21RUS)<175><STEAM_0:4:690797259><CT>" disconnected
+L 04/01/2015 - 17:57:39: "kefir<158><STEAM_0:4:186371333><CT>" attacked "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/01/2015 - 17:57:39: "kefir<158><STEAM_0:4:186371333><CT>" killed "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" with "awp"
+L 04/01/2015 - 17:57:47: "kefir<158><STEAM_0:4:186371333><CT>" attacked "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 04/01/2015 - 17:57:47: "kefir<158><STEAM_0:4:186371333><CT>" killed "bum<168><STEAM_0:4:2060242565><TERRORIST>" with "awp"
+L 04/01/2015 - 17:57:50: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" attacked "kefir<158><STEAM_0:4:186371333><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/01/2015 - 17:57:50: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" killed "kefir<158><STEAM_0:4:186371333><CT>" with "awp"
+L 04/01/2015 - 17:57:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 04/01/2015 - 17:57:50: World triggered "Round_End"
+L 04/01/2015 - 17:58:00: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "31") (hits "14") (kills "13") (headshots "6") (tks "0") (damage "3436") (deaths "6")
+L 04/01/2015 - 17:58:00: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "6") (chest "2") (stomach "2") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "0")
+L 04/01/2015 - 17:58:00: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" triggered "time" (time "5:42")
+L 04/01/2015 - 17:58:00: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" triggered "latency" (ping "81")
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "421") (deaths "4")
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" triggered "time" (time "4:01")
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" triggered "latency" (ping "40")
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" triggered "weaponstats" (weapon "awp") (shots "38") (hits "17") (kills "14") (headshots "3") (tks "0") (damage "2643") (deaths "6")
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "3") (stomach "2") (leftarm "6") (rightarm "2") (leftleg "1") (rightleg "0")
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" triggered "time" (time "5:46")
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" triggered "latency" (ping "57")
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" triggered "weaponstats" (weapon "awp") (shots "15") (hits "4") (kills "3") (headshots "1") (tks "0") (damage "726") (deaths "6")
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "2") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" triggered "time" (time "5:21")
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" triggered "latency" (ping "20")
+L 04/01/2015 - 17:58:00: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 04/01/2015 - 17:58:00: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" triggered "time" (time "3:43")
+L 04/01/2015 - 17:58:00: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" triggered "latency" (ping "92")
+L 04/01/2015 - 17:58:00: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "29") (hits "8") (kills "8") (headshots "2") (tks "0") (damage "1542") (deaths "4")
+L 04/01/2015 - 17:58:00: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "1") (leftarm "2") (rightarm "2") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" triggered "time" (time "4:06")
+L 04/01/2015 - 17:58:00: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" triggered "latency" (ping "61")
+L 04/01/2015 - 17:58:00: "Extazy<156><STEAM_0:1:113150434><SPECTATOR>" triggered "time" (time "5:14")
+L 04/01/2015 - 17:58:00: "Extazy<156><STEAM_0:1:113150434><SPECTATOR>" triggered "latency" (ping "14")
+L 04/01/2015 - 17:58:00: "KoH4EHHblu<173><STEAM_0:4:1486671109><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "107") (deaths "1")
+L 04/01/2015 - 17:58:00: "KoH4EHHblu<173><STEAM_0:4:1486671109><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/01/2015 - 17:58:00: "KoH4EHHblu<173><STEAM_0:4:1486671109><SPECTATOR>" triggered "time" (time "3:23")
+L 04/01/2015 - 17:58:00: "KoH4EHHblu<173><STEAM_0:4:1486671109><SPECTATOR>" triggered "latency" (ping "45")
+L 04/01/2015 - 17:58:00: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/01/2015 - 17:58:00: [META] ini: Read plugin config for: AMX Mod X
+L 04/01/2015 - 17:58:00: [META] ini: Read plugin config for: dproto_EF
+L 04/01/2015 - 17:58:00: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/01/2015 - 17:58:00: [META] ini: Read plugin config for: WHBlocker
+L 04/01/2015 - 17:58:00: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 04/01/2015 - 17:58:00: [META] dll: Updating plugins...
+L 04/01/2015 - 17:58:00: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/01/2015 - 17:58:00: "MYRAVEy*<161><STEAM_0:4:829897456><TERRORIST>" disconnected
+L 04/01/2015 - 17:58:00: "bum<168><STEAM_0:4:2060242565><TERRORIST>" disconnected
+L 04/01/2015 - 17:58:00: "kefir<158><STEAM_0:4:186371333><CT>" disconnected
+L 04/01/2015 - 17:58:00: "ANGELuHA<162><STEAM_0:4:1018023685><CT>" disconnected
+L 04/01/2015 - 17:58:00: "MiIIIanya(21RUS)<170><STEAM_0:4:1726690299><CT>" disconnected
+L 04/01/2015 - 17:58:00: "{awP}Dimasik<169><STEAM_0:4:2069941637><TERRORIST>" disconnected
+L 04/01/2015 - 17:58:00: World triggered "Round_Draw" (CT "3") (T "6")
+L 04/01/2015 - 17:58:00: World triggered "Round_End"
+L 04/01/2015 - 17:58:00: "Extazy<156><STEAM_0:1:113150434><SPECTATOR>" disconnected
+L 04/01/2015 - 17:58:00: World triggered "Round_Draw" (CT "3") (T "6")
+L 04/01/2015 - 17:58:00: World triggered "Round_End"
+L 04/01/2015 - 17:58:00: "KoH4EHHblu<173><STEAM_0:4:1486671109><SPECTATOR>" disconnected
+L 04/01/2015 - 17:58:00: World triggered "Round_Draw" (CT "3") (T "6")
+L 04/01/2015 - 17:58:00: World triggered "Round_End"
+L 04/01/2015 - 17:58:00: Log file closed

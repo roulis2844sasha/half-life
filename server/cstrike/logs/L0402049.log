@@ -1,0 +1,455 @@
+L 04/02/2015 - 14:20:12: Log file started (file "logs/L0402049.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/02/2015 - 14:20:12: Loading map "$2000$"
+L 04/02/2015 - 14:20:12: Server cvars start
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_debug_level" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_examine_time" = "0.5"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_look_angle" = "10"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_look_distance" = "200"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_message_repeats" = "5"
+L 04/02/2015 - 14:20:12: Server cvar "_tutor_view_distance" = "1000"
+L 04/02/2015 - 14:20:12: Server cvar "aesp_version" = "1.5b_mini"
+L 04/02/2015 - 14:20:12: Server cvar "allow_spectators" = "4"
+L 04/02/2015 - 14:20:12: Server cvar "amx_client_languages" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/02/2015 - 14:20:12: Server cvar "amx_language" = "ru"
+L 04/02/2015 - 14:20:12: Server cvar "amx_nextmap" = "awp_india"
+L 04/02/2015 - 14:20:12: Server cvar "amx_timeleft" = "29:48"
+L 04/02/2015 - 14:20:12: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/02/2015 - 14:20:12: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/02/2015 - 14:20:12: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Config" = "Loaded"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Replace" = "Failed"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Status" = "Loaded"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/02/2015 - 14:20:12: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/02/2015 - 14:20:12: Server cvar "coop" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "deathmatch" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "decalfrequency" = "9"
+L 04/02/2015 - 14:20:12: Server cvar "dp_version" = "0.9.391"
+L 04/02/2015 - 14:20:12: Server cvar "edgefriction" = "2"
+L 04/02/2015 - 14:20:12: Server cvar "hostage_debug" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "hostage_stop" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "humans_join_team" = "any"
+L 04/02/2015 - 14:20:12: Server cvar "jtp10181" = "chute,gore"
+L 04/02/2015 - 14:20:12: Server cvar "max_queries_sec" = "3.0"
+L 04/02/2015 - 14:20:12: Server cvar "max_queries_sec_global" = "30"
+L 04/02/2015 - 14:20:12: Server cvar "max_queries_window" = "60"
+L 04/02/2015 - 14:20:12: Server cvar "metamod_version" = "1.19"
+L 04/02/2015 - 14:20:12: Server cvar "mp_allowmonsters" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_autokick" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_autoteambalance" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_buytime" = "1.5"
+L 04/02/2015 - 14:20:12: Server cvar "mp_c4timer" = "35"
+L 04/02/2015 - 14:20:12: Server cvar "mp_chattime" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_consistency" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_fadetoblack" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_flashlight" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_footsteps" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_forcecamera" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_forcechasecam" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_fragsleft" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_freezetime" = "5"
+L 04/02/2015 - 14:20:12: Server cvar "mp_friendlyfire" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_hostagepenalty" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_kickpercent" = "0.66"
+L 04/02/2015 - 14:20:12: Server cvar "mp_limitteams" = "5"
+L 04/02/2015 - 14:20:12: Server cvar "mp_logdetail" = "3"
+L 04/02/2015 - 14:20:12: Server cvar "mp_logfile" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_logmessages" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/02/2015 - 14:20:12: Server cvar "mp_maxrounds" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_mirrordamage" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_playerid" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_roundtime" = "2.57"
+L 04/02/2015 - 14:20:12: Server cvar "mp_startmoney" = "800"
+L 04/02/2015 - 14:20:12: Server cvar "mp_timeleft" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "mp_timelimit" = "30"
+L 04/02/2015 - 14:20:12: Server cvar "mp_tkpunish" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_windifference" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "mp_winlimit" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "pausable" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_accelerate" = "5"
+L 04/02/2015 - 14:20:12: Server cvar "sv_aim" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_airaccelerate" = "10"
+L 04/02/2015 - 14:20:12: Server cvar "sv_airmove" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "sv_allowupload" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "sv_alltalk" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_bounce" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "sv_cheats" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_clienttrace" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "sv_clipmode" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_contact" = ""
+L 04/02/2015 - 14:20:12: Server cvar "sv_friction" = "4"
+L 04/02/2015 - 14:20:12: Server cvar "sv_gravity" = "800"
+L 04/02/2015 - 14:20:12: Server cvar "sv_logblocks" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_maxrate" = "25000"
+L 04/02/2015 - 14:20:12: Server cvar "sv_maxspeed" = "900"
+L 04/02/2015 - 14:20:12: Server cvar "sv_minrate" = "100000"
+L 04/02/2015 - 14:20:12: Server cvar "sv_password" = ""
+L 04/02/2015 - 14:20:12: Server cvar "sv_proxies" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_region" = "3"
+L 04/02/2015 - 14:20:12: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_restartround" = "0"
+L 04/02/2015 - 14:20:12: Server cvar "sv_stepsize" = "18"
+L 04/02/2015 - 14:20:12: Server cvar "sv_stopspeed" = "75"
+L 04/02/2015 - 14:20:12: Server cvar "sv_uploadmax" = "0.5"
+L 04/02/2015 - 14:20:12: Server cvar "sv_voiceenable" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "sv_wateraccelerate" = "10"
+L 04/02/2015 - 14:20:12: Server cvar "sv_waterfriction" = "1"
+L 04/02/2015 - 14:20:12: Server cvar "travo_statmarquee" = "v1.2"
+L 04/02/2015 - 14:20:12: Server cvar "vtc_version" = "80"
+L 04/02/2015 - 14:20:12: Server cvar "wallblocker_version" = "1.0"
+L 04/02/2015 - 14:20:12: Server cvar "whb_version" = "1.5.530"
+L 04/02/2015 - 14:20:12: Server cvars end
+L 04/02/2015 - 14:20:12: Server cvar "amx_nextmap" = "awp_dust"
+L 04/02/2015 - 14:20:12: Server cvar "sv_restart" = "1"
+L 04/02/2015 - 14:20:12: World triggered "Restart_Round_(1_second)"
+L 04/02/2015 - 14:20:12: Team "CT" scored "0" with "0" players
+L 04/02/2015 - 14:20:12: Team "TERRORIST" scored "0" with "0" players
+L 04/02/2015 - 14:20:12: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 14:20:12: Started map "$2000$" (CRC "-1688392397")
+L 04/02/2015 - 14:20:12: [VTC] Player 2 silk
+L 04/02/2015 - 14:20:13: [VTC] Player 3 speex
+L 04/02/2015 - 14:20:16: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><>" entered the game
+L 04/02/2015 - 14:20:17: "Extazy<33><STEAM_0:1:113150434><>" entered the game
+L 04/02/2015 - 14:20:17: World triggered "Round_Start"
+L 04/02/2015 - 14:20:18: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ccf08
+L 04/02/2015 - 14:20:18: "BANAN<37><STEAM_0:4:1399475461><>" connected, address "178.120.136.15:14351"
+L 04/02/2015 - 14:20:18: [VTC] Player 1 speex
+L 04/02/2015 - 14:20:22: "BANAN<37><STEAM_0:4:1399475461><>" entered the game
+L 04/02/2015 - 14:20:23: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><>" joined team "CT"
+L 04/02/2015 - 14:20:28: "BANAN<37><STEAM_0:4:1399475461><>" joined team "TERRORIST"
+L 04/02/2015 - 14:20:28: World triggered "Game_Commencing"
+L 04/02/2015 - 14:20:28: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/02/2015 - 14:20:28: World triggered "Round_End"
+L 04/02/2015 - 14:20:36: World triggered "Round_Start"
+L 04/02/2015 - 14:20:46: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 14:20:49: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "awp" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/02/2015 - 14:20:49: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "awp"
+L 04/02/2015 - 14:20:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/02/2015 - 14:20:49: World triggered "Round_End"
+L 04/02/2015 - 14:20:59: World triggered "Round_Start"
+L 04/02/2015 - 14:21:11: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:21:11: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "24") (armor "0")
+L 04/02/2015 - 14:21:12: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-112") (armor "0")
+L 04/02/2015 - 14:21:12: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:21:12: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/02/2015 - 14:21:12: World triggered "Round_End"
+L 04/02/2015 - 14:21:15: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbbe4
+L 04/02/2015 - 14:21:15: "T.N.L. TheNextLegend<38><STEAM_0:4:460434291><>" connected, address "94.180.191.159:27005"
+L 04/02/2015 - 14:21:15: [VTC] Player 4 speex
+L 04/02/2015 - 14:21:21: World triggered "Round_Start"
+L 04/02/2015 - 14:21:26: "T.N.L. TheNextLegend<38><STEAM_0:4:460434291><>" entered the game
+L 04/02/2015 - 14:21:28: "Extazy<33><STEAM_0:1:113150434><>" joined team "TERRORIST"
+L 04/02/2015 - 14:21:29: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 14:21:30: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 14:21:30: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/02/2015 - 14:21:31: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "21") (armor "0")
+L 04/02/2015 - 14:21:32: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 14:21:32: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "m4a1"
+L 04/02/2015 - 14:21:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/02/2015 - 14:21:32: World triggered "Round_End"
+L 04/02/2015 - 14:21:42: World triggered "Round_Start"
+L 04/02/2015 - 14:21:48: "T.N.L. TheNextLegend<38><STEAM_0:4:460434291><>" joined team "CT"
+L 04/02/2015 - 14:21:48: "T.N.L. TheNextLegend<38><STEAM_0:4:460434291><CT>" changed name to "T.N.L. DarkAngel"
+L 04/02/2015 - 14:21:50: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:21:50: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 14:21:51: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:21:51: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-37") (armor "0")
+L 04/02/2015 - 14:21:51: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1"
+L 04/02/2015 - 14:21:52: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "34") (damage_armor "0") (health "20") (armor "0")
+L 04/02/2015 - 14:21:52: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/02/2015 - 14:21:53: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-116") (armor "0")
+L 04/02/2015 - 14:21:53: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" with "ak47"
+L 04/02/2015 - 14:21:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 04/02/2015 - 14:21:53: World triggered "Round_End"
+L 04/02/2015 - 14:22:03: World triggered "Round_Start"
+L 04/02/2015 - 14:22:05: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:22:05: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 14:22:05: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 14:22:06: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "32") (armor "85")
+L 04/02/2015 - 14:22:06: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/02/2015 - 14:22:06: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "11") (armor "80")
+L 04/02/2015 - 14:22:06: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "26") (damage_armor "5") (health "-15") (armor "75")
+L 04/02/2015 - 14:22:06: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:22:12: "T.N.L.N!k[e]L<34><STEAM_0:4:532139013><CT>" changed name to "T.N.L.N!keL"
+L 04/02/2015 - 14:22:12: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "10") (armor "95")
+L 04/02/2015 - 14:22:12: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "deagle" (damage "36") (damage_armor "6") (health "64") (armor "94")
+L 04/02/2015 - 14:22:12: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "-12") (armor "90")
+L 04/02/2015 - 14:22:12: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1"
+L 04/02/2015 - 14:22:40: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "38") (armor "90")
+L 04/02/2015 - 14:22:41: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/02/2015 - 14:22:52: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "12") (armor "86")
+L 04/02/2015 - 14:22:53: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "105") (damage_armor "15") (health "-93") (armor "71")
+L 04/02/2015 - 14:22:53: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:22:53: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 04/02/2015 - 14:22:53: World triggered "Round_End"
+L 04/02/2015 - 14:23:03: World triggered "Round_Start"
+L 04/02/2015 - 14:23:05: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/02/2015 - 14:23:06: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 14:23:08: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 14:23:08: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:23:08: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "96")
+L 04/02/2015 - 14:23:08: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "42") (damage_armor "0") (health "16") (armor "0")
+L 04/02/2015 - 14:23:08: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 14:23:08: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47"
+L 04/02/2015 - 14:23:27: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "28") (armor "91")
+L 04/02/2015 - 14:23:27: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "7") (armor "86")
+L 04/02/2015 - 14:23:27: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "86") (damage_armor "18") (health "-79") (armor "68")
+L 04/02/2015 - 14:23:27: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:23:27: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 04/02/2015 - 14:23:27: World triggered "Round_End"
+L 04/02/2015 - 14:23:37: World triggered "Round_Start"
+L 04/02/2015 - 14:23:41: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "74") (armor "98")
+L 04/02/2015 - 14:23:41: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "54") (armor "94")
+L 04/02/2015 - 14:23:42: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "105") (damage_armor "16") (health "-5") (armor "84")
+L 04/02/2015 - 14:23:42: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47"
+L 04/02/2015 - 14:23:43: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "31") (damage_armor "5") (health "23") (armor "89")
+L 04/02/2015 - 14:23:44: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/02/2015 - 14:23:44: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47"
+L 04/02/2015 - 14:23:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 04/02/2015 - 14:23:44: World triggered "Round_End"
+L 04/02/2015 - 14:23:54: World triggered "Round_Start"
+L 04/02/2015 - 14:23:57: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 14:23:58: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:23:58: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 14:23:58: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 14:23:58: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "37") (armor "86")
+L 04/02/2015 - 14:23:59: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "16") (armor "82")
+L 04/02/2015 - 14:23:59: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-5") (armor "0")
+L 04/02/2015 - 14:23:59: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1"
+L 04/02/2015 - 14:24:00: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "38") (armor "0")
+L 04/02/2015 - 14:24:00: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "2") (armor "0")
+L 04/02/2015 - 14:24:00: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-5") (armor "77")
+L 04/02/2015 - 14:24:00: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:24:05: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-32") (armor "0")
+L 04/02/2015 - 14:24:05: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47"
+L 04/02/2015 - 14:24:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 04/02/2015 - 14:24:05: World triggered "Round_End"
+L 04/02/2015 - 14:24:15: World triggered "Round_Start"
+L 04/02/2015 - 14:24:18: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 14:24:18: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "awp"
+L 04/02/2015 - 14:24:18: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/02/2015 - 14:24:20: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "59") (armor "0")
+L 04/02/2015 - 14:24:20: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "28") (armor "0")
+L 04/02/2015 - 14:24:20: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-96") (armor "0")
+L 04/02/2015 - 14:24:20: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:24:22: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "100")
+L 04/02/2015 - 14:24:22: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "57") (armor "95")
+L 04/02/2015 - 14:24:24: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:24:32: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "36") (armor "84")
+L 04/02/2015 - 14:24:33: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "22") (armor "77")
+L 04/02/2015 - 14:24:33: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "deagle" (damage "46") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 14:24:33: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "deagle"
+L 04/02/2015 - 14:24:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 04/02/2015 - 14:24:33: World triggered "Round_End"
+L 04/02/2015 - 14:24:43: World triggered "Round_Start"
+L 04/02/2015 - 14:24:46: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "awp" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/02/2015 - 14:24:46: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "awp"
+L 04/02/2015 - 14:24:54: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/02/2015 - 14:24:55: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-33") (armor "98")
+L 04/02/2015 - 14:24:55: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "awp"
+L 04/02/2015 - 14:24:55: Team "CT" triggered "CTs_Win" (CT "4") (T "6")
+L 04/02/2015 - 14:24:55: World triggered "Round_End"
+L 04/02/2015 - 14:25:05: World triggered "Round_Start"
+L 04/02/2015 - 14:25:08: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "grenade"
+L 04/02/2015 - 14:25:16: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "deagle" (damage "99") (damage_armor "17") (health "1") (armor "83")
+L 04/02/2015 - 14:25:16: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "deagle" (damage "30") (damage_armor "5") (health "-29") (armor "78")
+L 04/02/2015 - 14:25:16: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "deagle"
+L 04/02/2015 - 14:25:16: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 04/02/2015 - 14:25:16: World triggered "Round_End"
+L 04/02/2015 - 14:25:26: World triggered "Round_Start"
+L 04/02/2015 - 14:25:31: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/02/2015 - 14:25:31: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "26") (damage_armor "4") (health "49") (armor "96")
+L 04/02/2015 - 14:25:31: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0ad8
+L 04/02/2015 - 14:25:31: "++AlKaNaFt[SaNcHeS]++<39><STEAM_0:4:2143328846><>" connected, address "37.214.221.86:41185"
+L 04/02/2015 - 14:25:31: [VTC] Player 5 speex
+L 04/02/2015 - 14:25:31: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "deagle" (damage "29") (damage_armor "0") (health "28") (armor "78")
+L 04/02/2015 - 14:25:32: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "deagle" (damage "17") (damage_armor "3") (health "11") (armor "75")
+L 04/02/2015 - 14:25:33: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "deagle" (damage "29") (damage_armor "5") (health "20") (armor "91")
+L 04/02/2015 - 14:25:33: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-1") (armor "86")
+L 04/02/2015 - 14:25:33: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1"
+L 04/02/2015 - 14:25:34: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:25:34: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:25:34: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 14:25:34: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 14:25:35: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "18") (armor "0")
+L 04/02/2015 - 14:25:37: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "awp" (damage "109") (damage_armor "1") (health "-98") (armor "74")
+L 04/02/2015 - 14:25:37: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "awp"
+L 04/02/2015 - 14:25:41: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "-5") (armor "0")
+L 04/02/2015 - 14:25:41: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "usp"
+L 04/02/2015 - 14:25:41: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 04/02/2015 - 14:25:41: World triggered "Round_End"
+L 04/02/2015 - 14:25:51: World triggered "Round_Start"
+L 04/02/2015 - 14:25:57: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 04/02/2015 - 14:25:57: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-5") (armor "77")
+L 04/02/2015 - 14:25:57: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:25:58: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0ad8
+L 04/02/2015 - 14:25:58: "[A.C.A.B] Vitamin4ik<40><STEAM_0:4:1993742926><>" connected, address "37.214.240.68:35378"
+L 04/02/2015 - 14:25:58: [VTC] Player 5 speex
+L 04/02/2015 - 14:25:59: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:26:00: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:26:00: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 14:26:00: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-11") (armor "0")
+L 04/02/2015 - 14:26:00: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1"
+L 04/02/2015 - 14:26:01: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0ad8
+L 04/02/2015 - 14:26:01: "[A.C.A.B] Vitamin4ik<41><STEAM_0:4:1993742926><>" connected, address "37.214.240.68:35378"
+L 04/02/2015 - 14:26:01: [VTC] Player 5 speex
+L 04/02/2015 - 14:26:04: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 14:26:04: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 04/02/2015 - 14:26:04: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 14:26:04: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:26:04: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 04/02/2015 - 14:26:04: World triggered "Round_End"
+L 04/02/2015 - 14:26:14: World triggered "Round_Start"
+L 04/02/2015 - 14:26:16: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0ad8
+L 04/02/2015 - 14:26:16: "++AlKaNaFt[SaNcHeS]++<42><STEAM_0:4:2143328846><>" connected, address "37.214.221.86:41185"
+L 04/02/2015 - 14:26:16: Kick: "++AlKaNaFt[SaNcHeS]++<42><STEAM_0:4:2143328846><>" was kicked by "Console" (message "this nick name is blocked, please rename")
+L 04/02/2015 - 14:26:20: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 14:26:20: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 04/02/2015 - 14:26:20: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "28") (armor "0")
+L 04/02/2015 - 14:26:20: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "37") (armor "86")
+L 04/02/2015 - 14:26:20: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "-15") (armor "0")
+L 04/02/2015 - 14:26:20: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:26:25: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "26") (damage_armor "4") (health "11") (armor "82")
+L 04/02/2015 - 14:26:26: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/02/2015 - 14:26:26: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "32") (damage_armor "5") (health "-21") (armor "77")
+L 04/02/2015 - 14:26:26: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47"
+L 04/02/2015 - 14:26:36: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "33") (damage_armor "5") (health "42") (armor "95")
+L 04/02/2015 - 14:26:38: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "16") (armor "95")
+L 04/02/2015 - 14:26:38: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "-11") (armor "91")
+L 04/02/2015 - 14:26:38: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:26:38: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 04/02/2015 - 14:26:38: World triggered "Round_End"
+L 04/02/2015 - 14:26:48: World triggered "Round_Start"
+L 04/02/2015 - 14:26:51: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/02/2015 - 14:26:52: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "92")
+L 04/02/2015 - 14:26:52: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:26:52: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "22") (armor "88")
+L 04/02/2015 - 14:26:52: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/02/2015 - 14:26:53: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "3") (armor "0")
+L 04/02/2015 - 14:26:53: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 14:26:53: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1"
+L 04/02/2015 - 14:27:00: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "1") (armor "84")
+L 04/02/2015 - 14:27:00: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-20") (armor "79")
+L 04/02/2015 - 14:27:00: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:27:19: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "knife" (damage "221") (damage_armor "20") (health "-121") (armor "80")
+L 04/02/2015 - 14:27:19: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "knife"
+L 04/02/2015 - 14:27:19: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 04/02/2015 - 14:27:19: World triggered "Round_End"
+L 04/02/2015 - 14:27:29: World triggered "Round_Start"
+L 04/02/2015 - 14:27:31: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:27:33: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/02/2015 - 14:27:33: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "26") (damage_armor "4") (health "49") (armor "96")
+L 04/02/2015 - 14:27:34: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 14:27:34: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/02/2015 - 14:27:34: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 14:27:34: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "12") (damage_armor "0") (health "72") (armor "0")
+L 04/02/2015 - 14:27:34: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 14:27:34: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "12") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 14:27:35: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 14:27:35: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-31") (armor "0")
+L 04/02/2015 - 14:27:35: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:27:38: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "35") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 14:27:38: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-10") (armor "0")
+L 04/02/2015 - 14:27:38: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47"
+L 04/02/2015 - 14:27:47: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "27") (damage_armor "4") (health "22") (armor "92")
+L 04/02/2015 - 14:27:48: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/02/2015 - 14:27:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-5") (armor "88")
+L 04/02/2015 - 14:27:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47"
+L 04/02/2015 - 14:27:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "7")
+L 04/02/2015 - 14:27:48: World triggered "Round_End"
+L 04/02/2015 - 14:27:58: World triggered "Round_Start"
+L 04/02/2015 - 14:28:01: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 04/02/2015 - 14:28:01: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "awp"
+L 04/02/2015 - 14:28:01: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "awp" (damage "332") (damage_armor "0") (health "-232") (armor "0")
+L 04/02/2015 - 14:28:01: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "awp"
+L 04/02/2015 - 14:28:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "8")
+L 04/02/2015 - 14:28:01: World triggered "Round_End"
+L 04/02/2015 - 14:28:11: World triggered "Round_Start"
+L 04/02/2015 - 14:28:14: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 14:28:14: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "awp"
+L 04/02/2015 - 14:28:17: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "deagle" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/02/2015 - 14:28:20: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/02/2015 - 14:28:21: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 04/02/2015 - 14:28:22: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "42") (damage_armor "0") (health "10") (armor "0")
+L 04/02/2015 - 14:28:22: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-24") (armor "0")
+L 04/02/2015 - 14:28:22: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "ak47"
+L 04/02/2015 - 14:28:45: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:28:45: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "62") (armor "90")
+L 04/02/2015 - 14:28:45: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "43") (damage_armor "0") (health "22") (armor "0")
+L 04/02/2015 - 14:28:45: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-118") (armor "0")
+L 04/02/2015 - 14:28:45: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47"
+L 04/02/2015 - 14:28:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "9")
+L 04/02/2015 - 14:28:45: World triggered "Round_End"
+L 04/02/2015 - 14:28:55: World triggered "Round_Start"
+L 04/02/2015 - 14:28:58: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:28:59: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/02/2015 - 14:29:00: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "16") (armor "0")
+L 04/02/2015 - 14:29:00: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 14:29:00: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:29:09: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 04/02/2015 - 14:29:09: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "12") (damage_armor "2") (health "76") (armor "96")
+L 04/02/2015 - 14:29:12: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "12") (damage_armor "2") (health "64") (armor "94")
+L 04/02/2015 - 14:29:14: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "38") (armor "90")
+L 04/02/2015 - 14:29:15: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "26") (armor "84")
+L 04/02/2015 - 14:29:15: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "10") (damage_armor "5") (health "16") (armor "79")
+L 04/02/2015 - 14:29:15: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "10") (damage_armor "5") (health "6") (armor "74")
+L 04/02/2015 - 14:29:15: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "52") (damage_armor "26") (health "-46") (armor "48")
+L 04/02/2015 - 14:29:15: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp"
+L 04/02/2015 - 14:29:15: Team "CT" triggered "CTs_Win" (CT "10") (T "9")
+L 04/02/2015 - 14:29:15: World triggered "Round_End"
+L 04/02/2015 - 14:29:25: World triggered "Round_Start"
+L 04/02/2015 - 14:29:30: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/02/2015 - 14:29:30: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "92")
+L 04/02/2015 - 14:29:31: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 14:29:31: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "34") (damage_armor "0") (health "41") (armor "0")
+L 04/02/2015 - 14:29:31: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "23") (armor "92")
+L 04/02/2015 - 14:29:32: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "15") (damage_armor "2") (health "8") (armor "90")
+L 04/02/2015 - 14:29:33: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "12") (damage_armor "7") (health "-4") (armor "83")
+L 04/02/2015 - 14:29:33: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "Extazy<33><STEAM_0:1:113150434><TERRORIST>" with "usp"
+L 04/02/2015 - 14:29:38: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "20") (armor "95")
+L 04/02/2015 - 14:29:38: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:29:38: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "-1") (armor "91")
+L 04/02/2015 - 14:29:38: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" killed "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "m4a1"
+L 04/02/2015 - 14:29:41: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:29:41: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "43") (armor "0")
+L 04/02/2015 - 14:29:41: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "-14") (armor "0")
+L 04/02/2015 - 14:29:41: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "awp"
+L 04/02/2015 - 14:29:41: Team "CT" triggered "CTs_Win" (CT "11") (T "9")
+L 04/02/2015 - 14:29:41: World triggered "Round_End"
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "23") (deaths "0")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "22") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "107") (deaths "3")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "168") (hits "29") (kills "10") (headshots "4") (tks "0") (damage "1323") (deaths "6")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "4") (chest "2") (stomach "5") (leftarm "14") (rightarm "1") (leftleg "1") (rightleg "2")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "time" (time "9:30")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" triggered "latency" (ping "27")
+L 04/02/2015 - 14:29:48: "Extazy<33><STEAM_0:1:113150434><TERRORIST>" disconnected
+L 04/02/2015 - 14:29:51: World triggered "Round_Start"
+L 04/02/2015 - 14:29:55: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/02/2015 - 14:29:55: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47"
+L 04/02/2015 - 14:29:55: Team "CT" triggered "CTs_Win" (CT "12") (T "9")
+L 04/02/2015 - 14:29:55: World triggered "Round_End"
+L 04/02/2015 - 14:30:05: World triggered "Round_Start"
+L 04/02/2015 - 14:30:08: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:30:08: "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" attacked "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" with "ak47" (damage "42") (damage_armor "0") (health "24") (armor "0")
+L 04/02/2015 - 14:30:09: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 14:30:09: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 14:30:09: "T.N.L. DarkAngel<38><STEAM_0:4:460434291><CT>" killed "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:30:09: Team "CT" triggered "CTs_Win" (CT "13") (T "9")
+L 04/02/2015 - 14:30:09: World triggered "Round_End"
+L 04/02/2015 - 14:30:19: World triggered "Round_Start"
+L 04/02/2015 - 14:30:22: "T.N.L.N!keL<34><STEAM_0:4:532139013><CT>" attacked "BANAN<37><STEAM_0:4:1399475461><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 14:30:22: "T.N.L.N!keL<34><STEAM_0:4:5321390

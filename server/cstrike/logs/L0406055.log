@@ -1,0 +1,791 @@
+L 04/06/2015 - 21:30:27: Log file started (file "logs/L0406055.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/06/2015 - 21:30:27: Loading map "aim_ak-colt"
+L 04/06/2015 - 21:30:27: Server cvars start
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_debug_level" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_examine_time" = "0.5"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_look_angle" = "10"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_look_distance" = "200"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_message_repeats" = "5"
+L 04/06/2015 - 21:30:27: Server cvar "_tutor_view_distance" = "1000"
+L 04/06/2015 - 21:30:27: Server cvar "aesp_version" = "1.5b_mini"
+L 04/06/2015 - 21:30:27: Server cvar "allow_spectators" = "4"
+L 04/06/2015 - 21:30:27: Server cvar "amx_client_languages" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/06/2015 - 21:30:27: Server cvar "amx_language" = "ru"
+L 04/06/2015 - 21:30:27: Server cvar "amx_nextmap" = "aim_ak-colt"
+L 04/06/2015 - 21:30:27: Server cvar "amx_timeleft" = "00:00"
+L 04/06/2015 - 21:30:27: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/06/2015 - 21:30:27: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/06/2015 - 21:30:27: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Config" = "Loaded"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Replace" = "Failed"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Status" = "Loaded"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/06/2015 - 21:30:27: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/06/2015 - 21:30:27: Server cvar "coop" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "deathmatch" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "decalfrequency" = "9"
+L 04/06/2015 - 21:30:27: Server cvar "dp_version" = "0.9.391"
+L 04/06/2015 - 21:30:27: Server cvar "edgefriction" = "2"
+L 04/06/2015 - 21:30:27: Server cvar "hostage_debug" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "hostage_stop" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "humans_join_team" = "any"
+L 04/06/2015 - 21:30:27: Server cvar "jtp10181" = "chute,gore"
+L 04/06/2015 - 21:30:27: Server cvar "max_queries_sec" = "3.0"
+L 04/06/2015 - 21:30:27: Server cvar "max_queries_sec_global" = "30"
+L 04/06/2015 - 21:30:27: Server cvar "max_queries_window" = "60"
+L 04/06/2015 - 21:30:27: Server cvar "metamod_version" = "1.19"
+L 04/06/2015 - 21:30:27: Server cvar "mp_allowmonsters" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_autokick" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_autoteambalance" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_buytime" = "1.5"
+L 04/06/2015 - 21:30:27: Server cvar "mp_c4timer" = "35"
+L 04/06/2015 - 21:30:27: Server cvar "mp_chattime" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_consistency" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_fadetoblack" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_flashlight" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_footsteps" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_forcecamera" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_forcechasecam" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_fragsleft" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_freezetime" = "5"
+L 04/06/2015 - 21:30:27: Server cvar "mp_friendlyfire" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_hostagepenalty" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_kickpercent" = "0.66"
+L 04/06/2015 - 21:30:27: Server cvar "mp_limitteams" = "5"
+L 04/06/2015 - 21:30:27: Server cvar "mp_logdetail" = "3"
+L 04/06/2015 - 21:30:27: Server cvar "mp_logfile" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_logmessages" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/06/2015 - 21:30:27: Server cvar "mp_maxrounds" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_mirrordamage" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_playerid" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_roundtime" = "2.57"
+L 04/06/2015 - 21:30:27: Server cvar "mp_startmoney" = "800"
+L 04/06/2015 - 21:30:27: Server cvar "mp_timeleft" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "mp_timelimit" = "30.000000"
+L 04/06/2015 - 21:30:27: Server cvar "mp_tkpunish" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_windifference" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "mp_winlimit" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "pausable" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_accelerate" = "5"
+L 04/06/2015 - 21:30:27: Server cvar "sv_aim" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_airaccelerate" = "10"
+L 04/06/2015 - 21:30:27: Server cvar "sv_airmove" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "sv_allowupload" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "sv_alltalk" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_bounce" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "sv_cheats" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_clienttrace" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "sv_clipmode" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_contact" = ""
+L 04/06/2015 - 21:30:27: Server cvar "sv_friction" = "4"
+L 04/06/2015 - 21:30:27: Server cvar "sv_gravity" = "800"
+L 04/06/2015 - 21:30:27: Server cvar "sv_logblocks" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_maxrate" = "25000"
+L 04/06/2015 - 21:30:27: Server cvar "sv_maxspeed" = "900"
+L 04/06/2015 - 21:30:27: Server cvar "sv_minrate" = "100000"
+L 04/06/2015 - 21:30:27: Server cvar "sv_password" = ""
+L 04/06/2015 - 21:30:27: Server cvar "sv_proxies" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_region" = "3"
+L 04/06/2015 - 21:30:27: Server cvar "sv_restart" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_restartround" = "0"
+L 04/06/2015 - 21:30:27: Server cvar "sv_stepsize" = "18"
+L 04/06/2015 - 21:30:27: Server cvar "sv_stopspeed" = "75"
+L 04/06/2015 - 21:30:27: Server cvar "sv_uploadmax" = "0.5"
+L 04/06/2015 - 21:30:27: Server cvar "sv_voiceenable" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "sv_wateraccelerate" = "10"
+L 04/06/2015 - 21:30:27: Server cvar "sv_waterfriction" = "1"
+L 04/06/2015 - 21:30:27: Server cvar "travo_statmarquee" = "v1.2"
+L 04/06/2015 - 21:30:27: Server cvar "ultimate_sounds" = "1.7"
+L 04/06/2015 - 21:30:27: Server cvar "vtc_version" = "80"
+L 04/06/2015 - 21:30:27: Server cvar "wallblocker_version" = "1.0"
+L 04/06/2015 - 21:30:27: Server cvars end
+L 04/06/2015 - 21:30:27: Server cvar "amx_nextmap" = "fy_snow"
+L 04/06/2015 - 21:30:27: Server cvar "sv_restart" = "1"
+L 04/06/2015 - 21:30:27: World triggered "Restart_Round_(1_second)"
+L 04/06/2015 - 21:30:27: Team "CT" scored "0" with "0" players
+L 04/06/2015 - 21:30:27: Team "TERRORIST" scored "0" with "0" players
+L 04/06/2015 - 21:30:27: Server cvar "sv_restart" = "0"
+L 04/06/2015 - 21:30:28: Started map "aim_ak-colt" (CRC "-1819010972")
+L 04/06/2015 - 21:30:28: [VTC] Player 4 speex
+L 04/06/2015 - 21:30:28: [VTC] Player 2 speex
+L 04/06/2015 - 21:30:28: [VTC] Player 7 speex
+L 04/06/2015 - 21:30:28: [VTC] Player 5 speex
+L 04/06/2015 - 21:30:28: [VTC] Player 6 speex
+L 04/06/2015 - 21:30:28: [VTC] Player 3 speex
+L 04/06/2015 - 21:30:28: [VTC] Player 1 speex
+L 04/06/2015 - 21:30:30: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396adfc
+L 04/06/2015 - 21:30:30: "BlackHalk427<317><STEAM_0:4:807528509><>" connected, address "195.50.31.201:31451"
+L 04/06/2015 - 21:30:30: [VTC] Player 2 speex
+L 04/06/2015 - 21:30:30: "Extazy<306><STEAM_0:4:397277401><>" entered the game
+L 04/06/2015 - 21:30:31: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><>" entered the game
+L 04/06/2015 - 21:30:31: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><>" entered the game
+L 04/06/2015 - 21:30:31: "mongoose<313><STEAM_0:4:1519832325><>" entered the game
+L 04/06/2015 - 21:30:31: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><>" entered the game
+L 04/06/2015 - 21:30:33: World triggered "Round_Start"
+L 04/06/2015 - 21:30:33: "BlackHalk427<317><STEAM_0:4:807528509><>" entered the game
+L 04/06/2015 - 21:30:34: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><>" joined team "TERRORIST"
+L 04/06/2015 - 21:30:36: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><>" joined team "CT"
+L 04/06/2015 - 21:30:36: World triggered "Game_Commencing"
+L 04/06/2015 - 21:30:36: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/06/2015 - 21:30:36: World triggered "Round_End"
+L 04/06/2015 - 21:30:36: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3965f08
+L 04/06/2015 - 21:30:36: "Dimanski<318><STEAM_0:4:1053478277><>" connected, address "178.121.201.212:13905"
+L 04/06/2015 - 21:30:36: "Extazy<306><STEAM_0:4:397277401><>" joined team "TERRORIST"
+L 04/06/2015 - 21:30:36: [VTC] Player 1 speex
+L 04/06/2015 - 21:30:37: "BlackHalk427<317><STEAM_0:4:807528509><>" joined team "CT"
+L 04/06/2015 - 21:30:38: "mongoose<313><STEAM_0:4:1519832325><>" joined team "TERRORIST"
+L 04/06/2015 - 21:30:41: "Dimanski<318><STEAM_0:4:1053478277><>" entered the game
+L 04/06/2015 - 21:30:44: World triggered "Round_Start"
+L 04/06/2015 - 21:30:46: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/06/2015 - 21:30:47: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:30:48: "Dimanski<318><STEAM_0:4:1053478277><>" joined team "CT"
+L 04/06/2015 - 21:30:48: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 04/06/2015 - 21:30:48: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "18") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:30:49: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "11") (damage_armor "0") (health "56") (armor "0")
+L 04/06/2015 - 21:30:51: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/06/2015 - 21:30:51: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "11") (armor "0")
+L 04/06/2015 - 21:30:51: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "-17") (armor "0")
+L 04/06/2015 - 21:30:51: "Dimanski<318><STEAM_0:4:1053478277><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:30:51: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-76") (armor "0")
+L 04/06/2015 - 21:30:51: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:30:52: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "41") (damage_armor "0") (health "59") (armor "0")
+L 04/06/2015 - 21:30:52: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "33") (damage_armor "0") (health "26") (armor "0")
+L 04/06/2015 - 21:30:56: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/06/2015 - 21:30:56: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-5") (armor "77")
+L 04/06/2015 - 21:30:56: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" killed "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:31:00: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/06/2015 - 21:31:00: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "24") (damage_armor "5") (health "57") (armor "90")
+L 04/06/2015 - 21:31:01: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-65") (armor "0")
+L 04/06/2015 - 21:31:01: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:31:04: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-7") (armor "0")
+L 04/06/2015 - 21:31:04: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:31:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/06/2015 - 21:31:04: World triggered "Round_End"
+L 04/06/2015 - 21:31:08: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><>" joined team "TERRORIST"
+L 04/06/2015 - 21:31:14: World triggered "Round_Start"
+L 04/06/2015 - 21:31:16: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/06/2015 - 21:31:16: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/06/2015 - 21:31:17: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:31:17: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 04/06/2015 - 21:31:18: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "24") (damage_armor "0") (health "10") (armor "0")
+L 04/06/2015 - 21:31:18: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/06/2015 - 21:31:18: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:31:18: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:31:19: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/06/2015 - 21:31:20: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-40") (armor "0")
+L 04/06/2015 - 21:31:20: "BlackHalk427<317><STEAM_0:4:807528509><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:31:20: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" with "m4a1" (damage "19") (damage_armor "0") (health "27") (armor "0")
+L 04/06/2015 - 21:31:20: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-23") (armor "0")
+L 04/06/2015 - 21:31:20: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:31:20: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/06/2015 - 21:31:24: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "deagle" (damage "164") (damage_armor "0") (health "-88") (armor "0")
+L 04/06/2015 - 21:31:24: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "deagle"
+L 04/06/2015 - 21:31:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/06/2015 - 21:31:24: World triggered "Round_End"
+L 04/06/2015 - 21:31:32: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" committed suicide with "world"
+L 04/06/2015 - 21:31:32: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><TERRORIST>" joined team "CT"
+L 04/06/2015 - 21:31:34: World triggered "Round_Start"
+L 04/06/2015 - 21:31:37: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 04/06/2015 - 21:31:38: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "41") (damage_armor "0") (health "59") (armor "0")
+L 04/06/2015 - 21:31:38: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/06/2015 - 21:31:38: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "m4a1" (damage "108") (damage_armor "0") (health "-49") (armor "0")
+L 04/06/2015 - 21:31:38: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "m4a1"
+L 04/06/2015 - 21:31:39: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "41") (damage_armor "0") (health "43") (armor "0")
+L 04/06/2015 - 21:31:40: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "24") (damage_armor "0") (health "19") (armor "0")
+L 04/06/2015 - 21:31:41: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-14") (armor "0")
+L 04/06/2015 - 21:31:41: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:31:43: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "63") (armor "0")
+L 04/06/2015 - 21:31:44: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-69") (armor "0")
+L 04/06/2015 - 21:31:44: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:31:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 04/06/2015 - 21:31:44: World triggered "Round_End"
+L 04/06/2015 - 21:31:54: World triggered "Round_Start"
+L 04/06/2015 - 21:31:55: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/06/2015 - 21:31:55: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:31:55: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "9") (damage_armor "0") (health "72") (armor "95")
+L 04/06/2015 - 21:31:59: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 04/06/2015 - 21:32:00: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "41") (damage_armor "0") (health "41") (armor "0")
+L 04/06/2015 - 21:32:00: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "11") (damage_armor "0") (health "-9") (armor "0")
+L 04/06/2015 - 21:32:00: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:32:00: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "50") (armor "0")
+L 04/06/2015 - 21:32:01: Kick: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/06/2015 - 21:32:01: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><CT>" triggered "weaponstats" (weapon "ak47") (shots "13") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "123") (deaths "0")
+L 04/06/2015 - 21:32:01: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/06/2015 - 21:32:01: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><CT>" triggered "time" (time "1:30")
+L 04/06/2015 - 21:32:01: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><CT>" triggered "latency" (ping "158")
+L 04/06/2015 - 21:32:01: "Fuck all# CblHoK 427<316><STEAM_0:4:807528509><CT>" disconnected
+L 04/06/2015 - 21:32:03: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 04/06/2015 - 21:32:03: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "33") (damage_armor "0") (health "47") (armor "0")
+L 04/06/2015 - 21:32:04: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "27") (armor "0")
+L 04/06/2015 - 21:32:04: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "41") (damage_armor "0") (health "9") (armor "0")
+L 04/06/2015 - 21:32:04: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "6") (armor "0")
+L 04/06/2015 - 21:32:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "0") (armor "0")
+L 04/06/2015 - 21:32:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:32:07: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "18") (damage_armor "0") (health "-9") (armor "0")
+L 04/06/2015 - 21:32:07: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:32:10: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "53") (armor "91")
+L 04/06/2015 - 21:32:10: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-130") (armor "0")
+L 04/06/2015 - 21:32:10: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:32:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 04/06/2015 - 21:32:10: World triggered "Round_End"
+L 04/06/2015 - 21:32:17: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396fcf0
+L 04/06/2015 - 21:32:17: "Fuck all# CblHoK 427<319><STEAM_0:4:807528509><>" connected, address "195.50.31.201:64576"
+L 04/06/2015 - 21:32:17: Kick: "Fuck all# CblHoK 427<319><STEAM_0:4:807528509><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 4 секунд"")
+L 04/06/2015 - 21:32:20: World triggered "Round_Start"
+L 04/06/2015 - 21:32:21: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396fcf0
+L 04/06/2015 - 21:32:21: "Fuck all# CblHoK 427<320><STEAM_0:4:807528509><>" connected, address "195.50.31.201:64576"
+L 04/06/2015 - 21:32:21: Kick: "Fuck all# CblHoK 427<320><STEAM_0:4:807528509><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 0 секунд"")
+L 04/06/2015 - 21:32:23: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396fcf0
+L 04/06/2015 - 21:32:24: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><>" connected, address "195.50.31.201:64576"
+L 04/06/2015 - 21:32:24: [VTC] Player 3 speex
+L 04/06/2015 - 21:32:25: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "75") (damage_armor "17") (health "25") (armor "83")
+L 04/06/2015 - 21:32:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/06/2015 - 21:32:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "14") (damage_armor "3") (health "86") (armor "97")
+L 04/06/2015 - 21:32:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/06/2015 - 21:32:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-68") (armor "0")
+L 04/06/2015 - 21:32:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:32:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "77") (armor "95")
+L 04/06/2015 - 21:32:27: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "59") (armor "91")
+L 04/06/2015 - 21:32:27: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "24") (damage_armor "6") (health "35") (armor "85")
+L 04/06/2015 - 21:32:27: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "16") (armor "81")
+L 04/06/2015 - 21:32:27: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "4") (armor "83")
+L 04/06/2015 - 21:32:28: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "78") (damage_armor "16") (health "-74") (armor "67")
+L 04/06/2015 - 21:32:28: "BlackHalk427<317><STEAM_0:4:807528509><CT>" killed "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:32:28: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><>" entered the game
+L 04/06/2015 - 21:32:31: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><>" joined team "CT"
+L 04/06/2015 - 21:32:33: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-5") (armor "81")
+L 04/06/2015 - 21:32:33: "Dimanski<318><STEAM_0:4:1053478277><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:32:33: Team "CT" triggered "CTs_Win" (CT "1") (T "4")
+L 04/06/2015 - 21:32:33: World triggered "Round_End"
+L 04/06/2015 - 21:32:43: World triggered "Round_Start"
+L 04/06/2015 - 21:32:46: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:32:46: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:32:46: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/06/2015 - 21:32:46: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:32:46: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:32:47: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/06/2015 - 21:32:47: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/06/2015 - 21:32:47: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:32:49: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 04/06/2015 - 21:32:51: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/06/2015 - 21:32:52: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "25") (armor "0")
+L 04/06/2015 - 21:32:52: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "41") (damage_armor "0") (health "35") (armor "0")
+L 04/06/2015 - 21:32:53: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "33") (damage_armor "0") (health "2") (armor "0")
+L 04/06/2015 - 21:32:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "26") (damage_armor "5") (health "55") (armor "90")
+L 04/06/2015 - 21:32:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "85") (armor "100")
+L 04/06/2015 - 21:32:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "29") (armor "84")
+L 04/06/2015 - 21:32:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "70") (armor "100")
+L 04/06/2015 - 21:32:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "8") (armor "80")
+L 04/06/2015 - 21:32:54: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "50") (armor "95")
+L 04/06/2015 - 21:32:54: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 04/06/2015 - 21:32:54: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "41") (damage_armor "0") (health "-40") (armor "0")
+L 04/06/2015 - 21:32:54: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:32:54: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:32:54: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:32:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 04/06/2015 - 21:32:54: World triggered "Round_End"
+L 04/06/2015 - 21:33:04: World triggered "Round_Start"
+L 04/06/2015 - 21:33:08: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/06/2015 - 21:33:09: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:33:09: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:33:10: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:33:10: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:33:13: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "95")
+L 04/06/2015 - 21:33:13: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-26") (armor "77")
+L 04/06/2015 - 21:33:13: "Dimanski<318><STEAM_0:4:1053478277><CT>" killed "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:33:17: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/06/2015 - 21:33:17: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "35") (damage_armor "0") (health "57") (armor "0")
+L 04/06/2015 - 21:33:17: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "39") (armor "0")
+L 04/06/2015 - 21:33:17: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "8") (armor "0")
+L 04/06/2015 - 21:33:18: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-23") (armor "0")
+L 04/06/2015 - 21:33:18: "Dimanski<318><STEAM_0:4:1053478277><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:33:22: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "33") (armor "0")
+L 04/06/2015 - 21:33:23: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "33") (damage_armor "0") (health "0") (armor "0")
+L 04/06/2015 - 21:33:23: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:33:24: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "18") (damage_armor "5") (health "82") (armor "95")
+L 04/06/2015 - 21:33:25: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:33:26: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "60") (damage_armor "0") (health "7") (armor "0")
+L 04/06/2015 - 21:33:26: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "15") (damage_armor "0") (health "-8") (armor "0")
+L 04/06/2015 - 21:33:26: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:33:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 04/06/2015 - 21:33:26: World triggered "Round_End"
+L 04/06/2015 - 21:33:36: World triggered "Round_Start"
+L 04/06/2015 - 21:33:44: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 04/06/2015 - 21:33:44: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "58") (armor "0")
+L 04/06/2015 - 21:33:44: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "30") (armor "0")
+L 04/06/2015 - 21:33:46: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/06/2015 - 21:33:48: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/06/2015 - 21:33:49: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "2") (armor "0")
+L 04/06/2015 - 21:33:49: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/06/2015 - 21:33:49: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "-26") (armor "0")
+L 04/06/2015 - 21:33:49: "Dimanski<318><STEAM_0:4:1053478277><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:33:50: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:33:50: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:33:51: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-3") (armor "0")
+L 04/06/2015 - 21:33:51: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:33:51: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 04/06/2015 - 21:33:51: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "41") (armor "91")
+L 04/06/2015 - 21:33:51: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-48") (armor "0")
+L 04/06/2015 - 21:33:51: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:33:51: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39887b4
+L 04/06/2015 - 21:33:51: "Sanya{Minsk{Belarus}}DANBASS Fo<322><STEAM_0:4:800545650><>" connected, address "93.84.50.246:31117"
+L 04/06/2015 - 21:33:52: [VTC] Player 8 speex
+L 04/06/2015 - 21:33:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "89") (damage_armor "20") (health "-10") (armor "80")
+L 04/06/2015 - 21:33:53: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:33:54: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "20") (armor "86")
+L 04/06/2015 - 21:33:54: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/06/2015 - 21:33:54: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39887b4
+L 04/06/2015 - 21:33:54: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><>" connected, address "93.84.50.246:31117"
+L 04/06/2015 - 21:33:54: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/06/2015 - 21:33:54: [VTC] Player 8 speex
+L 04/06/2015 - 21:33:54: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "-1") (armor "82")
+L 04/06/2015 - 21:33:54: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" killed "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:33:54: Team "CT" triggered "CTs_Win" (CT "2") (T "6")
+L 04/06/2015 - 21:33:54: World triggered "Round_End"
+L 04/06/2015 - 21:34:01: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><>" entered the game
+L 04/06/2015 - 21:34:04: World triggered "Round_Start"
+L 04/06/2015 - 21:34:07: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><>" joined team "TERRORIST"
+L 04/06/2015 - 21:34:09: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 04/06/2015 - 21:34:09: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "ak47" (damage "15") (damage_armor "0") (health "72") (armor "0")
+L 04/06/2015 - 21:34:11: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/06/2015 - 21:34:11: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/06/2015 - 21:34:12: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/06/2015 - 21:34:12: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/06/2015 - 21:34:12: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "9") (damage_armor "0") (health "49") (armor "0")
+L 04/06/2015 - 21:34:12: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-100") (armor "0")
+L 04/06/2015 - 21:34:12: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:34:19: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:34:20: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "24") (damage_armor "6") (health "76") (armor "94")
+L 04/06/2015 - 21:34:21: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "24") (damage_armor "0") (health "43") (armor "0")
+L 04/06/2015 - 21:34:21: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/06/2015 - 21:34:21: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "18") (damage_armor "0") (health "25") (armor "0")
+L 04/06/2015 - 21:34:22: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "100")
+L 04/06/2015 - 21:34:22: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "25") (damage_armor "6") (health "33") (armor "94")
+L 04/06/2015 - 21:34:22: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/06/2015 - 21:34:23: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 04/06/2015 - 21:34:23: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "28") (armor "0")
+L 04/06/2015 - 21:34:23: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-5") (armor "0")
+L 04/06/2015 - 21:34:23: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:34:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "43") (armor "0")
+L 04/06/2015 - 21:34:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "22") (armor "0")
+L 04/06/2015 - 21:34:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "-14") (armor "0")
+L 04/06/2015 - 21:34:26: "BlackHalk427<317><STEAM_0:4:807528509><CT>" killed "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:34:27: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "24") (damage_armor "0") (health "1") (armor "0")
+L 04/06/2015 - 21:34:33: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "53") (armor "94")
+L 04/06/2015 - 21:34:33: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-34") (armor "0")
+L 04/06/2015 - 21:34:33: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:34:34: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "35") (armor "90")
+L 04/06/2015 - 21:34:34: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:34:34: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:34:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 04/06/2015 - 21:34:34: World triggered "Round_End"
+L 04/06/2015 - 21:34:44: World triggered "Round_Start"
+L 04/06/2015 - 21:34:45: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/06/2015 - 21:34:46: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/06/2015 - 21:34:46: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "33") (damage_armor "0") (health "43") (armor "0")
+L 04/06/2015 - 21:34:55: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:34:55: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:34:57: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:34:57: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:34:58: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-89") (armor "0")
+L 04/06/2015 - 21:34:58: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:35:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/06/2015 - 21:35:07: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/06/2015 - 21:35:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "55") (armor "95")
+L 04/06/2015 - 21:35:07: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/06/2015 - 21:35:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "33") (armor "90")
+L 04/06/2015 - 21:35:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "5") (armor "84")
+L 04/06/2015 - 21:35:08: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "-17") (armor "79")
+L 04/06/2015 - 21:35:08: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" killed "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:35:08: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "25") (damage_armor "0") (health "7") (armor "0")
+L 04/06/2015 - 21:35:08: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47" (damage "42") (damage_armor "0") (health "-35") (armor "0")
+L 04/06/2015 - 21:35:08: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:35:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 04/06/2015 - 21:35:08: World triggered "Round_End"
+L 04/06/2015 - 21:35:18: World triggered "Round_Start"
+L 04/06/2015 - 21:35:22: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/06/2015 - 21:35:22: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/06/2015 - 21:35:22: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "26") (armor "0")
+L 04/06/2015 - 21:35:22: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:35:24: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:35:24: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:35:26: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "9") (damage_armor "0") (health "91") (armor "0")
+L 04/06/2015 - 21:35:28: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "80") (armor "100")
+L 04/06/2015 - 21:35:31: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/06/2015 - 21:35:32: Kick: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/06/2015 - 21:35:32: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "57") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "230") (deaths "0")
+L 04/06/2015 - 21:35:32: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "2") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "3") (rightleg "0")
+L 04/06/2015 - 21:35:32: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" triggered "time" (time "1:30")
+L 04/06/2015 - 21:35:32: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" triggered "latency" (ping "94")
+L 04/06/2015 - 21:35:32: "Sanya{Minsk{Belarus}}DANBASS Fo<323><STEAM_0:4:800545650><TERRORIST>" disconnected
+L 04/06/2015 - 21:35:32: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "63") (armor "0")
+L 04/06/2015 - 21:35:35: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "8") (damage_armor "2") (health "92") (armor "98")
+L 04/06/2015 - 21:35:35: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "74") (armor "94")
+L 04/06/2015 - 21:35:36: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "m4a1" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/06/2015 - 21:35:36: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "m4a1"
+L 04/06/2015 - 21:35:37: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-48") (armor "0")
+L 04/06/2015 - 21:35:37: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "ak47"
+L 04/06/2015 - 21:35:42: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 04/06/2015 - 21:35:44: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 04/06/2015 - 21:35:45: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" attacked "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "28") (armor "0")
+L 04/06/2015 - 21:35:46: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-32") (armor "0")
+L 04/06/2015 - 21:35:46: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "ak47"
+L 04/06/2015 - 21:35:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "9")
+L 04/06/2015 - 21:35:46: World triggered "Round_End"
+L 04/06/2015 - 21:35:56: World triggered "Round_Start"
+L 04/06/2015 - 21:35:59: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/06/2015 - 21:35:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 04/06/2015 - 21:35:59: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "91") (armor "98")
+L 04/06/2015 - 21:36:00: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "deagle" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/06/2015 - 21:36:00: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" with "deagle"
+L 04/06/2015 - 21:36:00: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" attacked "Extazy<306><STEAM_0:4:397277401><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "61") (armor "91")
+L 04/06/2015 - 21:36:00: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "m4a1" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 04/06/2015 - 21:36:01: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/06/2015 - 21:36:01: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle"
+L 04/06/2015 - 21:36:02: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "27") (damage_armor "0") (health "60") (armor "0")
+L 04/06/2015 - 21:36:02: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "27") (damage_armor "0") (health "33") (armor "0")
+L 04/06/2015 - 21:36:03: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "24") (damage_armor "6") (health "67") (armor "92")
+L 04/06/2015 - 21:36:03: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "24") (damage_armor "5") (health "43") (armor "87")
+L 04/06/2015 - 21:36:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "27") (damage_armor "0") (health "6") (armor "0")
+L 04/06/2015 - 21:36:03: "Dimanski<318><STEAM_0:4:1053478277><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "24") (armor "83")
+L 04/06/2015 - 21:36:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1" (damage "27") (damage_armor "0") (health "-21") (armor "0")
+L 04/06/2015 - 21:36:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Dimanski<318><STEAM_0:4:1053478277><CT>" with "m4a1"
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" triggered "weaponstats" (weapon "m4a1") (shots "159") (hits "24") (kills "2") (headshots "1") (tks "0") (damage "659") (deaths "10")
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "3") (stomach "2") (leftarm "7") (rightarm "2") (leftleg "6") (rightleg "2")
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" triggered "weaponstats" (weapon "ak47") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" triggered "time" (time "5:34")
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" triggered "latency" (ping "27")
+L 04/06/2015 - 21:36:05: "Fuck all# 6aTbKa 427<293><STEAM_0:4:807528509><CT>" disconnected
+L 04/06/2015 - 21:36:05: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "m4a1" (damage "20") (damage_armor "0") (health "61") (armor "0")
+L 04/06/2015 - 21:36:05: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "m4a1" (damage "27") (damage_armor "0") (health "34") (armor "0")
+L 04/06/2015 - 21:36:07: "BlackHalk427<317><STEAM_0:4:807528509><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "3") (armor "83")
+L 04/06/2015 - 21:36:07: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "deagle" (damage "152") (damage_armor "0") (health "-118") (armor "0")
+L 04/06/2015 - 21:36:07: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "BlackHalk427<317><STEAM_0:4:807528509><CT>" with "deagle"
+L 04/06/2015 - 21:36:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "10")
+L 04/06/2015 - 21:36:07: World triggered "Round_End"
+L 04/06/2015 - 21:36:09: "BlackHalk427<317><STEAM_0:4:807528509><CT>" triggered "weaponstats" (weapon "m4a1") (shots "163") (hits "22") (kills "4") (headshots "3") (tks "0") (damage "734") (deaths "11")
+L 04/06/2015 - 21:36:09: "BlackHalk427<317><STEAM_0:4:807528509><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "2") (stomach "4") (leftarm "8") (rightarm "0") (leftleg "2") (rightleg "3")
+L 04/06/2015 - 21:36:09: "BlackHalk427<317><STEAM_0:4:807528509><CT>" triggered "time" (time "5:36")
+L 04/06/2015 - 21:36:09: "BlackHalk427<317><STEAM_0:4:807528509><CT>" triggered "latency" (ping "43")
+L 04/06/2015 - 21:36:09: "BlackHalk427<317><STEAM_0:4:807528509><CT>" disconnected
+L 04/06/2015 - 21:36:17: World triggered "Round_Start"
+L 04/06/2015 - 21:36:21: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle" (damage "96") (damage_armor "0") (health "4") (armor "0")
+L 04/06/2015 - 21:36:21: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle" (damage "96") (damage_armor "0") (health "-92") (armor "0")
+L 04/06/2015 - 21:36:21: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle"
+L 04/06/2015 - 21:36:21: Kick: "Dimanski<318><STEAM_0:4:1053478277><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/06/2015 - 21:36:21: "Dimanski<318><STEAM_0:4:1053478277><CT>" triggered "weaponstats" (weapon "m4a1") (shots "149") (hits "30") (kills "5") (headshots "1") (tks "0") (damage "743") (deaths "11")
+L 04/06/2015 - 21:36:21: "Dimanski<318><STEAM_0:4:1053478277><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "2") (stomach "4") (leftarm "9") (rightarm "3") (leftleg "6") (rightleg "4")
+L 04/06/2015 - 21:36:21: "Dimanski<318><STEAM_0:4:1053478277><CT>" triggered "time" (time "5:40")
+L 04/06/2015 - 21:36:21: "Dimanski<318><STEAM_0:4:1053478277><CT>" triggered "latency" (ping "10")
+L 04/06/2015 - 21:36:21: "Dimanski<318><STEAM_0:4:1053478277><CT>" disconnected
+L 04/06/2015 - 21:36:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "11")
+L 04/06/2015 - 21:36:21: World triggered "Round_End"
+L 04/06/2015 - 21:36:31: World triggered "Round_Start"
+L 04/06/2015 - 21:36:40: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle" (damage "104") (damage_armor "0") (health "-4") (armor "0")
+L 04/06/2015 - 21:36:40: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle"
+L 04/06/2015 - 21:36:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "12")
+L 04/06/2015 - 21:36:40: World triggered "Round_End"
+L 04/06/2015 - 21:36:45: "mongoose<313><STEAM_0:4:1519832325><TERRORIST>" joined team "CT" (auto)
+L 04/06/2015 - 21:36:50: World triggered "Round_Start"
+L 04/06/2015 - 21:36:57: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3965f08
+L 04/06/2015 - 21:36:57: "Dimanski<324><STEAM_0:4:1053478277><>" connected, address "178.121.201.212:13905"
+L 04/06/2015 - 21:36:58: [VTC] Player 1 speex
+L 04/06/2015 - 21:37:01: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "mongoose<313><STEAM_0:4:1519832325><CT>" with "deagle" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 04/06/2015 - 21:37:01: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "mongoose<313><STEAM_0:4:1519832325><CT>" with "deagle" (damage "84") (damage_armor "0") (health "-68") (armor "0")
+L 04/06/2015 - 21:37:01: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" killed "mongoose<313><STEAM_0:4:1519832325><CT>" with "deagle"
+L 04/06/2015 - 21:37:02: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "deagle" (damage "96") (damage_armor "0") (health "4") (armor "0")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" triggered "weaponstats" (weapon "ak47") (shots "184") (hits "20") (kills "3") (headshots "1") (tks "0") (damage "753") (deaths "8")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "1") (stomach "3") (leftarm "7") (rightarm "4") (leftleg "2") (rightleg "2")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" triggered "time" (time "6:31")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" triggered "latency" (ping "34")
+L 04/06/2015 - 21:37:03: "mongoose<313><STEAM_0:4:1519832325><CT>" disconnected
+L 04/06/2015 - 21:37:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "m4a1" (damage "20") (damage_armor "0") (health "-16") (armor "0")
+L 04/06/2015 - 21:37:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" with "m4a1"
+L 04/06/2015 - 21:37:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "13")
+L 04/06/2015 - 21:37:03: World triggered "Round_End"
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" triggered "weaponstats" (weapon "m4a1") (shots "108") (hits "22") (kills "3") (headshots "1") (tks "0") (damage "526") (deaths "9")
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "3") (stomach "1") (leftarm "9") (rightarm "3") (leftleg "3") (rightleg "2")
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" triggered "weaponstats" (weapon "ak47") (shots "22") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "15") (deaths "0")
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" triggered "time" (time "4:38")
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" triggered "latency" (ping "45")
+L 04/06/2015 - 21:37:07: "Fuck all# CblHoK 427<321><STEAM_0:4:807528509><CT>" disconnected
+L 04/06/2015 - 21:37:08: "Extazy<306><STEAM_0:4:397277401><TERRORIST>" joined team "CT" (auto)
+L 04/06/2015 - 21:37:13: World triggered "Round_Start"
+L 04/06/2015 - 21:37:17: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle" (damage "75") (damage_armor "13") (health "25") (armor "87")
+L 04/06/2015 - 21:37:23: "Dimanski<324><STEAM_0:4:1053478277><>" entered the game
+L 04/06/2015 - 21:37:28: "Dimanski<324><STEAM_0:4:1053478277><>" joined team "TERRORIST"
+L 04/06/2015 - 21:37:32: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle" (damage "72") (damage_armor "12") (health "-47") (armor "75")
+L 04/06/2015 - 21:37:32: "Extazy<306><STEAM_0:4:397277401><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle"
+L 04/06/2015 - 21:37:43: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "46") (damage_armor "7") (health "54") (armor "93")
+L 04/06/2015 - 21:37:43: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "11") (damage_armor "0") (health "43") (armor "93")
+L 04/06/2015 - 21:37:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "46") (damage_armor "7") (health "-3") (armor "86")
+L 04/06/2015 - 21:37:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:37:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "14")
+L 04/06/2015 - 21:37:44: World triggered "Round_End"
+L 04/06/2015 - 21:37:54: World triggered "Round_Start"
+L 04/06/2015 - 21:38:00: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/06/2015 - 21:38:01: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "deagle" (damage "88") (damage_armor "0") (health "12") (armor "0")
+L 04/06/2015 - 21:38:01: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "deagle" (damage "88") (damage_armor "0") (health "-76") (armor "0")
+L 04/06/2015 - 21:38:01: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "deagle"
+L 04/06/2015 - 21:38:11: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle" (damage "75") (damage_armor "13") (health "25") (armor "87")
+L 04/06/2015 - 21:38:12: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle" (damage "75") (damage_armor "12") (health "-50") (armor "75")
+L 04/06/2015 - 21:38:12: "Extazy<306><STEAM_0:4:397277401><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle"
+L 04/06/2015 - 21:38:12: Team "CT" triggered "CTs_Win" (CT "3") (T "14")
+L 04/06/2015 - 21:38:12: World triggered "Round_End"
+L 04/06/2015 - 21:38:22: World triggered "Round_Start"
+L 04/06/2015 - 21:38:39: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/06/2015 - 21:38:40: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "50") (armor "92")
+L 04/06/2015 - 21:38:40: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "31") (damage_armor "5") (health "19") (armor "87")
+L 04/06/2015 - 21:38:40: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "78") (damage_armor "17") (health "22") (armor "83")
+L 04/06/2015 - 21:38:40: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "3") (armor "79")
+L 04/06/2015 - 21:38:40: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "3") (health "-6") (armor "84")
+L 04/06/2015 - 21:38:40: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:38:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "15")
+L 04/06/2015 - 21:38:40: World triggered "Round_End"
+L 04/06/2015 - 21:38:50: World triggered "Round_Start"
+L 04/06/2015 - 21:39:03: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/06/2015 - 21:39:04: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 04/06/2015 - 21:39:04: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 04/06/2015 - 21:39:04: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 04/06/2015 - 21:39:04: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:39:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "16")
+L 04/06/2015 - 21:39:04: World triggered "Round_End"
+L 04/06/2015 - 21:39:14: World triggered "Round_Start"
+L 04/06/2015 - 21:39:19: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "18") (damage_armor "5") (health "82") (armor "95")
+L 04/06/2015 - 21:39:19: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/06/2015 - 21:39:19: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:39:54: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "73") (armor "93")
+L 04/06/2015 - 21:39:56: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "64") (armor "91")
+L 04/06/2015 - 21:39:57: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "55") (armor "89")
+L 04/06/2015 - 21:39:57: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "46") (armor "87")
+L 04/06/2015 - 21:39:58: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "37") (armor "85")
+L 04/06/2015 - 21:39:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "28") (armor "83")
+L 04/06/2015 - 21:40:01: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "19") (armor "81")
+L 04/06/2015 - 21:40:09: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "23") (damage_armor "5") (health "-4") (armor "76")
+L 04/06/2015 - 21:40:09: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1"
+L 04/06/2015 - 21:40:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "17")
+L 04/06/2015 - 21:40:09: World triggered "Round_End"
+L 04/06/2015 - 21:40:19: World triggered "Round_Start"
+L 04/06/2015 - 21:40:43: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/06/2015 - 21:40:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "50") (armor "92")
+L 04/06/2015 - 21:40:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "102") (damage_armor "15") (health "-52") (armor "77")
+L 04/06/2015 - 21:40:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:40:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "18")
+L 04/06/2015 - 21:40:44: World triggered "Round_End"
+L 04/06/2015 - 21:40:54: World triggered "Round_Start"
+L 04/06/2015 - 21:41:02: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/06/2015 - 21:41:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "84") (damage_armor "18") (health "-5") (armor "77")
+L 04/06/2015 - 21:41:03: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1"
+L 04/06/2015 - 21:41:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "19")
+L 04/06/2015 - 21:41:03: World triggered "Round_End"
+L 04/06/2015 - 21:41:13: World triggered "Round_Start"
+L 04/06/2015 - 21:41:19: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/06/2015 - 21:41:20: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "50") (armor "92")
+L 04/06/2015 - 21:41:20: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "25") (armor "88")
+L 04/06/2015 - 21:41:22: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "0") (health "16") (armor "88")
+L 04/06/2015 - 21:41:22: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/06/2015 - 21:41:22: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:41:23: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "9") (damage_armor "0") (health "7") (armor "88")
+L 04/06/2015 - 21:41:29: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle" (damage "99") (damage_armor "17") (health "1") (armor "83")
+L 04/06/2015 - 21:41:29: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle" (damage "24") (damage_armor "4") (health "-23") (armor "79")
+L 04/06/2015 - 21:41:29: "Extazy<306><STEAM_0:4:397277401><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "deagle"
+L 04/06/2015 - 21:41:29: Team "CT" triggered "CTs_Win" (CT "4") (T "19")
+L 04/06/2015 - 21:41:29: World triggered "Round_End"
+L 04/06/2015 - 21:41:39: World triggered "Round_Start"
+L 04/06/2015 - 21:41:44: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "11") (damage_armor "2") (health "89") (armor "98")
+L 04/06/2015 - 21:41:45: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "64") (armor "94")
+L 04/06/2015 - 21:41:45: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/06/2015 - 21:41:47: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-40") (armor "0")
+L 04/06/2015 - 21:41:47: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:41:48: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "78") (damage_armor "17") (health "22") (armor "83")
+L 04/06/2015 - 21:41:48: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "78") (damage_armor "17") (health "-56") (armor "66")
+L 04/06/2015 - 21:41:48: "Extazy<306><STEAM_0:4:397277401><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:41:48: Team "CT" triggered "CTs_Win" (CT "5") (T "19")
+L 04/06/2015 - 21:41:48: World triggered "Round_End"
+L 04/06/2015 - 21:41:58: World triggered "Round_Start"
+L 04/06/2015 - 21:42:06: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/06/2015 - 21:42:06: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-35") (armor "80")
+L 04/06/2015 - 21:42:06: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:42:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "20")
+L 04/06/2015 - 21:42:06: World triggered "Round_End"
+L 04/06/2015 - 21:42:16: World triggered "Round_Start"
+L 04/06/2015 - 21:42:23: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/06/2015 - 21:42:23: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/06/2015 - 21:42:23: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:42:29: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "26") (damage_armor "4") (health "49") (armor "92")
+L 04/06/2015 - 21:42:29: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "81") (damage_armor "18") (health "19") (armor "82")
+L 04/06/2015 - 21:42:42: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "24") (armor "88")
+L 04/06/2015 - 21:42:43: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "31") (damage_armor "4") (health "-7") (armor "84")
+L 04/06/2015 - 21:42:43: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:42:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "21")
+L 04/06/2015 - 21:42:43: World triggered "Round_End"
+L 04/06/2015 - 21:42:53: World triggered "Round_Start"
+L 04/06/2015 - 21:43:11: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "15") (damage_armor "3") (health "85") (armor "97")
+L 04/06/2015 - 21:43:11: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "3") (health "60") (armor "94")
+L 04/06/2015 - 21:43:11: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "12") (damage_armor "2") (health "48") (armor "92")
+L 04/06/2015 - 21:43:12: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "12") (damage_armor "2") (health "36") (armor "90")
+L 04/06/2015 - 21:43:16: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "27") (damage_armor "4") (health "9") (armor "86")
+L 04/06/2015 - 21:43:16: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-99") (armor "70")
+L 04/06/2015 - 21:43:16: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:43:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "22")
+L 04/06/2015 - 21:43:16: World triggered "Round_End"
+L 04/06/2015 - 21:43:21: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396adfc
+L 04/06/2015 - 21:43:21: "mongoose<325><STEAM_0:4:1519832325><>" connected, address "178.120.113.28:2511"
+L 04/06/2015 - 21:43:21: [VTC] Player 2 speex
+L 04/06/2015 - 21:43:25: "mongoose<325><STEAM_0:4:1519832325><>" entered the game
+L 04/06/2015 - 21:43:26: World triggered "Round_Start"
+L 04/06/2015 - 21:43:48: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "102") (damage_armor "15") (health "-2") (armor "85")
+L 04/06/2015 - 21:43:48: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47"
+L 04/06/2015 - 21:43:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "23")
+L 04/06/2015 - 21:43:48: World triggered "Round_End"
+L 04/06/2015 - 21:43:58: World triggered "Round_Start"
+L 04/06/2015 - 21:44:06: "mongoose<325><STEAM_0:4:1519832325><>" joined team "CT"
+L 04/06/2015 - 21:44:11: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/06/2015 - 21:44:11: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "35") (armor "0")
+L 04/06/2015 - 21:44:12: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "6") (armor "0")
+L 04/06/2015 - 21:44:12: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-23") (armor "0")
+L 04/06/2015 - 21:44:12: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1"
+L 04/06/2015 - 21:44:16: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "75") (damage_armor "17") (health "25") (armor "83")
+L 04/06/2015 - 21:44:17: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "4") (armor "79")
+L 04/06/2015 - 21:44:17: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "18") (damage_armor "4") (health "-14") (armor "75")
+L 04/06/2015 - 21:44:17: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1"
+L 04/06/2015 - 21:44:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "24")
+L 04/06/2015 - 21:44:17: World triggered "Round_End"
+L 04/06/2015 - 21:44:27: World triggered "Round_Start"
+L 04/06/2015 - 21:44:30: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "8") (damage_armor "2") (health "92") (armor "98")
+L 04/06/2015 - 21:44:30: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "18") (damage_armor "4") (health "74") (armor "94")
+L 04/06/2015 - 21:44:32: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/06/2015 - 21:44:32: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "8") (damage_armor "2") (health "66") (armor "92")
+L 04/06/2015 - 21:44:34: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "8") (damage_armor "2") (health "58") (armor "90")
+L 04/06/2015 - 21:44:34: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/06/2015 - 21:44:34: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "18") (damage_armor "4") (health "40") (armor "86")
+L 04/06/2015 - 21:44:34: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "75") (damage_armor "16") (health "-35") (armor "70")
+L 04/06/2015 - 21:44:34: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1"
+L 04/06/2015 - 21:44:34: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/06/2015 - 21:44:35: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "16") (armor "0")
+L 04/06/2015 - 21:44:35: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "35") (damage_armor "0") (health "44") (armor "0")
+L 04/06/2015 - 21:44:43: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "ak47" (damage "41") (damage_armor "0") (health "3") (armor "0")
+L 04/06/2015 - 21:44:43: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-117") (armor "0")
+L 04/06/2015 - 21:44:43: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1"
+L 04/06/2015 - 21:44:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "25")
+L 04/06/2015 - 21:44:43: World triggered "Round_End"
+L 04/06/2015 - 21:44:53: World triggered "Round_Start"
+L 04/06/2015 - 21:44:58: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/06/2015 - 21:44:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1" (damage "104") (damage_armor "0") (health "-4") (armor "0")
+L 04/06/2015 - 21:44:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" killed "mongoose<325><STEAM_0:4:1519832325><CT>" with "m4a1"
+L 04/06/2015 - 21:45:06: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "18") (damage_armor "5") (health "82") (armor "95")
+L 04/06/2015 - 21:45:06: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "m4a1" (damage "18") (damage_armor "4") (health "64") (armor "91")
+L 04/06/2015 - 21:45:10: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/06/2015 - 21:45:10: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/06/2015 - 21:45:11: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "15") (armor "0")
+L 04/06/2015 - 21:45:11: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-16") (armor "0")
+L 04/06/2015 - 21:45:11: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:45:13: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "78") (damage_armor "16") (health "3") (armor "79")
+L 04/06/2015 - 21:45:14: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "78") (damage_armor "17") (health "-75") (armor "62")
+L 04/06/2015 - 21:45:14: "Extazy<306><STEAM_0:4:397277401><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:45:14: Team "CT" triggered "CTs_Win" (CT "6") (T "25")
+L 04/06/2015 - 21:45:14: World triggered "Round_End"
+L 04/06/2015 - 21:45:24: World triggered "Round_Start"
+L 04/06/2015 - 21:45:32: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/06/2015 - 21:45:32: "Extazy<306><STEAM_0:4:397277401><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:45:38: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "usp" (damage "26") (damage_armor "13") (health "74") (armor "87")
+L 04/06/2015 - 21:45:39: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "usp" (damage "26") (damage_armor "13") (health "48") (armor "74")
+L 04/06/2015 - 21:45:39: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "75") (armor "96")
+L 04/06/2015 - 21:45:39: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "usp" (damage "26") (damage_armor "13") (health "22") (armor "61")
+L 04/06/2015 - 21:45:39: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "50") (armor "92")
+L 04/06/2015 - 21:45:40: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "usp" (damage "6") (damage_armor "4") (health "16") (armor "57")
+L 04/06/2015 - 21:45:40: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "Extazy<306><STEAM_0:4:397277401><CT>" with "ak47" (damage "25") (damage_armor "4") (health "25") (armor "88")
+L 04/06/2015 - 21:45:40: "Extazy<306><STEAM_0:4:397277401><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "usp" (damage "26") (damage_armor "13") (health "-10") (armor "44")
+L 04/06/2015 - 21:45:40: "Extazy<306><STEAM_0:4:397277401><CT>" killed "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "usp"
+L 04/06/2015 - 21:45:40: Team "CT" triggered "CTs_Win" (CT "7") (T "25")
+L 04/06/2015 - 21:45:40: World triggered "Round_End"
+L 04/06/2015 - 21:45:50: World triggered "Round_Start"
+L 04/06/2015 - 21:45:53: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "grenade") (shots "11") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "53") (deaths "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "usp") (shots "7") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "110") (deaths "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "usp") (head "4") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "m4a1") (shots "144") (hits "19") (kills "9") (headshots "8") (tks "0") (damage "1319") (deaths "6")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "m4a1") (head "12") (chest "1") (stomach "0") (leftarm "3") (rightarm "2") (leftleg "0") (rightleg "1")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "deagle") (shots "45") (hits "18") (kills "11") (headshots "10") (tks "0") (damage "1716") (deaths "2")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "deagle") (head "17") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "ak47") (shots "146") (hits "22") (kills "18") (headshots "16") (tks "0") (damage "2265") (deaths "5")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "ak47") (head "16") (chest "1") (stomach "1") (leftarm "1") (rightarm "2") (leftleg "0") (rightleg "1")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "time" (time "15:23")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" triggered "latency" (ping "7")
+L 04/06/2015 - 21:45:53: "Extazy<306><STEAM_0:4:397277401><CT>" disconnected
+L 04/06/2015 - 21:45:54: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "47") (armor "0")
+L 04/06/2015 - 21:45:55: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/06/2015 - 21:45:55: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "deagle" (damage "31") (damage_armor "0") (health "45") (armor "0")
+L 04/06/2015 - 21:45:55: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "ak47" (damage "24") (damage_armor "0") (health "21") (armor "0")
+L 04/06/2015 - 21:45:56: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" with "m4a1" (damage "75") (damage_armor "17") (health "25") (armor "83")
+L 04/06/2015 - 21:45:56: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" attacked "mongoose<325><STEAM_0:4:1519832325><CT>" with "ak47" (damage "24") (damage_armor "0") (health "-3") (armor "0")
+L 04/06/2015 - 21:45:56: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" killed "mongoose<325><STEAM_0:4:1519832325><CT>" with "ak47"
+L 04/06/2015 - 21:45:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "26")
+L 04/06/2015 - 21:45:56: World triggered "Round_End"
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "150") (deaths "0")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "303") (hits "38") (kills "9") (headshots "5") (tks "0") (damage "1079") (deaths "2")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "5") (chest "7") (stomach "3") (leftarm "10") (rightarm "8") (leftleg "4") (rightleg "1")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "28") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "31") (deaths "2")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "304") (hits "44") (kills "12") (headshots "2") (tks "0") (damage "1368") (deaths "4")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "5") (stomach "10") (leftarm "17") (rightarm "4") (leftleg "2") (rightleg "3")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "time" (time "15:27")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" triggered "latency" (ping "25")
+L 04/06/2015 - 21:45:59: "[Hard_Skill]_4IKIST<295><STEAM_0:4:1573594373><TERRORIST>" disconnected
+L 04/06/2015 - 21:46:06: World triggered "Round_Start"
+L 04/06/2015 - 21:46:24: Server cvar "amx_nextmap" = "awp_india2"
+L 04/06/2015 - 21:46:24: Server cvar "mp_timelimit" = "0.000000"
+L 04/06/2015 - 21:46:32: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/06/2015 - 21:46:33: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "46") (armor "0")
+L 04/06/2015 - 21:46:33: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "15") (armor "0")
+L 04/06/2015 - 21:46:33: "mongoose<325><STEAM_0:4:1519832325><CT>" attacked "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-109") (armor "0")
+L 04/06/2015 - 21:46:33: "mongoose<325><STEAM_0:4:1519832325><CT>" killed "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" with "m4a1"
+L 04/06/2015 - 21:46:33: Team "CT" triggered "CTs_Win" (CT "8") (T "26")
+L 04/06/2015 - 21:46:33: World triggered "Round_End"
+L 04/06/2015 - 21:46:43: Server cvar "mp_timelimit" = "0.010000"
+L 04/06/2015 - 21:46:43: World triggered "Round_Start"
+L 04/06/2015 - 21:46:43: Team "CT" scored "8" with "1" players
+L 04/06/2015 - 21:46:43: Team "TERRORIST" scored "26" with "1" players
+L 04/06/2015 - 21:46:43: Server cvar "mp_chattime" = "3"
+L 04/06/2015 - 21:46:44: Server cvar "mp_chattime" = "1"
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "43") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "167") (deaths "1")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "105") (hits "24") (kills "6") (headshots "4") (tks "0") (damage "896") (deaths "7")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "5") (chest "1") (stomach "1") (leftarm "9") (rightarm "4") (leftleg "2") (rightleg "2")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "time" (time "9:20")
+L 04/06/2015 - 21:46:44: "Dimanski<324><STEAM_0:4:1053478277><TERRORIST>" triggered "latency" (ping "5")
+L 04/06/2015 - 21:46:44: "mongoose<325><STEAM_0:4:1519832325><CT>" triggered "weaponstats" (weapon "m4a1") (shots "77") (hits "11") (kills "1") (headshots "1") (tks "0") (damage "440") (deaths "4")
+L 04/06/2015 - 21:46:44: "mongoose<325><STEAM_0:4:1519832325><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "2") (stomach "1") (leftarm "4") (rightarm "0") (leftleg "1") (rightleg "1")
+L 04/06/2015 - 21:46:44: "mongoose<325><STEAM_0:4:1519832325><CT>" triggered "time" (time "3:19")
+L 04/06/2015 - 21:46:44: "mongoose<325><STEAM_0:4:1519832325><CT>" triggered "latency" (ping "33")
+L 04/06/2015 - 21:46:44: Server cvar "mp_timelimit" = "30.000000"
+L 04/06/2015 - 21:46:44: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/06/2015 - 21:46:44: [META] ini: Read plugin config for: AMX Mod X
+L 04/06/2015 - 21:46:44: [META] ini: Read plugin config for: dproto_EF
+L 04/06/2015 - 21:46:44: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/06/2015 - 21:46:44: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/06/2015 - 21:46:44: [META] dll: Updating plugins...
+L 04/06/2015 - 21:46:44: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/06/2015 - 21:46:44: Log file closed

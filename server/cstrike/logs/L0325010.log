@@ -1,0 +1,650 @@
+L 03/25/2015 - 12:16:18: Log file started (file "logs/L0325010.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/25/2015 - 12:16:18: Loading map "de_dust2_3x3"
+L 03/25/2015 - 12:16:18: Server cvars start
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_debug_level" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_examine_time" = "0.5"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_look_angle" = "10"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_look_distance" = "200"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_message_repeats" = "5"
+L 03/25/2015 - 12:16:18: Server cvar "_tutor_view_distance" = "1000"
+L 03/25/2015 - 12:16:18: Server cvar "aesp_version" = "1.5b_mini"
+L 03/25/2015 - 12:16:18: Server cvar "allow_spectators" = "4"
+L 03/25/2015 - 12:16:18: Server cvar "amx_client_languages" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/25/2015 - 12:16:18: Server cvar "amx_language" = "ru"
+L 03/25/2015 - 12:16:18: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 03/25/2015 - 12:16:18: Server cvar "amx_timeleft" = "00:00"
+L 03/25/2015 - 12:16:18: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/25/2015 - 12:16:18: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/25/2015 - 12:16:18: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Config" = "Loaded"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Replace" = "Failed"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Status" = "Loaded"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/25/2015 - 12:16:18: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/25/2015 - 12:16:18: Server cvar "coop" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "deathmatch" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "decalfrequency" = "9"
+L 03/25/2015 - 12:16:18: Server cvar "dp_version" = "0.9.391"
+L 03/25/2015 - 12:16:18: Server cvar "edgefriction" = "2"
+L 03/25/2015 - 12:16:18: Server cvar "hostage_debug" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "hostage_stop" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "humans_join_team" = "any"
+L 03/25/2015 - 12:16:18: Server cvar "jtp10181" = "chute"
+L 03/25/2015 - 12:16:18: Server cvar "max_queries_sec" = "3.0"
+L 03/25/2015 - 12:16:18: Server cvar "max_queries_sec_global" = "30"
+L 03/25/2015 - 12:16:18: Server cvar "max_queries_window" = "60"
+L 03/25/2015 - 12:16:18: Server cvar "metamod_version" = "1.19"
+L 03/25/2015 - 12:16:18: Server cvar "mp_allowmonsters" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_autokick" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_autoteambalance" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_buytime" = "1.5"
+L 03/25/2015 - 12:16:18: Server cvar "mp_c4timer" = "35"
+L 03/25/2015 - 12:16:18: Server cvar "mp_chattime" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_consistency" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_fadetoblack" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_flashlight" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_footsteps" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_forcecamera" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_forcechasecam" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_fragsleft" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_freezetime" = "5"
+L 03/25/2015 - 12:16:18: Server cvar "mp_friendlyfire" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_hostagepenalty" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_kickpercent" = "0.66"
+L 03/25/2015 - 12:16:18: Server cvar "mp_limitteams" = "5"
+L 03/25/2015 - 12:16:18: Server cvar "mp_logdetail" = "3"
+L 03/25/2015 - 12:16:18: Server cvar "mp_logfile" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_logmessages" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/25/2015 - 12:16:18: Server cvar "mp_maxrounds" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_mirrordamage" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_playerid" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_roundtime" = "2.57"
+L 03/25/2015 - 12:16:18: Server cvar "mp_startmoney" = "800"
+L 03/25/2015 - 12:16:18: Server cvar "mp_timeleft" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "mp_timelimit" = "30.000000"
+L 03/25/2015 - 12:16:18: Server cvar "mp_tkpunish" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_windifference" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "mp_winlimit" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "pausable" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_accelerate" = "5"
+L 03/25/2015 - 12:16:18: Server cvar "sv_aim" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_airaccelerate" = "10"
+L 03/25/2015 - 12:16:18: Server cvar "sv_airmove" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "sv_allowupload" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "sv_alltalk" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_bounce" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "sv_cheats" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_clienttrace" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "sv_clipmode" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_contact" = ""
+L 03/25/2015 - 12:16:18: Server cvar "sv_friction" = "4"
+L 03/25/2015 - 12:16:18: Server cvar "sv_gravity" = "800"
+L 03/25/2015 - 12:16:18: Server cvar "sv_logblocks" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_maxrate" = "50000"
+L 03/25/2015 - 12:16:18: Server cvar "sv_maxspeed" = "900"
+L 03/25/2015 - 12:16:18: Server cvar "sv_minrate" = "100000"
+L 03/25/2015 - 12:16:18: Server cvar "sv_password" = ""
+L 03/25/2015 - 12:16:18: Server cvar "sv_proxies" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_region" = "255"
+L 03/25/2015 - 12:16:18: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_restartround" = "0"
+L 03/25/2015 - 12:16:18: Server cvar "sv_stepsize" = "18"
+L 03/25/2015 - 12:16:18: Server cvar "sv_stopspeed" = "75"
+L 03/25/2015 - 12:16:18: Server cvar "sv_uploadmax" = "0.5"
+L 03/25/2015 - 12:16:18: Server cvar "sv_voiceenable" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "sv_wateraccelerate" = "10"
+L 03/25/2015 - 12:16:18: Server cvar "sv_waterfriction" = "1"
+L 03/25/2015 - 12:16:18: Server cvar "travo_statmarquee" = "v1.2"
+L 03/25/2015 - 12:16:18: Server cvar "ultimate_sounds" = "1.7"
+L 03/25/2015 - 12:16:18: Server cvar "vtc_version" = "80"
+L 03/25/2015 - 12:16:18: Server cvar "whb_version" = "1.5.530"
+L 03/25/2015 - 12:16:18: Server cvars end
+L 03/25/2015 - 12:16:18: Server cvar "amx_nextmap" = "de_westwood"
+L 03/25/2015 - 12:16:18: Server cvar "sv_restart" = "1"
+L 03/25/2015 - 12:16:18: World triggered "Restart_Round_(1_second)"
+L 03/25/2015 - 12:16:18: Team "CT" scored "0" with "0" players
+L 03/25/2015 - 12:16:18: Team "TERRORIST" scored "0" with "0" players
+L 03/25/2015 - 12:16:18: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 12:16:18: Started map "de_dust2_3x3" (CRC "1202583262")
+L 03/25/2015 - 12:16:18: [VTC] Player 3 speex
+L 03/25/2015 - 12:16:19: [VTC] Player 1 speex
+L 03/25/2015 - 12:16:19: [VTC] Player 5 speex
+L 03/25/2015 - 12:16:19: [VTC] Player 4 speex
+L 03/25/2015 - 12:16:19: [VTC] Player 2 speex
+L 03/25/2015 - 12:16:20: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3943f08
+L 03/25/2015 - 12:16:20: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><>" connected, address "178.120.85.239:26126"
+L 03/25/2015 - 12:16:20: [VTC] Player 1 speex
+L 03/25/2015 - 12:16:22: "At}I{uka<91><STEAM_0:4:2068007941><>" entered the game
+L 03/25/2015 - 12:16:22: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><>" entered the game
+L 03/25/2015 - 12:16:23: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><>" entered the game
+L 03/25/2015 - 12:16:23: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394dcf0
+L 03/25/2015 - 12:16:23: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><>" connected, address "94.180.170.37:27005"
+L 03/25/2015 - 12:16:23: [VTC] Player 3 speex
+L 03/25/2015 - 12:16:23: World triggered "Round_Start"
+L 03/25/2015 - 12:16:25: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><>" joined team "CT"
+L 03/25/2015 - 12:16:25: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><>" entered the game
+L 03/25/2015 - 12:16:26: "At}I{uka<91><STEAM_0:4:2068007941><>" joined team "TERRORIST"
+L 03/25/2015 - 12:16:26: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3948dfc
+L 03/25/2015 - 12:16:26: "Player<101><STEAM_0:4:1517112581><>" connected, address "178.120.134.29:53475"
+L 03/25/2015 - 12:16:27: World triggered "Game_Commencing"
+L 03/25/2015 - 12:16:27: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 12:16:27: World triggered "Round_End"
+L 03/25/2015 - 12:16:28: [VTC] Player 2 speex
+L 03/25/2015 - 12:16:28: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><>" joined team "TERRORIST"
+L 03/25/2015 - 12:16:30: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><>" joined team "TERRORIST"
+L 03/25/2015 - 12:16:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:16:35: World triggered "Round_Start"
+L 03/25/2015 - 12:16:36: "Player<101><STEAM_0:4:1517112581><>" entered the game
+L 03/25/2015 - 12:16:45: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "deagle" (damage "152") (damage_armor "0") (health "-52") (armor "100")
+L 03/25/2015 - 12:16:45: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "deagle"
+L 03/25/2015 - 12:16:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/25/2015 - 12:16:45: World triggered "Round_End"
+L 03/25/2015 - 12:16:46: "Player<101><STEAM_0:4:1517112581><>" joined team "CT"
+L 03/25/2015 - 12:16:50: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:16:55: World triggered "Round_Start"
+L 03/25/2015 - 12:17:06: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/25/2015 - 12:17:06: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle" (damage "31") (damage_armor "6") (health "69") (armor "94")
+L 03/25/2015 - 12:17:07: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/25/2015 - 12:17:07: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle" (damage "31") (damage_armor "5") (health "38") (armor "89")
+L 03/25/2015 - 12:17:08: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle" (damage "31") (damage_armor "5") (health "7") (armor "84")
+L 03/25/2015 - 12:17:08: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle" (damage "164") (damage_armor "0") (health "-157") (armor "84")
+L 03/25/2015 - 12:17:08: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" killed "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:17:11: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47" (damage "16") (damage_armor "0") (health "14") (armor "0")
+L 03/25/2015 - 12:17:11: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47" (damage "20") (damage_armor "0") (health "-6") (armor "0")
+L 03/25/2015 - 12:17:11: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47"
+L 03/25/2015 - 12:17:13: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/25/2015 - 12:17:13: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" with "deagle" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 03/25/2015 - 12:17:13: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/25/2015 - 12:17:13: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 03/25/2015 - 12:17:13: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 03/25/2015 - 12:17:13: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" killed "Player<101><STEAM_0:4:1517112581><CT>" with "ak47"
+L 03/25/2015 - 12:17:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/25/2015 - 12:17:13: World triggered "Round_End"
+L 03/25/2015 - 12:17:18: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:17:23: World triggered "Round_Start"
+L 03/25/2015 - 12:17:34: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/25/2015 - 12:17:34: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-70") (armor "0")
+L 03/25/2015 - 12:17:34: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" with "ak47"
+L 03/25/2015 - 12:17:37: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><CT>" joined team "SPECTATOR"
+L 03/25/2015 - 12:17:39: "Player<101><STEAM_0:4:1517112581><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle" (damage "49") (damage_armor "0") (health "51") (armor "0")
+L 03/25/2015 - 12:17:39: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/25/2015 - 12:17:39: "Player<101><STEAM_0:4:1517112581><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "deagle" (damage "49") (damage_armor "0") (health "2") (armor "0")
+L 03/25/2015 - 12:17:39: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-67") (armor "96")
+L 03/25/2015 - 12:17:39: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" killed "Player<101><STEAM_0:4:1517112581><CT>" with "ak47"
+L 03/25/2015 - 12:17:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/25/2015 - 12:17:39: World triggered "Round_End"
+L 03/25/2015 - 12:17:44: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:17:49: World triggered "Round_Start"
+L 03/25/2015 - 12:18:01: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/25/2015 - 12:18:01: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/25/2015 - 12:18:01: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "26") (damage_armor "0") (health "39") (armor "0")
+L 03/25/2015 - 12:18:02: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "26") (damage_armor "0") (health "13") (armor "0")
+L 03/25/2015 - 12:18:02: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "ak47" (damage "43") (damage_armor "0") (health "-30") (armor "0")
+L 03/25/2015 - 12:18:02: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" killed "Player<101><STEAM_0:4:1517112581><CT>" with "ak47"
+L 03/25/2015 - 12:18:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/25/2015 - 12:18:02: World triggered "Round_End"
+L 03/25/2015 - 12:18:07: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><TERRORIST>" joined team "CT" (auto)
+L 03/25/2015 - 12:18:07: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:18:10: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><SPECTATOR>" joined team "TERRORIST"
+L 03/25/2015 - 12:18:12: World triggered "Round_Start"
+L 03/25/2015 - 12:18:28: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/25/2015 - 12:18:28: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/25/2015 - 12:18:29: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "7") (health "88") (armor "93")
+L 03/25/2015 - 12:18:29: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "76") (armor "87")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "64") (armor "81")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "52") (armor "75")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "7") (health "40") (armor "68")
+L 03/25/2015 - 12:18:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "22") (armor "68")
+L 03/25/2015 - 12:18:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "50") (armor "94")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "8") (health "7") (armor "60")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "-5") (armor "54")
+L 03/25/2015 - 12:18:30: "Player<101><STEAM_0:4:1517112581><CT>" killed "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" with "mp5navy"
+L 03/25/2015 - 12:18:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "29") (armor "89")
+L 03/25/2015 - 12:18:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "8") (armor "84")
+L 03/25/2015 - 12:18:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "27") (damage_armor "5") (health "-19") (armor "79")
+L 03/25/2015 - 12:18:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1"
+L 03/25/2015 - 12:18:30: Team "CT" triggered "CTs_Win" (CT "1") (T "4")
+L 03/25/2015 - 12:18:30: World triggered "Round_End"
+L 03/25/2015 - 12:18:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><TERRORIST>" joined team "CT"
+L 03/25/2015 - 12:18:35: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:18:40: World triggered "Round_Start"
+L 03/25/2015 - 12:18:43: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb395c9cc
+L 03/25/2015 - 12:18:43: "[Easy_Skill]_LoL#3<102><STEAM_0:4:1412157061><>" connected, address "178.127.11.1:27005"
+L 03/25/2015 - 12:18:43: [VTC] Player 6 speex
+L 03/25/2015 - 12:18:50: "[Easy_Skill]_LoL#3<102><STEAM_0:4:1412157061><>" entered the game
+L 03/25/2015 - 12:18:57: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 03/25/2015 - 12:18:57: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "39") (damage_armor "8") (health "52") (armor "89")
+L 03/25/2015 - 12:18:58: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "100")
+L 03/25/2015 - 12:18:58: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "80") (armor "100")
+L 03/25/2015 - 12:18:58: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "12") (damage_armor "3") (health "68") (armor "97")
+L 03/25/2015 - 12:18:58: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "59") (armor "95")
+L 03/25/2015 - 12:18:59: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "43") (armor "87")
+L 03/25/2015 - 12:18:59: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "34") (armor "85")
+L 03/25/2015 - 12:18:59: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "49") (armor "95")
+L 03/25/2015 - 12:18:59: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "40") (armor "93")
+L 03/25/2015 - 12:19:00: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "105") (damage_armor "16") (health "-5") (armor "76")
+L 03/25/2015 - 12:19:00: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47"
+L 03/25/2015 - 12:19:00: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" with "ak47" (damage "32") (damage_armor "5") (health "68") (armor "95")
+L 03/25/2015 - 12:19:01: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "12") (armor "85")
+L 03/25/2015 - 12:19:01: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "2") (armor "85")
+L 03/25/2015 - 12:19:02: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "-8") (armor "85")
+L 03/25/2015 - 12:19:02: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" killed "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1"
+L 03/25/2015 - 12:19:05: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "30") (armor "88")
+L 03/25/2015 - 12:19:05: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "0") (health "15") (armor "88")
+L 03/25/2015 - 12:19:05: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "5") (armor "83")
+L 03/25/2015 - 12:19:05: "Player<101><STEAM_0:4:1517112581><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "-5") (armor "78")
+L 03/25/2015 - 12:19:05: "Player<101><STEAM_0:4:1517112581><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "mp5navy"
+L 03/25/2015 - 12:19:05: Team "CT" triggered "CTs_Win" (CT "2") (T "4")
+L 03/25/2015 - 12:19:05: World triggered "Round_End"
+L 03/25/2015 - 12:19:06: "[Easy_Skill]_LoL#3<102><STEAM_0:4:1412157061><UNASSIGNED>" triggered "time" (time "0:15")
+L 03/25/2015 - 12:19:06: "[Easy_Skill]_LoL#3<102><STEAM_0:4:1412157061><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/25/2015 - 12:19:06: "[Easy_Skill]_LoL#3<102><STEAM_0:4:1412157061><>" disconnected
+L 03/25/2015 - 12:19:07: "Player<101><STEAM_0:4:1517112581><CT>" committed suicide with "world"
+L 03/25/2015 - 12:19:10: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:19:15: World triggered "Round_Start"
+L 03/25/2015 - 12:19:27: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/25/2015 - 12:19:27: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 03/25/2015 - 12:19:27: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-26") (armor "73")
+L 03/25/2015 - 12:19:27: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1"
+L 03/25/2015 - 12:19:27: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 12:19:29: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100")
+L 03/25/2015 - 12:19:29: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Got_The_Bomb"
+L 03/25/2015 - 12:19:29: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/25/2015 - 12:19:29: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "47") (armor "96")
+L 03/25/2015 - 12:19:29: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 03/25/2015 - 12:19:29: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "37") (armor "86")
+L 03/25/2015 - 12:19:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "16") (armor "81")
+L 03/25/2015 - 12:19:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-5") (armor "76")
+L 03/25/2015 - 12:19:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" with "m4a1"
+L 03/25/2015 - 12:19:30: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 12:19:32: "Player<101><STEAM_0:4:1517112581><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "20") (armor "92")
+L 03/25/2015 - 12:19:32: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "deagle" (damage "32") (damage_armor "6") (health "68") (armor "94")
+L 03/25/2015 - 12:19:32: "Player<101><STEAM_0:4:1517112581><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-7") (armor "88")
+L 03/25/2015 - 12:19:32: "Player<101><STEAM_0:4:1517112581><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47"
+L 03/25/2015 - 12:20:06: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "50") (armor "90")
+L 03/25/2015 - 12:20:09: "Player<101><STEAM_0:4:1517112581><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" with "m4a1" (damage "18") (damage_armor "4") (health "82") (armor "96")
+L 03/25/2015 - 12:20:09: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "32") (armor "86")
+L 03/25/2015 - 12:20:09: "Player<101><STEAM_0:4:1517112581><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" with "m4a1" (damage "18") (damage_armor "4") (health "64") (armor "92")
+L 03/25/2015 - 12:20:09: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "14") (armor "82")
+L 03/25/2015 - 12:20:25: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" attacked "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "-12") (armor "79")
+L 03/25/2015 - 12:20:25: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" killed "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "ak47"
+L 03/25/2015 - 12:20:25: Team "CT" triggered "CTs_Win" (CT "3") (T "4")
+L 03/25/2015 - 12:20:25: World triggered "Round_End"
+L 03/25/2015 - 12:20:30: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:20:35: World triggered "Round_Start"
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "weaponstats" (weapon "m4a1") (shots "36") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "96") (deaths "0")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "3") (rightleg "0")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "weaponstats" (weapon "ak47") (shots "4") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "26") (deaths "0")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "time" (time "4:12")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" triggered "latency" (ping "30")
+L 03/25/2015 - 12:20:35: "[Hard_Skill]_AHAKOHDA<99><STEAM_0:4:587517189><CT>" disconnected
+L 03/25/2015 - 12:20:52: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/25/2015 - 12:20:52: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/25/2015 - 12:20:53: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "Player<101><STEAM_0:4:1517112581><TERRORIST>" with "deagle" (damage "32") (damage_armor "0") (health "68") (armor "100")
+L 03/25/2015 - 12:20:53: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "26") (damage_armor "0") (health "20") (armor "92")
+L 03/25/2015 - 12:20:53: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47" (damage "26") (damage_armor "0") (health "-6") (armor "92")
+L 03/25/2015 - 12:20:53: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "ak47"
+L 03/25/2015 - 12:20:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 03/25/2015 - 12:20:53: World triggered "Round_End"
+L 03/25/2015 - 12:20:58: "Player<101><STEAM_0:4:1517112581><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:21:03: World triggered "Round_Start"
+L 03/25/2015 - 12:21:14: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/25/2015 - 12:21:20: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "33") (damage_armor "0") (health "-11") (armor "0")
+L 03/25/2015 - 12:21:20: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle"
+L 03/25/2015 - 12:21:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 03/25/2015 - 12:21:20: World triggered "Round_End"
+L 03/25/2015 - 12:21:25: "Player<101><STEAM_0:4:1517112581><TERRORIST>" joined team "CT" (auto)
+L 03/25/2015 - 12:21:25: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:21:30: World triggered "Round_Start"
+L 03/25/2015 - 12:21:40: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "Player<101><STEAM_0:4:1517112581><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 12:21:40: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "Player<101><STEAM_0:4:1517112581><CT>" with "awp"
+L 03/25/2015 - 12:21:41: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "88") (armor "93")
+L 03/25/2015 - 12:21:42: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "76") (armor "87")
+L 03/25/2015 - 12:21:42: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "58") (armor "87")
+L 03/25/2015 - 12:21:42: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "46") (armor "81")
+L 03/25/2015 - 12:21:44: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "28") (damage_armor "0") (health "72") (armor "100")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "30") (hits "12") (kills "2") (headshots "0") (tks "0") (damage "150") (deaths "0")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "4") (stomach "1") (leftarm "4") (rightarm "1") (leftleg "1") (rightleg "1")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats" (weapon "m4a1") (shots "21") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "67") (deaths "2")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats" (weapon "deagle") (shots "4") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "148") (deaths "2")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats" (weapon "ak47") (shots "54") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "54") (deaths "1")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "time" (time "5:09")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" triggered "latency" (ping "56")
+L 03/25/2015 - 12:21:46: "Player<101><STEAM_0:4:1517112581><CT>" disconnected
+L 03/25/2015 - 12:21:46: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "46") (damage_armor "23") (health "0") (armor "58")
+L 03/25/2015 - 12:21:46: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp"
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "6") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "152") (deaths "0")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "78") (hits "10") (kills "2") (headshots "2") (tks "0") (damage "481") (deaths "4")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "0") (stomach "2") (leftarm "4") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "20") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "time" (time "5:38")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "latency" (ping "21")
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 12:22:01: "At}I{uka<91><STEAM_0:4:2068007941><TERRORIST>" disconnected
+L 03/25/2015 - 12:22:01: Team "CT" triggered "CTs_Win" (CT "4") (T "6")
+L 03/25/2015 - 12:22:01: World triggered "Round_End"
+L 03/25/2015 - 12:22:06: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:22:11: World triggered "Round_Start"
+L 03/25/2015 - 12:22:21: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 12:22:21: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp"
+L 03/25/2015 - 12:22:21: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 03/25/2015 - 12:22:21: World triggered "Round_End"
+L 03/25/2015 - 12:22:26: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:22:31: World triggered "Round_Start"
+L 03/25/2015 - 12:22:45: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "10") (damage_armor "5") (health "90") (armor "95")
+L 03/25/2015 - 12:22:46: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "13") (damage_armor "7") (health "85") (armor "91")
+L 03/25/2015 - 12:22:47: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "72") (armor "85")
+L 03/25/2015 - 12:22:48: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "58") (armor "78")
+L 03/25/2015 - 12:22:49: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "44") (armor "71")
+L 03/25/2015 - 12:22:49: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "34") (damage_armor "17") (health "56") (armor "78")
+L 03/25/2015 - 12:22:49: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "usp" (damage "14") (damage_armor "8") (health "30") (armor "63")
+L 03/25/2015 - 12:22:51: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "117") (damage_armor "59") (health "-61") (armor "19")
+L 03/25/2015 - 12:22:51: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3"
+L 03/25/2015 - 12:22:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 03/25/2015 - 12:22:51: World triggered "Round_End"
+L 03/25/2015 - 12:22:56: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:23:01: World triggered "Round_Start"
+L 03/25/2015 - 12:23:11: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 12:23:11: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "awp"
+L 03/25/2015 - 12:23:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 03/25/2015 - 12:23:11: World triggered "Round_End"
+L 03/25/2015 - 12:23:16: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:23:21: World triggered "Round_Start"
+L 03/25/2015 - 12:23:34: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "123") (damage_armor "21") (health "-23") (armor "79")
+L 03/25/2015 - 12:23:34: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle"
+L 03/25/2015 - 12:23:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 03/25/2015 - 12:23:34: World triggered "Round_End"
+L 03/25/2015 - 12:23:39: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:23:44: World triggered "Round_Start"
+L 03/25/2015 - 12:23:55: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3943f08
+L 03/25/2015 - 12:23:55: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><>" connected, address "178.120.85.239:46986"
+L 03/25/2015 - 12:23:55: [VTC] Player 1 speex
+L 03/25/2015 - 12:23:55: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "13") (damage_armor "2") (health "55") (armor "72")
+L 03/25/2015 - 12:23:55: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "29") (damage_armor "5") (health "26") (armor "67")
+L 03/25/2015 - 12:23:56: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "29") (damage_armor "0") (health "-3") (armor "67")
+L 03/25/2015 - 12:23:56: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:23:56: Team "CT" triggered "CTs_Win" (CT "6") (T "9")
+L 03/25/2015 - 12:23:56: World triggered "Round_End"
+L 03/25/2015 - 12:23:57: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><>" entered the game
+L 03/25/2015 - 12:24:01: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:24:04: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><>" joined team "CT"
+L 03/25/2015 - 12:24:06: World triggered "Round_Start"
+L 03/25/2015 - 12:24:19: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "126") (damage_armor "21") (health "-26") (armor "79")
+L 03/25/2015 - 12:24:19: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:24:19: Team "CT" triggered "CTs_Win" (CT "7") (T "9")
+L 03/25/2015 - 12:24:19: World triggered "Round_End"
+L 03/25/2015 - 12:24:24: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:24:29: World triggered "Round_Start"
+L 03/25/2015 - 12:24:54: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 12:24:55: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "150") (damage_armor "25") (health "-50") (armor "75")
+L 03/25/2015 - 12:24:55: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:24:55: Team "CT" triggered "CTs_Win" (CT "8") (T "9")
+L 03/25/2015 - 12:24:55: World triggered "Round_End"
+L 03/25/2015 - 12:25:00: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:25:05: World triggered "Round_Start"
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" triggered "weaponstats" (weapon "deagle") (shots "6") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "150") (deaths "0")
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" triggered "time" (time "1:16")
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" triggered "latency" (ping "26")
+L 03/25/2015 - 12:25:14: "[Hard_Skill]_AHAKOHDA<103><STEAM_0:4:587517189><CT>" disconnected
+L 03/25/2015 - 12:25:17: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 12:25:17: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp"
+L 03/25/2015 - 12:25:17: Team "CT" triggered "CTs_Win" (CT "9") (T "9")
+L 03/25/2015 - 12:25:17: World triggered "Round_End"
+L 03/25/2015 - 12:25:22: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:25:27: World triggered "Round_Start"
+L 03/25/2015 - 12:25:38: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/25/2015 - 12:25:39: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "37") (damage_armor "0") (health "-21") (armor "0")
+L 03/25/2015 - 12:25:39: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:25:39: Team "CT" triggered "CTs_Win" (CT "10") (T "9")
+L 03/25/2015 - 12:25:39: World triggered "Round_End"
+L 03/25/2015 - 12:25:44: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:25:49: World triggered "Round_Start"
+L 03/25/2015 - 12:26:00: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "33") (damage_armor "6") (health "67") (armor "94")
+L 03/25/2015 - 12:26:13: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "14") (damage_armor "7") (health "86") (armor "93")
+L 03/25/2015 - 12:26:14: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "10") (damage_armor "6") (health "76") (armor "87")
+L 03/25/2015 - 12:26:14: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "35") (damage_armor "0") (health "32") (armor "94")
+L 03/25/2015 - 12:26:16: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "33") (damage_armor "17") (health "43") (armor "70")
+L 03/25/2015 - 12:26:18: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "m3" (damage "11") (damage_armor "5") (health "32") (armor "65")
+L 03/25/2015 - 12:26:18: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "36") (damage_armor "6") (health "-4") (armor "88")
+L 03/25/2015 - 12:26:18: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:26:18: Team "CT" triggered "CTs_Win" (CT "11") (T "9")
+L 03/25/2015 - 12:26:18: World triggered "Round_End"
+L 03/25/2015 - 12:26:23: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:26:28: World triggered "Round_Start"
+L 03/25/2015 - 12:26:44: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/25/2015 - 12:26:44: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp"
+L 03/25/2015 - 12:26:44: Team "CT" triggered "CTs_Win" (CT "12") (T "9")
+L 03/25/2015 - 12:26:44: World triggered "Round_End"
+L 03/25/2015 - 12:26:49: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:26:54: World triggered "Round_Start"
+L 03/25/2015 - 12:27:04: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "33") (damage_armor "6") (health "67") (armor "94")
+L 03/25/2015 - 12:27:04: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "34") (damage_armor "6") (health "33") (armor "88")
+L 03/25/2015 - 12:27:05: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "138") (damage_armor "23") (health "-105") (armor "65")
+L 03/25/2015 - 12:27:05: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:27:05: Team "CT" triggered "CTs_Win" (CT "13") (T "9")
+L 03/25/2015 - 12:27:05: World triggered "Round_End"
+L 03/25/2015 - 12:27:10: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:27:15: World triggered "Round_Start"
+L 03/25/2015 - 12:27:41: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 12:27:49: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3957ad8
+L 03/25/2015 - 12:27:49: "Nyrka<104><STEAM_0:4:2068007941><>" connected, address "178.122.218.95:27005"
+L 03/25/2015 - 12:27:49: [VTC] Player 5 speex
+L 03/25/2015 - 12:27:53: "Nyrka<104><STEAM_0:4:2068007941><>" entered the game
+L 03/25/2015 - 12:27:56: "Nyrka<104><STEAM_0:4:2068007941><>" joined team "CT"
+L 03/25/2015 - 12:28:21: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39618c0
+L 03/25/2015 - 12:28:21: "<:::LE:::>BeJIuKuu*<105><STEAM_0:4:1300811013><>" connected, address "178.120.77.50:60213"
+L 03/25/2015 - 12:28:22: [VTC] Player 7 speex
+L 03/25/2015 - 12:28:30: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39618c0
+L 03/25/2015 - 12:28:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><>" connected, address "178.120.77.50:60213"
+L 03/25/2015 - 12:28:30: [VTC] Player 7 speex
+L 03/25/2015 - 12:28:37: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><>" entered the game
+L 03/25/2015 - 12:28:39: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><>" joined team "TERRORIST"
+L 03/25/2015 - 12:29:27: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "36") (damage_armor "6") (health "64") (armor "94")
+L 03/25/2015 - 12:29:27: "Nyrka<104><STEAM_0:4:2068007941><CT>" triggered "time" (time "1:34")
+L 03/25/2015 - 12:29:27: "Nyrka<104><STEAM_0:4:2068007941><CT>" triggered "latency" (ping "20")
+L 03/25/2015 - 12:29:27: "Nyrka<104><STEAM_0:4:2068007941><CT>" disconnected
+L 03/25/2015 - 12:29:27: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3957ad8
+L 03/25/2015 - 12:29:27: "3unka<107><STEAM_0:4:2068007941><>" connected, address "178.122.218.95:27005"
+L 03/25/2015 - 12:29:27: [VTC] Player 5 speex
+L 03/25/2015 - 12:29:28: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "153") (damage_armor "26") (health "-89") (armor "68")
+L 03/25/2015 - 12:29:28: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle"
+L 03/25/2015 - 12:29:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "10")
+L 03/25/2015 - 12:29:28: World triggered "Round_End"
+L 03/25/2015 - 12:29:30: "3unka<107><STEAM_0:4:2068007941><>" entered the game
+L 03/25/2015 - 12:29:33: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:29:34: "3unka<107><STEAM_0:4:2068007941><>" joined team "CT"
+L 03/25/2015 - 12:29:38: World triggered "Round_Start"
+L 03/25/2015 - 12:29:51: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "102") (damage_armor "17") (health "-2") (armor "83")
+L 03/25/2015 - 12:29:51: "3unka<107><STEAM_0:4:2068007941><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle"
+L 03/25/2015 - 12:29:54: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 03/25/2015 - 12:29:55: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "16") (damage_armor "0") (health "42") (armor "0")
+L 03/25/2015 - 12:29:56: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "deagle" (damage "27") (damage_armor "5") (health "73") (armor "95")
+L 03/25/2015 - 12:29:59: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "42") (damage_armor "0") (health "0") (armor "0")
+L 03/25/2015 - 12:29:59: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" killed "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47"
+L 03/25/2015 - 12:30:25: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/25/2015 - 12:30:27: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "awp" (damage "107") (damage_armor "1") (health "-34") (armor "94")
+L 03/25/2015 - 12:30:27: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "awp"
+L 03/25/2015 - 12:30:27: Team "CT" triggered "CTs_Win" (CT "14") (T "10")
+L 03/25/2015 - 12:30:27: World triggered "Round_End"
+L 03/25/2015 - 12:30:32: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:30:37: World triggered "Round_Start"
+L 03/25/2015 - 12:30:48: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/25/2015 - 12:30:48: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 03/25/2015 - 12:30:53: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "deagle" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/25/2015 - 12:30:54: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "deagle" (damage "28") (damage_armor "0") (health "34") (armor "0")
+L 03/25/2015 - 12:30:54: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/25/2015 - 12:30:55: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "95")
+L 03/25/2015 - 12:30:55: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "awp" (damage "452") (damage_armor "0") (health "-418") (armor "0")
+L 03/25/2015 - 12:30:55: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "3unka<107><STEAM_0:4:2068007941><CT>" with "awp"
+L 03/25/2015 - 12:30:56: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-50") (armor "89")
+L 03/25/2015 - 12:30:56: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "awp"
+L 03/25/2015 - 12:30:56: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 12:30:58: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "awp" (damage "109") (damage_armor "1") (health "-52") (armor "94")
+L 03/25/2015 - 12:30:58: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "awp"
+L 03/25/2015 - 12:30:58: Team "CT" triggered "CTs_Win" (CT "15") (T "10")
+L 03/25/2015 - 12:30:58: World triggered "Round_End"
+L 03/25/2015 - 12:31:03: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:31:08: World triggered "Round_Start"
+L 03/25/2015 - 12:31:21: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "famas" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/25/2015 - 12:31:22: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "galil" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 03/25/2015 - 12:31:22: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "galil" (damage "21") (damage_armor "0") (health "66") (armor "0")
+L 03/25/2015 - 12:31:23: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "famas" (damage "128") (damage_armor "0") (health "-59") (armor "0")
+L 03/25/2015 - 12:31:23: "3unka<107><STEAM_0:4:2068007941><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "famas"
+L 03/25/2015 - 12:31:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3943f08
+L 03/25/2015 - 12:31:31: "nExT --><108><STEAM_0:4:33541381><>" connected, address "178.120.163.170:17383"
+L 03/25/2015 - 12:31:31: [VTC] Player 1 speex
+L 03/25/2015 - 12:31:33: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 12:31:33: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" killed "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "awp"
+L 03/25/2015 - 12:31:33: Team "CT" triggered "CTs_Win" (CT "16") (T "10")
+L 03/25/2015 - 12:31:33: World triggered "Round_End"
+L 03/25/2015 - 12:31:37: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3943f08
+L 03/25/2015 - 12:31:37: "nExT --><109><STEAM_0:4:33541381><>" connected, address "178.120.163.170:17383"
+L 03/25/2015 - 12:31:37: [VTC] Player 1 speex
+L 03/25/2015 - 12:31:38: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:31:42: "nExT --><109><STEAM_0:4:33541381><>" entered the game
+L 03/25/2015 - 12:31:43: World triggered "Round_Start"
+L 03/25/2015 - 12:31:45: "nExT --><109><STEAM_0:4:33541381><>" joined team "CT"
+L 03/25/2015 - 12:31:54: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/25/2015 - 12:31:55: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "famas" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 03/25/2015 - 12:31:57: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "34") (damage_armor "0") (health "54") (armor "0")
+L 03/25/2015 - 12:31:57: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "famas" (damage "30") (damage_armor "0") (health "14") (armor "0")
+L 03/25/2015 - 12:31:57: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "famas" (damage "108") (damage_armor "0") (health "-94") (armor "0")
+L 03/25/2015 - 12:31:57: "3unka<107><STEAM_0:4:2068007941><CT>" killed "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "famas"
+L 03/25/2015 - 12:32:05: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "nExT --><109><STEAM_0:4:33541381><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/25/2015 - 12:32:05: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "nExT --><109><STEAM_0:4:33541381><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/25/2015 - 12:32:05: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "nExT --><109><STEAM_0:4:33541381><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/25/2015 - 12:32:05: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "nExT --><109><STEAM_0:4:33541381><CT>" with "ak47"
+L 03/25/2015 - 12:32:13: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "famas" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 03/25/2015 - 12:32:13: "3unka<107><STEAM_0:4:2068007941><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "famas"
+L 03/25/2015 - 12:32:13: Team "CT" triggered "CTs_Win" (CT "17") (T "10")
+L 03/25/2015 - 12:32:13: World triggered "Round_End"
+L 03/25/2015 - 12:32:18: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:32:23: World triggered "Round_Start"
+L 03/25/2015 - 12:32:33: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/25/2015 - 12:32:33: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/25/2015 - 12:32:34: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "famas" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 03/25/2015 - 12:32:34: "3unka<107><STEAM_0:4:2068007941><CT>" killed "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" with "famas"
+L 03/25/2015 - 12:32:34: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 12:32:42: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Got_The_Bomb"
+L 03/25/2015 - 12:33:08: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "25") (damage_armor "4") (health "75") (armor "84")
+L 03/25/2015 - 12:33:08: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "22") (damage_armor "4") (health "53") (armor "80")
+L 03/25/2015 - 12:33:09: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "deagle" (damage "18") (damage_armor "3") (health "82") (armor "97")
+L 03/25/2015 - 12:33:09: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" with "deagle" (damage "22") (damage_armor "3") (health "31") (armor "77")
+L 03/25/2015 - 12:33:13: Server cvar "amx_nextmap" = "fy_snow"
+L 03/25/2015 - 12:33:13: Server cvar "mp_timelimit" = "0.000000"
+L 03/25/2015 - 12:33:14: "3unka<107><STEAM_0:4:2068007941><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "famas" (damage "19") (damage_armor "5") (health "63") (armor "92")
+L 03/25/2015 - 12:33:14: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" attacked "3unka<107><STEAM_0:4:2068007941><CT>" with "deagle" (damage "41") (damage_armor "0") (health "-9") (armor "0")
+L 03/25/2015 - 12:33:14: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" killed "3unka<107><STEAM_0:4:2068007941><CT>" with "deagle"
+L 03/25/2015 - 12:33:19: "nExT --><109><STEAM_0:4:33541381><CT>" attacked "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-21") (armor "74")
+L 03/25/2015 - 12:33:19: "nExT --><109><STEAM_0:4:33541381><CT>" killed "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" with "m4a1"
+L 03/25/2015 - 12:33:19: Team "CT" triggered "CTs_Win" (CT "18") (T "10")
+L 03/25/2015 - 12:33:19: World triggered "Round_End"
+L 03/25/2015 - 12:33:24: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 12:33:29: Server cvar "mp_timelimit" = "0.010000"
+L 03/25/2015 - 12:33:29: World triggered "Round_Start"
+L 03/25/2015 - 12:33:29: Team "CT" scored "18" with "3" players
+L 03/25/2015 - 12:33:29: Team "TERRORIST" scored "10" with "2" players
+L 03/25/2015 - 12:33:29: Server cvar "mp_chattime" = "3"
+L 03/25/2015 - 12:33:30: Server cvar "mp_chattime" = "1"
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats" (weapon "usp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats" (weapon "m4a1") (shots "49") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "84") (deaths "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "time" (time "1:48")
+L 03/25/2015 - 12:33:30: "nExT --><109><STEAM_0:4:33541381><CT>" triggered "latency" (ping "43")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "50") (deaths "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "usp") (shots "23") (hits "10") (kills "1") (headshots "1") (tks "0") (damage "168") (deaths "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "4") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "awp") (shots "21") (hits "9") (kills "7") (headshots "1") (tks "0") (damage "1228") (deaths "3")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "2") (stomach "0") (leftarm "3") (rightarm "2") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "m4a1") (shots "70") (hits "23") (kills "3") (headshots "1") (tks "0") (damage "476") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "4") (stomach "3") (leftarm "7") (rightarm "2") (leftleg "3") (rightleg "1")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "deagle") (shots "42") (hits "14") (kills "5") (headshots "2") (tks "0") (damage "625") (deaths "3")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "deagle") (head "3") (chest "2") (stomach "0") (leftarm "3") (rightarm "4") (leftleg "1") (rightleg "1")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats" (weapon "ak47") (shots "35") (hits "12") (kills "4") (headshots "1") (tks "0") (damage "444") (deaths "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "1") (stomach "2") (leftarm "5") (rightarm "1") (leftleg "2") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "time" (time "17:04")
+L 03/25/2015 - 12:33:30: "[Angels]DarkAngel<100><STEAM_0:4:1182477171><CT>" triggered "latency" (ping "36")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "78") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "galil") (shots "12") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "34") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "galil") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "13") (hits "3") (kills "3") (headshots "1") (tks "0") (damage "670") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "m3") (shots "13") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "229") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "4") (leftarm "1") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "39") (hits "13") (kills "5") (headshots "3") (tks "0") (damage "740") (deaths "5")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "3") (chest "0") (stomach "3") (leftarm "4") (rightarm "1") (leftleg "1") (rightleg "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "27") (hits "7") (kills "2") (headshots "0") (tks "0") (damage "211") (deaths "5")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "2") (leftleg "1") (rightleg "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "time" (time "17:07")
+L 03/25/2015 - 12:33:30: "[Hard_Skill]_Leks<83><STEAM_0:4:2013711621><TERRORIST>" triggered "latency" (ping "42")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats" (weapon "famas") (shots "42") (hits "8") (kills "4") (headshots "4") (tks "0") (damage "612") (deaths "1")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats2" (weapon "famas") (head "5") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats" (weapon "m4a1") (shots "30") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "83") (deaths "1")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "2") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats" (weapon "deagle") (shots "8") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "129") (deaths "1")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats" (weapon "knife") (shots "16") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "time" (time "4:00")
+L 03/25/2015 - 12:33:30: "3unka<107><STEAM_0:4:2068007941><CT>" triggered "latency" (ping "17")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "23") (deaths "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "16") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "81") (deaths "1")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "9") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "66") (deaths "2")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "40") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "214") (deaths "2")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "2") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "time" (time "4:53")
+L 03/25/2015 - 12:33:30: "<:::LE:::>BeJIuKuu*<106><STEAM_0:4:1300811013><TERRORIST>" triggered "latency" (ping "48")
+L 03/25/2015 - 12:33:30: Server cvar "mp_timelimit" = "30.000000"
+L 03/25/2015 - 12:33:30: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/25/2015 - 12:33:30: [META] ini: Read plugin config for: AMX Mod X
+L 03/25/2015 - 12:33:30: [META] ini: Read plugin config for: dproto_EF
+L 03/25/2015 - 12:33:30: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/25/2015 - 12:33:30: [META] ini: Read plugin config for: WHBlocker
+L 03/25/2015 - 12:33:30: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/25/2015 - 12:33:30: [META] dll: Updating plugins...
+L 03/25/2015 - 12:33:30: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/25/2015 - 12:33:30: Log file closed

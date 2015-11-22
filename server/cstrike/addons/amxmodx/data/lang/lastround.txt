@@ -1,0 +1,15 @@
+[en]
+FINAL_ROUND = FINAL ROUND
+FINAL_COMING = The FINAL ROUND^nis coming up
+VOTE_COUNTER = %i seconds:^n^n%s
+RTV_NOTALLOWED = Vote is currently not allowed. Wait %d minutes %d seconds.
+RTV_ALREADY = You have already voted!
+RTV_ADDVOTE = "%s" vote was added. Need %d to start voting! (%d^%^%)
+
+[ru]
+FINAL_ROUND = Последний раунд
+FINAL_COMING = Скоро^nПоследний раунд
+VOTE_COUNTER = через %i секунд:^n^n%s
+RTV_NOTALLOWED = Голосование будет доступно через %d минут %d секунд.
+RTV_ALREADY = Вы уже проголосовали!
+RTV_ADDVOTE = "%s" проголосовал. Для голосования нужно еще %d голосов! (%d^%^%)

@@ -101,7 +101,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 1;nst_choose_player terror"
+		"command"		"joinclass 1"
 	}
 	
 	"leet"
@@ -121,7 +121,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 2;nst_choose_player leet"
+		"command"		"joinclass 2"
 		"labelText"		"#Cstrike_L337_Krew"
 	}	
 	
@@ -142,7 +142,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 3;nst_choose_player arctic"
+		"command"		"joinclass 3"
 		"labelText"		"#Cstrike_Arctic"	
 	}	
 	
@@ -163,7 +163,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 4;nst_choose_player guerilla"
+		"command"		"joinclass 4"
 		"labelText"		"#Cstrike_Guerilla"
 	}
 
@@ -184,7 +184,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 5;nst_choose_player millitia"
+		"command"		"joinclass 5"
 		"labelText"		"#Cstrike_Militia"
 	}
 

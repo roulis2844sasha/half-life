@@ -1,0 +1,531 @@
+L 04/02/2015 - 17:33:30: Log file started (file "logs/L0402057.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/02/2015 - 17:33:30: Loading map "awp_map"
+L 04/02/2015 - 17:33:30: Server cvars start
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_debug_level" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_examine_time" = "0.5"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_look_angle" = "10"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_look_distance" = "200"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_message_repeats" = "5"
+L 04/02/2015 - 17:33:30: Server cvar "_tutor_view_distance" = "1000"
+L 04/02/2015 - 17:33:30: Server cvar "aesp_version" = "1.5b_mini"
+L 04/02/2015 - 17:33:30: Server cvar "allow_spectators" = "4"
+L 04/02/2015 - 17:33:30: Server cvar "amx_client_languages" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/02/2015 - 17:33:30: Server cvar "amx_language" = "ru"
+L 04/02/2015 - 17:33:30: Server cvar "amx_nextmap" = "awp_map"
+L 04/02/2015 - 17:33:30: Server cvar "amx_timeleft" = "00:00"
+L 04/02/2015 - 17:33:30: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/02/2015 - 17:33:30: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/02/2015 - 17:33:30: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Config" = "Loaded"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Replace" = "Failed"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Status" = "Loaded"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/02/2015 - 17:33:30: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/02/2015 - 17:33:30: Server cvar "coop" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "deathmatch" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "decalfrequency" = "9"
+L 04/02/2015 - 17:33:30: Server cvar "dp_version" = "0.9.391"
+L 04/02/2015 - 17:33:30: Server cvar "edgefriction" = "2"
+L 04/02/2015 - 17:33:30: Server cvar "hostage_debug" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "hostage_stop" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "humans_join_team" = "any"
+L 04/02/2015 - 17:33:30: Server cvar "jtp10181" = "chute,gore"
+L 04/02/2015 - 17:33:30: Server cvar "max_queries_sec" = "3.0"
+L 04/02/2015 - 17:33:30: Server cvar "max_queries_sec_global" = "30"
+L 04/02/2015 - 17:33:30: Server cvar "max_queries_window" = "60"
+L 04/02/2015 - 17:33:30: Server cvar "metamod_version" = "1.19"
+L 04/02/2015 - 17:33:30: Server cvar "mp_allowmonsters" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_autokick" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_autoteambalance" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_buytime" = "1.5"
+L 04/02/2015 - 17:33:30: Server cvar "mp_c4timer" = "35"
+L 04/02/2015 - 17:33:30: Server cvar "mp_chattime" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_consistency" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_fadetoblack" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_flashlight" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_footsteps" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_forcecamera" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_forcechasecam" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_fragsleft" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_freezetime" = "5"
+L 04/02/2015 - 17:33:30: Server cvar "mp_friendlyfire" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_hostagepenalty" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_kickpercent" = "0.66"
+L 04/02/2015 - 17:33:30: Server cvar "mp_limitteams" = "5"
+L 04/02/2015 - 17:33:30: Server cvar "mp_logdetail" = "3"
+L 04/02/2015 - 17:33:30: Server cvar "mp_logfile" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_logmessages" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/02/2015 - 17:33:30: Server cvar "mp_maxrounds" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_mirrordamage" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_playerid" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_roundtime" = "2.57"
+L 04/02/2015 - 17:33:30: Server cvar "mp_startmoney" = "800"
+L 04/02/2015 - 17:33:30: Server cvar "mp_timeleft" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "mp_timelimit" = "30.000000"
+L 04/02/2015 - 17:33:30: Server cvar "mp_tkpunish" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_windifference" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "mp_winlimit" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "pausable" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_accelerate" = "5"
+L 04/02/2015 - 17:33:30: Server cvar "sv_aim" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_airaccelerate" = "10"
+L 04/02/2015 - 17:33:30: Server cvar "sv_airmove" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "sv_allowupload" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "sv_alltalk" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_bounce" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "sv_cheats" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_clienttrace" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "sv_clipmode" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_contact" = ""
+L 04/02/2015 - 17:33:30: Server cvar "sv_friction" = "4"
+L 04/02/2015 - 17:33:30: Server cvar "sv_gravity" = "800"
+L 04/02/2015 - 17:33:30: Server cvar "sv_logblocks" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_maxrate" = "25000"
+L 04/02/2015 - 17:33:30: Server cvar "sv_maxspeed" = "900"
+L 04/02/2015 - 17:33:30: Server cvar "sv_minrate" = "100000"
+L 04/02/2015 - 17:33:30: Server cvar "sv_password" = ""
+L 04/02/2015 - 17:33:30: Server cvar "sv_proxies" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_region" = "3"
+L 04/02/2015 - 17:33:30: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_restartround" = "0"
+L 04/02/2015 - 17:33:30: Server cvar "sv_stepsize" = "18"
+L 04/02/2015 - 17:33:30: Server cvar "sv_stopspeed" = "75"
+L 04/02/2015 - 17:33:30: Server cvar "sv_uploadmax" = "0.5"
+L 04/02/2015 - 17:33:30: Server cvar "sv_voiceenable" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "sv_wateraccelerate" = "10"
+L 04/02/2015 - 17:33:30: Server cvar "sv_waterfriction" = "1"
+L 04/02/2015 - 17:33:30: Server cvar "travo_statmarquee" = "v1.2"
+L 04/02/2015 - 17:33:30: Server cvar "vtc_version" = "80"
+L 04/02/2015 - 17:33:30: Server cvar "wallblocker_version" = "1.0"
+L 04/02/2015 - 17:33:30: Server cvars end
+L 04/02/2015 - 17:33:30: Server cvar "amx_nextmap" = "aim_map"
+L 04/02/2015 - 17:33:30: Server cvar "sv_restart" = "1"
+L 04/02/2015 - 17:33:30: World triggered "Restart_Round_(1_second)"
+L 04/02/2015 - 17:33:30: Team "CT" scored "0" with "0" players
+L 04/02/2015 - 17:33:30: Team "TERRORIST" scored "0" with "0" players
+L 04/02/2015 - 17:33:30: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 17:33:30: Started map "awp_map" (CRC "1246007192")
+L 04/02/2015 - 17:33:30: [VTC] Player 2 silk
+L 04/02/2015 - 17:33:31: [VTC] Player 6 speex
+L 04/02/2015 - 17:33:32: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb39a3dfc
+L 04/02/2015 - 17:33:32: "Skyfall<126><STEAM_0:1:6978287><>" connected, address "37.212.197.176:18574"
+L 04/02/2015 - 17:33:32: [VTC] Player 2 silk
+L 04/02/2015 - 17:33:32: "Skyfall<126><STEAM_0:1:6978287><>" STEAM USERID validated
+L 04/02/2015 - 17:33:33: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:33:33: "N[1]ce~team~EbAIIIu B HaRd<127><STEAM_0:4:2115038707><>" connected, address "95.57.125.85:27005"
+L 04/02/2015 - 17:33:33: [VTC] Player 1 speex
+L 04/02/2015 - 17:33:34: "Skyfall<126><STEAM_0:1:6978287><>" entered the game
+L 04/02/2015 - 17:33:35: "Skyfall<126><STEAM_0:1:6978287><>" joined team "CT"
+L 04/02/2015 - 17:33:35: World triggered "Round_Start"
+L 04/02/2015 - 17:33:36: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:33:36: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><>" connected, address "95.57.125.85:27005"
+L 04/02/2015 - 17:33:36: [VTC] Player 1 speex
+L 04/02/2015 - 17:33:40: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><>" entered the game
+L 04/02/2015 - 17:33:43: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><>" joined team "TERRORIST"
+L 04/02/2015 - 17:33:43: World triggered "Game_Commencing"
+L 04/02/2015 - 17:33:43: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/02/2015 - 17:33:43: World triggered "Round_End"
+L 04/02/2015 - 17:33:45: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "awp" (damage "67") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 17:33:51: World triggered "Round_Start"
+L 04/02/2015 - 17:33:54: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/02/2015 - 17:33:54: "Skyfall<126><STEAM_0:1:6978287><CT>" killed "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "awp"
+L 04/02/2015 - 17:33:54: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/02/2015 - 17:33:54: World triggered "Round_End"
+L 04/02/2015 - 17:34:04: World triggered "Round_Start"
+L 04/02/2015 - 17:34:23: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:34:23: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:34:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 04/02/2015 - 17:34:23: World triggered "Round_End"
+L 04/02/2015 - 17:34:33: World triggered "Round_Start"
+L 04/02/2015 - 17:34:38: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "ak47" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 04/02/2015 - 17:34:38: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "ak47"
+L 04/02/2015 - 17:34:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/02/2015 - 17:34:38: World triggered "Round_End"
+L 04/02/2015 - 17:34:48: World triggered "Round_Start"
+L 04/02/2015 - 17:34:50: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug" (damage "17") (damage_armor "4") (health "83") (armor "96")
+L 04/02/2015 - 17:34:50: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug" (damage "17") (damage_armor "4") (health "66") (armor "92")
+L 04/02/2015 - 17:34:51: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug" (damage "17") (damage_armor "4") (health "49") (armor "88")
+L 04/02/2015 - 17:34:51: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug" (damage "18") (damage_armor "0") (health "31") (armor "88")
+L 04/02/2015 - 17:34:52: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug" (damage "17") (damage_armor "3") (health "14") (armor "85")
+L 04/02/2015 - 17:34:54: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug" (damage "18") (damage_armor "0") (health "-4") (armor "85")
+L 04/02/2015 - 17:34:54: "Skyfall<126><STEAM_0:1:6978287><CT>" killed "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" with "aug"
+L 04/02/2015 - 17:34:54: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 04/02/2015 - 17:34:54: World triggered "Round_End"
+L 04/02/2015 - 17:35:04: World triggered "Round_Start"
+L 04/02/2015 - 17:35:10: Kick: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "109") (deaths "1")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "14") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "128") (deaths "1")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" triggered "time" (time "1:30")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" triggered "latency" (ping "99")
+L 04/02/2015 - 17:35:10: "N[1]ce~team~EbAIIIu B HaRd<128><STEAM_0:4:2115038707><TERRORIST>" disconnected
+L 04/02/2015 - 17:35:26: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:35:26: "N[1]ce~team~EbAIIIu B HaRd<129><STEAM_0:4:2115038707><>" connected, address "95.57.125.85:27005"
+L 04/02/2015 - 17:35:26: Kick: "N[1]ce~team~EbAIIIu B HaRd<129><STEAM_0:4:2115038707><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 4 секунд"")
+L 04/02/2015 - 17:35:29: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:35:29: "N[1]ce~team~EbAIIIu B HaRd<130><STEAM_0:4:2115038707><>" connected, address "95.57.125.85:27005"
+L 04/02/2015 - 17:35:29: Kick: "N[1]ce~team~EbAIIIu B HaRd<130><STEAM_0:4:2115038707><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 1 секунд"")
+L 04/02/2015 - 17:35:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:35:31: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><>" connected, address "95.57.125.85:27005"
+L 04/02/2015 - 17:35:31: [VTC] Player 1 speex
+L 04/02/2015 - 17:35:35: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><>" entered the game
+L 04/02/2015 - 17:35:40: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><>" joined team "TERRORIST"
+L 04/02/2015 - 17:35:40: World triggered "Game_Commencing"
+L 04/02/2015 - 17:35:40: World triggered "Game_Commencing" (CT "2") (T "2")
+L 04/02/2015 - 17:35:40: World triggered "Round_End"
+L 04/02/2015 - 17:35:48: World triggered "Round_Start"
+L 04/02/2015 - 17:35:48: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "8") (damage_armor "0") (health "92") (armor "0")
+L 04/02/2015 - 17:35:49: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "8") (damage_armor "0") (health "84") (armor "0")
+L 04/02/2015 - 17:35:49: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "8") (damage_armor "0") (health "76") (armor "0")
+L 04/02/2015 - 17:35:50: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "8") (damage_armor "0") (health "68") (armor "0")
+L 04/02/2015 - 17:35:50: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "6") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 17:35:50: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "6") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 17:35:51: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "usp" (damage "6") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 17:35:54: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-58") (armor "0")
+L 04/02/2015 - 17:35:54: "Skyfall<126><STEAM_0:1:6978287><CT>" killed "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "awp"
+L 04/02/2015 - 17:35:54: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/02/2015 - 17:35:54: World triggered "Round_End"
+L 04/02/2015 - 17:36:04: World triggered "Round_Start"
+L 04/02/2015 - 17:36:13: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "awp" (damage "67") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 17:36:16: "Skyfall<126><STEAM_0:1:6978287><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "awp" (damage "67") (damage_armor "0") (health "-34") (armor "0")
+L 04/02/2015 - 17:36:16: "Skyfall<126><STEAM_0:1:6978287><CT>" killed "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" with "awp"
+L 04/02/2015 - 17:36:16: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/02/2015 - 17:36:16: World triggered "Round_End"
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" triggered "time" (time "0:45")
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" triggered "latency" (ping "102")
+L 04/02/2015 - 17:36:20: "N[1]ce~team~EbAIIIu B HaRd<131><STEAM_0:4:2115038707><TERRORIST>" disconnected
+L 04/02/2015 - 17:36:26: World triggered "Round_Start"
+L 04/02/2015 - 17:38:32: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8cf0
+L 04/02/2015 - 17:38:32: "[Hard_Skill]_4ekHyTbIu*<132><STEAM_0:4:2064031874><>" connected, address "188.163.81.95:61535"
+L 04/02/2015 - 17:38:32: [VTC] Player 3 speex
+L 04/02/2015 - 17:38:38: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8cf0
+L 04/02/2015 - 17:38:38: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><>" connected, address "188.163.81.95:61535"
+L 04/02/2015 - 17:38:38: [VTC] Player 3 speex
+L 04/02/2015 - 17:38:45: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><>" entered the game
+L 04/02/2015 - 17:38:51: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><>" joined team "TERRORIST"
+L 04/02/2015 - 17:38:52: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/02/2015 - 17:38:52: World triggered "Round_End"
+L 04/02/2015 - 17:39:02: World triggered "Round_Start"
+L 04/02/2015 - 17:39:12: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:39:12: "VAMPIR<134><STEAM_0:4:517908229><>" connected, address "178.172.225.148:27005"
+L 04/02/2015 - 17:39:12: [VTC] Player 1 speex
+L 04/02/2015 - 17:39:12: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:39:12: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:39:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 04/02/2015 - 17:39:12: World triggered "Round_End"
+L 04/02/2015 - 17:39:13: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:39:13: "VAMPIR<135><STEAM_0:4:517908229><>" connected, address "178.172.225.148:27005"
+L 04/02/2015 - 17:39:14: [VTC] Player 1 speex
+L 04/02/2015 - 17:39:16: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:39:16: "vlad<136><STEAM_0:4:740208075><>" connected, address "46.185.97.241:27005"
+L 04/02/2015 - 17:39:16: [VTC] Player 1 speex
+L 04/02/2015 - 17:39:22: World triggered "Round_Start"
+L 04/02/2015 - 17:39:25: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "135") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 17:39:25: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:39:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 04/02/2015 - 17:39:25: World triggered "Round_End"
+L 04/02/2015 - 17:39:35: World triggered "Round_Start"
+L 04/02/2015 - 17:39:38: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 17:39:38: "vlad<137><STEAM_0:4:740208075><>" connected, address "46.185.97.241:27005"
+L 04/02/2015 - 17:39:38: [VTC] Player 1 speex
+L 04/02/2015 - 17:39:44: "vlad<137><STEAM_0:4:740208075><>" entered the game
+L 04/02/2015 - 17:39:46: "vlad<137><STEAM_0:4:740208075><>" joined team "CT"
+L 04/02/2015 - 17:39:55: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "135") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 17:39:55: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:39:57: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 17:39:57: "ANGELuHA<138><STEAM_0:4:1018023685><>" connected, address "178.124.7.208:27005"
+L 04/02/2015 - 17:39:57: [VTC] Player 4 speex
+L 04/02/2015 - 17:39:57: Kick: "ANGELuHA<138><STEAM_0:4:1018023685><>" was kicked by "Console" (message " Вы не имеете права входа на этот сервер...")
+L 04/02/2015 - 17:40:01: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:40:01: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:40:01: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 04/02/2015 - 17:40:01: World triggered "Round_End"
+L 04/02/2015 - 17:40:11: World triggered "Round_Start"
+L 04/02/2015 - 17:40:11: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:40:11: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:40:11: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 04/02/2015 - 17:40:11: World triggered "Round_End"
+L 04/02/2015 - 17:40:21: World triggered "Round_Start"
+L 04/02/2015 - 17:40:31: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:40:31: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:40:41: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:40:41: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:40:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 04/02/2015 - 17:40:41: World triggered "Round_End"
+L 04/02/2015 - 17:40:51: World triggered "Round_Start"
+L 04/02/2015 - 17:40:51: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "53") (damage_armor "0") (health "47") (armor "0")
+L 04/02/2015 - 17:40:53: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "108") (damage_armor "0") (health "-61") (armor "0")
+L 04/02/2015 - 17:40:53: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:40:54: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:40:54: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:40:54: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 04/02/2015 - 17:40:54: World triggered "Round_End"
+L 04/02/2015 - 17:41:04: World triggered "Round_Start"
+L 04/02/2015 - 17:41:10: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "135") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 17:41:10: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:41:10: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:41:10: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:41:10: Team "CT" triggered "CTs_Win" (CT "7") (T "3")
+L 04/02/2015 - 17:41:10: World triggered "Round_End"
+L 04/02/2015 - 17:41:20: World triggered "Round_Start"
+L 04/02/2015 - 17:41:20: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "135") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 17:41:20: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:41:20: Team "CT" triggered "CTs_Win" (CT "8") (T "3")
+L 04/02/2015 - 17:41:20: World triggered "Round_End"
+L 04/02/2015 - 17:41:26: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 17:41:26: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><>" connected, address "95.57.125.85:27005"
+L 04/02/2015 - 17:41:26: [VTC] Player 4 speex
+L 04/02/2015 - 17:41:30: World triggered "Round_Start"
+L 04/02/2015 - 17:41:30: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:41:30: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:41:30: Team "CT" triggered "CTs_Win" (CT "9") (T "3")
+L 04/02/2015 - 17:41:30: World triggered "Round_End"
+L 04/02/2015 - 17:41:30: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><>" entered the game
+L 04/02/2015 - 17:41:32: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><>" joined team "TERRORIST"
+L 04/02/2015 - 17:41:40: World triggered "Round_Start"
+L 04/02/2015 - 17:41:46: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:41:46: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:41:49: "vlad<137><STEAM_0:4:740208075><CT>" attacked "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:41:49: "vlad<137><STEAM_0:4:740208075><CT>" killed "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" with "awp"
+L 04/02/2015 - 17:41:58: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:41:58: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:41:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "4")
+L 04/02/2015 - 17:41:58: World triggered "Round_End"
+L 04/02/2015 - 17:42:02: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 17:42:02: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:42:02: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" triggered "time" (time "0:31")
+L 04/02/2015 - 17:42:02: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" triggered "latency" (ping "106")
+L 04/02/2015 - 17:42:02: "N[1]ce~team~EbAIIIu B HaRd<139><STEAM_0:4:2115038707><TERRORIST>" disconnected
+L 04/02/2015 - 17:42:08: World triggered "Round_Start"
+L 04/02/2015 - 17:42:15: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp" (damage "432") (damage_armor "0") (health "-332") (armor "0")
+L 04/02/2015 - 17:42:15: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "Skyfall<126><STEAM_0:1:6978287><CT>" with "awp"
+L 04/02/2015 - 17:42:19: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:42:19: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:42:19: Team "CT" triggered "CTs_Win" (CT "10") (T "4")
+L 04/02/2015 - 17:42:19: World triggered "Round_End"
+L 04/02/2015 - 17:42:29: World triggered "Round_Start"
+L 04/02/2015 - 17:42:42: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 04/02/2015 - 17:42:42: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:42:42: Team "CT" triggered "CTs_Win" (CT "11") (T "4")
+L 04/02/2015 - 17:42:42: World triggered "Round_End"
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "Game_idle_kick" (auto)
+L 04/02/2015 - 17:42:47: Kick: "Skyfall<126><STEAM_0:1:6978287><>" was kicked by "Console"
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "aug") (shots "13") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "104") (deaths "0")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "1")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "usp") (shots "12") (hits "7") (kills "0") (headshots "0") (tks "0") (damage "50") (deaths "7")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "2") (leftleg "2") (rightleg "1")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "awp") (shots "9") (hits "5") (kills "3") (headshots "0") (tks "0") (damage "414") (deaths "2")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "3") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "time" (time "9:12")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" triggered "latency" (ping "30")
+L 04/02/2015 - 17:42:47: "Skyfall<126><STEAM_0:1:6978287><CT>" disconnected
+L 04/02/2015 - 17:42:52: World triggered "Round_Start"
+L 04/02/2015 - 17:42:52: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:42:52: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:42:52: Team "CT" triggered "CTs_Win" (CT "12") (T "4")
+L 04/02/2015 - 17:42:52: World triggered "Round_End"
+L 04/02/2015 - 17:43:02: World triggered "Round_Start"
+L 04/02/2015 - 17:43:07: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "432") (damage_armor "0") (health "-332") (armor "0")
+L 04/02/2015 - 17:43:07: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:43:07: Team "CT" triggered "CTs_Win" (CT "13") (T "4")
+L 04/02/2015 - 17:43:07: World triggered "Round_End"
+L 04/02/2015 - 17:43:17: World triggered "Round_Start"
+L 04/02/2015 - 17:43:23: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "0")
+L 04/02/2015 - 17:43:32: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "54") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 17:43:32: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:43:32: Team "CT" triggered "CTs_Win" (CT "14") (T "4")
+L 04/02/2015 - 17:43:32: World triggered "Round_End"
+L 04/02/2015 - 17:43:42: World triggered "Round_Start"
+L 04/02/2015 - 17:43:42: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:43:42: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:43:42: Team "CT" triggered "CTs_Win" (CT "15") (T "4")
+L 04/02/2015 - 17:43:42: World triggered "Round_End"
+L 04/02/2015 - 17:43:52: World triggered "Round_Start"
+L 04/02/2015 - 17:43:55: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "0")
+L 04/02/2015 - 17:44:04: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "109") (damage_armor "0") (health "-90") (armor "0")
+L 04/02/2015 - 17:44:04: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:44:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "5")
+L 04/02/2015 - 17:44:04: World triggered "Round_End"
+L 04/02/2015 - 17:44:14: World triggered "Round_Start"
+L 04/02/2015 - 17:44:19: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb39a3dfc
+L 04/02/2015 - 17:44:19: "Skyfall<140><STEAM_0:1:6978287><>" connected, address "37.212.197.176:18574"
+L 04/02/2015 - 17:44:19: [VTC] Player 2 silk
+L 04/02/2015 - 17:44:20: "Skyfall<140><STEAM_0:1:6978287><>" STEAM USERID validated
+L 04/02/2015 - 17:44:20: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "0")
+L 04/02/2015 - 17:44:21: "Skyfall<140><STEAM_0:1:6978287><>" entered the game
+L 04/02/2015 - 17:44:24: "Skyfall<140><STEAM_0:1:6978287><>" joined team "TERRORIST"
+L 04/02/2015 - 17:44:32: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "glock18" (damage "18") (damage_armor "0") (health "1") (armor "0")
+L 04/02/2015 - 17:44:32: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 04/02/2015 - 17:44:32: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:44:35: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "40") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 17:44:37: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "54") (damage_armor "0") (health "-53") (armor "0")
+L 04/02/2015 - 17:44:37: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:44:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "6")
+L 04/02/2015 - 17:44:37: World triggered "Round_End"
+L 04/02/2015 - 17:44:47: World triggered "Round_Start"
+L 04/02/2015 - 17:44:58: "vlad<137><STEAM_0:4:740208075><CT>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 04/02/2015 - 17:44:58: "vlad<137><STEAM_0:4:740208075><CT>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" with "awp"
+L 04/02/2015 - 17:45:03: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:45:03: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:45:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "7")
+L 04/02/2015 - 17:45:03: World triggered "Round_End"
+L 04/02/2015 - 17:45:07: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" joined team "CT"
+L 04/02/2015 - 17:45:13: World triggered "Round_Start"
+L 04/02/2015 - 17:45:23: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "444") (damage_armor "0") (health "-344") (armor "0")
+L 04/02/2015 - 17:45:23: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:45:32: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:45:32: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp"
+L 04/02/2015 - 17:45:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "8")
+L 04/02/2015 - 17:45:32: World triggered "Round_End"
+L 04/02/2015 - 17:45:42: World triggered "Round_Start"
+L 04/02/2015 - 17:45:48: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "53") (damage_armor "0") (health "47") (armor "0")
+L 04/02/2015 - 17:45:49: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 04/02/2015 - 17:45:51: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "51") (damage_armor "1") (health "-16") (armor "98")
+L 04/02/2015 - 17:45:51: "vlad<137><STEAM_0:4:740208075><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:45:51: Team "CT" triggered "CTs_Win" (CT "16") (T "8")
+L 04/02/2015 - 17:45:51: World triggered "Round_End"
+L 04/02/2015 - 17:46:01: World triggered "Round_Start"
+L 04/02/2015 - 17:46:11: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:46:11: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp"
+L 04/02/2015 - 17:46:12: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:46:12: "vlad<137><STEAM_0:4:740208075><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:46:12: Team "CT" triggered "CTs_Win" (CT "17") (T "8")
+L 04/02/2015 - 17:46:12: World triggered "Round_End"
+L 04/02/2015 - 17:46:22: World triggered "Round_Start"
+L 04/02/2015 - 17:46:25: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "sg552" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/02/2015 - 17:46:27: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "sg552" (damage "48") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 17:46:28: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/02/2015 - 17:46:28: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:46:28: Team "CT" triggered "CTs_Win" (CT "18") (T "8")
+L 04/02/2015 - 17:46:28: World triggered "Round_End"
+L 04/02/2015 - 17:46:38: World triggered "Round_Start"
+L 04/02/2015 - 17:46:38: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:46:38: "vlad<137><STEAM_0:4:740208075><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:46:38: Team "CT" triggered "CTs_Win" (CT "19") (T "8")
+L 04/02/2015 - 17:46:38: World triggered "Round_End"
+L 04/02/2015 - 17:46:48: World triggered "Round_Start"
+L 04/02/2015 - 17:46:48: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 17:46:48: "vlad<137><STEAM_0:4:740208075><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:46:48: Team "CT" triggered "CTs_Win" (CT "20") (T "8")
+L 04/02/2015 - 17:46:48: World triggered "Round_End"
+L 04/02/2015 - 17:46:53: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 17:46:53: "ANGELuHA<141><STEAM_0:4:1018023685><>" connected, address "178.124.7.208:27005"
+L 04/02/2015 - 17:46:53: [VTC] Player 4 speex
+L 04/02/2015 - 17:46:53: Kick: "ANGELuHA<141><STEAM_0:4:1018023685><>" was kicked by "Console" (message " Вы не имеете права входа на этот сервер...")
+L 04/02/2015 - 17:46:55: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" committed suicide with "world"
+L 04/02/2015 - 17:46:55: Team "CT" triggered "CTs_Win" (CT "21") (T "8")
+L 04/02/2015 - 17:46:55: World triggered "Round_End"
+L 04/02/2015 - 17:46:55: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" joined team "SPECTATOR"
+L 04/02/2015 - 17:46:58: World triggered "Round_Start"
+L 04/02/2015 - 17:47:03: "vlad<137><STEAM_0:4:740208075><CT>" committed suicide with "world"
+L 04/02/2015 - 17:47:03: "vlad<137><STEAM_0:4:740208075><CT>" joined team "TERRORIST"
+L 04/02/2015 - 17:47:05: World triggered "Game_Commencing"
+L 04/02/2015 - 17:47:05: World triggered "Game_Commencing" (CT "21") (T "8")
+L 04/02/2015 - 17:47:05: World triggered "Round_End"
+L 04/02/2015 - 17:47:05: "Skyfall<140><STEAM_0:1:6978287><SPECTATOR>" joined team "TERRORIST"
+L 04/02/2015 - 17:47:13: World triggered "Round_Start"
+L 04/02/2015 - 17:47:21: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 04/02/2015 - 17:47:21: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp"
+L 04/02/2015 - 17:47:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/02/2015 - 17:47:21: World triggered "Round_End"
+L 04/02/2015 - 17:47:23: "vlad<137><STEAM_0:4:740208075><TERRORIST>" committed suicide with "world"
+L 04/02/2015 - 17:47:23: "vlad<137><STEAM_0:4:740208075><TERRORIST>" joined team "CT"
+L 04/02/2015 - 17:47:31: World triggered "Round_Start"
+L 04/02/2015 - 17:47:35: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/02/2015 - 17:47:35: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:47:35: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/02/2015 - 17:47:35: World triggered "Round_End"
+L 04/02/2015 - 17:47:45: World triggered "Round_Start"
+L 04/02/2015 - 17:47:46: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "39") (damage_armor "0") (health "61") (armor "100")
+L 04/02/2015 - 17:47:57: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "66") (damage_armor "0") (health "34") (armor "0")
+L 04/02/2015 - 17:48:11: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:48:11: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp"
+L 04/02/2015 - 17:48:31: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "444") (damage_armor "0") (health "-410") (armor "0")
+L 04/02/2015 - 17:48:31: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:48:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/02/2015 - 17:48:31: World triggered "Round_End"
+L 04/02/2015 - 17:48:41: World triggered "Round_Start"
+L 04/02/2015 - 17:48:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "vlad<137><STEAM_0:4:740208075><CT>" with "awp" (damage "212") (damage_armor "0") (health "-112") (armor "0")
+L 04/02/2015 - 17:48:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "vlad<137><STEAM_0:4:740208075><CT>" with "awp"
+L 04/02/2015 - 17:49:01: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp" (damage "109") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 17:49:01: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp"
+L 04/02/2015 - 17:49:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 04/02/2015 - 17:49:01: World triggered "Round_End"
+L 04/02/2015 - 17:49:11: World triggered "Round_Start"
+L 04/02/2015 - 17:49:13: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp" (damage "135") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 17:49:13: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" with "awp"
+L 04/02/2015 - 17:49:17: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/02/2015 - 17:49:17: "vlad<137><STEAM_0:4:740208075><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:49:17: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 04/02/2015 - 17:49:17: World triggered "Round_End"
+L 04/02/2015 - 17:49:27: World triggered "Round_Start"
+L 04/02/2015 - 17:49:27: "vlad<137><STEAM_0:4:740208075><CT>" attacked "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "432") (damage_armor "0") (health "-332") (armor "0")
+L 04/02/2015 - 17:49:27: "vlad<137><STEAM_0:4:740208075><CT>" killed "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/02/2015 - 17:49:27: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 04/02/2015 - 17:49:27: World triggered "Round_End"
+L 04/02/2015 - 17:49:29: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" joined team "SPECTATOR"
+L 04/02/2015 - 17:49:37: World triggered "Round_Start"
+L 04/02/2015 - 17:49:42: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" committed suicide with "world"
+L 04/02/2015 - 17:49:42: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><CT>" joined team "TERRORIST"
+L 04/02/2015 - 17:49:43: World triggered "Game_Commencing"
+L 04/02/2015 - 17:49:43: World triggered "Game_Commencing" (CT "3") (T "3")
+L 04/02/2015 - 17:49:43: World triggered "Round_End"
+L 04/02/2015 - 17:49:44: "Skyfall<140><STEAM_0:1:6978287><SPECTATOR>" joined team "TERRORIST"
+L 04/02/2015 - 17:49:45: Server cvar "amx_nextmap" = "aim_headshot"
+L 04/02/2015 - 17:49:45: Server cvar "mp_timelimit" = "0.000000"
+L 04/02/2015 - 17:49:51: Server cvar "mp_timelimit" = "0.010000"
+L 04/02/2015 - 17:49:51: World triggered "Round_Start"
+L 04/02/2015 - 17:49:51: Team "CT" scored "0" with "1" players
+L 04/02/2015 - 17:49:51: Team "TERRORIST" scored "0" with "2" players
+L 04/02/2015 - 17:49:51: Server cvar "mp_chattime" = "3"
+L 04/02/2015 - 17:49:52: Server cvar "mp_chattime" = "1"
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats" (weapon "usp") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats" (weapon "awp") (shots "68") (hits "24") (kills "21") (headshots "2") (tks "0") (damage "3028") (deaths "7")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "2") (leftarm "12") (rightarm "5") (leftleg "0") (rightleg "2")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats" (weapon "knife") (shots "24") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "time" (time "10:08")
+L 04/02/2015 - 17:49:52: "vlad<137><STEAM_0:4:740208075><CT>" triggered "latency" (ping "90")
+L 04/02/2015 - 17:49:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "31") (hits "13") (kills "11") (headshots "3") (tks "0") (damage "2062") (deaths "4")
+L 04/02/2015 - 17:49:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "1") (stomach "2") (leftarm "6") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" triggered "weaponstats" (weapon "sg552") (shots "11") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "60") (deaths "1")
+L 04/02/2015 - 17:49:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" triggered "weaponstats2" (weapon "sg552") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" triggered "time" (time "5:30")
+L 04/02/2015 - 17:49:52: "Skyfall<140><STEAM_0:1:6978287><TERRORIST>" triggered "latency" (ping "30")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "18") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "18") (deaths "6")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "38") (hits "17") (kills "13") (headshots "1") (tks "0") (damage "2088") (deaths "13")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "5") (stomach "4") (leftarm "4") (rightarm "0") (leftleg "1") (rightleg "2")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "time" (time "11:06")
+L 04/02/2015 - 17:49:52: "[Hard_Skill]_4ekHyTbIu*<133><STEAM_0:4:2064031874><TERRORIST>" triggered "latency" (ping "94")
+L 04/02/2015 - 17:49:52: Server cvar "mp_timelimit" = "30.000000"
+L 04/02/2015 - 17:49:52: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/02/2015 - 17:49:52: [META] ini: Read plugin config for: AMX Mod X
+L 04/02/2015 - 17:49:52: [META] ini: Read plugin config for: dproto_EF
+L 04/02/2015 - 17:49:52: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/02/2015 - 17:49:52: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/02/2015 - 17:49:52: [META] dll: Updating plugins...
+L 04/02/2015 - 17:49:52: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/02/2015 - 17:49:52: Log file closed

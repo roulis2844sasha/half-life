@@ -1,0 +1,256 @@
+L 03/24/2015 - 13:06:52: Log file started (file "logs/L0324048.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/24/2015 - 13:06:52: Loading map "cs_deagle5"
+L 03/24/2015 - 13:06:52: Server cvars start
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_debug_level" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_examine_time" = "0.5"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_look_angle" = "10"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_look_distance" = "200"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_message_repeats" = "5"
+L 03/24/2015 - 13:06:52: Server cvar "_tutor_view_distance" = "1000"
+L 03/24/2015 - 13:06:52: Server cvar "aesp_version" = "1.5b_mini"
+L 03/24/2015 - 13:06:52: Server cvar "allow_spectators" = "4"
+L 03/24/2015 - 13:06:52: Server cvar "amx_client_languages" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/24/2015 - 13:06:52: Server cvar "amx_language" = "ru"
+L 03/24/2015 - 13:06:52: Server cvar "amx_nextmap" = "de_go_go_go"
+L 03/24/2015 - 13:06:52: Server cvar "amx_timeleft" = "15:31"
+L 03/24/2015 - 13:06:52: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/24/2015 - 13:06:52: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/24/2015 - 13:06:52: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Config" = "Loaded"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Replace" = "Failed"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Status" = "Loaded"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/24/2015 - 13:06:52: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/24/2015 - 13:06:52: Server cvar "coop" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "deathmatch" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "decalfrequency" = "9"
+L 03/24/2015 - 13:06:52: Server cvar "dp_version" = "0.9.391"
+L 03/24/2015 - 13:06:52: Server cvar "edgefriction" = "2"
+L 03/24/2015 - 13:06:52: Server cvar "hostage_debug" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "hostage_stop" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "humans_join_team" = "any"
+L 03/24/2015 - 13:06:52: Server cvar "jtp10181" = "chute"
+L 03/24/2015 - 13:06:52: Server cvar "max_queries_sec" = "3.0"
+L 03/24/2015 - 13:06:52: Server cvar "max_queries_sec_global" = "30"
+L 03/24/2015 - 13:06:52: Server cvar "max_queries_window" = "60"
+L 03/24/2015 - 13:06:52: Server cvar "metamod_version" = "1.19"
+L 03/24/2015 - 13:06:52: Server cvar "mp_allowmonsters" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_autokick" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_autoteambalance" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_buytime" = "1.5"
+L 03/24/2015 - 13:06:52: Server cvar "mp_c4timer" = "35"
+L 03/24/2015 - 13:06:52: Server cvar "mp_chattime" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_consistency" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_fadetoblack" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_flashlight" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_footsteps" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_forcecamera" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_forcechasecam" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_fragsleft" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_freezetime" = "5"
+L 03/24/2015 - 13:06:52: Server cvar "mp_friendlyfire" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_hostagepenalty" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_kickpercent" = "0.66"
+L 03/24/2015 - 13:06:52: Server cvar "mp_limitteams" = "5"
+L 03/24/2015 - 13:06:52: Server cvar "mp_logdetail" = "3"
+L 03/24/2015 - 13:06:52: Server cvar "mp_logfile" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_logmessages" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/24/2015 - 13:06:52: Server cvar "mp_maxrounds" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_mirrordamage" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_playerid" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_roundtime" = "2.57"
+L 03/24/2015 - 13:06:52: Server cvar "mp_startmoney" = "800"
+L 03/24/2015 - 13:06:52: Server cvar "mp_timeleft" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "mp_timelimit" = "30.000000"
+L 03/24/2015 - 13:06:52: Server cvar "mp_tkpunish" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_windifference" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "mp_winlimit" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "pausable" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_accelerate" = "5"
+L 03/24/2015 - 13:06:52: Server cvar "sv_aim" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_airaccelerate" = "10"
+L 03/24/2015 - 13:06:52: Server cvar "sv_airmove" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "sv_allowupload" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "sv_alltalk" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_bounce" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "sv_cheats" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_clienttrace" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "sv_clipmode" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_contact" = ""
+L 03/24/2015 - 13:06:52: Server cvar "sv_friction" = "4"
+L 03/24/2015 - 13:06:52: Server cvar "sv_gravity" = "800"
+L 03/24/2015 - 13:06:52: Server cvar "sv_logblocks" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_maxrate" = "50000"
+L 03/24/2015 - 13:06:52: Server cvar "sv_maxspeed" = "900"
+L 03/24/2015 - 13:06:52: Server cvar "sv_minrate" = "100000"
+L 03/24/2015 - 13:06:52: Server cvar "sv_password" = ""
+L 03/24/2015 - 13:06:52: Server cvar "sv_proxies" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_region" = "255"
+L 03/24/2015 - 13:06:52: Server cvar "sv_restart" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_restartround" = "0"
+L 03/24/2015 - 13:06:52: Server cvar "sv_stepsize" = "18"
+L 03/24/2015 - 13:06:52: Server cvar "sv_stopspeed" = "75"
+L 03/24/2015 - 13:06:52: Server cvar "sv_uploadmax" = "0.5"
+L 03/24/2015 - 13:06:52: Server cvar "sv_voiceenable" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "sv_wateraccelerate" = "10"
+L 03/24/2015 - 13:06:52: Server cvar "sv_waterfriction" = "1"
+L 03/24/2015 - 13:06:52: Server cvar "travo_statmarquee" = "v1.2"
+L 03/24/2015 - 13:06:52: Server cvar "ultimate_sounds" = "1.7"
+L 03/24/2015 - 13:06:52: Server cvar "vtc_version" = "80"
+L 03/24/2015 - 13:06:52: Server cvars end
+L 03/24/2015 - 13:06:53: Server cvar "amx_nextmap" = "aim_ak-colt"
+L 03/24/2015 - 13:06:53: Server cvar "sv_restart" = "1"
+L 03/24/2015 - 13:06:53: World triggered "Restart_Round_(1_second)"
+L 03/24/2015 - 13:06:53: Team "CT" scored "0" with "0" players
+L 03/24/2015 - 13:06:53: Team "TERRORIST" scored "0" with "0" players
+L 03/24/2015 - 13:06:53: Server cvar "sv_restart" = "0"
+L 03/24/2015 - 13:06:53: Started map "cs_deagle5" (CRC "-1198965124")
+L 03/24/2015 - 13:06:53: [VTC] Player 4 speex
+L 03/24/2015 - 13:06:53: [VTC] Player 3 speex
+L 03/24/2015 - 13:06:53: [VTC] Player 1 speex
+L 03/24/2015 - 13:06:56: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39a1be4
+L 03/24/2015 - 13:06:56: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61709"
+L 03/24/2015 - 13:06:56: [VTC] Player 4 speex
+L 03/24/2015 - 13:06:58: World triggered "Round_Start"
+L 03/24/2015 - 13:06:58: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><>" entered the game
+L 03/24/2015 - 13:06:59: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><>" joined team "TERRORIST"
+L 03/24/2015 - 13:07:08: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><>" entered the game
+L 03/24/2015 - 13:07:29: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><>" joined team "CT"
+L 03/24/2015 - 13:07:29: World triggered "Game_Commencing"
+L 03/24/2015 - 13:07:29: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/24/2015 - 13:07:29: World triggered "Round_End"
+L 03/24/2015 - 13:07:37: World triggered "Round_Start"
+L 03/24/2015 - 13:07:47: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "31") (damage_armor "6") (health "69") (armor "94")
+L 03/24/2015 - 13:07:47: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "25") (damage_armor "4") (health "44") (armor "90")
+L 03/24/2015 - 13:07:48: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "24") (damage_armor "4") (health "20") (armor "86")
+L 03/24/2015 - 13:07:56: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "102") (damage_armor "17") (health "-2") (armor "83")
+L 03/24/2015 - 13:07:56: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" killed "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle"
+L 03/24/2015 - 13:07:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/24/2015 - 13:07:56: World triggered "Round_End"
+L 03/24/2015 - 13:08:06: World triggered "Round_Start"
+L 03/24/2015 - 13:08:17: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "28") (damage_armor "5") (health "72") (armor "95")
+L 03/24/2015 - 13:08:18: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "28") (damage_armor "5") (health "44") (armor "90")
+L 03/24/2015 - 13:08:18: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "28") (damage_armor "5") (health "72") (armor "95")
+L 03/24/2015 - 13:08:18: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "35") (damage_armor "6") (health "9") (armor "84")
+L 03/24/2015 - 13:08:19: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "28") (damage_armor "5") (health "44") (armor "90")
+L 03/24/2015 - 13:08:19: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "114") (damage_armor "19") (health "-70") (armor "71")
+L 03/24/2015 - 13:08:19: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" killed "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle"
+L 03/24/2015 - 13:08:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/24/2015 - 13:08:19: World triggered "Round_End"
+L 03/24/2015 - 13:08:29: World triggered "Round_Start"
+L 03/24/2015 - 13:08:40: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "28") (damage_armor "5") (health "72") (armor "95")
+L 03/24/2015 - 13:08:40: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "29") (damage_armor "5") (health "71") (armor "95")
+L 03/24/2015 - 13:08:50: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "87") (damage_armor "15") (health "-16") (armor "80")
+L 03/24/2015 - 13:08:50: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" killed "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle"
+L 03/24/2015 - 13:08:50: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 03/24/2015 - 13:08:50: World triggered "Round_End"
+L 03/24/2015 - 13:09:00: World triggered "Round_Start"
+L 03/24/2015 - 13:09:08: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "14") (damage_armor "0") (health "86") (armor "100")
+L 03/24/2015 - 13:09:10: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "29") (damage_armor "5") (health "71") (armor "95")
+L 03/24/2015 - 13:09:45: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "33") (damage_armor "0") (health "53") (armor "100")
+L 03/24/2015 - 13:09:45: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "33") (damage_armor "6") (health "38") (armor "89")
+L 03/24/2015 - 13:09:45: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" with "deagle" (damage "33") (damage_armor "6") (health "20") (armor "94")
+L 03/24/2015 - 13:09:45: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" attacked "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle" (damage "41") (damage_armor "7") (health "-3") (armor "82")
+L 03/24/2015 - 13:09:45: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" killed "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" with "deagle"
+L 03/24/2015 - 13:09:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/24/2015 - 13:09:45: World triggered "Round_End"
+L 03/24/2015 - 13:09:55: World triggered "Round_Start"
+L 03/24/2015 - 13:09:56: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "deagle") (shots "40") (hits "11") (kills "1") (headshots "1") (tks "0") (damage "367") (deaths "3")
+L 03/24/2015 - 13:09:56: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "2") (leftarm "5") (rightarm "1") (leftleg "1") (rightleg "1")
+L 03/24/2015 - 13:09:56: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" triggered "time" (time "2:48")
+L 03/24/2015 - 13:09:56: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" triggered "latency" (ping "3")
+L 03/24/2015 - 13:09:56: "[Hard_Skill]_Dasha<71><STEAM_0:4:1068366041><CT>" disconnected
+L 03/24/2015 - 13:13:40: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" committed suicide with "world"
+L 03/24/2015 - 13:13:40: World triggered "Round_Draw" (CT "1") (T "3")
+L 03/24/2015 - 13:13:40: World triggered "Round_End"
+L 03/24/2015 - 13:13:40: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><TERRORIST>" joined team "CT"
+L 03/24/2015 - 13:13:50: World triggered "Round_Start"
+L 03/24/2015 - 13:17:48: World triggered "Round_Draw" (CT "1") (T "3")
+L 03/24/2015 - 13:17:48: World triggered "Round_End"
+L 03/24/2015 - 13:17:48: World triggered "Round_Draw" (CT "1") (T "3")
+L 03/24/2015 - 13:17:48: World triggered "Round_End"
+L 03/24/2015 - 13:17:58: World triggered "Round_Start"
+L 03/24/2015 - 13:18:29: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ccf0
+L 03/24/2015 - 13:18:29: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><>" connected, address "10.19.7.214:27005"
+L 03/24/2015 - 13:18:29: [VTC] Player 3 speex
+L 03/24/2015 - 13:18:45: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><>" entered the game
+L 03/24/2015 - 13:18:48: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><>" joined team "TERRORIST"
+L 03/24/2015 - 13:18:48: World triggered "Game_Commencing"
+L 03/24/2015 - 13:18:48: World triggered "Game_Commencing" (CT "1") (T "3")
+L 03/24/2015 - 13:18:48: World triggered "Round_End"
+L 03/24/2015 - 13:18:56: World triggered "Round_Start"
+L 03/24/2015 - 13:19:05: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "13") (damage_armor "0") (health "78") (armor "100")
+L 03/24/2015 - 13:19:06: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "35") (damage_armor "6") (health "65") (armor "94")
+L 03/24/2015 - 13:19:06: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "28") (damage_armor "0") (health "37") (armor "94")
+L 03/24/2015 - 13:19:06: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "13") (damage_armor "0") (health "65") (armor "100")
+L 03/24/2015 - 13:19:07: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "28") (damage_armor "5") (health "9") (armor "89")
+L 03/24/2015 - 13:19:11: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "36") (damage_armor "6") (health "-27") (armor "83")
+L 03/24/2015 - 13:19:11: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" killed "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle"
+L 03/24/2015 - 13:19:11: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/24/2015 - 13:19:11: World triggered "Round_End"
+L 03/24/2015 - 13:19:21: World triggered "Round_Start"
+L 03/24/2015 - 13:19:25: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 03/24/2015 - 13:19:25: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "60") (damage_armor "10") (health "40") (armor "90")
+L 03/24/2015 - 13:19:35: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "120") (damage_armor "20") (health "-32") (armor "80")
+L 03/24/2015 - 13:19:35: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" killed "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle"
+L 03/24/2015 - 13:19:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 03/24/2015 - 13:19:35: World triggered "Round_End"
+L 03/24/2015 - 13:19:45: World triggered "Round_Start"
+L 03/24/2015 - 13:19:55: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "12") (damage_armor "3") (health "88") (armor "97")
+L 03/24/2015 - 13:19:56: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "27") (damage_armor "0") (health "73") (armor "100")
+L 03/24/2015 - 13:19:56: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "12") (damage_armor "0") (health "76") (armor "97")
+L 03/24/2015 - 13:19:56: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "12") (damage_armor "0") (health "64") (armor "97")
+L 03/24/2015 - 13:19:56: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "15") (damage_armor "2") (health "49") (armor "95")
+L 03/24/2015 - 13:20:01: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" with "deagle" (damage "27") (damage_armor "5") (health "22") (armor "90")
+L 03/24/2015 - 13:20:04: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "27") (damage_armor "0") (health "46") (armor "100")
+L 03/24/2015 - 13:20:05: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "27") (damage_armor "0") (health "19") (armor "100")
+L 03/24/2015 - 13:20:09: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "30") (damage_armor "0") (health "-11") (armor "100")
+L 03/24/2015 - 13:20:09: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" killed "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle"
+L 03/24/2015 - 13:20:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/24/2015 - 13:20:09: World triggered "Round_End"
+L 03/24/2015 - 13:20:19: World triggered "Round_Start"
+L 03/24/2015 - 13:20:30: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "15") (damage_armor "0") (health "85") (armor "100")
+L 03/24/2015 - 13:20:30: Server cvar "amx_nextmap" = "$1000$"
+L 03/24/2015 - 13:20:30: Server cvar "mp_timelimit" = "0.000000"
+L 03/24/2015 - 13:20:34: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "38") (damage_armor "7") (health "47") (armor "93")
+L 03/24/2015 - 13:20:34: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "38") (damage_armor "6") (health "9") (armor "87")
+L 03/24/2015 - 13:20:35: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle" (damage "38") (damage_armor "7") (health "-29") (armor "80")
+L 03/24/2015 - 13:20:35: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" killed "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" with "deagle"
+L 03/24/2015 - 13:20:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/24/2015 - 13:20:35: World triggered "Round_End"
+L 03/24/2015 - 13:20:37: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "57") (hits "12") (kills "3") (headshots "1") (tks "0") (damage "398") (deaths "1")
+L 03/24/2015 - 13:20:37: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "3") (leftarm "0") (rightarm "0") (leftleg "5") (rightleg "3")
+L 03/24/2015 - 13:20:37: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" triggered "time" (time "1:52")
+L 03/24/2015 - 13:20:37: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" triggered "latency" (ping "0")
+L 03/24/2015 - 13:20:37: "[Hard_Skill]_Dasha<93><STEAM_0:4:1068366041><TERRORIST>" disconnected
+L 03/24/2015 - 13:20:45: Server cvar "mp_timelimit" = "0.010000"
+L 03/24/2015 - 13:20:45: World triggered "Round_Start"
+L 03/24/2015 - 13:20:45: Team "CT" scored "1" with "1" players
+L 03/24/2015 - 13:20:45: Team "TERRORIST" scored "3" with "0" players
+L 03/24/2015 - 13:20:45: Server cvar "mp_chattime" = "3"
+L 03/24/2015 - 13:20:46: Server cvar "mp_chattime" = "1"
+L 03/24/2015 - 13:20:46: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "deagle") (shots "131") (hits "18") (kills "4") (headshots "2") (tks "0") (damage "668") (deaths "4")
+L 03/24/2015 - 13:20:46: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "deagle") (head "3") (chest "1") (stomach "4") (leftarm "6") (rightarm "1") (leftleg "1") (rightleg "2")
+L 03/24/2015 - 13:20:46: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "knife") (shots "22") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/24/2015 - 13:20:46: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 13:20:46: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" triggered "time" (time "13:47")
+L 03/24/2015 - 13:20:46: "[Easy_Skill]_Faza#1<92><STEAM_0:0:969824236><CT>" triggered "latency" (ping "15")
+L 03/24/2015 - 13:20:46: Server cvar "mp_timelimit" = "30.000000"
+L 03/24/2015 - 13:20:46: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/24/2015 - 13:20:46: [META] ini: Read plugin config for: AMX Mod X
+L 03/24/2015 - 13:20:46: [META] ini: Read plugin config for: dproto_EF
+L 03/24/2015 - 13:20:46: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/24/2015 - 13:20:46: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/24/2015 - 13:20:46: [META] dll: Updating plugins...
+L 03/24/2015 - 13:20:46: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/24/2015 - 13:20:46: Log file closed

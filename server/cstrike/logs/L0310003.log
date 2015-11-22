@@ -1,0 +1,283 @@
+L 03/10/2015 - 23:35:37: Log file started (file "logs/L0310003.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/10/2015 - 23:35:37: Loading map "$2000$"
+L 03/10/2015 - 23:35:37: Server cvars start
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_debug_level" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_examine_time" = "0.5"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_look_angle" = "10"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_look_distance" = "200"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_message_repeats" = "5"
+L 03/10/2015 - 23:35:37: Server cvar "_tutor_view_distance" = "1000"
+L 03/10/2015 - 23:35:37: Server cvar "aesp_version" = "1.5b_mini"
+L 03/10/2015 - 23:35:37: Server cvar "allow_spectators" = "2"
+L 03/10/2015 - 23:35:37: Server cvar "amx_client_languages" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/10/2015 - 23:35:37: Server cvar "amx_language" = "ru"
+L 03/10/2015 - 23:35:37: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 03/10/2015 - 23:35:37: Server cvar "amx_timeleft" = "24:49"
+L 03/10/2015 - 23:35:37: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/10/2015 - 23:35:37: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/10/2015 - 23:35:37: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Config" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Status" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/10/2015 - 23:35:37: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/10/2015 - 23:35:37: Server cvar "coop" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "deathmatch" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "decalfrequency" = "9"
+L 03/10/2015 - 23:35:37: Server cvar "dp_version" = "0.9.391"
+L 03/10/2015 - 23:35:37: Server cvar "edgefriction" = "2"
+L 03/10/2015 - 23:35:37: Server cvar "hostage_debug" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "hostage_stop" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "humans_join_team" = "any"
+L 03/10/2015 - 23:35:37: Server cvar "jtp10181" = "chute"
+L 03/10/2015 - 23:35:37: Server cvar "max_queries_sec" = "3.0"
+L 03/10/2015 - 23:35:37: Server cvar "max_queries_sec_global" = "30"
+L 03/10/2015 - 23:35:37: Server cvar "max_queries_window" = "60"
+L 03/10/2015 - 23:35:37: Server cvar "metamod_version" = "1.19p32"
+L 03/10/2015 - 23:35:37: Server cvar "mp_allowmonsters" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_autokick" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_autoteambalance" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_buytime" = "1.5"
+L 03/10/2015 - 23:35:37: Server cvar "mp_c4timer" = "35"
+L 03/10/2015 - 23:35:37: Server cvar "mp_chattime" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_consistency" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_fadetoblack" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_flashlight" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_footsteps" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_forcecamera" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_forcechasecam" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_fragsleft" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_freezetime" = "5"
+L 03/10/2015 - 23:35:37: Server cvar "mp_friendlyfire" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_hostagepenalty" = "2"
+L 03/10/2015 - 23:35:37: Server cvar "mp_kickpercent" = "0.66"
+L 03/10/2015 - 23:35:37: Server cvar "mp_limitteams" = "2"
+L 03/10/2015 - 23:35:37: Server cvar "mp_logdetail" = "3"
+L 03/10/2015 - 23:35:37: Server cvar "mp_logfile" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_logmessages" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/10/2015 - 23:35:37: Server cvar "mp_maxrounds" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_mirrordamage" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_playerid" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_roundtime" = "2.57"
+L 03/10/2015 - 23:35:37: Server cvar "mp_startmoney" = "800"
+L 03/10/2015 - 23:35:37: Server cvar "mp_timeleft" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "mp_timelimit" = "30"
+L 03/10/2015 - 23:35:37: Server cvar "mp_tkpunish" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_windifference" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "mp_winlimit" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "pausable" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "sv_accelerate" = "5"
+L 03/10/2015 - 23:35:37: Server cvar "sv_aim" = "off"
+L 03/10/2015 - 23:35:37: Server cvar "sv_airaccelerate" = "10"
+L 03/10/2015 - 23:35:37: Server cvar "sv_airmove" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "sv_allowupload" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "sv_alltalk" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "sv_bounce" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "sv_cheats" = "off"
+L 03/10/2015 - 23:35:37: Server cvar "sv_clienttrace" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "sv_clipmode" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "sv_contact" = ""
+L 03/10/2015 - 23:35:37: Server cvar "sv_friction" = "4"
+L 03/10/2015 - 23:35:37: Server cvar "sv_gravity" = "800"
+L 03/10/2015 - 23:35:37: Server cvar "sv_logblocks" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "sv_maxrate" = "50000"
+L 03/10/2015 - 23:35:37: Server cvar "sv_maxspeed" = "320"
+L 03/10/2015 - 23:35:37: Server cvar "sv_minrate" = "100000"
+L 03/10/2015 - 23:35:37: Server cvar "sv_password" = ""
+L 03/10/2015 - 23:35:37: Server cvar "sv_proxies" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "sv_region" = "3"
+L 03/10/2015 - 23:35:37: Server cvar "sv_restart" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "sv_restartround" = "0"
+L 03/10/2015 - 23:35:37: Server cvar "sv_stepsize" = "18"
+L 03/10/2015 - 23:35:37: Server cvar "sv_stopspeed" = "75"
+L 03/10/2015 - 23:35:37: Server cvar "sv_uploadmax" = "0.5"
+L 03/10/2015 - 23:35:37: Server cvar "sv_voiceenable" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "sv_wateraccelerate" = "10"
+L 03/10/2015 - 23:35:37: Server cvar "sv_waterfriction" = "1"
+L 03/10/2015 - 23:35:37: Server cvar "ultimate_sounds" = "1.7"
+L 03/10/2015 - 23:35:37: Server cvar "vtc_version" = "80"
+L 03/10/2015 - 23:35:37: Server cvars end
+L 03/10/2015 - 23:35:37: Server cvar "sv_maxspeed" = "900"
+L 03/10/2015 - 23:35:37: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 03/10/2015 - 23:35:37: Started map "$2000$" (CRC "-1688392397")
+L 03/10/2015 - 23:35:43: World triggered "Round_Start"
+L 03/11/2015 - 00:00:08: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:00:08: "Tarek<1><STEAM_0:0:1881356328><>" connected, address "105.107.182.47:27005"
+L 03/11/2015 - 00:00:08: [VTC] Player 1 speex
+L 03/11/2015 - 00:00:22: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:00:22: "Tarek<2><STEAM_0:0:1881356328><>" connected, address "105.107.182.47:27005"
+L 03/11/2015 - 00:00:22: [VTC] Player 1 speex
+L 03/11/2015 - 00:00:29: "Tarek<2><STEAM_0:0:1881356328><>" entered the game
+L 03/11/2015 - 00:00:33: "Tarek<2><STEAM_0:0:1881356328><>" joined team "CT"
+L 03/11/2015 - 00:00:57: "Tarek<2><STEAM_0:0:1881356328><CT>" triggered "time" (time "0:27")
+L 03/11/2015 - 00:00:57: "Tarek<2><STEAM_0:0:1881356328><CT>" triggered "latency" (ping "161")
+L 03/11/2015 - 00:00:57: "Tarek<2><STEAM_0:0:1881356328><CT>" disconnected
+L 03/11/2015 - 00:00:57: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/11/2015 - 00:00:57: World triggered "Round_End"
+L 03/11/2015 - 00:00:57: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:00:57: "Tarek<3><STEAM_0:0:1881356328><>" connected, address "105.107.182.47:27005"
+L 03/11/2015 - 00:00:58: [VTC] Player 1 speex
+L 03/11/2015 - 00:01:04: "Tarek<3><STEAM_0:0:1881356328><>" entered the game
+L 03/11/2015 - 00:01:07: "Tarek<3><STEAM_0:0:1881356328><>" joined team "CT"
+L 03/11/2015 - 00:01:07: World triggered "Round_Start"
+L 03/11/2015 - 00:01:21: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3900dfc
+L 03/11/2015 - 00:01:21: "Noufel<4><STEAM_0:0:1424346109><>" connected, address "105.107.188.14:14583"
+L 03/11/2015 - 00:01:21: [VTC] Player 2 speex
+L 03/11/2015 - 00:01:44: Kick: "Tarek<3><STEAM_0:0:1881356328><>" was kicked by "Console" (message ""[Nice Kicker] Выпилен за высокий пинг 176!"")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" triggered "weaponstats" (weapon "m4a1") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" triggered "time" (time "0:40")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" triggered "latency" (ping "164")
+L 03/11/2015 - 00:01:44: "Tarek<3><STEAM_0:0:1881356328><CT>" disconnected
+L 03/11/2015 - 00:01:44: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/11/2015 - 00:01:44: World triggered "Round_End"
+L 03/11/2015 - 00:01:45: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3900dfc
+L 03/11/2015 - 00:01:45: "Noufel<5><STEAM_0:0:1424346109><>" connected, address "105.107.188.14:14583"
+L 03/11/2015 - 00:01:45: [VTC] Player 2 speex
+L 03/11/2015 - 00:01:48: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:01:48: "Tarek<6><STEAM_0:0:1881356328><>" connected, address "105.107.182.47:27005"
+L 03/11/2015 - 00:01:48: [VTC] Player 1 speex
+L 03/11/2015 - 00:01:52: "Noufel<5><STEAM_0:0:1424346109><>" entered the game
+L 03/11/2015 - 00:01:54: World triggered "Round_Start"
+L 03/11/2015 - 00:01:56: "Tarek<6><STEAM_0:0:1881356328><>" entered the game
+L 03/11/2015 - 00:01:59: "Tarek<6><STEAM_0:0:1881356328><>" joined team "CT"
+L 03/11/2015 - 00:02:03: "Tarek<6><STEAM_0:0:1881356328><CT>" triggered "time" (time "0:07")
+L 03/11/2015 - 00:02:03: "Tarek<6><STEAM_0:0:1881356328><CT>" triggered "latency" (ping "0")
+L 03/11/2015 - 00:02:03: "Tarek<6><STEAM_0:0:1881356328><CT>" disconnected
+L 03/11/2015 - 00:02:03: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/11/2015 - 00:02:03: World triggered "Round_End"
+L 03/11/2015 - 00:02:04: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:02:04: "Tarek<7><STEAM_0:0:1881356328><>" connected, address "105.107.182.47:27005"
+L 03/11/2015 - 00:02:04: [VTC] Player 1 speex
+L 03/11/2015 - 00:02:09: "Noufel<5><STEAM_0:0:1424346109><>" joined team "TERRORIST"
+L 03/11/2015 - 00:02:11: "Tarek<7><STEAM_0:0:1881356328><>" entered the game
+L 03/11/2015 - 00:02:13: World triggered "Round_Start"
+L 03/11/2015 - 00:02:13: "Tarek<7><STEAM_0:0:1881356328><>" joined team "CT"
+L 03/11/2015 - 00:02:15: World triggered "Game_Commencing"
+L 03/11/2015 - 00:02:15: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/11/2015 - 00:02:15: World triggered "Round_End"
+L 03/11/2015 - 00:02:23: World triggered "Round_Start"
+L 03/11/2015 - 00:02:27: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/11/2015 - 00:02:27: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" killed "Tarek<7><STEAM_0:0:1881356328><CT>" with "awp"
+L 03/11/2015 - 00:02:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/11/2015 - 00:02:27: World triggered "Round_End"
+L 03/11/2015 - 00:02:37: World triggered "Round_Start"
+L 03/11/2015 - 00:03:00: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 03/11/2015 - 00:03:00: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" killed "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1"
+L 03/11/2015 - 00:03:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/11/2015 - 00:03:00: World triggered "Round_End"
+L 03/11/2015 - 00:03:10: World triggered "Round_Start"
+L 03/11/2015 - 00:03:12: Kick: "Noufel<5><STEAM_0:0:1424346109><>" was kicked by "Console" (message ""[Nice Kicker] Выпилен за высокий пинг 157!"")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "0")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "20") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "116") (deaths "0")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" triggered "time" (time "1:20")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" triggered "latency" (ping "161")
+L 03/11/2015 - 00:03:12: "Noufel<5><STEAM_0:0:1424346109><TERRORIST>" disconnected
+L 03/11/2015 - 00:03:20: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3900dfc
+L 03/11/2015 - 00:03:20: "Noufel<8><STEAM_0:0:1424346109><>" connected, address "105.107.188.14:14583"
+L 03/11/2015 - 00:03:20: [VTC] Player 2 speex
+L 03/11/2015 - 00:03:27: "Noufel<8><STEAM_0:0:1424346109><>" entered the game
+L 03/11/2015 - 00:03:30: "Noufel<8><STEAM_0:0:1424346109><>" joined team "TERRORIST"
+L 03/11/2015 - 00:03:31: World triggered "Game_Commencing"
+L 03/11/2015 - 00:03:31: World triggered "Game_Commencing" (CT "0") (T "2")
+L 03/11/2015 - 00:03:31: World triggered "Round_End"
+L 03/11/2015 - 00:03:39: World triggered "Round_Start"
+L 03/11/2015 - 00:03:43: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/11/2015 - 00:03:50: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "39") (armor "0")
+L 03/11/2015 - 00:03:50: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "1") (armor "0")
+L 03/11/2015 - 00:03:54: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 00:03:54: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" killed "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1"
+L 03/11/2015 - 00:03:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/11/2015 - 00:03:54: World triggered "Round_End"
+L 03/11/2015 - 00:04:04: World triggered "Round_Start"
+L 03/11/2015 - 00:04:30: "Tarek<7><STEAM_0:0:1881356328><CT>" attacked "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/11/2015 - 00:04:30: "Tarek<7><STEAM_0:0:1881356328><CT>" killed "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" with "awp"
+L 03/11/2015 - 00:04:30: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/11/2015 - 00:04:30: World triggered "Round_End"
+L 03/11/2015 - 00:04:40: World triggered "Round_Start"
+L 03/11/2015 - 00:04:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 03/11/2015 - 00:04:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" killed "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1"
+L 03/11/2015 - 00:04:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/11/2015 - 00:04:44: World triggered "Round_End"
+L 03/11/2015 - 00:04:54: World triggered "Round_Start"
+L 03/11/2015 - 00:04:57: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 03/11/2015 - 00:04:57: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" killed "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1"
+L 03/11/2015 - 00:04:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/11/2015 - 00:04:57: World triggered "Round_End"
+L 03/11/2015 - 00:05:07: World triggered "Round_Start"
+L 03/11/2015 - 00:05:10: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/11/2015 - 00:05:12: "Tarek<7><STEAM_0:0:1881356328><CT>" attacked "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/11/2015 - 00:05:12: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/11/2015 - 00:05:12: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" attacked "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-80") (armor "0")
+L 03/11/2015 - 00:05:12: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" killed "Tarek<7><STEAM_0:0:1881356328><CT>" with "m4a1"
+L 03/11/2015 - 00:05:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/11/2015 - 00:05:12: World triggered "Round_End"
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "8") (deaths "0")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "111") (deaths "2")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "weaponstats" (weapon "m4a1") (shots "19") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "30") (deaths "4")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "time" (time "3:05")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" triggered "latency" (ping "171")
+L 03/11/2015 - 00:05:17: "Tarek<7><STEAM_0:0:1881356328><CT>" disconnected
+L 03/11/2015 - 00:05:22: World triggered "Round_Start"
+L 03/11/2015 - 00:07:03: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:07:03: "anis<9><STEAM_0:0:1255070794><>" connected, address "105.107.27.172:27005"
+L 03/11/2015 - 00:07:03: [VTC] Player 1 speex
+L 03/11/2015 - 00:09:55: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:09:55: "anis<10><STEAM_0:0:1255070794><>" connected, address "105.107.27.172:27005"
+L 03/11/2015 - 00:09:55: [VTC] Player 1 speex
+L 03/11/2015 - 00:12:41: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fbf08
+L 03/11/2015 - 00:12:41: "anis<11><STEAM_0:0:1255070794><>" connected, address "105.107.27.172:27005"
+L 03/11/2015 - 00:12:41: [VTC] Player 1 speex
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "72") (hits "9") (kills "4") (headshots "3") (tks "0") (damage "546") (deaths "1")
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "0") (stomach "1") (leftarm "3") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" triggered "time" (time "20:16")
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" triggered "latency" (ping "166")
+L 03/11/2015 - 00:23:44: "Noufel<8><STEAM_0:0:1424346109><TERRORIST>" disconnected
+L 03/11/2015 - 00:23:44: World triggered "Round_Draw" (CT "1") (T "4")
+L 03/11/2015 - 00:23:44: World triggered "Round_End"
+L 03/11/2015 - 00:23:54: World triggered "Round_Start"
+L 03/11/2015 - 00:28:55: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3900dfc
+L 03/11/2015 - 00:28:55: "Noufel<12><STEAM_0:0:1424346109><>" connected, address "105.107.188.14:14583"
+L 03/11/2015 - 00:28:55: [VTC] Player 2 speex
+L 03/11/2015 - 00:29:02: "Noufel<12><STEAM_0:0:1424346109><>" entered the game
+L 03/11/2015 - 00:29:05: "Noufel<12><STEAM_0:0:1424346109><>" joined team "TERRORIST"
+L 03/11/2015 - 00:29:30: "Noufel<12><STEAM_0:0:1424346109><TERRORIST>" triggered "time" (time "0:27")
+L 03/11/2015 - 00:29:30: "Noufel<12><STEAM_0:0:1424346109><TERRORIST>" triggered "latency" (ping "176")
+L 03/11/2015 - 00:29:30: "Noufel<12><STEAM_0:0:1424346109><TERRORIST>" disconnected
+L 03/11/2015 - 00:29:30: World triggered "Round_Draw" (CT "1") (T "4")
+L 03/11/2015 - 00:29:30: World triggered "Round_End"
+L 03/11/2015 - 00:29:40: World triggered "Round_Start"
+L 03/11/2015 - 00:33:34: Team "CT" scored "1" with "0" players
+L 03/11/2015 - 00:33:34: Team "TERRORIST" scored "4" with "0" players
+L 03/11/2015 - 00:33:34: Server cvar "mp_chattime" = "2"
+L 03/11/2015 - 00:33:34: Server cvar "mp_chattime" = "0"
+L 03/11/2015 - 00:33:34: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/11/2015 - 00:33:34: [META] ini: Read plugin config for: AMX Mod X
+L 03/11/2015 - 00:33:34: [META] ini: Read plugin config for: dproto_EF
+L 03/11/2015 - 00:33:34: [META] ini: Read plugin config for: mmtimer
+L 03/11/2015 - 00:33:34: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/11/2015 - 00:33:34: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/11/2015 - 00:33:34: [META] dll: Updating plugins...
+L 03/11/2015 - 00:33:34: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/11/2015 - 00:33:34: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/11/2015 - 00:33:34: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/11/2015 - 00:33:34: Log file closed

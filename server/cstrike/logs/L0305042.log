@@ -1,0 +1,467 @@
+L 03/05/2015 - 23:05:21: Log file started (file "logs/L0305042.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/05/2015 - 23:05:21: Loading map "35hp_2"
+L 03/05/2015 - 23:05:21: Server cvars start
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_debug_level" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_examine_time" = "0.5"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_look_angle" = "10"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_look_distance" = "200"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_message_repeats" = "5"
+L 03/05/2015 - 23:05:21: Server cvar "_tutor_view_distance" = "1000"
+L 03/05/2015 - 23:05:21: Server cvar "aesp_version" = "1.5b_mini"
+L 03/05/2015 - 23:05:21: Server cvar "allow_spectators" = "2"
+L 03/05/2015 - 23:05:21: Server cvar "amx_client_languages" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/05/2015 - 23:05:21: Server cvar "amx_language" = "ru"
+L 03/05/2015 - 23:05:21: Server cvar "amx_nextmap" = "cs_assault_1337"
+L 03/05/2015 - 23:05:21: Server cvar "amx_timeleft" = "49:41"
+L 03/05/2015 - 23:05:21: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/05/2015 - 23:05:21: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/05/2015 - 23:05:21: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Config" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Status" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/05/2015 - 23:05:21: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/05/2015 - 23:05:21: Server cvar "coop" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "deathmatch" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "decalfrequency" = "9"
+L 03/05/2015 - 23:05:21: Server cvar "dp_version" = "0.9.391"
+L 03/05/2015 - 23:05:21: Server cvar "edgefriction" = "2"
+L 03/05/2015 - 23:05:21: Server cvar "hostage_debug" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "hostage_stop" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "humans_join_team" = "any"
+L 03/05/2015 - 23:05:21: Server cvar "jtp10181" = "chute"
+L 03/05/2015 - 23:05:21: Server cvar "max_queries_sec" = "3.0"
+L 03/05/2015 - 23:05:21: Server cvar "max_queries_sec_global" = "30"
+L 03/05/2015 - 23:05:21: Server cvar "max_queries_window" = "60"
+L 03/05/2015 - 23:05:21: Server cvar "metamod_version" = "1.19p32"
+L 03/05/2015 - 23:05:21: Server cvar "mp_allowmonsters" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_autokick" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_autoteambalance" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_buytime" = "1.5"
+L 03/05/2015 - 23:05:21: Server cvar "mp_c4timer" = "35"
+L 03/05/2015 - 23:05:21: Server cvar "mp_chattime" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_consistency" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_fadetoblack" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_flashlight" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_footsteps" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_forcecamera" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_forcechasecam" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_fragsleft" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_freezetime" = "5"
+L 03/05/2015 - 23:05:21: Server cvar "mp_friendlyfire" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_hostagepenalty" = "2"
+L 03/05/2015 - 23:05:21: Server cvar "mp_kickpercent" = "0.66"
+L 03/05/2015 - 23:05:21: Server cvar "mp_limitteams" = "2"
+L 03/05/2015 - 23:05:21: Server cvar "mp_logdetail" = "3"
+L 03/05/2015 - 23:05:21: Server cvar "mp_logfile" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_logmessages" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/05/2015 - 23:05:21: Server cvar "mp_maxrounds" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_mirrordamage" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_playerid" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_roundtime" = "2.57"
+L 03/05/2015 - 23:05:21: Server cvar "mp_startmoney" = "800"
+L 03/05/2015 - 23:05:21: Server cvar "mp_timeleft" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "mp_timelimit" = "50"
+L 03/05/2015 - 23:05:21: Server cvar "mp_tkpunish" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_windifference" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "mp_winlimit" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "pausable" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "sv_accelerate" = "5"
+L 03/05/2015 - 23:05:21: Server cvar "sv_aim" = "off"
+L 03/05/2015 - 23:05:21: Server cvar "sv_airaccelerate" = "10"
+L 03/05/2015 - 23:05:21: Server cvar "sv_airmove" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "sv_allowupload" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "sv_alltalk" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "sv_bounce" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "sv_cheats" = "off"
+L 03/05/2015 - 23:05:21: Server cvar "sv_clienttrace" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "sv_clipmode" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "sv_contact" = ""
+L 03/05/2015 - 23:05:21: Server cvar "sv_friction" = "4"
+L 03/05/2015 - 23:05:21: Server cvar "sv_gravity" = "800"
+L 03/05/2015 - 23:05:21: Server cvar "sv_logblocks" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "sv_maxrate" = "50000"
+L 03/05/2015 - 23:05:21: Server cvar "sv_maxspeed" = "900"
+L 03/05/2015 - 23:05:21: Server cvar "sv_minrate" = "100000"
+L 03/05/2015 - 23:05:21: Server cvar "sv_password" = ""
+L 03/05/2015 - 23:05:21: Server cvar "sv_proxies" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "sv_region" = "3"
+L 03/05/2015 - 23:05:21: Server cvar "sv_restart" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "sv_restartround" = "0"
+L 03/05/2015 - 23:05:21: Server cvar "sv_stepsize" = "18"
+L 03/05/2015 - 23:05:21: Server cvar "sv_stopspeed" = "75"
+L 03/05/2015 - 23:05:21: Server cvar "sv_uploadmax" = "0.5"
+L 03/05/2015 - 23:05:21: Server cvar "sv_voiceenable" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "sv_wateraccelerate" = "10"
+L 03/05/2015 - 23:05:21: Server cvar "sv_waterfriction" = "1"
+L 03/05/2015 - 23:05:21: Server cvar "ultimate_sounds" = "1.7"
+L 03/05/2015 - 23:05:21: Server cvar "vtc_version" = "80"
+L 03/05/2015 - 23:05:21: Server cvars end
+L 03/05/2015 - 23:05:21: Server cvar "amx_nextmap" = "cs_italy"
+L 03/05/2015 - 23:05:21: Started map "35hp_2" (CRC "-364611601")
+L 03/05/2015 - 23:05:22: [VTC] Player 7 speex
+L 03/05/2015 - 23:05:22: [VTC] Player 1 speex
+L 03/05/2015 - 23:05:22: [VTC] Player 10 speex
+L 03/05/2015 - 23:05:22: [VTC] Player 6 speex
+L 03/05/2015 - 23:05:22: [VTC] Player 2 silk
+L 03/05/2015 - 23:05:22: [VTC] Player 9 speex
+L 03/05/2015 - 23:05:22: [VTC] Player 12 speex
+L 03/05/2015 - 23:05:22: [VTC] Player 5 speex
+L 03/05/2015 - 23:05:24: "White Walker<227><STEAM_0:0:1428934429><>" entered the game
+L 03/05/2015 - 23:05:25: "|ZADROT|<223><STEAM_0:0:266892656><>" entered the game
+L 03/05/2015 - 23:05:26: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><>" entered the game
+L 03/05/2015 - 23:05:26: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb39c8dfc
+L 03/05/2015 - 23:05:26: "Mario<233><STEAM_0:0:54513453><>" connected, address "193.106.150.189:27005"
+L 03/05/2015 - 23:05:26: "***<232><STEAM_0:0:775109720><>" entered the game
+L 03/05/2015 - 23:05:27: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><>" entered the game
+L 03/05/2015 - 23:05:27: [VTC] Player 2 silk
+L 03/05/2015 - 23:05:27: "ANGELINA<230><STEAM_0:0:1331792062><>" entered the game
+L 03/05/2015 - 23:05:27: "Mario<233><STEAM_0:0:54513453><>" STEAM USERID validated
+L 03/05/2015 - 23:05:27: World triggered "Round_Start"
+L 03/05/2015 - 23:05:28: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39dc9cc
+L 03/05/2015 - 23:05:28: "*_*<234><STEAM_0:0:1771118830><>" connected, address "37.212.187.164:21739"
+L 03/05/2015 - 23:05:28: [VTC] Player 6 speex
+L 03/05/2015 - 23:05:30: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><>" joined team "TERRORIST"
+L 03/05/2015 - 23:05:30: "Mario<233><STEAM_0:0:54513453><>" entered the game
+L 03/05/2015 - 23:05:30: "|ZADROT|<223><STEAM_0:0:266892656><>" joined team "CT"
+L 03/05/2015 - 23:05:31: World triggered "Game_Commencing"
+L 03/05/2015 - 23:05:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/05/2015 - 23:05:31: World triggered "Round_End"
+L 03/05/2015 - 23:05:32: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><>" joined team "CT"
+L 03/05/2015 - 23:05:34: "ANGELINA<230><STEAM_0:0:1331792062><>" joined team "CT"
+L 03/05/2015 - 23:05:35: "Mario<233><STEAM_0:0:54513453><>" joined team "TERRORIST"
+L 03/05/2015 - 23:05:36: "White Walker<227><STEAM_0:0:1428934429><>" joined team "TERRORIST"
+L 03/05/2015 - 23:05:37: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><CT>" committed suicide with "world"
+L 03/05/2015 - 23:05:37: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><CT>" joined team "TERRORIST"
+L 03/05/2015 - 23:05:39: World triggered "Round_Start"
+L 03/05/2015 - 23:05:40: "***<232><STEAM_0:0:775109720><UNASSIGNED>" triggered "time" (time "0:13")
+L 03/05/2015 - 23:05:40: "***<232><STEAM_0:0:775109720><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/05/2015 - 23:05:40: "***<232><STEAM_0:0:775109720><>" disconnected
+L 03/05/2015 - 23:05:47: "White Walker<227><STEAM_0:0:1428934429><TERRORIST>" attacked "|ZADROT|<223><STEAM_0:0:266892656><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:05:47: "White Walker<227><STEAM_0:0:1428934429><TERRORIST>" killed "|ZADROT|<223><STEAM_0:0:266892656><CT>" with "knife"
+L 03/05/2015 - 23:05:48: "|ZADROT|<223><STEAM_0:0:266892656><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/05/2015 - 23:05:48: "|ZADROT|<223><STEAM_0:0:266892656><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:05:48: "|ZADROT|<223><STEAM_0:0:266892656><CT>" triggered "time" (time "0:23")
+L 03/05/2015 - 23:05:48: "|ZADROT|<223><STEAM_0:0:266892656><CT>" triggered "latency" (ping "44")
+L 03/05/2015 - 23:05:48: "|ZADROT|<223><STEAM_0:0:266892656><CT>" disconnected
+L 03/05/2015 - 23:05:49: "White Walker<227><STEAM_0:0:1428934429><TERRORIST>" committed suicide with "world"
+L 03/05/2015 - 23:05:54: "Mario<233><STEAM_0:0:54513453><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:05:54: "Mario<233><STEAM_0:0:54513453><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:05:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/05/2015 - 23:05:54: World triggered "Round_End"
+L 03/05/2015 - 23:06:04: World triggered "Round_Start"
+L 03/05/2015 - 23:06:10: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:06:10: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:06:12: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:06:12: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:06:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/05/2015 - 23:06:12: World triggered "Round_End"
+L 03/05/2015 - 23:06:14: "Mario<233><STEAM_0:0:54513453><TERRORIST>" committed suicide with "world"
+L 03/05/2015 - 23:06:14: "Mario<233><STEAM_0:0:54513453><TERRORIST>" joined team "CT"
+L 03/05/2015 - 23:06:16: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" committed suicide with "world"
+L 03/05/2015 - 23:06:16: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" joined team "CT"
+L 03/05/2015 - 23:06:22: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><CT>" committed suicide with "world"
+L 03/05/2015 - 23:06:22: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><CT>" joined team "TERRORIST"
+L 03/05/2015 - 23:06:22: World triggered "Round_Start"
+L 03/05/2015 - 23:06:26: "ANGELINA<230><STEAM_0:0:1331792062><CT>" committed suicide with "worldspawn" (world)
+L 03/05/2015 - 23:06:39: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:06:39: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:06:39: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 03/05/2015 - 23:06:39: World triggered "Round_End"
+L 03/05/2015 - 23:06:46: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39dc9cc
+L 03/05/2015 - 23:06:46: "^_^ vsem privet<235><STEAM_0:0:1771118830><>" connected, address "37.212.187.164:21739"
+L 03/05/2015 - 23:06:46: [VTC] Player 6 speex
+L 03/05/2015 - 23:06:49: World triggered "Round_Start"
+L 03/05/2015 - 23:06:51: "^_^ vsem privet<235><STEAM_0:0:1771118830><>" entered the game
+L 03/05/2015 - 23:06:56: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:06:56: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:06:56: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:06:56: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:06:58: "^_^ vsem privet<235><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/05/2015 - 23:06:58: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:06:58: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:07:14: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39cdcf0
+L 03/05/2015 - 23:07:14: "Buka<236><STEAM_0:0:270910638><>" connected, address "178.121.163.248:29204"
+L 03/05/2015 - 23:07:14: [VTC] Player 3 speex
+L 03/05/2015 - 23:07:25: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:07:25: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:07:27: "Buka<236><STEAM_0:0:270910638><>" entered the game
+L 03/05/2015 - 23:07:30: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:07:30: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:07:30: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 03/05/2015 - 23:07:30: World triggered "Round_End"
+L 03/05/2015 - 23:07:38: "Buka<236><STEAM_0:0:270910638><>" joined team "TERRORIST"
+L 03/05/2015 - 23:07:40: World triggered "Round_Start"
+L 03/05/2015 - 23:07:52: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:07:52: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:07:53: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:07:53: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:08:00: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:00: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:08:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:08:04: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:04: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:08:07: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:07: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:08:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/05/2015 - 23:08:07: World triggered "Round_End"
+L 03/05/2015 - 23:08:17: World triggered "Round_Start"
+L 03/05/2015 - 23:08:28: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:28: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:08:30: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:30: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:08:41: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:41: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:08:53: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:53: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:08:59: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:08:59: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:09:12: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:09:12: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:09:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 03/05/2015 - 23:09:12: World triggered "Round_End"
+L 03/05/2015 - 23:09:22: World triggered "Round_Start"
+L 03/05/2015 - 23:09:28: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:09:28: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:09:35: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:09:35: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:09:39: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:09:39: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:09:42: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:09:42: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:10:09: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:10:09: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:10:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 03/05/2015 - 23:10:09: World triggered "Round_End"
+L 03/05/2015 - 23:10:19: World triggered "Round_Start"
+L 03/05/2015 - 23:10:32: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:10:32: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:10:40: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:10:40: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:10:40: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:10:40: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:10:45: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:10:45: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:10:52: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" triggered "weaponstats" (weapon "knife") (shots "40") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "5")
+L 03/05/2015 - 23:10:52: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:10:52: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" triggered "time" (time "4:00")
+L 03/05/2015 - 23:10:52: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "52")
+L 03/05/2015 - 23:10:52: "^_^ vsem privet<235><STEAM_0:0:1771118830><CT>" disconnected
+L 03/05/2015 - 23:10:52: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:10:52: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:10:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 03/05/2015 - 23:10:52: World triggered "Round_End"
+L 03/05/2015 - 23:11:02: World triggered "Round_Start"
+L 03/05/2015 - 23:11:08: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:11:08: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:11:15: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:11:15: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:11:20: "Mario<233><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/05/2015 - 23:11:20: "Mario<233><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:11:20: Team "CT" triggered "CTs_Win" (CT "3") (T "6")
+L 03/05/2015 - 23:11:20: World triggered "Round_End"
+L 03/05/2015 - 23:11:30: World triggered "Round_Start"
+L 03/05/2015 - 23:11:39: "Mario<233><STEAM_0:0:54513453><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-52") (armor "0")
+L 03/05/2015 - 23:11:39: "Mario<233><STEAM_0:0:54513453><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:11:41: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:11:41: "ANGELINA<230><STEAM_0:0:1331792062><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:11:43: "Mario<233><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:11:43: "Mario<233><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:11:43: Team "CT" triggered "CTs_Win" (CT "4") (T "6")
+L 03/05/2015 - 23:11:43: World triggered "Round_End"
+L 03/05/2015 - 23:11:53: World triggered "Round_Start"
+L 03/05/2015 - 23:12:01: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 23:12:06: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:12:06: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:12:08: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:12:08: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:12:08: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-45") (armor "0")
+L 03/05/2015 - 23:12:08: "ANGELINA<230><STEAM_0:0:1331792062><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:12:34: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 23:12:37: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:12:37: "ANGELINA<230><STEAM_0:0:1331792062><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:12:37: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 03/05/2015 - 23:12:37: World triggered "Round_End"
+L 03/05/2015 - 23:12:47: World triggered "Round_Start"
+L 03/05/2015 - 23:12:55: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:12:55: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:12:57: "Mario<233><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:12:57: "Mario<233><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:12:58: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "81") (damage_armor "0") (health "-46") (armor "0")
+L 03/05/2015 - 23:12:58: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:12:59: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 23:12:59: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:12:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 03/05/2015 - 23:12:59: World triggered "Round_End"
+L 03/05/2015 - 23:13:09: World triggered "Round_Start"
+L 03/05/2015 - 23:13:15: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:13:15: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:13:20: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 23:13:21: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "11") (damage_armor "0") (health "9") (armor "0")
+L 03/05/2015 - 23:13:23: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:13:23: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:13:27: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:13:27: "ANGELINA<230><STEAM_0:0:1331792062><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:13:31: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:13:31: "ANGELINA<230><STEAM_0:0:1331792062><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:13:44: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-56") (armor "0")
+L 03/05/2015 - 23:13:44: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:13:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 03/05/2015 - 23:13:44: World triggered "Round_End"
+L 03/05/2015 - 23:13:54: World triggered "Round_Start"
+L 03/05/2015 - 23:14:06: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:14:06: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:14:15: "ANGELINA<230><STEAM_0:0:1331792062><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:14:15: "ANGELINA<230><STEAM_0:0:1331792062><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:14:19: "Mario<233><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:14:19: "Mario<233><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:14:26: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:14:26: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:14:48: "Mario<233><STEAM_0:0:54513453><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 23:14:54: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "Mario<233><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:14:54: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "Mario<233><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:14:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 03/05/2015 - 23:14:54: World triggered "Round_End"
+L 03/05/2015 - 23:15:04: World triggered "Round_Start"
+L 03/05/2015 - 23:15:09: "Mario<233><STEAM_0:0:54513453><CT>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "7") (kills "6") (headshots "0") (tks "0") (damage "535") (deaths "9")
+L 03/05/2015 - 23:15:09: "Mario<233><STEAM_0:0:54513453><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:15:09: "Mario<233><STEAM_0:0:54513453><CT>" triggered "time" (time "9:39")
+L 03/05/2015 - 23:15:09: "Mario<233><STEAM_0:0:54513453><CT>" triggered "latency" (ping "64")
+L 03/05/2015 - 23:15:09: "Mario<233><STEAM_0:0:54513453><CT>" disconnected
+L 03/05/2015 - 23:15:12: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb39c8dfc
+L 03/05/2015 - 23:15:12: "Mario<237><STEAM_0:0:54513453><>" connected, address "193.106.150.189:27005"
+L 03/05/2015 - 23:15:12: [VTC] Player 2 silk
+L 03/05/2015 - 23:15:13: "Mario<237><STEAM_0:0:54513453><>" STEAM USERID validated
+L 03/05/2015 - 23:15:15: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:15:15: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:15:16: "Mario<237><STEAM_0:0:54513453><>" entered the game
+L 03/05/2015 - 23:15:18: "Mario<237><STEAM_0:0:54513453><>" joined team "CT"
+L 03/05/2015 - 23:15:25: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:15:25: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:15:36: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "Mario<237><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:15:36: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "Mario<237><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:15:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "10")
+L 03/05/2015 - 23:15:36: World triggered "Round_End"
+L 03/05/2015 - 23:15:44: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" committed suicide with "world"
+L 03/05/2015 - 23:15:44: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" joined team "SPECTATOR"
+L 03/05/2015 - 23:15:46: World triggered "Round_Start"
+L 03/05/2015 - 23:15:58: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "Mario<237><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:15:58: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "Mario<237><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:16:00: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:16:00: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:16:03: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:16:03: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:16:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "11")
+L 03/05/2015 - 23:16:03: World triggered "Round_End"
+L 03/05/2015 - 23:16:12: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39d2be4
+L 03/05/2015 - 23:16:12: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><>" connected, address "37.212.187.164:34373"
+L 03/05/2015 - 23:16:12: [VTC] Player 4 speex
+L 03/05/2015 - 23:16:13: World triggered "Round_Start"
+L 03/05/2015 - 23:16:18: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><>" entered the game
+L 03/05/2015 - 23:16:26: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:16:26: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:16:27: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/05/2015 - 23:16:33: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><SPECTATOR>" joined team "TERRORIST"
+L 03/05/2015 - 23:16:34: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:16:34: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:16:42: "Mario<237><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:16:42: "Mario<237><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:16:42: Team "CT" triggered "CTs_Win" (CT "6") (T "11")
+L 03/05/2015 - 23:16:42: World triggered "Round_End"
+L 03/05/2015 - 23:16:52: World triggered "Round_Start"
+L 03/05/2015 - 23:16:58: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:16:58: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:17:04: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:17:04: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:17:10: "White Walker<227><STEAM_0:0:1428934429><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/05/2015 - 23:17:10: "White Walker<227><STEAM_0:0:1428934429><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:17:19: "Mario<237><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "48") (damage_armor "0") (health "-13") (armor "0")
+L 03/05/2015 - 23:17:19: "Mario<237><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:17:19: Team "CT" triggered "CTs_Win" (CT "7") (T "11")
+L 03/05/2015 - 23:17:19: World triggered "Round_End"
+L 03/05/2015 - 23:17:29: World triggered "Round_Start"
+L 03/05/2015 - 23:17:35: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:17:35: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "White Walker<227><STEAM_0:0:1428934429><CT>" with "knife"
+L 03/05/2015 - 23:17:37: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:17:37: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" with "knife"
+L 03/05/2015 - 23:17:43: "Mario<237><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:17:43: "Mario<237><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:17:47: "White Walker<227><STEAM_0:0:1428934429><CT>" triggered "weaponstats" (weapon "knife") (shots "67") (hits "15") (kills "15") (headshots "0") (tks "0") (damage "1105") (deaths "11")
+L 03/05/2015 - 23:17:47: "White Walker<227><STEAM_0:0:1428934429><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:17:47: "White Walker<227><STEAM_0:0:1428934429><CT>" triggered "time" (time "12:23")
+L 03/05/2015 - 23:17:47: "White Walker<227><STEAM_0:0:1428934429><CT>" triggered "latency" (ping "22")
+L 03/05/2015 - 23:17:47: "White Walker<227><STEAM_0:0:1428934429><CT>" disconnected
+L 03/05/2015 - 23:17:53: "Buka<236><STEAM_0:0:270910638><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:17:53: "Buka<236><STEAM_0:0:270910638><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:18:08: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "Mario<237><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:18:08: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "Mario<237><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:18:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "12")
+L 03/05/2015 - 23:18:08: World triggered "Round_End"
+L 03/05/2015 - 23:18:18: World triggered "Round_Start"
+L 03/05/2015 - 23:18:25: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" attacked "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:18:25: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" killed "ANGELINA<230><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/05/2015 - 23:18:33: "Mario<237><STEAM_0:0:54513453><CT>" attacked "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:18:33: "Mario<237><STEAM_0:0:54513453><CT>" killed "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 23:18:36: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" attacked "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:18:36: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" killed "Buka<236><STEAM_0:0:270910638><TERRORIST>" with "knife"
+L 03/05/2015 - 23:18:38: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" attacked "Mario<237><STEAM_0:0:54513453><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:18:38: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" killed "Mario<237><STEAM_0:0:54513453><CT>" with "knife"
+L 03/05/2015 - 23:18:42: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 23:18:42: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/05/2015 - 23:18:42: Team "CT" triggered "CTs_Win" (CT "8") (T "12")
+L 03/05/2015 - 23:18:42: World triggered "Round_End"
+L 03/05/2015 - 23:18:52: World triggered "Round_Start"
+L 03/05/2015 - 23:19:02: "Mario<237><STEAM_0:0:54513453><CT>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "243") (deaths "4")
+L 03/05/2015 - 23:19:02: "Mario<237><STEAM_0:0:54513453><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:19:02: "Mario<237><STEAM_0:0:54513453><CT>" triggered "time" (time "3:46")
+L 03/05/2015 - 23:19:02: "Mario<237><STEAM_0:0:54513453><CT>" triggered "latency" (ping "61")
+L 03/05/2015 - 23:19:02: "Buka<236><STEAM_0:0:270910638><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "131") (hits "11") (kills "11") (headshots "1") (tks "0") (damage "910") (deaths "7")
+L 03/05/2015 - 23:19:02: "Buka<236><STEAM_0:0:270910638><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:19:02: "Buka<236><STEAM_0:0:270910638><TERRORIST>" triggered "time" (time "11:35")
+L 03/05/2015 - 23:19:02: "Buka<236><STEAM_0:0:270910638><TERRORIST>" triggered "latency" (ping "56")
+L 03/05/2015 - 23:19:02: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" triggered "weaponstats" (weapon "knife") (shots "57") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "2")
+L 03/05/2015 - 23:19:02: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:19:02: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" triggered "time" (time "2:44")
+L 03/05/2015 - 23:19:02: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "52")
+L 03/05/2015 - 23:19:02: "ANGELINA<230><STEAM_0:0:1331792062><CT>" triggered "weaponstats" (weapon "knife") (shots "97") (hits "7") (kills "6") (headshots "0") (tks "0") (damage "405") (deaths "15")
+L 03/05/2015 - 23:19:02: "ANGELINA<230><STEAM_0:0:1331792062><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:19:02: "ANGELINA<230><STEAM_0:0:1331792062><CT>" triggered "time" (time "13:35")
+L 03/05/2015 - 23:19:02: "ANGELINA<230><STEAM_0:0:1331792062><CT>" triggered "latency" (ping "25")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "75") (hits "26") (kills "23") (headshots "0") (tks "0") (damage "1536") (deaths "12")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "13:36")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "29")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "44") (hits "11") (kills "11") (headshots "0") (tks "0") (damage "731") (deaths "13")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" triggered "time" (time "13:35")
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" triggered "latency" (ping "53")
+L 03/05/2015 - 23:19:02: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/05/2015 - 23:19:02: [META] ini: Read plugin config for: AMX Mod X
+L 03/05/2015 - 23:19:02: [META] ini: Read plugin config for: dproto_EF
+L 03/05/2015 - 23:19:02: [META] ini: Read plugin config for: mmtimer
+L 03/05/2015 - 23:19:02: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/05/2015 - 23:19:02: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/05/2015 - 23:19:02: [META] dll: Updating plugins...
+L 03/05/2015 - 23:19:02: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/05/2015 - 23:19:02: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/05/2015 - 23:19:02: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/05/2015 - 23:19:02: "Mario<237><STEAM_0:0:54513453><CT>" disconnected
+L 03/05/2015 - 23:19:02: "Buka<236><STEAM_0:0:270910638><TERRORIST>" disconnected
+L 03/05/2015 - 23:19:02: "matvei NUB na nazb|<238><STEAM_0:0:1771118830><CT>" disconnected
+L 03/05/2015 - 23:19:02: "ANGELINA<230><STEAM_0:0:1331792062><CT>" disconnected
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Lexa Kosmonaft<228><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/05/2015 - 23:19:02: "[Hard_Skill]_Mi{x}eR<219><STEAM_0:0:898503398><TERRORIST>" disconnected
+L 03/05/2015 - 23:19:02: World triggered "Round_Draw" (CT "8") (T "12")
+L 03/05/2015 - 23:19:02: World triggered "Round_End"
+L 03/05/2015 - 23:19:02: Log file closed

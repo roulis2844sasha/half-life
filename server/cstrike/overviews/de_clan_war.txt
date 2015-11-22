@@ -1,0 +1,15 @@
+// overview description file for de_clan_war.bsp
+// more maps ? http://www.Coucouoeuf.fr.st
+
+global 
+{
+	ZOOM	1.82
+	ORIGIN	24	-704	256
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_clan_war.bmp"
+	HEIGHT	-65
+}

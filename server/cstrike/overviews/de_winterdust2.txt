@@ -1,0 +1,14 @@
+// overview description file for de_winterdust2.bsp
+
+global 
+{
+	ZOOM	1.26
+	ORIGIN	64 	-112	-640
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_winterdust2.bmp"
+	HEIGHT	-640
+}

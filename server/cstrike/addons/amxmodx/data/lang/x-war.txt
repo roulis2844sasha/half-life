@@ -1,0 +1,149 @@
+[en]
+menu_no = No
+menu_yes = Yes
+menu_ask = Ask
+menu_mm_header = X-War System:
+menu_mm_item1 = Start a Match
+menu_mm_item2 = Abort current match
+menu_mm_item3 = Autostart current match
+menu_mm_item4 = Settings
+menu_mm_item5 = Exit
+menu_sm_header = CW Settings:
+menu_sm_item1 = Tied games:
+menu_sm_item2 = Overtime rounds:
+menu_sm_item3 = Warmup timelimit:
+menu_sm_item4 = Knife round:
+menu_sm_item5 = Swap teams:
+menu_sm_item6 = Record client demos:
+menu_sm_item7 = Take client screenshots:
+menu_sm_item8 = Save x-war.cfg
+menu_sm_item9 = Back
+menu_wm_header = CW Start:
+menu_wm_item1 = Team 1:
+menu_wm_item2 = Team 2:
+menu_wm_item3 = Players on each team:
+menu_wm_item4 = Gametype:
+menu_wm_item5 = Maxrounds:
+menu_wm_item6 = Start War
+menu_wm_item7 = Back
+menu_demo_header = Do you wish to record a demo of this game?
+menu_demo_item1 = Yes
+menu_demo_item2 = No
+menu_sts_header = SELECT START SIDE:
+menu_sts_item1 = Terrorists
+menu_sts_item2 = Counter-terrorists
+hud_play1 = [128,128,128,-1,0.24,0,10]		=Score: Counter-Terrorists [CTscore] - Terrorists [TERscore][lbrk][periodinfo][playedhalf] half round [round2], continue playing!
+hud_play1a = [128,128,128,-1,0.24,0,10]		=Score: Counter-Terrorists [CTscore] - Terrorists [TERscore][lbrk][periodinfo][playedhalf] half round [round2], continue playing!
+hud_play1b = [128,128,128,-1,0.24,0,10]		=Score: Terrorists [TERscore] - Counter-Terrorists [CTscore][lbrk][periodinfo][playedhalf] half round [round2], continue playing!
+hud_stop4CT = [128,128,128,-1,0.24,0,20]	=Clanmatch finished[lbrk]Final score: Counter-Terrorists [CTscore] - Terrorists [TERscore][lbrk]Counter-Terrorists win !!!
+hud_stop4TER = [128,128,128,-1,0.24,0,20]	=Clanmatch finished[lbrk]Final score: Terrorists [TERscore] - Counter-Terrorists [CTscore][lbrk]Terrorists win !!!
+hud_stop5 = [128,128,128,-1,0.24,0,20]		=Clanmatch finished, draw game[lbrk]Final score: Counter-Terrorists [CTscore] - Terrorists [TERscore]
+hud_stop6 = [128,128,128,-1,0.24,0,8]		=Match aborted by [adminname]
+hud_start2 = [0,0,255,-1,0,0,360]		=[players2] clanmatch, [periodinfo][playedhalf] half warmup, Maxrounds [maxrounds2][lbrk]score: Counter-Terrorists [CTscore] - Terrorists [TERscore][lbrk]Counter-Terrorists: [team1rdy]/[players1], Terrorists: [team2rdy]/[players1] players ready
+hud_start2k = [0,0,255,-1,0,0,360]		=[players2] clanmatch, Maxrounds [maxrounds2][lbrk]Counter-Terrorists: [team1rdy]/[players1], Terrorists: [team2rdy]/[players1] players ready[lbrk]Get ready to knife round !!!
+hud_stop2a = [128,128,128,-1,0.24,0,6]		=Match is tied at Counter-Terrorists [CTscore] - Terrorists [TERscore] [lbrk]Entering[periodinfo]1st half, stand by for team assignment
+hud_stop2b = [128,128,128,-1,0.24,0,6]		=Match is tied at Counter-Terrorists [CTscore] - Terrorists [TERscore][lbrk]Entering[periodinfo]1st half, please choose your team
+hud_captain = [0,100,255,-1,0.3,1,4]		=Now you the captain of your team
+hud_start3 = [128,128,128,-1,0.24,0,5]		=GOING LIVE IN THREE RESTARTS, GET READY!
+hud_start3k = [128,128,128,-1,0.24,0,5]		=GOING KNIFE IN THREE RESTARTS, GET READY!
+hud_start4 = [128,128,128,-1,0.24,0,6]		=LIVE! LIVE! LIVE![lbrk]Good Luck & Have Fun
+hud_start4k = [128,128,128,-1,0.24,0,6]		=KNIFE! KNIFE! KNIFE![lbrk]Winning team, choose side
+clt_noaccess = (2)				=You don't have access to that command
+clt_init4 = (2)					=Match already in progress
+clt_abort = (2)					=Match not started
+clt_start4 = (2)				=Match aborted
+clt_warmup2b = (1)				=You are already marked as ready
+clt_warmup2a = (1)				=You are now ready, say notready if you're not ready anymore
+clt_warmup3a = (1)				=You are not ready anymore, say ready to get ready
+clt_warmup3b = (1)				=You are currently not marked as ready
+clt_captain = (1)				=Now you the captain of your team
+clt_start2 = (2)				=[periodinfo] [playedhalf] half starting
+clt_start3a = (2)				=Round autostarted
+clt_start3b = (2)				=Round is already starting
+clt_start1a = (1)				=LIVE! LIVE! LIVE!
+clt_start1b = (1)				=LIVE! LIVE! LIVE!
+clt_start1c = (1)				=LIVE! LIVE! LIVE!
+clt_start1ka = (1)				=KNIFE! KNIFE! KNIFE!
+clt_start1kb = (1)				=KNIFE! KNIFE! KNIFE!
+clt_start1kc = (1)				=KNIFE! KNIFE! KNIFE!
+clt_start2k = (2)				=KNIFE!!!KNIFE!!!KNIFE!!!
+clt_blocked = (1)				=Choose team is blocked
+clt_info6 = (2)					=HLTV demo not completed, please try later
+clt_info7 = (1)					=HLTV proxy disconnected
+clt_info8 = (1)					=HLTV initialized
+clt_info9 = (1)					=HLTV: Invalid rcon password
+
+[ru]
+menu_no = Нет
+menu_yes = Да
+menu_ask = Спросить
+menu_mm_header = X-War мод:
+menu_mm_item1 = Запустить игру
+menu_mm_item2 = Отменить игру
+menu_mm_item3 = Начать игру
+menu_mm_item4 = Настройки
+menu_mm_item5 = Выход
+menu_sm_header = Настройки:
+menu_sm_item1 = Ничья:
+menu_sm_item2 = Раундов в овертайме:
+menu_sm_item3 = Ограничение разминки (мин):
+menu_sm_item4 = Раунд на ножах:
+menu_sm_item5 = Менять команды местами:
+menu_sm_item6 = Записывать клиент демки:
+menu_sm_item7 = Делать скриншоты:
+menu_sm_item8 = Сохранить x-war.cfg
+menu_sm_item9 = Назад
+menu_wm_header = Запуск игры:
+menu_wm_item1 = Клан 1:
+menu_wm_item2 = Клан 2:
+menu_wm_item3 = Игроков в команде:
+menu_wm_item4 = Тип игры:
+menu_wm_item5 = Кол. раундов:
+menu_wm_item6 = Запустить игру
+menu_wm_item7 = Назад
+menu_demo_header = Хотите записать демку этой игры?
+menu_demo_item1 = Да
+menu_demo_item2 = Нет
+menu_sts_header = Выбор стороны:
+menu_sts_item1 = Террористы
+menu_sts_item2 = Контр-террористы
+hud_play1 = [128,128,128,-1,0.24,0,10]		=Счет: Спецназ [CTscore] - Террористы [TERscore][lbrk][periodinfo][playedhalf] половина [round2] раунд[lbrk]игра продолжается...
+hud_play1a = [128,128,128,-1,0.24,0,10]		=Счет: Спецназ [CTscore] - Террористы [TERscore][lbrk][periodinfo][playedhalf] половина [round2] раунд[lbrk]игра продолжается...
+hud_play1b = [128,128,128,-1,0.24,0,10]		=Счет: Террористы [TERscore] - Спецназ [CTscore][lbrk][periodinfo][playedhalf] половина [round2] раунд[lbrk]игра продолжается...
+hud_stop4CT = [128,128,128,-1,0.24,0,20]	=Матч завершен![lbrk]Итоговый счет: Спецназ [CTscore] - Террористы [TERscore][lbrk]Спецназ победили!!!
+hud_stop4TER = [128,128,128,-1,0.24,0,20]	=Матч завершен![lbrk]Итоговый счет: Террористы [TERscore] - Спецназ [CTscore][lbrk]Террористы победили!!!
+hud_stop5 = [128,128,128,-1,0.24,0,20]		=Матч завершен! Игра прекращена![lbrk]Итоговый счет: Спецназ [CTscore] - Террористы [TERscore]
+hud_stop6 = [128,128,128,-1,0.24,0,8]		=[adminname] прервал матч
+hud_start2 = [0,0,255,-1,0,0,360]		=Тип игры: [players2], [periodinfo][playedhalf] часть - Разминка, Maxrounds [maxrounds2][lbrk]счет: Спецназ [CTscore] - Террористы [TERscore][lbrk]Спецназ: [team1rdy]/[players1], Террористы: [team2rdy]/[players1] готово
+hud_start2k = [0,0,255,-1,0,0,360]		=Тип игры: [players2], Maxrounds [maxrounds2][lbrk]Спецназ: [team1rdy]/[players1], Террористы: [team2rdy]/[players1] готово[lbrk]Приготовьтесь к раунду на НОЖАХ!!!
+hud_stop2a = [128,128,128,-1,0.24,0,6]		=Ничья! Спецназ [CTscore] - Террористы [TERscore] [lbrk]Начало[periodinfo]1-ой части, ожидаем выбора стороны
+hud_stop2b = [128,128,128,-1,0.24,0,6]		=Ничья! Спецназ [CTscore] - Террористы [TERscore][lbrk]Начало[periodinfo]1-ой части, выбирите Вашу сторону
+hud_captain = [0,100,255,-1,0.3,1,4]		=Теперь Вы капитан!
+hud_start3 = [128,128,128,-1,0.24,0,5]		=Игра начнется через 3 рестарта![lbrk]Приготовьтесь!
+hud_start3k = [128,128,128,-1,0.24,0,5]		=Раунд на НОЖАХ через 3 рестарта![lbrk]Приготовьтесь!
+hud_start4 = [128,128,128,-1,0.24,0,6]		=ИГРА! ИГРА! ИГРА![lbrk]Good Luck & Have Fun
+hud_start4k = [128,128,128,-1,0.24,0,6]		=НОЖИ! НОЖИ! НОЖИ![lbrk]Победители раунда выбирают сторону
+clt_noaccess = (2)				=У Вас недостаточно прав для доступа к этой команде
+clt_init4 = (2)					=Матч уже началася
+clt_abort = (2)					=Матч еще не начался
+clt_start4 = (2)				=Матч прерван
+clt_warmup2b = (1)				=Вы уже отмечены как ГОТОВ!
+clt_warmup2a = (1)				=Теперь Вы ГОТОВЫ! Напишите: say notready, если не готовы
+clt_warmup3a = (1)				=Теперь Вы НЕ ГОТОВЫ! Напишите: say ready, если готовы
+clt_warmup3b = (1)				=Вы уже отчемены как НЕ ГОТОВ!
+clt_captain = (1)				=Теперь Вы КАПИТАН команды
+clt_start2 = (2)				=Начинается [periodinfo] [playedhalf]-я часть матча
+clt_start3a = (2)				=Начало игры
+clt_start3b = (2)				=Игра уже начата
+clt_start1a = (1)				=ИГРА! ИГРА! ИГРА!
+clt_start1b = (1)				=ИГРА! ИГРА! ИГРА!
+clt_start1c = (1)				=ИГРА! ИГРА! ИГРА!
+clt_start1ka = (1)				=НОЖИ! НОЖИ! НОЖИ!
+clt_start1kb = (1)				=НОЖИ! НОЖИ! НОЖИ!
+clt_start1kc = (1)				=НОЖИ! НОЖИ! НОЖИ!
+clt_start2k = (2)				=НОЖИ!!!НОЖИ!!!НОЖИ!!!
+clt_blocked = (1)				=Выбор стороны ЗАПРЕЩЕН!
+clt_info6 = (2)					=HLTV демка не закончена! Попробуйте позже...
+clt_info7 = (1)					=HLTV отключено
+clt_info8 = (1)					=HLTV успешно запущено
+clt_info9 = (1)					=HLTV: Неверный rcon password

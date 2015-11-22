@@ -1,0 +1,135 @@
+L 03/13/2015 - 18:22:35: Log file started (file "logs/L0313021.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/13/2015 - 18:22:35: Server cvar "mp_logdetail" = "3"
+L 03/13/2015 - 18:22:39: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb38f2f08
+L 03/13/2015 - 18:22:39: "[Hard_Skill]_Lexa Kosmonaft<1><STEAM_0:0:226379933><>" connected, address "37.212.156.253:55679"
+L 03/13/2015 - 18:22:39: [VTC] Player 1 speex
+L 03/13/2015 - 18:22:43: World triggered "Round_Start"
+L 03/13/2015 - 18:22:43: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb38f2f08
+L 03/13/2015 - 18:22:43: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><>" connected, address "37.212.156.253:55679"
+L 03/13/2015 - 18:22:43: [VTC] Player 1 speex
+L 03/13/2015 - 18:22:48: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><>" entered the game
+L 03/13/2015 - 18:22:54: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/13/2015 - 18:22:54: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/13/2015 - 18:23:17: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38f7dfc
+L 03/13/2015 - 18:23:17: "|Xyligans|kpy}I{ka<3><STEAM_0:0:1696161005><>" connected, address "178.120.185.1:14997"
+L 03/13/2015 - 18:23:17: [VTC] Player 2 speex
+L 03/13/2015 - 18:23:21: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38f7dfc
+L 03/13/2015 - 18:23:21: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><>" connected, address "178.120.185.1:14997"
+L 03/13/2015 - 18:23:21: [VTC] Player 2 speex
+L 03/13/2015 - 18:23:24: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><>" entered the game
+L 03/13/2015 - 18:23:27: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><>" joined team "CT"
+L 03/13/2015 - 18:23:27: World triggered "Game_Commencing"
+L 03/13/2015 - 18:23:27: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/13/2015 - 18:23:27: World triggered "Round_End"
+L 03/13/2015 - 18:23:30: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/13/2015 - 18:23:35: World triggered "Round_Start"
+L 03/13/2015 - 18:24:01: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/13/2015 - 18:24:11: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "88") (armor "94")
+L 03/13/2015 - 18:24:11: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "76") (armor "88")
+L 03/13/2015 - 18:24:12: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "48") (damage_armor "24") (health "28") (armor "64")
+L 03/13/2015 - 18:24:12: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "deagle" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 03/13/2015 - 18:24:12: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "deagle" (damage "30") (damage_armor "0") (health "20") (armor "0")
+L 03/13/2015 - 18:24:12: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "48") (damage_armor "24") (health "-20") (armor "40")
+L 03/13/2015 - 18:24:12: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/13/2015 - 18:24:21: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:21: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:21: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:21: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:21: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:22: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:22: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:22: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:22: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:22: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:22: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:23: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/13/2015 - 18:24:31: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fccf0
+L 03/13/2015 - 18:24:31: "Radion#<5><STEAM_0:0:1417911346><>" connected, address "37.214.196.150:51157"
+L 03/13/2015 - 18:24:32: [VTC] Player 3 speex
+L 03/13/2015 - 18:24:35: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "Defused_The_Bomb"
+L 03/13/2015 - 18:24:35: Team "CT" triggered "Bomb_Defused" (CT "1") (T "0")
+L 03/13/2015 - 18:24:35: World triggered "Round_End"
+L 03/13/2015 - 18:24:35: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fccf0
+L 03/13/2015 - 18:24:35: "Radion#<6><STEAM_0:0:1417911346><>" connected, address "37.214.196.150:51157"
+L 03/13/2015 - 18:24:36: [VTC] Player 3 speex
+L 03/13/2015 - 18:24:40: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/13/2015 - 18:24:43: "Radion#<6><STEAM_0:0:1417911346><>" entered the game
+L 03/13/2015 - 18:24:45: World triggered "Round_Start"
+L 03/13/2015 - 18:24:51: "Radion#<6><STEAM_0:0:1417911346><>" joined team "TERRORIST"
+L 03/13/2015 - 18:24:55: [DPROTO]: Client 3 - Set AuthIdType 3 [dproto]; pClient = 0xb3901be4
+L 03/13/2015 - 18:24:55: "<DZ|SOLDADO><7><STEAM_0:4:440091336><>" connected, address "41.103.42.157:27005"
+L 03/13/2015 - 18:24:55: [VTC] Player 4 speex
+L 03/13/2015 - 18:24:58: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/13/2015 - 18:24:58: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 03/13/2015 - 18:24:58: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "53") (armor "89")
+L 03/13/2015 - 18:24:58: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "32") (armor "85")
+L 03/13/2015 - 18:24:58: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/13/2015 - 18:24:58: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "10") (armor "85")
+L 03/13/2015 - 18:24:58: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-110") (armor "0")
+L 03/13/2015 - 18:24:58: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" killed "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47"
+L 03/13/2015 - 18:24:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 03/13/2015 - 18:24:58: World triggered "Round_End"
+L 03/13/2015 - 18:25:03: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/13/2015 - 18:25:08: World triggered "Round_Start"
+L 03/13/2015 - 18:25:18: [DPROTO]: Client 3 - Set AuthIdType 3 [dproto]; pClient = 0xb3901be4
+L 03/13/2015 - 18:25:18: "<DZ|SOLDADO><8><STEAM_0:4:440091336><>" connected, address "41.103.42.157:27005"
+L 03/13/2015 - 18:25:25: [DPROTO]: Client 3 - Set AuthIdType 3 [dproto]; pClient = 0xb3901be4
+L 03/13/2015 - 18:25:25: "<DZ|SOLDADO><9><STEAM_0:4:440091336><>" connected, address "41.103.42.157:27005"
+L 03/13/2015 - 18:25:25: [VTC] Player 4 speex
+L 03/13/2015 - 18:25:36: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100")
+L 03/13/2015 - 18:25:36: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "100")
+L 03/13/2015 - 18:25:36: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "26") (damage_armor "0") (health "22") (armor "100")
+L 03/13/2015 - 18:25:36: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "100")
+L 03/13/2015 - 18:25:36: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "16") (damage_armor "9") (health "60") (armor "91")
+L 03/13/2015 - 18:25:37: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "16") (damage_armor "8") (health "44") (armor "83")
+L 03/13/2015 - 18:25:37: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "16") (damage_armor "8") (health "28") (armor "75")
+L 03/13/2015 - 18:25:37: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" attacked "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-5") (armor "96")
+L 03/13/2015 - 18:25:37: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" killed "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" with "ak47"
+L 03/13/2015 - 18:25:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/13/2015 - 18:25:37: World triggered "Round_End"
+L 03/13/2015 - 18:25:42: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/13/2015 - 18:25:45: "<DZ|SOLDADO><9><STEAM_0:4:440091336><>" entered the game
+L 03/13/2015 - 18:25:46: "<DZ|SOLDADO><9><STEAM_0:4:440091336><UNASSIGNED>" triggered "time" (time "0:01")
+L 03/13/2015 - 18:25:46: "<DZ|SOLDADO><9><STEAM_0:4:440091336><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/13/2015 - 18:25:46: "<DZ|SOLDADO><9><STEAM_0:4:440091336><>" disconnected
+L 03/13/2015 - 18:25:47: World triggered "Round_Start"
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "80") (deaths "1")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "25") (hits "7") (kills "2") (headshots "1") (tks "0") (damage "315") (deaths "0")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "1") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "1") (rightleg "2")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "3:36")
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "23")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "weaponstats" (weapon "usp") (shots "30") (hits "8") (kills "1") (headshots "1") (tks "0") (damage "192") (deaths "1")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "weaponstats2" (weapon "usp") (head "2") (chest "2") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "weaponstats" (weapon "m4a1") (shots "11") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "90") (deaths "1")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "time" (time "3:00")
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" triggered "latency" (ping "17")
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "42") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "time" (time "1:42")
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" triggered "latency" (ping "47")
+L 03/13/2015 - 18:26:25: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/13/2015 - 18:26:25: [META] ini: Read plugin config for: AMX Mod X
+L 03/13/2015 - 18:26:25: [META] ini: Read plugin config for: dproto_EF
+L 03/13/2015 - 18:26:25: [META] ini: Read plugin config for: mmtimer
+L 03/13/2015 - 18:26:25: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/13/2015 - 18:26:25: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/13/2015 - 18:26:25: [META] dll: Updating plugins...
+L 03/13/2015 - 18:26:25: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/13/2015 - 18:26:25: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/13/2015 - 18:26:25: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/13/2015 - 18:26:25: "[Hard_Skill]_Lexa Kosmonaft<2><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/13/2015 - 18:26:25: "|Xyligans|kpy}I{ka<4><STEAM_0:0:1696161005><CT>" disconnected
+L 03/13/2015 - 18:26:25: "Radion#<6><STEAM_0:0:1417911346><TERRORIST>" disconnected
+L 03/13/2015 - 18:26:25: World triggered "Round_Draw" (CT "1") (T "2")
+L 03/13/2015 - 18:26:25: World triggered "Round_End"
+L 03/13/2015 - 18:26:25: Log file closed

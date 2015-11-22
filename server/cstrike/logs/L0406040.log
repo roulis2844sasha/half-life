@@ -1,0 +1,207 @@
+L 04/06/2015 - 10:33:29: Log file started (file "logs/L0406040.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/06/2015 - 10:33:29: Loading map "$2000$"
+L 04/06/2015 - 10:33:29: Server cvars start
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_debug_level" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_examine_time" = "0.5"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_look_angle" = "10"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_look_distance" = "200"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_message_repeats" = "5"
+L 04/06/2015 - 10:33:29: Server cvar "_tutor_view_distance" = "1000"
+L 04/06/2015 - 10:33:29: Server cvar "aesp_version" = "1.5b_mini"
+L 04/06/2015 - 10:33:29: Server cvar "allow_spectators" = "4"
+L 04/06/2015 - 10:33:29: Server cvar "amx_client_languages" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/06/2015 - 10:33:29: Server cvar "amx_language" = "ru"
+L 04/06/2015 - 10:33:29: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 04/06/2015 - 10:33:29: Server cvar "amx_timeleft" = "24:51"
+L 04/06/2015 - 10:33:29: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/06/2015 - 10:33:29: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/06/2015 - 10:33:29: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Config" = "Loaded"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Replace" = "Failed"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Status" = "Loaded"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/06/2015 - 10:33:29: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/06/2015 - 10:33:29: Server cvar "coop" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "deathmatch" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "decalfrequency" = "9"
+L 04/06/2015 - 10:33:29: Server cvar "dp_version" = "0.9.391"
+L 04/06/2015 - 10:33:29: Server cvar "edgefriction" = "2"
+L 04/06/2015 - 10:33:29: Server cvar "hostage_debug" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "hostage_stop" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "humans_join_team" = "any"
+L 04/06/2015 - 10:33:29: Server cvar "jtp10181" = "chute,gore"
+L 04/06/2015 - 10:33:29: Server cvar "max_queries_sec" = "3.0"
+L 04/06/2015 - 10:33:29: Server cvar "max_queries_sec_global" = "30"
+L 04/06/2015 - 10:33:29: Server cvar "max_queries_window" = "60"
+L 04/06/2015 - 10:33:29: Server cvar "metamod_version" = "1.19"
+L 04/06/2015 - 10:33:29: Server cvar "mp_allowmonsters" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_autokick" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_autoteambalance" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_buytime" = "1.5"
+L 04/06/2015 - 10:33:29: Server cvar "mp_c4timer" = "35"
+L 04/06/2015 - 10:33:29: Server cvar "mp_chattime" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_consistency" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_fadetoblack" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_flashlight" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_footsteps" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_forcecamera" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_forcechasecam" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_fragsleft" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_freezetime" = "5"
+L 04/06/2015 - 10:33:29: Server cvar "mp_friendlyfire" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_hostagepenalty" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_kickpercent" = "0.66"
+L 04/06/2015 - 10:33:29: Server cvar "mp_limitteams" = "5"
+L 04/06/2015 - 10:33:29: Server cvar "mp_logdetail" = "3"
+L 04/06/2015 - 10:33:29: Server cvar "mp_logfile" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_logmessages" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/06/2015 - 10:33:29: Server cvar "mp_maxrounds" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_mirrordamage" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_playerid" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_roundtime" = "2.57"
+L 04/06/2015 - 10:33:29: Server cvar "mp_startmoney" = "800"
+L 04/06/2015 - 10:33:29: Server cvar "mp_timeleft" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "mp_timelimit" = "30"
+L 04/06/2015 - 10:33:29: Server cvar "mp_tkpunish" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_windifference" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "mp_winlimit" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "pausable" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_accelerate" = "5"
+L 04/06/2015 - 10:33:29: Server cvar "sv_aim" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_airaccelerate" = "10"
+L 04/06/2015 - 10:33:29: Server cvar "sv_airmove" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "sv_allowupload" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "sv_alltalk" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_bounce" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "sv_cheats" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_clienttrace" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "sv_clipmode" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_contact" = ""
+L 04/06/2015 - 10:33:29: Server cvar "sv_friction" = "4"
+L 04/06/2015 - 10:33:29: Server cvar "sv_gravity" = "800"
+L 04/06/2015 - 10:33:29: Server cvar "sv_logblocks" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_maxrate" = "25000"
+L 04/06/2015 - 10:33:29: Server cvar "sv_maxspeed" = "900"
+L 04/06/2015 - 10:33:29: Server cvar "sv_minrate" = "100000"
+L 04/06/2015 - 10:33:29: Server cvar "sv_password" = ""
+L 04/06/2015 - 10:33:29: Server cvar "sv_proxies" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_region" = "3"
+L 04/06/2015 - 10:33:29: Server cvar "sv_restart" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_restartround" = "0"
+L 04/06/2015 - 10:33:29: Server cvar "sv_stepsize" = "18"
+L 04/06/2015 - 10:33:29: Server cvar "sv_stopspeed" = "75"
+L 04/06/2015 - 10:33:29: Server cvar "sv_uploadmax" = "0.5"
+L 04/06/2015 - 10:33:29: Server cvar "sv_voiceenable" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "sv_wateraccelerate" = "10"
+L 04/06/2015 - 10:33:29: Server cvar "sv_waterfriction" = "1"
+L 04/06/2015 - 10:33:29: Server cvar "travo_statmarquee" = "v1.2"
+L 04/06/2015 - 10:33:29: Server cvar "vtc_version" = "80"
+L 04/06/2015 - 10:33:29: Server cvar "wallblocker_version" = "1.0"
+L 04/06/2015 - 10:33:29: Server cvars end
+L 04/06/2015 - 10:33:29: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 04/06/2015 - 10:33:29: Server cvar "sv_restart" = "1"
+L 04/06/2015 - 10:33:29: World triggered "Restart_Round_(1_second)"
+L 04/06/2015 - 10:33:29: Team "CT" scored "0" with "0" players
+L 04/06/2015 - 10:33:29: Team "TERRORIST" scored "0" with "0" players
+L 04/06/2015 - 10:33:29: Server cvar "sv_restart" = "0"
+L 04/06/2015 - 10:33:29: Started map "$2000$" (CRC "-1688392397")
+L 04/06/2015 - 10:33:34: World triggered "Round_Start"
+L 04/06/2015 - 11:00:59: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3959f08
+L 04/06/2015 - 11:00:59: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><>" connected, address "195.50.30.201:26964"
+L 04/06/2015 - 11:01:00: [VTC] Player 1 speex
+L 04/06/2015 - 11:01:03: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><>" entered the game
+L 04/06/2015 - 11:01:16: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><>" joined team "TERRORIST"
+L 04/06/2015 - 11:01:23: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb395edfc
+L 04/06/2015 - 11:01:23: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><>" connected, address "178.168.202.18:27005"
+L 04/06/2015 - 11:01:23: [VTC] Player 2 speex
+L 04/06/2015 - 11:01:30: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><>" entered the game
+L 04/06/2015 - 11:01:34: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><>" joined team "CT"
+L 04/06/2015 - 11:01:34: World triggered "Game_Commencing"
+L 04/06/2015 - 11:01:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/06/2015 - 11:01:34: World triggered "Round_End"
+L 04/06/2015 - 11:01:35: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/06/2015 - 11:01:35: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" killed "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "awp"
+L 04/06/2015 - 11:01:42: World triggered "Round_Start"
+L 04/06/2015 - 11:01:45: Server cvar "amx_nextmap" = "aim_usp"
+L 04/06/2015 - 11:01:50: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/06/2015 - 11:01:50: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 04/06/2015 - 11:01:50: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" killed "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "awp"
+L 04/06/2015 - 11:01:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/06/2015 - 11:01:50: World triggered "Round_End"
+L 04/06/2015 - 11:01:55: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3963cf0
+L 04/06/2015 - 11:01:55: "BlackHalk427<6><STEAM_0:4:807495741><>" connected, address "195.50.30.201:43805"
+L 04/06/2015 - 11:01:55: [VTC] Player 3 speex
+L 04/06/2015 - 11:01:59: "BlackHalk427<6><STEAM_0:4:807495741><>" entered the game
+L 04/06/2015 - 11:02:00: World triggered "Round_Start"
+L 04/06/2015 - 11:02:02: "BlackHalk427<6><STEAM_0:4:807495741><>" joined team "TERRORIST"
+L 04/06/2015 - 11:02:05: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/06/2015 - 11:02:06: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "12") (damage_armor "3") (health "88") (armor "97")
+L 04/06/2015 - 11:02:18: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-49") (armor "0")
+L 04/06/2015 - 11:02:18: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" killed "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" with "m4a1"
+L 04/06/2015 - 11:02:23: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "33") (armor "80")
+L 04/06/2015 - 11:02:23: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "12") (armor "75")
+L 04/06/2015 - 11:02:24: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "-9") (armor "71")
+L 04/06/2015 - 11:02:24: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" killed "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1"
+L 04/06/2015 - 11:02:24: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/06/2015 - 11:02:24: World triggered "Round_End"
+L 04/06/2015 - 11:02:34: World triggered "Round_Start"
+L 04/06/2015 - 11:02:59: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "63") (armor "0")
+L 04/06/2015 - 11:03:00: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "53") (armor "0")
+L 04/06/2015 - 11:03:00: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "43") (armor "0")
+L 04/06/2015 - 11:03:00: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "26") (armor "0")
+L 04/06/2015 - 11:03:05: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "25") (damage_armor "6") (health "75") (armor "94")
+L 04/06/2015 - 11:03:10: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "2") (armor "0")
+L 04/06/2015 - 11:03:12: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy" (damage "9") (damage_armor "4") (health "51") (armor "82")
+L 04/06/2015 - 11:03:12: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "42") (armor "77")
+L 04/06/2015 - 11:03:13: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy" (damage "11") (damage_armor "5") (health "31") (armor "72")
+L 04/06/2015 - 11:03:13: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "18") (armor "72")
+L 04/06/2015 - 11:03:13: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "9") (armor "67")
+L 04/06/2015 - 11:03:13: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "-4") (armor "67")
+L 04/06/2015 - 11:03:13: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" killed "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "mp5navy"
+L 04/06/2015 - 11:03:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/06/2015 - 11:03:13: World triggered "Round_End"
+L 04/06/2015 - 11:03:23: World triggered "Round_Start"
+L 04/06/2015 - 11:03:43: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/06/2015 - 11:03:44: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "56") (armor "95")
+L 04/06/2015 - 11:03:44: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "35") (armor "90")
+L 04/06/2015 - 11:03:44: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/06/2015 - 11:03:44: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "14") (armor "86")
+L 04/06/2015 - 11:03:44: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/06/2015 - 11:03:44: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "-9") (armor "86")
+L 04/06/2015 - 11:03:44: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" killed "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1"
+L 04/06/2015 - 11:03:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 04/06/2015 - 11:03:44: World triggered "Round_End"
+L 04/06/2015 - 11:03:54: World triggered "Round_Start"
+L 04/06/2015 - 11:04:03: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/06/2015 - 11:04:03: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/06/2015 - 11:04:03: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 04/06/2015 - 11:04:06: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "ak47" (damage "27") (damage_armor "4") (health "33") (armor "87")
+L 04/06/2015 - 11:04:06: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/06/2015 - 11:04:06: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "ak47" (damage "27") (damage_armor "4") (health "6") (armor "83")
+L 04/06/2015 - 11:04:06: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 04/06/2015 - 11:04:06: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "86") (damage_armor "18") (health "-28") (armor "72")
+L 04/06/2015 - 11:04:06: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" killed "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1"
+L 04/06/2015 - 11:04:08: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" committed suicide with "grenade"
+L 04/06/2015 - 11:04:08: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 04/06/2015 - 11:04:08: World triggered "Round_End"
+L 04/06/2015 - 11:04:13: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" joined team "TERRORIST"
+L 04/06/2015 - 11:04:18: World triggered "Round_Start"
+L 04/06/2015 - 11:04:21: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "60") (armor "0")
+L 04/06/2015 - 11:04:21: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/06/2015 - 11:04:21: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" attacked "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "38") (armor "0")
+L 04/06/2015 - 11:04:21: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "ak47" (damage "32") (damage_armor "5") (health "43") (armor "95")
+L 04/06/2015 - 11:04:21: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "15") (damage_armor "0") (health "28") (armor "95")
+L 04/06/2015 - 11:04:21: "Fuck all# 6aTbKa 427<4><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "ak47" (damage "26") (damage_armor "4") (health "2") (armor "91")
+L 04/06/2015 - 11:04:22: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" attacked "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1" (damage "15") (damage_armor "0") (health "-13") (armor "91")
+L 04/06/2015 - 11:04:22: "BlackHalk427<6><STEAM_0:4:807495741><TERRORIST>" killed "[Hard_Skill]_4IKIST<5><STEAM_0:4:1573594373><CT>" with "m4a1"
+L 04/06/2015 - 11:04:22: Team "TERRORIST" tri

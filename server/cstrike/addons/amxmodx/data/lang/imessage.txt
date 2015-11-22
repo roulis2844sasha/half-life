@@ -1,3 +1,6 @@
+[ru]
+INF_REACH = Достигнут максимум информационных сообщений!
+
 [en]
 INF_REACH = Information Messages limit reached!
 
@@ -36,24 +39,3 @@ INF_REACH = Limit informacnich zprav presazen!
 
 [fi]
 INF_REACH = Information Message -raja ylitetty!
-
-[ls]
-INF_REACH = l!m!tz r34ch3d
-
-[bg]
-INF_REACH = Informacionnoto saob6tenie dostigna limita!
-
-[ro]
-INF_REACH = Limita mesajelor informative a fost atinsa!
-
-[hu]
-INF_REACH = Informacio uzenetek limit elerve!
-
-[lt]
-INF_REACH = Informacijos zinuciu limitas pasiektas
-
-[sk]
-INF_REACH = Limit informacnych sprav prekroceny!
-
-[mk]
-INF_REACH = Dostignat e limitot za Informacioni Poraki!

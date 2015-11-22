@@ -1,0 +1,14 @@
+/// Overview description file for de_sona.bsp
+
+global 
+{
+	ZOOM	1.32
+	ORIGIN	-1640.00 	-900.47	   -305.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_sona.bmp"
+	HEIGHT	-305.00
+}

@@ -1,0 +1,326 @@
+[ru]
+RACE_0 = Без расы
+RACE_1 = Нежить
+RACE_2 = Человек
+RACE_3 = Орк
+RACE_4 = Ельф
+RACE_5 = Маг
+RACE_6 = Охотник
+RACE_7 = Контролёр
+RACE_8 = Лорд
+RACE_9 = Хамилион
+
+RACE_S_0 = Без расы
+RACE_S_1 = Нежить
+RACE_S_2 = Человек
+RACE_S_3 = Орк
+RACE_S_4 = Ельф
+RACE_S_5 = Маг
+RACE_S_6 = Охотник
+RACE_S_7 = Контролёр
+RACE_S_8 = Лорд
+RACE_S_9 = Хамилион
+
+SKILL_0 = Вампиризм
+SKILL_1 = Быстрый бег
+SKILL_2 = Левитация
+SKILL_3 = Взрываемость
+SKILL_4 = Невидимость
+SKILL_5 = Дополнительное hp
+SKILL_6 = Заморозка
+SKILL_7 = Телепорт
+SKILL_8 = Доп. урон
+SKILL_9 = Доп. урон гранатой
+SKILL_10 = Снаряжение после смерти
+SKILL_11 = Молния
+SKILL_12 = Увёртывание
+SKILL_13 = Бумеранг
+SKILL_14 = Доп. урон
+SKILL_15 = Заморозка
+SKILL_16 = Воскрешение товарища
+SKILL_17 = Толкнуть
+SKILL_18 = Забирать деньги
+SKILL_19 = Огонь
+SKILL_20 = Уменьшение урона
+SKILL_21 = Аура лечения
+SKILL_22 = Замедление
+SKILL_23 = Молнии
+SKILL_24 = Броня
+SKILL_25 = Аура смерти
+SKILL_26 = Попасть к врагам
+SKILL_27 = Отрожение ultimate
+SKILL_28 = Доп. урон
+SKILL_29 = Возрождение
+SKILL_30 = Блокировка ultimate
+SKILL_31 = Подбросить
+SKILL_32 = Доп. броня
+SKILL_33 = Доп. урон
+SKILL_34 = Саранча
+SKILL_35 = Доп. урон
+
+SKILL_I_0 = Ты получаешь hp за нанесённый урон противнику
+SKILL_I_1 = Ты бегаешь быстрее
+SKILL_I_2 = Ты прыгаешь выше
+SKILL_I_3 = Когда ты умрёшь ты взорвёшься
+SKILL_I_4 = Ты частично невидимый
+SKILL_I_5 = Даёт тебе дополнительное hp
+SKILL_I_6 = При попадении во врага есть шанс что он заморозится
+SKILL_I_7 = Ты можешь телепортироваться
+SKILL_I_8 = Ты наносишь дополнительный урон при каждом выстреле
+SKILL_I_9 = Ты наносишь дополнительный урон при взырве гранаты
+SKILL_I_10 = Сохраняет экипировку после смерти
+SKILL_I_11 = Ты можешь пустить молнию которая будет бить твои врагов по цепочке
+SKILL_I_12 = Ты можешь избежать урона от выстрела противника
+SKILL_I_13 = Ты отражаешь выстрел противника
+SKILL_I_14 = Ты наносишь дополнительный урон выстрелами
+SKILL_I_15 = Ты замораживаешь противника на 10сек и у него выпадает оружие
+SKILL_I_16 = Ты воскрешаешь 1-го своего умершего товарища
+SKILL_I_17 = Ты телепортируешь игрока в любое другое место
+SKILL_I_18 = При попадении во врага ты высасуешь с него деньги
+SKILL_I_19 = Ты обжигаешь противника, у него теряется 35hp и он горит 4сек, 5hp за 1 сек
+SKILL_I_20 = Уменьшает наносимый тебе урон
+SKILL_I_21 = Ты лечишь себя и своих товарищей
+SKILL_I_22 = При попадении в противника у него выключается ultimate и он замедляется
+SKILL_I_23 = У тебя есть молнии которые ты можешь растовлять на карте, они бьют по 8hp за секунду, чтоб поставить молнии: ability
+SKILL_I_24 = Вас нельзя убить в течении 2сек
+SKILL_I_25 = Нанесение урона врагам
+SKILL_I_26 = Ты можешь в начале раунда телепортироваться к врагам под ихним видом
+SKILL_I_27 = Ты можешь отразить ultimate
+SKILL_I_28 = Есть шанс нанести доп. урон
+SKILL_I_29 = После смерти ты теепортируешься на свою базу с половиной hp
+SKILL_I_30 = Возможность заблокировать часть урона от ultimate
+SKILL_I_31 = При попадении во врага есть шанс подбросить его
+SKILL_I_32 = При попадении противника тебе даёться броня, а у противника отнимается hp
+SKILL_I_33 = Ты можешь нанести доп. урон
+SKILL_I_34 = Саранча нападает на противника и наносит ему урон
+SKILL_I_35 = Ты можешь нанести доп. урон
+
+SKILL_10_DOD = Перевоплощение
+SKILL_I_1_DOD = Тебе предоставлено hp
+SKILL_I_10_DOD = Тебе дает (%d%%, %d%% или %d%%) шанса что ты воскреснешь
+SKILL_I_16_DOD = Ты получаешь деньги за убийство, твои товарищи получают половину
+
+ITEM_0 = Сохранение экипировки
+ITEM_1 = Ботинки скорости
+ITEM_2 = Когти смерти
+ITEM_3 = Плащь теней
+ITEM_4 = Маска смерти
+ITEM_5 = Неуязвимость
+ITEM_6 = Замедление противника
+ITEM_7 = Здоровье
+ITEM_8 = Опыт
+ITEM_9 = Воскрешение
+ITEM_10 = Защита от врага 
+ITEM_11 = Шлем
+ITEM_12 = Тихая ходьба
+ITEM_13 = Гравитация
+ITEM_14 = Гранаты
+ITEM_15 = Кольцо здоровья
+ITEM_16 = Хамилион
+ITEM_17 = Телепорт к врагам
+ITEM_S_0 = Экипировка
+ITEM_S_1 = Скорость
+ITEM_S_2 = Урон
+ITEM_S_3 = Невидимость
+ITEM_S_4 = Маска
+ITEM_S_5 = Неуязвимость
+ITEM_S_6 = Замедление
+ITEM_S_7 = Здоровье
+ITEM_S_8 = Опыт
+ITEM_S_9 = Возрождение
+ITEM_S_10 = Защита
+ITEM_S_11 = Шлем
+ITEM_S_12 = Ходьба
+ITEM_S_13 = Гравитация
+ITEM_S_14 = Гранаты
+ITEM_S_15 = Кольцо
+ITEM_S_16 = Хамилион
+ITEM_S_17 = Телепорт
+
+ITEM_I_0 = После смерти у тебя останется вся экипировка
+ITEM_I_1 = Ты бегаешь быстрее
+ITEM_I_2 = При попадении во врага, с него снимается дополнительно 6hp
+ITEM_I_3 = Делает тебя частично невидимым
+ITEM_I_4 = При попадении во врага, ты получаешь 20% hp от нанесенного ущерба
+ITEM_I_5 = У тебя появляется имунитет к ultimate
+ITEM_I_6 = Замедляет противника при попадении в него
+ITEM_I_7 = Добавляет 15hp
+ITEM_I_8 = Добавляет определённое кол-во XP
+ITEM_I_9 = Ты возвротишся на базу, после смерти
+ITEM_I_10 = Защита от телепорта врагов к вам на базу
+ITEM_I_11 = Иммунитет от HS
+ITEM_I_12 = Позволяет бегать безшумно
+ITEM_I_13 = Позволяет прыгать выше
+ITEM_I_14 = Каждые 10сек у тебя появляеться HE граната
+ITEM_I_15 = Востанавливает 1hp за 2сек (Можно иметь до 5 колец)  
+ITEM_I_16 = Меняет твой скин на вражеский
+ITEM_I_17 = Телепортирует тебя на вражескую базу в ихнем скине
+
+ITEM_I_0_DOD = Вы возродитесь на своей базе
+ITEM_I_1_DOD = Предоставляет тебе hp
+
+MOTD_TITLE_SHOPMENU = Информация о 1 магазине
+MOTD_TITLE_SHOPMENU2 = Информация о 2 магазине
+
+CURRENT_ITEMS_RING = Предметы: %s и %s x%d
+CURRENT_ITEMS = Предметы: %s и %s
+CURRENT_ITEM_RING = Предметы: %s %d
+CURRENT_ITEM = Предметы: %s
+WORD_AND = и
+YOU_GAINED_A_LEVEL = Ты взял уровень
+WORD_ULTIMATE = Ultimate
+HAS_REVIVED_YOU = %s восстановил тебя
+YOU_HAVE_REVIVED = Ты возвродишься через %sсек
+NO_SPOT_MOLE_MONEY = Невозможно телепортироваться, ваши деньги были возвращены
+NO_SPOT_TO_MOLE = Нельзя телепортироваться
+SKILLS_RESET_NEXT_ROUND = Твои навыки будут изменены в следующем раунде
+SERVER_DISABLED = Эта опция заблокирована
+SELECT_RACE_BEFORE_SKILLS = Ты должен выбрать расу, перед выбором навыков!
+ALREADY_SELECTED_SKILL_POINTS = Больше нельзя выбирать навыки
+SHOT_DEFLECTED = Телепорт был отклонён
+UNTIL_YOUR_NEXT_GRENADE = Осталось %dсек до HE гранаты
+DONT_DIE_GOOSE = Не умирай!
+RACE_NOT_YET_SELECTED = %s - невыбрана%s
+PLAYER_SKILLS = Меню навыков
+NOT_ULTIMATE_DURING_FREEZETIME = Нельзя использовать пока заморозка
+SUICIDE_BOMB_ARMED = Бомба готова^nНажмите ещё раз для взрыва
+BLINK_DISABLED_FOR_FIRST = Отрожение невозможно^nНа %.0f секундах раунда
+TELEPORT_FAILED_ENEMY_IMMUNITY = Телепорт невозможен!^nУ врага иммунитет
+VENGEANCE_FAILED_ENEMY_IMMUNITY = Нельзя^nУ врага иммунитет
+SLAIN_FOR_TELEPORTING = ты был убит из-за телепорта
+TELEPORT_FAILED_BAD_DESTINATION = Неудалось телепортироваться
+CANCEL_TELEMENU = ^n^n\w0. Отмена
+XP_IS_NOT_SAVED = Извини, XP не сохраняется на этом сервере
+NOT_BUY_ITEMS_WHEN_DEAD = Нельзя купить, ты мёртв!
+SECONDS_HAVE_PASSED_CANT_BUY = %0.0f секунд прошло, ты неможешь купить это сейчас
+MUST_BE_IN_BUYZONE = Ты не в зоне покупки
+WORD_EXIT = Выход
+NOT_BUY_WHEN_ALONE_ON_SERVER = Нельзя купить, ты один на сервере!
+NOT_PURCHASE_WHEN_DEAD = Нельзя, ты мёртв!
+ALREADY_OWN_THAT_ITEM = У тебя это уже есть
+INSUFFICIENT_FUNDS = У тебя нехватает денег!
+NOT_PURCHASE_AFTER_ENDROUND = Ты неможешь это купить в этом раунде
+NOT_PURCHASE_MORE_THAN_FIVE_RINGS = Нельзя купить больше чем 5 колец
+ENJOY_A_GRENADE = Ты получил HE гранату
+RANK_IS = Ранг %d из %d^n
+CURRENT_HEALTH = Здоровье
+WORD_ARMOR = Броня
+SERPENT_WARD = Всего %d осталось
+ONLY_ONE_GRENADE_PER_ROUND = Только 1 HE граната
+NO_CLIENTS_IN_TEAM = Нет таких игроков
+YOU_HAVE_NO_ACCESS = Ты не админ
+YOUR_XP_HAS_BEEN_RESET = Твой XP был сброшен
+THE_ADMIN_GAVE_YOU_EXPERIENCE = Админ дал тебе %dXP
+HES_ON_YOUR_TEAM_DONT_SHOOT = Товарищь
+AWARD_FOR_WINNING_ROUND = Ты получил %dXP за победу
+NO_LONGER_SEE_ICONS = Выключить иконки рас
+NOW_SEE_ICONS = Включить иконки рас
+SKILLS_MENU = Меню навыков
+RACE_MENU = Меню рас
+ITEM_MENU = Меню предметов
+HELP = Помощь
+ADMIN_MENU_TITLE = Админ меню
+SELECT_SKILLS = Выбрать навыки
+SKILLS_INFORMATION = Инфо о навыках
+RESELECT_SKILLS = Сбросить навыки
+BACK_STRING = Назад
+CHANGE_RACE = Сменить расу
+SHOW_LEVEL = Показать уровень
+RESET_XP = Сбросить XP
+SHOW_PLAYER_SKILLS = Показать навыки игроков
+SHOPMENU1_OPTION = Магазин 1
+SHOPMENU2_OPTION = Магазин 2
+SHOW_SHOPMENU1_INFO = Инфо о магазине 1
+SHOW_SHOPMENU2_INFO = Инфо о магазине 2
+GIVE_IND_XP = Дать комуто XP
+GIVE_MULT_XP = Дать всем XP
+SAVE_ALL_XP = Сохранить XP
+GIVE = Дать
+MORE_STRING = Другое
+THE_ADMIN_JUST_GAVE_YOU_XP = Админ дал вам %d XP
+TERRORISTS = Теры
+CT = Контры
+EVERYONE = Все
+WORD_SKILLS = Навыки
+RACE_INFORMATION = Информация о расе
+WAS_KILLED_BY = %s был убит %s's %s
+
+MOTD_DEVELOPED_BY = Нема
+MOTD_CLICK_FOR_LATEST = Нема
+MOTD_MORE_INFO = Нема
+
+ICONS_ARE_DISABLED = Иконки расс заблокированы
+MENU_BUY_ITEM = \yМагазин 1\R$  Cost^n^n
+MENU_BUY_ITEM2 = \yМагазин 2\R$  Cost^n^n
+MENU_SELECT_RACE = \yВыбрать расу:
+MENU_SELECT_SKILL = \yВыбрать героя:\w^n
+MENU_WAR3MENU = \yWar3FT опции
+MENU_SKILLS_OPTIONS = \yВыбор навыков
+MENU_ITEM_OPTIONS = \yОпции предметов
+MENU_RACE_OPTIONS = \yОпции рас
+MENU_ADMIN_MENU = \yАдмин меню
+MENU_GIVE_PLAYERS_XP = \yДать игрокам XP
+MENU_TEAM_XP = \yКомандное XP меню
+MENU_RESET_XP = \yСбросить уровень и XP?
+MENU_REPLACE_ITEM = \yЧто вы хотите изменить?
+WAR3HELP_TITLE = War3FT помощь
+
+War3FT помощь:
+Команды при помощи которых можно смотреть информацию о себе и других<p>
+say /ability - Активировать доп. способность<br>
+say /changerace - Сменить расу<br>
+say /itemsinfo - Инфо о магазине 1<br>
+say /itemsinfo2 - Инфо о магазине 2<br>
+say /level - Отображает твою расу, уровень, XP<br>
+say /levitation - Включить/Выключить левитацию у нежити<br>
+say /movespeed - Показать в чат текущую скорость<br>
+say /playerskills - Показать способности других игроков<br>
+say /resetskills - Сброс навыков<br>		
+say /resetxp - Сброс уровня и XP
+say /selectskill - Выбор навыков(если есть невыбранные)<br>
+say /skillsinfo - Показывает текущие навыки<br>
+say /war3menu -  War3FT меню<br>
+
+:
+
+ULTIMATE_NOT_READY = Ultimate неготов^n(Осталось %d секунд)
+ULTIMATE_NOT_FOUND = Ultimate нету
+ULTIMATE_READY = Ultimate неготов
+SELECT_RACE_FOOTER = ^n\w%d. Авто-выбор
+SELECT_HERO = ^n\yВыбери героя^n^n
+NO_FREE_SPAWN_FOUND = Невозможно телепортироваться
+SERVER_MAP_DISABLED = War3FT эффекты заблокированы на этой карте: %s
+WORD_LEVEL = Уровень
+WORD_PURCHASED = куплено
+WORD_CANCEL = Отмена
+INFO_SHOPMENU_1 = После смерти, ты реинкарнируешь с тем же оружием
+DOD_INFO_SHOPMENU_1 = Когда вы умрёте вы появитесь на базе
+INFO_SHOPMENU_2 = Cейчас ты бегаешь на %0.0f%% быстрее
+DOD_INFO_SHOPMENU_2 = Сейчас у тебя будет больше hp
+INFO_SHOPMENU_3 = При попадениии во врага, с него снимается доп. %dhp
+INFO_SHOPMENU_4 = Теперь ты %0.0f%% невидимый
+INFO_SHOPMENU_5 = При попадении во врага ты получаешь %0.0f%%hp от нанесённого ему ущерба
+INFO_SHOPMENU_6 = Ты купил %d имунитета от ultimate
+INFO_SHOPMENU_7 = Ты можешь сильно замедлить врага
+INFO_SHOPMENU_8 = Ты получил %d hp
+INFO_SHOPMENU_9 = Ты получил %dXP
+INFO_SHOPMENU2_1 = Воскрешает тебя после убийства
+INFO_SHOPMENU2_1_DEAD = Сейчас ты вернёшься на базу
+INFO_SHOPMENU2_2 = У тебя иммунитет от телепортации врагов на твою базу
+INFO_SHOPMENU2_3 = Ты купил шлем, теперь тебя неубьют HS
+INFO_SHOPMENU2_4 = Теперь ты бегаешь безшумно
+INFO_SHOPMENU2_5 = Сейчас ты прыгаешь выше
+INFO_SHOPMENU2_6 = Ты получишь гранату через %d секунд
+INFO_SHOPMENU2_7 = У тебя востанавливается 1hp за 2 сек
+INFO_SHOPMENU2_8 = Ты одет как враг
+INFO_SHOPMENU2_9 = Ты будешь одет как враг и появишся у него на базе
+SKILL_REINCARNATION_SKIPPING = Реинкорнироваться нельзя, рядом враг
+SKILL_REINCARNATION_FAILED = Реинкарнация неудалась
+WORD_HERO_ABILITY = Доп. способности героя
+WORD_TRAINABLE_SKILLS = Навыки
+WORD_INFORMATION = Информация
+CENTER_CHANGED_NEXT = Твоя раса будет изменена в след. раунде 
+DOD_AWARDED_XP_OBJECTIVE = Тебе дали %d XP, за завершение мисии
+DOD_PHOENIX = Ты получил бонус $%d потому, что твой товарищь  (%s), убил врага
+HEX_NO_ABILITY = Ты неможешь использовать способность пока ты заморожен
+MENU_WORD_EXPERIENCE = XP

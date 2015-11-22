@@ -1,0 +1,109 @@
+﻿[ru]
+KICK_JOIN_WARNING = У вас есть %s чтобы выбрать сторону или вас кикнут.
+KICK_JOIN_REASON = Не выбрал команду в течении %s.
+KICK_JOIN_ANNOUNCE = %s был кикнут за то что не выбрал команду в течении %s.
+KICK_SPEC_WARNING = У вас есть %s чтобы выбрать команду либо вас кикнут.
+KICK_SPEC_REASON = Был в спектрах более %s.
+KICK_SPEC_ANNOUNCE = %s был кикнут за то, что оставался в спектрах более %s.
+KICK_AFK_WARNING = У вас есть %s чтобы начать играть, либо вас кикнут как AFK.
+KICK_AFK_REASON = Был в AFK (простое) %s.
+KICK_AFK_ANNOUNCE = %s был кикнут за AFK (простой) более %s.
+
+[en]
+KICK_JOIN_WARNING = У вас есть %s чтобы выбрать сторону или вас кикнут.
+KICK_JOIN_REASON = Не выбрал команду в течении %s.
+KICK_JOIN_ANNOUNCE = %s был кикнут за то что не выбрал команду в течении %s.
+KICK_SPEC_WARNING = У вас есть %s чтобы выбрать команду либо вас кикнут.
+KICK_SPEC_REASON = Был в спектрах более %s.
+KICK_SPEC_ANNOUNCE = %s был кикнут за то, что оставался в спектрах более %s.
+KICK_AFK_WARNING = У вас есть %s чтобы начать играть, либо вас кикнут как AFK.
+KICK_AFK_REASON = Был в AFK (простое) %s.
+KICK_AFK_ANNOUNCE = %s был кикнут за AFK (простой) более %s.
+
+[bp]
+KICK_SPEC_WARNING = Voce tem %s para entrar em um time, ou sera chutado por ficar como espectador por muito tempo.
+KICK_SPEC_REASON = Espectador por mais de %s.
+KICK_SPEC_ANNOUNCE = %s foi chutado por assistir por mais de %s.
+KICK_JOIN_WARNING = Voce tem %s para entrar em um time, ou sera chutado.
+KICK_JOIN_REASON = Nao escolheu um time em %s.
+KICK_JOIN_ANNOUNCE = %s foi chutado porque nao escolheu um time em %s.
+KICK_AFK_WARNING = Voce tem %s para comecar a jogar ou sera chutado por ficar ausente por muito tempo.
+KICK_AFK_REASON = Ficou ausente por mais de %s.
+KICK_AFK_ANNOUNCE = %s foi chutado porque ficou ausente por mais de %s.
+
+[de]
+KICK_SPEC_WARNING = Du hast noch %s um einem Team beizutreten. Dauerspectator werden bei uns gekickt.
+KICK_SPEC_REASON = Laenger als %s im Spectator-Modus.
+KICK_SPEC_ANNOUNCE = %s wurde gekickt, weil er laenger als %s im Spectator-Modus war.
+KICK_JOIN_WARNING = Du hast noch %s um einem Team beizutreten oder du wirst gekickt.
+KICK_JOIN_REASON = Innerhalb von %s keinem Team beigetreten.
+KICK_JOIN_ANNOUNCE = %s wurde gekickt, weil er innerhalb von %s keinem Team beigetreten ist.
+KICK_AFK_WARNING = Du hast noch %s Sekunden um deinen Arsch zu bewegen sonst wirst du wegen AFK gekickt.
+KICK_AFK_REASON = Laenger als %s AFK.
+KICK_AFK_ANNOUNCE = %s wurde gekickt weil er laenger als %s AFK war.
+
+[es]
+KICK_SPEC_WARNING = Tienes %s para unirte a un equipo o seras expulsado por ser espectador demasiado tiempo.
+KICK_SPEC_REASON = Has estado %s en modo espectador.
+KICK_SPEC_ANNOUNCE = %s ha sido expulsado por estar mas de %s como espectador.
+KICK_JOIN_WARNING = Tienes %s para unirte a un equipo o seras expulsado.
+KICK_JOIN_REASON = Has estado %s sin haber elegido equipo.
+KICK_JOIN_ANNOUNCE = %s ha sido expulsado por estar mas de %s sin elegir un equipo.
+KICK_AFK_WARNING = Tienes %s para comenzar a jugar o seras expulsado por estar ausente demasiado tiempo.
+KICK_AFK_REASON = Has estado ausente por mas de %s.
+KICK_AFK_ANNOUNCE = %s ha sido expulsado por estar mas de %s ausente.
+
+[fi]
+KICK_SPEC_WARNING = Sinulla on %s aikaa liittya tiimiin, tai tulet kikityksi spectattua liian kauan.
+KICK_SPEC_REASON = Ala spectaa yli %s.
+KICK_SPEC_ANNOUNCE = %s kickittiin spectattuaan yli %s.
+KICK_JOIN_WARNING = You have %s to join a team or you will be kicked.
+KICK_JOIN_REASON = Epaonnistui valitsemaan tiimia %s.
+KICK_JOIN_ANNOUNCE = %s kikittiin epaonnistuessaan tiimiin liittymisessa %s.
+KICK_AFK_WARNING = You have %s to start playing or you will be kicked for being AFK too long.
+KICK_AFK_REASON = Being AFK longer than %s.
+KICK_AFK_ANNOUNCE = %s was kicked for being AFK longer than %s.
+
+[fr]
+KICK_SPEC_WARNING = Il te reste %s pour rejoindre une equipe avant d etre kicke pour avoir ete spectateur trop longtemps.
+KICK_SPEC_REASON = Tu as ete kicke pour etre reste plus de %s en mode spec.
+KICK_SPEC_ANNOUNCE = %s a ete kicke pour etre reste spec plus de %s.
+KICK_JOIN_WARNING = You have %s to join a team or you will be kicked.
+KICK_JOIN_REASON = Tu a ete kicke car tu a passe %s sans avoir rejoint une equipe.
+KICK_JOIN_ANNOUNCE = %s a ete kicke car il n a pas rejoint d equipe en moins de %s.
+KICK_AFK_WARNING = You have %s to start playing or you will be kicked for being AFK too long.
+KICK_AFK_REASON = Being AFK longer than %s.
+KICK_AFK_ANNOUNCE = %s was kicked for being AFK longer than %s.
+
+[nl]
+KICK_SPEC_WARNING = Je hebt %s om een team te kiezen of je wordt gekickt omdat je te lang spectator bent.
+KICK_SPEC_REASON = Langer dan %s spectator geweest.
+KICK_SPEC_ANNOUNCE = %s is gekickt omdat hij langer dan %s spectator was.
+KICK_JOIN_WARNING = You have %s to join a team or you will be kicked.
+KICK_JOIN_REASON = Niet binnen %s een team gekozen.
+KICK_JOIN_ANNOUNCE = %s is gekickt omdat hij niet binnen %s een team heeft gekozen.
+KICK_AFK_WARNING = You have %s to start playing or you will be kicked for being AFK too long.
+KICK_AFK_REASON = Being AFK longer than %s.
+KICK_AFK_ANNOUNCE = %s was kicked for being AFK longer than %s.
+
+[sv]
+KICK_SPEC_WARNING = Du har %s pa dig att v'a'lja ett lag, annars kommer du bli sparkad f'o'r att ha varit spectator f'o'r l'a'nge.
+KICK_SPEC_REASON = Var spectator l'a'ngre 'a'n %s.
+KICK_SPEC_ANNOUNCE = %s blev sparkad f'o'r att ha varit spectator l'a'ngre 'a'n %s.
+KICK_JOIN_WARNING = You have %s to join a team or you will be kicked.
+KICK_JOIN_REASON = Valde inte ett lag inom %s.
+KICK_JOIN_ANNOUNCE = %s blev sparkad f'o'r att spelaren inte valt ett lag inom %s.
+KICK_AFK_WARNING = You have %s to start playing or you will be kicked for being AFK too long.
+KICK_AFK_REASON = Being AFK longer than %s.
+KICK_AFK_ANNOUNCE = %s was kicked for being AFK longer than %s.
+
+[tc]
+KICK_SPEC_WARNING = ±z¦і %s ¬нҐ[¤J№CАёЎA§_«h·нЖ[¬dЄМ¤У¤[·|іQЅріб.
+KICK_SPEC_REASON = ±z¤w·нЖ[¬dЄМ %s ¬нЎA¤У¤[¤Fіб.
+KICK_SPEC_ANNOUNCE = %s ¦]¬°·нЖ[¬dЄМ¦h©у %s ¬ніQЅрҐX¦шЄAѕ№.
+KICK_JOIN_WARNING = You have %s to join a team or you will be kicked.
+KICK_JOIN_REASON = ±z¦b %s ¬н¤єЁГҐјїпѕЬ¶¤ҐоЎAЕwЄп¤U¦ё¦AЁУ­т
+KICK_JOIN_ANNOUNCE = %s ¦b %s ¬н¤єҐјїпѕЬ¶¤ҐоіQЅрҐX¦шЄAѕ№.
+KICK_AFK_WARNING = You have %s to start playing or you will be kicked for being AFK too long.
+KICK_AFK_REASON = Being AFK longer than %s.
+KICK_AFK_ANNOUNCE = %s was kicked for being AFK longer than %s.

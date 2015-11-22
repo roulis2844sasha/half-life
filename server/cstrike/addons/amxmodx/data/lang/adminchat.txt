@@ -1,3 +1,16 @@
+[ru]
+COL_WHITE = белый
+COL_RED = красный
+COL_GREEN = зеленый
+COL_BLUE = синий
+COL_YELLOW = желтый
+COL_MAGENTA = пурпурный
+COL_CYAN = голубой
+COL_ORANGE = оранжевый
+COL_OCEAN = океанический
+COL_MAROON = коричневый
+PRINT_ALL = %s (для всех): %s
+
 [en]
 COL_WHITE = white
 COL_RED = red
@@ -166,94 +179,3 @@ COL_ORANGE = oranssi
 COL_OCEAN = merensininen
 COL_MAROON = viininpunainen
 PRINT_ALL = (KAIKKI) %s :   %s
-
-[ls]
-COL_WHITE = \/\/hi73
-COL_RED = r3d
-COL_GREEN = gr33n
-COL_BLUE = b|u3
-COL_YELLOW = y3||0w
-COL_MAGENTA = m4g3nt4
-COL_CYAN = <y4n
-COL_ORANGE = 0r4ng3
-COL_OCEAN = 0c34n
-COL_MAROON = m4r00n
-PRINT_ALL = (@||) %s : %s
-
-[bg]
-COL_WHITE = Bql
-COL_RED = 4erven
-COL_GREEN = zelen
-COL_BLUE = sin
-COL_YELLOW = jalt
-COL_MAGENTA = magenta
-COL_CYAN = cyan
-COL_ORANGE = orangev
-COL_OCEAN = okeanski
-COL_MAROON = maroon
-PRINT_ALL = (ALL) %s :   %s
-
-[ro]
-COL_WHITE = alb
-COL_RED = rosu
-COL_GREEN = verde
-COL_BLUE = albastru
-COL_YELLOW = galben
-COL_MAGENTA = purpuriu
-COL_CYAN = cian
-COL_ORANGE = oranj
-COL_OCEAN = ocean
-COL_MAROON = maro
-PRINT_ALL = (TOTI) %s :   %s
-
-[hu]
-COL_WHITE = feher
-COL_RED = piros
-COL_GREEN = zold
-COL_BLUE = kek
-COL_YELLOW = csarga
-COL_MAGENTA = magenta
-COL_CYAN = cyan
-COL_ORANGE = nsarga
-COL_OCEAN = ocean
-COL_MAROON = maroon
-PRINT_ALL = (MIND) %s :   %s
-
-[lt]
-COL_WHITE = balta
-COL_RED = raudona
-COL_GREEN = zalia
-COL_BLUE = melyna
-COL_YELLOW = geltona
-COL_MAGENTA = rausvas
-COL_CYAN = zydras
-COL_ORANGE = oranzine
-COL_OCEAN = melsva
-COL_MAROON = bordine
-PRINT_ALL = (VISIEM) %s :   %s
-
-[sk]
-COL_WHITE = biela
-COL_RED = cervena
-COL_GREEN = zelena
-COL_BLUE = modra
-COL_YELLOW = zlta
-COL_MAGENTA = fialova
-COL_CYAN = modrozelena
-COL_ORANGE = orandzova
-COL_OCEAN = modra
-COL_MAROON = gastanova
-PRINT_ALL = (ALL) %s :   %s
-
-[mk]
-COL_WHITE = bela
-COL_RED = crvena
-COL_GREEN = zelena
-COL_BLUE = plava
-COL_YELLOW = zolta
-COL_MAGENTA = ljubicesta
-COL_CYAN = tirkizna
-COL_ORANGE = portokalova
-COL_OCEAN = okean
-COL_MAROON = modra
-PRINT_ALL = (KON SITE) %s : %s

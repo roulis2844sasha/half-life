@@ -1,0 +1,400 @@
+L 03/07/2015 - 04:24:53: Log file started (file "logs/L0307005.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/07/2015 - 04:24:53: Loading map "$2000$"
+L 03/07/2015 - 04:24:53: Server cvars start
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_debug_level" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_examine_time" = "0.5"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_look_angle" = "10"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_look_distance" = "200"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_message_repeats" = "5"
+L 03/07/2015 - 04:24:53: Server cvar "_tutor_view_distance" = "1000"
+L 03/07/2015 - 04:24:53: Server cvar "aesp_version" = "1.5b_mini"
+L 03/07/2015 - 04:24:53: Server cvar "allow_spectators" = "2"
+L 03/07/2015 - 04:24:53: Server cvar "amx_client_languages" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/07/2015 - 04:24:53: Server cvar "amx_language" = "ru"
+L 03/07/2015 - 04:24:53: Server cvar "amx_nextmap" = "aim_awp"
+L 03/07/2015 - 04:24:53: Server cvar "amx_timeleft" = "44:49"
+L 03/07/2015 - 04:24:53: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/07/2015 - 04:24:53: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/07/2015 - 04:24:53: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Config" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Status" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/07/2015 - 04:24:53: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/07/2015 - 04:24:53: Server cvar "coop" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "deathmatch" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "decalfrequency" = "9"
+L 03/07/2015 - 04:24:53: Server cvar "dp_version" = "0.9.391"
+L 03/07/2015 - 04:24:53: Server cvar "edgefriction" = "2"
+L 03/07/2015 - 04:24:53: Server cvar "hostage_debug" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "hostage_stop" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "humans_join_team" = "any"
+L 03/07/2015 - 04:24:53: Server cvar "jtp10181" = "chute"
+L 03/07/2015 - 04:24:53: Server cvar "max_queries_sec" = "3.0"
+L 03/07/2015 - 04:24:53: Server cvar "max_queries_sec_global" = "30"
+L 03/07/2015 - 04:24:53: Server cvar "max_queries_window" = "60"
+L 03/07/2015 - 04:24:53: Server cvar "metamod_version" = "1.19p32"
+L 03/07/2015 - 04:24:53: Server cvar "mp_allowmonsters" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_autokick" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_autoteambalance" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_buytime" = "1.5"
+L 03/07/2015 - 04:24:53: Server cvar "mp_c4timer" = "35"
+L 03/07/2015 - 04:24:53: Server cvar "mp_chattime" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_consistency" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_fadetoblack" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_flashlight" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_footsteps" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_forcecamera" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_forcechasecam" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_fragsleft" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_freezetime" = "5"
+L 03/07/2015 - 04:24:53: Server cvar "mp_friendlyfire" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_hostagepenalty" = "2"
+L 03/07/2015 - 04:24:53: Server cvar "mp_kickpercent" = "0.66"
+L 03/07/2015 - 04:24:53: Server cvar "mp_limitteams" = "2"
+L 03/07/2015 - 04:24:53: Server cvar "mp_logdetail" = "3"
+L 03/07/2015 - 04:24:53: Server cvar "mp_logfile" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_logmessages" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/07/2015 - 04:24:53: Server cvar "mp_maxrounds" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_mirrordamage" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_playerid" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_roundtime" = "2.57"
+L 03/07/2015 - 04:24:53: Server cvar "mp_startmoney" = "800"
+L 03/07/2015 - 04:24:53: Server cvar "mp_timeleft" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "mp_timelimit" = "50"
+L 03/07/2015 - 04:24:53: Server cvar "mp_tkpunish" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_windifference" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "mp_winlimit" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "pausable" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "sv_accelerate" = "5"
+L 03/07/2015 - 04:24:53: Server cvar "sv_aim" = "off"
+L 03/07/2015 - 04:24:53: Server cvar "sv_airaccelerate" = "10"
+L 03/07/2015 - 04:24:53: Server cvar "sv_airmove" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "sv_allowupload" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "sv_alltalk" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "sv_bounce" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "sv_cheats" = "off"
+L 03/07/2015 - 04:24:53: Server cvar "sv_clienttrace" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "sv_clipmode" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "sv_contact" = ""
+L 03/07/2015 - 04:24:53: Server cvar "sv_friction" = "4"
+L 03/07/2015 - 04:24:53: Server cvar "sv_gravity" = "800"
+L 03/07/2015 - 04:24:53: Server cvar "sv_logblocks" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "sv_maxrate" = "50000"
+L 03/07/2015 - 04:24:53: Server cvar "sv_maxspeed" = "900"
+L 03/07/2015 - 04:24:53: Server cvar "sv_minrate" = "100000"
+L 03/07/2015 - 04:24:53: Server cvar "sv_password" = ""
+L 03/07/2015 - 04:24:53: Server cvar "sv_proxies" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "sv_region" = "3"
+L 03/07/2015 - 04:24:53: Server cvar "sv_restart" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "sv_restartround" = "0"
+L 03/07/2015 - 04:24:53: Server cvar "sv_stepsize" = "18"
+L 03/07/2015 - 04:24:53: Server cvar "sv_stopspeed" = "75"
+L 03/07/2015 - 04:24:53: Server cvar "sv_uploadmax" = "0.5"
+L 03/07/2015 - 04:24:53: Server cvar "sv_voiceenable" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "sv_wateraccelerate" = "10"
+L 03/07/2015 - 04:24:53: Server cvar "sv_waterfriction" = "1"
+L 03/07/2015 - 04:24:53: Server cvar "ultimate_sounds" = "1.7"
+L 03/07/2015 - 04:24:53: Server cvar "vtc_version" = "80"
+L 03/07/2015 - 04:24:53: Server cvars end
+L 03/07/2015 - 04:24:56: Server cvar "amx_nextmap" = "35hp_2"
+L 03/07/2015 - 04:24:57: Started map "$2000$" (CRC "-1688392397")
+L 03/07/2015 - 04:25:03: World triggered "Round_Start"
+L 03/07/2015 - 05:59:22: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3957f08
+L 03/07/2015 - 05:59:22: "FOUST.<38><STEAM_0:0:783840112><>" connected, address "195.50.31.206:24848"
+L 03/07/2015 - 05:59:25: [VTC] Player 1 speex
+L 03/07/2015 - 05:59:27: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3957f08
+L 03/07/2015 - 05:59:27: "FOUST.<39><STEAM_0:0:783840112><>" connected, address "195.50.31.206:24848"
+L 03/07/2015 - 05:59:27: [VTC] Player 1 speex
+L 03/07/2015 - 05:59:36: "FOUST.<39><STEAM_0:0:783840112><>" entered the game
+L 03/07/2015 - 05:59:39: "FOUST.<39><STEAM_0:0:783840112><>" joined team "TERRORIST"
+L 03/07/2015 - 06:00:09: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb395cdfc
+L 03/07/2015 - 06:00:09: "Vlados<40><STEAM_0:0:460781567><>" connected, address "195.50.31.206:23141"
+L 03/07/2015 - 06:00:09: [VTC] Player 2 speex
+L 03/07/2015 - 06:00:13: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb395cdfc
+L 03/07/2015 - 06:00:13: "Vlados<41><STEAM_0:0:460781567><>" connected, address "195.50.31.206:23141"
+L 03/07/2015 - 06:00:14: [VTC] Player 2 speex
+L 03/07/2015 - 06:00:16: "Vlados<41><STEAM_0:0:460781567><>" entered the game
+L 03/07/2015 - 06:00:20: "Vlados<41><STEAM_0:0:460781567><>" joined team "CT"
+L 03/07/2015 - 06:00:21: World triggered "Game_Commencing"
+L 03/07/2015 - 06:00:21: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/07/2015 - 06:00:21: World triggered "Round_End"
+L 03/07/2015 - 06:00:29: World triggered "Round_Start"
+L 03/07/2015 - 06:00:43: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/07/2015 - 06:00:43: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/07/2015 - 06:00:44: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/07/2015 - 06:00:44: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/07/2015 - 06:00:44: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1"
+L 03/07/2015 - 06:00:44: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/07/2015 - 06:00:44: World triggered "Round_End"
+L 03/07/2015 - 06:00:54: World triggered "Round_Start"
+L 03/07/2015 - 06:01:15: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/07/2015 - 06:01:15: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/07/2015 - 06:01:16: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "26") (damage_armor "0") (health "39") (armor "0")
+L 03/07/2015 - 06:01:16: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/07/2015 - 06:01:16: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "43") (damage_armor "0") (health "-4") (armor "0")
+L 03/07/2015 - 06:01:16: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47"
+L 03/07/2015 - 06:01:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 03/07/2015 - 06:01:16: World triggered "Round_End"
+L 03/07/2015 - 06:01:26: World triggered "Round_Start"
+L 03/07/2015 - 06:01:31: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/07/2015 - 06:01:31: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/07/2015 - 06:01:31: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/07/2015 - 06:01:31: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47"
+L 03/07/2015 - 06:01:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/07/2015 - 06:01:31: World triggered "Round_End"
+L 03/07/2015 - 06:01:41: World triggered "Round_Start"
+L 03/07/2015 - 06:01:51: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/07/2015 - 06:01:52: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/07/2015 - 06:01:52: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "awp"
+L 03/07/2015 - 06:01:52: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 03/07/2015 - 06:01:52: World triggered "Round_End"
+L 03/07/2015 - 06:02:02: World triggered "Round_Start"
+L 03/07/2015 - 06:02:30: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/07/2015 - 06:02:30: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "awp" (damage "138") (damage_armor "0") (health "-38") (armor "0")
+L 03/07/2015 - 06:02:30: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "awp"
+L 03/07/2015 - 06:02:30: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 03/07/2015 - 06:02:30: World triggered "Round_End"
+L 03/07/2015 - 06:02:40: World triggered "Round_Start"
+L 03/07/2015 - 06:02:48: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/07/2015 - 06:02:48: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 03/07/2015 - 06:02:49: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "34") (damage_armor "0") (health "16") (armor "0")
+L 03/07/2015 - 06:02:49: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-18") (armor "0")
+L 03/07/2015 - 06:02:49: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47"
+L 03/07/2015 - 06:02:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 03/07/2015 - 06:02:49: World triggered "Round_End"
+L 03/07/2015 - 06:02:59: World triggered "Round_Start"
+L 03/07/2015 - 06:03:11: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/07/2015 - 06:03:11: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/07/2015 - 06:03:11: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 03/07/2015 - 06:03:11: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "ak47"
+L 03/07/2015 - 06:03:11: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 03/07/2015 - 06:03:11: World triggered "Round_End"
+L 03/07/2015 - 06:03:21: World triggered "Round_Start"
+L 03/07/2015 - 06:03:25: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/07/2015 - 06:03:35: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 03/07/2015 - 06:03:59: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "56") (armor "95")
+L 03/07/2015 - 06:03:59: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "35") (armor "91")
+L 03/07/2015 - 06:04:00: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "xm1014" (damage "13") (damage_armor "0") (health "56") (armor "0")
+L 03/07/2015 - 06:04:02: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "xm1014" (damage "25") (damage_armor "0") (health "31") (armor "0")
+L 03/07/2015 - 06:04:03: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "9") (armor "85")
+L 03/07/2015 - 06:04:03: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-13") (armor "85")
+L 03/07/2015 - 06:04:03: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1"
+L 03/07/2015 - 06:04:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 03/07/2015 - 06:04:03: World triggered "Round_End"
+L 03/07/2015 - 06:04:13: World triggered "Round_Start"
+L 03/07/2015 - 06:04:19: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "xm1014" (damage "58") (damage_armor "0") (health "42") (armor "0")
+L 03/07/2015 - 06:04:19: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/07/2015 - 06:04:19: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/07/2015 - 06:04:19: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "xm1014" (damage "108") (damage_armor "0") (health "-66") (armor "0")
+L 03/07/2015 - 06:04:19: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "xm1014"
+L 03/07/2015 - 06:04:19: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 03/07/2015 - 06:04:19: World triggered "Round_End"
+L 03/07/2015 - 06:04:29: World triggered "Round_Start"
+L 03/07/2015 - 06:04:42: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 03/07/2015 - 06:04:42: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1"
+L 03/07/2015 - 06:04:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 03/07/2015 - 06:04:42: World triggered "Round_End"
+L 03/07/2015 - 06:04:52: World triggered "Round_Start"
+L 03/07/2015 - 06:04:56: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/07/2015 - 06:04:57: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/07/2015 - 06:04:59: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/07/2015 - 06:04:59: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "39") (armor "0")
+L 03/07/2015 - 06:04:59: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "8") (armor "0")
+L 03/07/2015 - 06:05:03: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "glock18" (damage "27") (damage_armor "0") (health "-19") (armor "0")
+L 03/07/2015 - 06:05:03: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "glock18"
+L 03/07/2015 - 06:05:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 03/07/2015 - 06:05:03: World triggered "Round_End"
+L 03/07/2015 - 06:05:13: World triggered "Round_Start"
+L 03/07/2015 - 06:05:31: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 03/07/2015 - 06:05:31: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "aug"
+L 03/07/2015 - 06:05:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 03/07/2015 - 06:05:31: World triggered "Round_End"
+L 03/07/2015 - 06:05:41: World triggered "Round_Start"
+L 03/07/2015 - 06:05:52: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/07/2015 - 06:05:52: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 03/07/2015 - 06:05:52: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "21") (damage_armor "4") (health "37") (armor "86")
+L 03/07/2015 - 06:05:52: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "21") (damage_armor "5") (health "16") (armor "81")
+L 03/07/2015 - 06:05:52: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "21") (damage_armor "5") (health "-5") (armor "76")
+L 03/07/2015 - 06:05:52: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "aug"
+L 03/07/2015 - 06:05:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 03/07/2015 - 06:05:52: World triggered "Round_End"
+L 03/07/2015 - 06:06:02: World triggered "Round_Start"
+L 03/07/2015 - 06:06:10: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "aug" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 03/07/2015 - 06:06:11: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/07/2015 - 06:06:12: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "23") (damage_armor "0") (health "46") (armor "0")
+L 03/07/2015 - 06:06:12: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "23") (damage_armor "0") (health "23") (armor "0")
+L 03/07/2015 - 06:06:12: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "23") (damage_armor "0") (health "0") (armor "0")
+L 03/07/2015 - 06:06:12: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249"
+L 03/07/2015 - 06:06:12: Team "CT" triggered "CTs_Win" (CT "6") (T "8")
+L 03/07/2015 - 06:06:12: World triggered "Round_End"
+L 03/07/2015 - 06:06:22: World triggered "Round_Start"
+L 03/07/2015 - 06:06:32: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/07/2015 - 06:06:32: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/07/2015 - 06:06:33: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "37") (damage_armor "0") (health "3") (armor "0")
+L 03/07/2015 - 06:06:33: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "30") (damage_armor "0") (health "-27") (armor "0")
+L 03/07/2015 - 06:06:33: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249"
+L 03/07/2015 - 06:06:33: Team "CT" triggered "CTs_Win" (CT "7") (T "8")
+L 03/07/2015 - 06:06:33: World triggered "Round_End"
+L 03/07/2015 - 06:06:43: World triggered "Round_Start"
+L 03/07/2015 - 06:06:58: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/07/2015 - 06:06:59: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 03/07/2015 - 06:06:59: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "30") (damage_armor "0") (health "18") (armor "0")
+L 03/07/2015 - 06:07:06: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "22") (damage_armor "0") (health "-4") (armor "0")
+L 03/07/2015 - 06:07:06: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249"
+L 03/07/2015 - 06:07:06: Team "CT" triggered "CTs_Win" (CT "8") (T "8")
+L 03/07/2015 - 06:07:06: World triggered "Round_End"
+L 03/07/2015 - 06:07:16: World triggered "Round_Start"
+L 03/07/2015 - 06:07:19: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/07/2015 - 06:07:21: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "glock18" (damage "7") (damage_armor "4") (health "93") (armor "95")
+L 03/07/2015 - 06:07:22: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "37") (damage_armor "0") (health "26") (armor "0")
+L 03/07/2015 - 06:07:23: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "30") (damage_armor "0") (health "-4") (armor "0")
+L 03/07/2015 - 06:07:23: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249"
+L 03/07/2015 - 06:07:23: Team "CT" triggered "CTs_Win" (CT "9") (T "8")
+L 03/07/2015 - 06:07:23: World triggered "Round_End"
+L 03/07/2015 - 06:07:33: World triggered "Round_Start"
+L 03/07/2015 - 06:07:39: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/07/2015 - 06:07:40: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/07/2015 - 06:07:40: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife"
+L 03/07/2015 - 06:07:40: Team "CT" triggered "CTs_Win" (CT "10") (T "8")
+L 03/07/2015 - 06:07:40: World triggered "Round_End"
+L 03/07/2015 - 06:07:50: World triggered "Round_Start"
+L 03/07/2015 - 06:08:06: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/07/2015 - 06:08:09: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/07/2015 - 06:08:09: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife"
+L 03/07/2015 - 06:08:09: Team "CT" triggered "CTs_Win" (CT "11") (T "8")
+L 03/07/2015 - 06:08:09: World triggered "Round_End"
+L 03/07/2015 - 06:08:19: World triggered "Round_Start"
+L 03/07/2015 - 06:08:48: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m249" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/07/2015 - 06:08:51: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "90")
+L 03/07/2015 - 06:08:51: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "4") (armor "0")
+L 03/07/2015 - 06:08:53: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-61") (armor "0")
+L 03/07/2015 - 06:08:53: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife"
+L 03/07/2015 - 06:08:53: Team "CT" triggered "CTs_Win" (CT "12") (T "8")
+L 03/07/2015 - 06:08:53: World triggered "Round_End"
+L 03/07/2015 - 06:09:03: World triggered "Round_Start"
+L 03/07/2015 - 06:09:16: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/07/2015 - 06:09:16: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "85")
+L 03/07/2015 - 06:09:17: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/07/2015 - 06:09:17: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife"
+L 03/07/2015 - 06:09:17: Team "CT" triggered "CTs_Win" (CT "13") (T "8")
+L 03/07/2015 - 06:09:17: World triggered "Round_End"
+L 03/07/2015 - 06:09:27: World triggered "Round_Start"
+L 03/07/2015 - 06:09:42: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "14") (armor "0")
+L 03/07/2015 - 06:09:44: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-51") (armor "0")
+L 03/07/2015 - 06:09:44: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife"
+L 03/07/2015 - 06:09:44: Team "CT" triggered "CTs_Win" (CT "14") (T "8")
+L 03/07/2015 - 06:09:44: World triggered "Round_End"
+L 03/07/2015 - 06:09:54: World triggered "Round_Start"
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "89") (armor "64")
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "11") (damage_armor "5") (health "78") (armor "59")
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "67") (armor "53")
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "11") (damage_armor "5") (health "56") (armor "48")
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "13") (damage_armor "7") (health "43") (armor "41")
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "16") (damage_armor "0") (health "27") (armor "41")
+L 03/07/2015 - 06:10:01: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "16") (damage_armor "0") (health "11") (armor "41")
+L 03/07/2015 - 06:10:02: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy" (damage "13") (damage_armor "7") (health "-2") (armor "34")
+L 03/07/2015 - 06:10:02: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "mp5navy"
+L 03/07/2015 - 06:10:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "9")
+L 03/07/2015 - 06:10:02: World triggered "Round_End"
+L 03/07/2015 - 06:10:12: World triggered "Round_Start"
+L 03/07/2015 - 06:10:29: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/07/2015 - 06:10:30: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "ak47" (damage "35") (damage_armor "0") (health "39") (armor "0")
+L 03/07/2015 - 06:10:31: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/07/2015 - 06:10:32: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/07/2015 - 06:10:32: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 03/07/2015 - 06:10:33: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-34") (armor "0")
+L 03/07/2015 - 06:10:33: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1"
+L 03/07/2015 - 06:10:33: Team "CT" triggered "CTs_Win" (CT "15") (T "9")
+L 03/07/2015 - 06:10:33: World triggered "Round_End"
+L 03/07/2015 - 06:10:43: World triggered "Round_Start"
+L 03/07/2015 - 06:10:55: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/07/2015 - 06:10:55: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/07/2015 - 06:10:55: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-86") (armor "0")
+L 03/07/2015 - 06:10:55: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "m4a1"
+L 03/07/2015 - 06:10:55: Team "CT" triggered "CTs_Win" (CT "16") (T "9")
+L 03/07/2015 - 06:10:55: World triggered "Round_End"
+L 03/07/2015 - 06:11:05: World triggered "Round_Start"
+L 03/07/2015 - 06:11:18: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/07/2015 - 06:11:19: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/07/2015 - 06:11:19: "Vlados<41><STEAM_0:0:460781567><CT>" killed "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife"
+L 03/07/2015 - 06:11:19: Team "CT" triggered "CTs_Win" (CT "17") (T "9")
+L 03/07/2015 - 06:11:19: World triggered "Round_End"
+L 03/07/2015 - 06:11:29: World triggered "Round_Start"
+L 03/07/2015 - 06:11:40: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/07/2015 - 06:11:42: "Vlados<41><STEAM_0:0:460781567><CT>" attacked "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/07/2015 - 06:11:42: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" attacked "Vlados<41><STEAM_0:0:460781567><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/07/2015 - 06:11:42: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" killed "Vlados<41><STEAM_0:0:460781567><CT>" with "knife"
+L 03/07/2015 - 06:11:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "10")
+L 03/07/2015 - 06:11:42: World triggered "Round_End"
+L 03/07/2015 - 06:11:52: World triggered "Round_Start"
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "Game_idle_kick" (auto)
+L 03/07/2015 - 06:16:58: Kick: "Vlados<41><STEAM_0:0:460781567><>" was kicked by "Console"
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "grenade") (shots "10") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "100") (deaths "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "xm1014") (shots "8") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "204") (deaths "1")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "usp") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "251") (deaths "2")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "m249") (shots "102") (hits "16") (kills "4") (headshots "0") (tks "0") (damage "466") (deaths "2")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "1") (stomach "3") (leftarm "5") (rightarm "2") (leftleg "2") (rightleg "3")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "m4a1") (shots "141") (hits "16") (kills "3") (headshots "1") (tks "0") (damage "609") (deaths "2")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "2") (stomach "4") (leftarm "9") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "ak47") (shots "5") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "102") (deaths "1")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats" (weapon "knife") (shots "32") (hits "13") (kills "6") (headshots "1") (tks "0") (damage "1040") (deaths "2")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "weaponstats2" (weapon "knife") (head "3") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "time" (time "16:39")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" triggered "latency" (ping "11")
+L 03/07/2015 - 06:16:58: "Vlados<41><STEAM_0:0:460781567><CT>" disconnected
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "Game_idle_kick" (auto)
+L 03/07/2015 - 06:16:58: Kick: "FOUST.<39><STEAM_0:0:783840112><>" was kicked by "Console"
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "7") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "32") (deaths "1")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "36") (hits "7") (kills "2") (headshots "1") (tks "0") (damage "239") (deaths "1")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "3") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "9") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "34") (deaths "1")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "15") (hits "8") (kills "1") (headshots "0") (tks "0") (damage "102") (deaths "0")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "2") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "2")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "97") (hits "11") (kills "2") (headshots "1") (tks "0") (damage "385") (deaths "2")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "2") (stomach "2") (leftarm "1") (rightarm "2") (leftleg "2") (rightleg "1")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "45") (hits "14") (kills "3") (headshots "0") (tks "0") (damage "457") (deaths "4")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "9") (rightarm "0") (leftleg "3") (rightleg "1")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "240") (deaths "6")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "3")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "time" (time "17:19")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" triggered "latency" (ping "24")
+L 03/07/2015 - 06:16:58: "FOUST.<39><STEAM_0:0:783840112><TERRORIST>" disconnected
+L 03/07/2015 - 06:16:58: World triggered "Round_Draw" (CT "17") (T "10")
+L 03/07/2015 - 06:16:58: World triggered "Round_End"
+L 03/07/2015 - 06:17:08: World triggered "Round_Start"
+L 03/07/2015 - 06:50:29: Team "CT" scored "17" with "0" players
+L 03/07/2015 - 06:50:29: Team "TERRORIST" scored "10" with "0" players
+L 03/07/2015 - 06:50:29: Server cvar "mp_chattime" = "2"
+L 03/07/2015 - 06:50:29: Server cvar "mp_chattime" = "0"
+L 03/07/2015 - 06:50:30: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/07/2015 - 06:50:30: [META] ini: Read plugin config for: AMX Mod X
+L 03/07/2015 - 06:50:30: [META] ini: Read plugin config for: dproto_EF
+L 03/07/2015 - 06:50:30: [META] ini: Read plugin config for: mmtimer
+L 03/07/2015 - 06:50:30: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/07/2015 - 06:50:30: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/07/2015 - 06:50:30: [META] dll: Updating plugins...
+L 03/07/2015 - 06:50:30: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/07/2015 - 06:50:30: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/07/2015 - 06:50:30: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/07/2015 - 06:50:30: Log file closed

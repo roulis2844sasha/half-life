@@ -1,0 +1,803 @@
+L 04/03/2015 - 17:53:58: Log file started (file "logs/L0403027.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/03/2015 - 17:53:58: Loading map "$1000$"
+L 04/03/2015 - 17:53:58: Server cvars start
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_debug_level" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_examine_time" = "0.5"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_look_angle" = "10"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_look_distance" = "200"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_message_repeats" = "5"
+L 04/03/2015 - 17:53:58: Server cvar "_tutor_view_distance" = "1000"
+L 04/03/2015 - 17:53:58: Server cvar "aesp_version" = "1.5b_mini"
+L 04/03/2015 - 17:53:58: Server cvar "allow_spectators" = "4"
+L 04/03/2015 - 17:53:58: Server cvar "amx_client_languages" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/03/2015 - 17:53:58: Server cvar "amx_language" = "ru"
+L 04/03/2015 - 17:53:58: Server cvar "amx_nextmap" = "$1000$"
+L 04/03/2015 - 17:53:58: Server cvar "amx_timeleft" = "00:00"
+L 04/03/2015 - 17:53:58: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/03/2015 - 17:53:58: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/03/2015 - 17:53:58: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Config" = "Loaded"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Replace" = "Failed"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Status" = "Loaded"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/03/2015 - 17:53:58: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/03/2015 - 17:53:58: Server cvar "coop" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "deathmatch" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "decalfrequency" = "9"
+L 04/03/2015 - 17:53:58: Server cvar "dp_version" = "0.9.391"
+L 04/03/2015 - 17:53:58: Server cvar "edgefriction" = "2"
+L 04/03/2015 - 17:53:58: Server cvar "hostage_debug" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "hostage_stop" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "humans_join_team" = "any"
+L 04/03/2015 - 17:53:58: Server cvar "jtp10181" = "chute,gore"
+L 04/03/2015 - 17:53:58: Server cvar "max_queries_sec" = "3.0"
+L 04/03/2015 - 17:53:58: Server cvar "max_queries_sec_global" = "30"
+L 04/03/2015 - 17:53:58: Server cvar "max_queries_window" = "60"
+L 04/03/2015 - 17:53:58: Server cvar "metamod_version" = "1.19"
+L 04/03/2015 - 17:53:58: Server cvar "mp_allowmonsters" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_autokick" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_autoteambalance" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_buytime" = "1.5"
+L 04/03/2015 - 17:53:58: Server cvar "mp_c4timer" = "35"
+L 04/03/2015 - 17:53:58: Server cvar "mp_chattime" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_consistency" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_fadetoblack" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_flashlight" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_footsteps" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_forcecamera" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_forcechasecam" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_fragsleft" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_freezetime" = "5"
+L 04/03/2015 - 17:53:58: Server cvar "mp_friendlyfire" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_hostagepenalty" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_kickpercent" = "0.66"
+L 04/03/2015 - 17:53:58: Server cvar "mp_limitteams" = "5"
+L 04/03/2015 - 17:53:58: Server cvar "mp_logdetail" = "3"
+L 04/03/2015 - 17:53:58: Server cvar "mp_logfile" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_logmessages" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/03/2015 - 17:53:58: Server cvar "mp_maxrounds" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_mirrordamage" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_playerid" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_roundtime" = "2.57"
+L 04/03/2015 - 17:53:58: Server cvar "mp_startmoney" = "800"
+L 04/03/2015 - 17:53:58: Server cvar "mp_timeleft" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "mp_timelimit" = "30.000000"
+L 04/03/2015 - 17:53:58: Server cvar "mp_tkpunish" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_windifference" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "mp_winlimit" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "pausable" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_accelerate" = "5"
+L 04/03/2015 - 17:53:58: Server cvar "sv_aim" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_airaccelerate" = "10"
+L 04/03/2015 - 17:53:58: Server cvar "sv_airmove" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "sv_allowupload" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "sv_alltalk" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_bounce" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "sv_cheats" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_clienttrace" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "sv_clipmode" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_contact" = ""
+L 04/03/2015 - 17:53:58: Server cvar "sv_friction" = "4"
+L 04/03/2015 - 17:53:58: Server cvar "sv_gravity" = "800"
+L 04/03/2015 - 17:53:58: Server cvar "sv_logblocks" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_maxrate" = "25000"
+L 04/03/2015 - 17:53:58: Server cvar "sv_maxspeed" = "900"
+L 04/03/2015 - 17:53:58: Server cvar "sv_minrate" = "100000"
+L 04/03/2015 - 17:53:58: Server cvar "sv_password" = ""
+L 04/03/2015 - 17:53:58: Server cvar "sv_proxies" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_region" = "3"
+L 04/03/2015 - 17:53:58: Server cvar "sv_restart" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_restartround" = "0"
+L 04/03/2015 - 17:53:58: Server cvar "sv_stepsize" = "18"
+L 04/03/2015 - 17:53:58: Server cvar "sv_stopspeed" = "75"
+L 04/03/2015 - 17:53:58: Server cvar "sv_uploadmax" = "0.5"
+L 04/03/2015 - 17:53:58: Server cvar "sv_voiceenable" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "sv_wateraccelerate" = "10"
+L 04/03/2015 - 17:53:58: Server cvar "sv_waterfriction" = "1"
+L 04/03/2015 - 17:53:58: Server cvar "travo_statmarquee" = "v1.2"
+L 04/03/2015 - 17:53:58: Server cvar "vtc_version" = "80"
+L 04/03/2015 - 17:53:58: Server cvar "wallblocker_version" = "1.0"
+L 04/03/2015 - 17:53:58: Server cvars end
+L 04/03/2015 - 17:53:59: Server cvar "amx_nextmap" = "cs_italy"
+L 04/03/2015 - 17:53:59: Server cvar "sv_restart" = "1"
+L 04/03/2015 - 17:53:59: World triggered "Restart_Round_(1_second)"
+L 04/03/2015 - 17:53:59: Team "CT" scored "0" with "0" players
+L 04/03/2015 - 17:53:59: Team "TERRORIST" scored "0" with "0" players
+L 04/03/2015 - 17:53:59: Server cvar "sv_restart" = "0"
+L 04/03/2015 - 17:53:59: Started map "$1000$" (CRC "1781739224")
+L 04/03/2015 - 17:53:59: [VTC] Player 1 silk
+L 04/03/2015 - 17:53:59: [VTC] Player 2 speex
+L 04/03/2015 - 17:53:59: [VTC] Player 6 speex
+L 04/03/2015 - 17:54:02: "Skyfall<224><STEAM_0:1:6978287><>" entered the game
+L 04/03/2015 - 17:54:02: "4ANHNK<201><STEAM_0:4:837733637><>" entered the game
+L 04/03/2015 - 17:54:03: "Skyfall<224><STEAM_0:1:6978287><>" joined team "CT"
+L 04/03/2015 - 17:54:04: "ANGELuHA<232><STEAM_0:4:1512754949><>" entered the game
+L 04/03/2015 - 17:54:04: "Perdak<231><STEAM_0:4:1246055429><>" entered the game
+L 04/03/2015 - 17:54:04: "4ANHNK<201><STEAM_0:4:837733637><>" joined team "TERRORIST"
+L 04/03/2015 - 17:54:04: World triggered "Game_Commencing"
+L 04/03/2015 - 17:54:04: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/03/2015 - 17:54:04: World triggered "Round_End"
+L 04/03/2015 - 17:54:05: "ANGELuHA<232><STEAM_0:4:1512754949><>" joined team "TERRORIST"
+L 04/03/2015 - 17:54:06: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3933be4
+L 04/03/2015 - 17:54:06: "MaXaTeX<235><STEAM_0:4:1823023548><>" connected, address "193.161.14.112:27005"
+L 04/03/2015 - 17:54:09: "Perdak<231><STEAM_0:4:1246055429><>" joined team "CT"
+L 04/03/2015 - 17:54:12: "MaXaTeX<235><STEAM_0:4:1823023548><>" entered the game
+L 04/03/2015 - 17:54:12: World triggered "Round_Start"
+L 04/03/2015 - 17:54:14: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/03/2015 - 17:54:15: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/03/2015 - 17:54:15: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 04/03/2015 - 17:54:15: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" with "ak47"
+L 04/03/2015 - 17:54:16: "MaXaTeX<235><STEAM_0:4:1823023548><>" joined team "CT"
+L 04/03/2015 - 17:54:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/03/2015 - 17:54:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "43") (damage_armor "0") (health "22") (armor "0")
+L 04/03/2015 - 17:54:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "43") (damage_armor "0") (health "-21") (armor "0")
+L 04/03/2015 - 17:54:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47"
+L 04/03/2015 - 17:54:30: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "ak47" (damage "32") (damage_armor "5") (health "68") (armor "95")
+L 04/03/2015 - 17:54:30: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/03/2015 - 17:54:31: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "43") (armor "95")
+L 04/03/2015 - 17:54:31: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "17") (armor "91")
+L 04/03/2015 - 17:54:31: "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/03/2015 - 17:54:31: "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:54:31: "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" triggered "time" (time "0:29")
+L 04/03/2015 - 17:54:31: "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" triggered "latency" (ping "45")
+L 04/03/2015 - 17:54:31: "4ANHNK<201><STEAM_0:4:837733637><TERRORIST>" disconnected
+L 04/03/2015 - 17:54:32: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "96")
+L 04/03/2015 - 17:54:32: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "-9") (armor "87")
+L 04/03/2015 - 17:54:32: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "ak47"
+L 04/03/2015 - 17:54:32: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/03/2015 - 17:54:32: World triggered "Round_End"
+L 04/03/2015 - 17:54:36: "Skyfall<224><STEAM_0:1:6978287><CT>" committed suicide with "world"
+L 04/03/2015 - 17:54:36: "Skyfall<224><STEAM_0:1:6978287><CT>" joined team "TERRORIST"
+L 04/03/2015 - 17:54:42: World triggered "Round_Start"
+L 04/03/2015 - 17:54:45: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/03/2015 - 17:54:45: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/03/2015 - 17:54:46: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "25") (damage_armor "0") (health "7") (armor "0")
+L 04/03/2015 - 17:54:47: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "32") (armor "0")
+L 04/03/2015 - 17:54:48: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/03/2015 - 17:54:48: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "xm1014" (damage "16") (damage_armor "8") (health "56") (armor "77")
+L 04/03/2015 - 17:54:48: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/03/2015 - 17:54:48: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-64") (armor "0")
+L 04/03/2015 - 17:54:48: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 17:54:49: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-27") (armor "0")
+L 04/03/2015 - 17:54:49: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47"
+L 04/03/2015 - 17:54:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 04/03/2015 - 17:54:49: World triggered "Round_End"
+L 04/03/2015 - 17:54:59: World triggered "Round_Start"
+L 04/03/2015 - 17:55:01: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/03/2015 - 17:55:01: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/03/2015 - 17:55:01: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/03/2015 - 17:55:01: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-11") (armor "0")
+L 04/03/2015 - 17:55:01: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47"
+L 04/03/2015 - 17:55:01: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "95")
+L 04/03/2015 - 17:55:05: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/03/2015 - 17:55:05: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/03/2015 - 17:55:05: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 04/03/2015 - 17:55:05: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47"
+L 04/03/2015 - 17:55:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/03/2015 - 17:55:05: World triggered "Round_End"
+L 04/03/2015 - 17:55:15: World triggered "Round_Start"
+L 04/03/2015 - 17:55:25: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "35") (damage_armor "0") (health "41") (armor "0")
+L 04/03/2015 - 17:55:25: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" with "mp5navy" (damage "11") (damage_armor "6") (health "89") (armor "94")
+L 04/03/2015 - 17:55:25: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-99") (armor "0")
+L 04/03/2015 - 17:55:25: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "Perdak<231><STEAM_0:4:1246055429><CT>" with "ak47"
+L 04/03/2015 - 17:55:30: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "20") (damage_armor "0") (health "53") (armor "0")
+L 04/03/2015 - 17:55:34: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "23") (armor "0")
+L 04/03/2015 - 17:55:34: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-7") (armor "0")
+L 04/03/2015 - 17:55:34: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 17:55:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 04/03/2015 - 17:55:34: World triggered "Round_End"
+L 04/03/2015 - 17:55:44: World triggered "Round_Start"
+L 04/03/2015 - 17:55:47: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/03/2015 - 17:55:47: "Perdak<231><STEAM_0:4:1246055429><CT>" killed "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" with "awp"
+L 04/03/2015 - 17:56:03: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "36") (armor "0")
+L 04/03/2015 - 17:56:03: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "-1") (armor "0")
+L 04/03/2015 - 17:56:03: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 17:56:13: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "41") (armor "76")
+L 04/03/2015 - 17:56:13: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "20") (armor "71")
+L 04/03/2015 - 17:56:13: "Perdak<231><STEAM_0:4:1246055429><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "86") (damage_armor "19") (health "-66") (armor "52")
+L 04/03/2015 - 17:56:13: "Perdak<231><STEAM_0:4:1246055429><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:56:13: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 04/03/2015 - 17:56:13: World triggered "Round_End"
+L 04/03/2015 - 17:56:23: World triggered "Round_Start"
+L 04/03/2015 - 17:56:31: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/03/2015 - 17:56:31: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 17:56:35: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "Perdak<231><STEAM_0:4:1246055429><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/03/2015 - 17:56:35: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "Perdak<231><STEAM_0:4:1246055429><CT>" with "m4a1"
+L 04/03/2015 - 17:56:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 04/03/2015 - 17:56:35: World triggered "Round_End"
+L 04/03/2015 - 17:56:44: Kick: "Perdak<231><STEAM_0:4:1246055429><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats" (weapon "grenade") (shots "5") (hits "7") (kills "0") (headshots "0") (tks "0") (damage "128") (deaths "0")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "0")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "13") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "11") (deaths "1")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats" (weapon "m4a1") (shots "47") (hits "6") (kills "1") (headshots "1") (tks "0") (damage "163") (deaths "3")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "1") (leftarm "2") (rightarm "2") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "time" (time "2:40")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" triggered "latency" (ping "70")
+L 04/03/2015 - 17:56:44: "Perdak<231><STEAM_0:4:1246055429><CT>" disconnected
+L 04/03/2015 - 17:56:45: World triggered "Round_Start"
+L 04/03/2015 - 17:56:47: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "glock18" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/03/2015 - 17:56:47: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "glock18" (damage "18") (damage_armor "0") (health "65") (armor "0")
+L 04/03/2015 - 17:56:51: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "grenade"
+L 04/03/2015 - 17:56:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 04/03/2015 - 17:56:51: World triggered "Round_End"
+L 04/03/2015 - 17:56:56: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" committed suicide with "world"
+L 04/03/2015 - 17:56:56: "Skyfall<224><STEAM_0:1:6978287><TERRORIST>" joined team "CT"
+L 04/03/2015 - 17:57:01: World triggered "Round_Start"
+L 04/03/2015 - 17:57:04: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "88") (armor "94")
+L 04/03/2015 - 17:57:05: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "usp" (damage "52") (damage_armor "26") (health "36") (armor "68")
+L 04/03/2015 - 17:57:05: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "usp" (damage "52") (damage_armor "26") (health "-16") (armor "42")
+L 04/03/2015 - 17:57:05: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "usp"
+L 04/03/2015 - 17:57:05: Team "CT" triggered "CTs_Win" (CT "3") (T "5")
+L 04/03/2015 - 17:57:05: World triggered "Round_End"
+L 04/03/2015 - 17:57:15: World triggered "Round_Start"
+L 04/03/2015 - 17:57:24: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/03/2015 - 17:57:24: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/03/2015 - 17:57:26: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/03/2015 - 17:57:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "21") (armor "0")
+L 04/03/2015 - 17:57:26: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "0") (health "76") (armor "100")
+L 04/03/2015 - 17:57:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "-15") (armor "0")
+L 04/03/2015 - 17:57:26: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 17:57:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "55") (armor "95")
+L 04/03/2015 - 17:57:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "34") (armor "90")
+L 04/03/2015 - 17:57:29: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/03/2015 - 17:57:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "86") (damage_armor "18") (health "-52") (armor "72")
+L 04/03/2015 - 17:57:29: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:57:29: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 04/03/2015 - 17:57:29: World triggered "Round_End"
+L 04/03/2015 - 17:57:34: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3929dfc
+L 04/03/2015 - 17:57:34: "Perdak<236><STEAM_0:4:1246055429><>" connected, address "178.122.214.61:19109"
+L 04/03/2015 - 17:57:36: [VTC] Player 2 speex
+L 04/03/2015 - 17:57:39: World triggered "Round_Start"
+L 04/03/2015 - 17:57:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "75") (armor "92")
+L 04/03/2015 - 17:57:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "54") (armor "87")
+L 04/03/2015 - 17:57:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "13") (armor "69")
+L 04/03/2015 - 17:57:48: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "mp5navy" (damage "13") (damage_armor "7") (health "0") (armor "62")
+L 04/03/2015 - 17:57:48: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "mp5navy"
+L 04/03/2015 - 17:57:48: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 04/03/2015 - 17:57:48: World triggered "Round_End"
+L 04/03/2015 - 17:57:49: "Perdak<236><STEAM_0:4:1246055429><>" entered the game
+L 04/03/2015 - 17:57:54: "Perdak<236><STEAM_0:4:1246055429><>" joined team "TERRORIST"
+L 04/03/2015 - 17:57:58: World triggered "Round_Start"
+L 04/03/2015 - 17:58:03: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/03/2015 - 17:58:03: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/03/2015 - 17:58:03: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 04/03/2015 - 17:58:03: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 04/03/2015 - 17:58:03: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:58:05: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "72") (armor "96")
+L 04/03/2015 - 17:58:05: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "81") (damage_armor "17") (health "-9") (armor "79")
+L 04/03/2015 - 17:58:05: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:58:05: Team "CT" triggered "CTs_Win" (CT "6") (T "5")
+L 04/03/2015 - 17:58:05: World triggered "Round_End"
+L 04/03/2015 - 17:58:15: World triggered "Round_Start"
+L 04/03/2015 - 17:58:21: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/03/2015 - 17:58:21: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "81") (armor "97")
+L 04/03/2015 - 17:58:22: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "71") (armor "97")
+L 04/03/2015 - 17:58:22: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "12") (damage_armor "2") (health "59") (armor "95")
+L 04/03/2015 - 17:58:22: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "50") (armor "93")
+L 04/03/2015 - 17:58:22: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "12") (damage_armor "3") (health "38") (armor "90")
+L 04/03/2015 - 17:58:22: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "29") (armor "88")
+L 04/03/2015 - 17:58:23: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 17:58:26: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 17:58:27: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/03/2015 - 17:58:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "-17") (armor "72")
+L 04/03/2015 - 17:58:29: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:58:30: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "23") (armor "0")
+L 04/03/2015 - 17:58:30: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "9") (armor "0")
+L 04/03/2015 - 17:58:31: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-29") (armor "0")
+L 04/03/2015 - 17:58:31: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:58:31: Team "CT" triggered "CTs_Win" (CT "7") (T "5")
+L 04/03/2015 - 17:58:31: World triggered "Round_End"
+L 04/03/2015 - 17:58:41: World triggered "Round_Start"
+L 04/03/2015 - 17:58:44: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/03/2015 - 17:58:44: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "awp"
+L 04/03/2015 - 17:58:55: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "31") (armor "0")
+L 04/03/2015 - 17:58:55: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "1") (armor "0")
+L 04/03/2015 - 17:58:55: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-29") (armor "0")
+L 04/03/2015 - 17:58:55: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:58:57: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "89") (damage_armor "20") (health "11") (armor "80")
+L 04/03/2015 - 17:58:57: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "-11") (armor "76")
+L 04/03/2015 - 17:58:57: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:58:57: Team "CT" triggered "CTs_Win" (CT "8") (T "5")
+L 04/03/2015 - 17:58:57: World triggered "Round_End"
+L 04/03/2015 - 17:59:07: World triggered "Round_Start"
+L 04/03/2015 - 17:59:10: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/03/2015 - 17:59:12: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "14") (armor "0")
+L 04/03/2015 - 17:59:12: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "25") (damage_armor "0") (health "63") (armor "0")
+L 04/03/2015 - 17:59:12: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "-1") (armor "0")
+L 04/03/2015 - 17:59:12: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:59:12: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "25") (damage_armor "0") (health "38") (armor "0")
+L 04/03/2015 - 17:59:12: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "20") (damage_armor "0") (health "18") (armor "0")
+L 04/03/2015 - 17:59:13: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-16") (armor "0")
+L 04/03/2015 - 17:59:13: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47"
+L 04/03/2015 - 17:59:13: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 04/03/2015 - 17:59:13: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-68") (armor "64")
+L 04/03/2015 - 17:59:13: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:59:13: Team "CT" triggered "CTs_Win" (CT "9") (T "5")
+L 04/03/2015 - 17:59:13: World triggered "Round_End"
+L 04/03/2015 - 17:59:13: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb392ecf0
+L 04/03/2015 - 17:59:13: "DiGi0n<WOT>____10puk<237><STEAM_0:0:2109542054><>" connected, address "178.120.135.101:14407"
+L 04/03/2015 - 17:59:14: [VTC] Player 3 speex
+L 04/03/2015 - 17:59:17: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb392ecf0
+L 04/03/2015 - 17:59:17: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><>" connected, address "178.120.135.101:14407"
+L 04/03/2015 - 17:59:17: [VTC] Player 3 speex
+L 04/03/2015 - 17:59:21: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><>" entered the game
+L 04/03/2015 - 17:59:23: World triggered "Round_Start"
+L 04/03/2015 - 17:59:26: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/03/2015 - 17:59:26: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 04/03/2015 - 17:59:26: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "76") (damage_armor "0") (health "5") (armor "0")
+L 04/03/2015 - 17:59:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "80") (damage_armor "0") (health "-75") (armor "0")
+L 04/03/2015 - 17:59:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy"
+L 04/03/2015 - 17:59:28: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 04/03/2015 - 17:59:28: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "53") (armor "89")
+L 04/03/2015 - 17:59:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "31") (armor "89")
+L 04/03/2015 - 17:59:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "10") (armor "85")
+L 04/03/2015 - 17:59:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-12") (armor "85")
+L 04/03/2015 - 17:59:29: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:59:29: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><>" joined team "TERRORIST"
+L 04/03/2015 - 17:59:33: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "88") (deaths "0")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "55") (hits "12") (kills "4") (headshots "1") (tks "0") (damage "436") (deaths "4")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "3") (leftarm "4") (rightarm "0") (leftleg "3") (rightleg "1")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "38") (hits "10") (kills "2") (headshots "0") (tks "0") (damage "288") (deaths "4")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "3") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "3")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "time" (time "5:29")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" triggered "latency" (ping "34")
+L 04/03/2015 - 17:59:33: "ANGELuHA<232><STEAM_0:4:1512754949><TERRORIST>" disconnected
+L 04/03/2015 - 17:59:33: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-60") (armor "0")
+L 04/03/2015 - 17:59:33: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:59:34: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-54") (armor "0")
+L 04/03/2015 - 17:59:34: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 17:59:34: Team "CT" triggered "CTs_Win" (CT "10") (T "5")
+L 04/03/2015 - 17:59:34: World triggered "Round_End"
+L 04/03/2015 - 17:59:44: World triggered "Round_Start"
+L 04/03/2015 - 17:59:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "18") (armor "0")
+L 04/03/2015 - 17:59:50: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "105") (damage_armor "16") (health "-5") (armor "84")
+L 04/03/2015 - 17:59:50: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47"
+L 04/03/2015 - 17:59:56: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/03/2015 - 17:59:56: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "glock18" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/03/2015 - 17:59:56: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "40") (damage_armor "0") (health "28") (armor "0")
+L 04/03/2015 - 17:59:56: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "4") (armor "0")
+L 04/03/2015 - 17:59:57: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "-20") (armor "0")
+L 04/03/2015 - 17:59:57: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:00:05: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3938ad8
+L 04/03/2015 - 18:00:05: "(Parinok)<239><STEAM_0:4:2078106835><>" connected, address "31.43.230.94:27005"
+L 04/03/2015 - 18:00:05: [VTC] Player 5 speex
+L 04/03/2015 - 18:00:06: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-13") (armor "0")
+L 04/03/2015 - 18:00:06: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:00:06: Team "CT" triggered "CTs_Win" (CT "11") (T "5")
+L 04/03/2015 - 18:00:06: World triggered "Round_End"
+L 04/03/2015 - 18:00:07: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3938ad8
+L 04/03/2015 - 18:00:07: "(Parinok)<240><STEAM_0:4:2078106835><>" connected, address "31.43.230.94:27005"
+L 04/03/2015 - 18:00:07: [VTC] Player 5 speex
+L 04/03/2015 - 18:00:10: "(Parinok)<240><STEAM_0:4:2078106835><>" entered the game
+L 04/03/2015 - 18:00:16: World triggered "Round_Start"
+L 04/03/2015 - 18:00:18: "(Parinok)<240><STEAM_0:4:2078106835><>" joined team "TERRORIST"
+L 04/03/2015 - 18:00:21: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/03/2015 - 18:00:21: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/03/2015 - 18:00:21: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "29") (armor "0")
+L 04/03/2015 - 18:00:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/03/2015 - 18:00:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "39") (armor "0")
+L 04/03/2015 - 18:00:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "8") (armor "0")
+L 04/03/2015 - 18:00:22: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-87") (armor "0")
+L 04/03/2015 - 18:00:22: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:00:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "-30") (armor "0")
+L 04/03/2015 - 18:00:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 18:00:23: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/03/2015 - 18:00:23: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "22") (armor "0")
+L 04/03/2015 - 18:00:24: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "-21") (armor "0")
+L 04/03/2015 - 18:00:24: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "ak47"
+L 04/03/2015 - 18:00:27: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393d9cc
+L 04/03/2015 - 18:00:27: "xaz<241><STEAM_0:4:245484805><>" connected, address "178.120.31.180:56013"
+L 04/03/2015 - 18:00:27: [VTC] Player 6 speex
+L 04/03/2015 - 18:00:35: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393d9cc
+L 04/03/2015 - 18:00:35: "xaz<242><STEAM_0:4:245484805><>" connected, address "178.120.31.180:56013"
+L 04/03/2015 - 18:00:35: [VTC] Player 6 speex
+L 04/03/2015 - 18:00:40: "xaz<242><STEAM_0:4:245484805><>" entered the game
+L 04/03/2015 - 18:00:43: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/03/2015 - 18:00:43: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-75") (armor "0")
+L 04/03/2015 - 18:00:43: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47"
+L 04/03/2015 - 18:00:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "6")
+L 04/03/2015 - 18:00:43: World triggered "Round_End"
+L 04/03/2015 - 18:00:43: "xaz<242><STEAM_0:4:245484805><>" joined team "CT"
+L 04/03/2015 - 18:00:53: World triggered "Round_Start"
+L 04/03/2015 - 18:00:55: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/03/2015 - 18:00:55: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:00:59: "xaz<242><STEAM_0:4:245484805><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/03/2015 - 18:00:59: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/03/2015 - 18:00:59: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/03/2015 - 18:00:59: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/03/2015 - 18:00:59: "xaz<242><STEAM_0:4:245484805><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/03/2015 - 18:00:59: "xaz<242><STEAM_0:4:245484805><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 04/03/2015 - 18:01:00: "xaz<242><STEAM_0:4:245484805><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "16") (armor "0")
+L 04/03/2015 - 18:01:00: "xaz<242><STEAM_0:4:245484805><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 04/03/2015 - 18:01:00: "xaz<242><STEAM_0:4:245484805><CT>" killed "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:01:00: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-9") (armor "0")
+L 04/03/2015 - 18:01:00: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1"
+L 04/03/2015 - 18:01:01: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "66") (armor "0")
+L 04/03/2015 - 18:01:01: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/03/2015 - 18:01:01: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "36") (armor "0")
+L 04/03/2015 - 18:01:02: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-1") (armor "0")
+L 04/03/2015 - 18:01:02: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:01:02: Team "CT" triggered "CTs_Win" (CT "12") (T "6")
+L 04/03/2015 - 18:01:02: World triggered "Round_End"
+L 04/03/2015 - 18:01:12: World triggered "Round_Start"
+L 04/03/2015 - 18:01:15: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "54") (armor "0")
+L 04/03/2015 - 18:01:17: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/03/2015 - 18:01:18: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 18:01:18: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "33") (armor "0")
+L 04/03/2015 - 18:01:19: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "16") (damage_armor "0") (health "55") (armor "0")
+L 04/03/2015 - 18:01:20: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "25") (armor "0")
+L 04/03/2015 - 18:01:20: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "awp" (damage "109") (damage_armor "1") (health "-25") (armor "90")
+L 04/03/2015 - 18:01:20: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" killed "Skyfall<224><STEAM_0:1:6978287><CT>" with "awp"
+L 04/03/2015 - 18:01:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "-4") (armor "0")
+L 04/03/2015 - 18:01:22: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" killed "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1"
+L 04/03/2015 - 18:01:23: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-394") (armor "0")
+L 04/03/2015 - 18:01:23: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "awp"
+L 04/03/2015 - 18:01:23: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "awp" (damage "332") (damage_armor "0") (health "-235") (armor "0")
+L 04/03/2015 - 18:01:23: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" with "awp"
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "109") (deaths "1")
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "20") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "87") (deaths "2")
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" triggered "time" (time "1:18")
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" triggered "latency" (ping "57")
+L 04/03/2015 - 18:01:28: "(Parinok)<240><STEAM_0:4:2078106835><TERRORIST>" disconnected
+L 04/03/2015 - 18:02:00: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-85") (armor "0")
+L 04/03/2015 - 18:02:00: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47"
+L 04/03/2015 - 18:02:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "7")
+L 04/03/2015 - 18:02:00: World triggered "Round_End"
+L 04/03/2015 - 18:02:10: World triggered "Round_Start"
+L 04/03/2015 - 18:02:12: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/03/2015 - 18:02:13: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-57") (armor "0")
+L 04/03/2015 - 18:02:13: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:02:14: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 18:02:15: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/03/2015 - 18:02:15: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/03/2015 - 18:02:16: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-64") (armor "0")
+L 04/03/2015 - 18:02:16: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:02:16: Team "CT" triggered "CTs_Win" (CT "13") (T "7")
+L 04/03/2015 - 18:02:16: World triggered "Round_End"
+L 04/03/2015 - 18:02:17: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3938ad8
+L 04/03/2015 - 18:02:17: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><>" connected, address "37.212.52.212:65365"
+L 04/03/2015 - 18:02:17: [VTC] Player 5 speex
+L 04/03/2015 - 18:02:26: World triggered "Round_Start"
+L 04/03/2015 - 18:02:28: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><>" entered the game
+L 04/03/2015 - 18:02:31: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "45") (armor "0")
+L 04/03/2015 - 18:02:31: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "14") (armor "0")
+L 04/03/2015 - 18:02:31: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 04/03/2015 - 18:02:32: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-106") (armor "0")
+L 04/03/2015 - 18:02:32: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:02:32: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "43") (armor "0")
+L 04/03/2015 - 18:02:32: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "5") (armor "0")
+L 04/03/2015 - 18:02:33: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-33") (armor "0")
+L 04/03/2015 - 18:02:33: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:02:33: Team "CT" triggered "CTs_Win" (CT "14") (T "7")
+L 04/03/2015 - 18:02:33: World triggered "Round_End"
+L 04/03/2015 - 18:02:36: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/03/2015 - 18:02:36: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 04/03/2015 - 18:02:36: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 04/03/2015 - 18:02:36: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 04/03/2015 - 18:02:36: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "ak47"
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "6") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "21") (deaths "2")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "42") (hits "8") (kills "2") (headshots "0") (tks "0") (damage "263") (deaths "5")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "4") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "time" (time "3:18")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" triggered "latency" (ping "65")
+L 04/03/2015 - 18:02:40: "DiGi0n<WOT>____10puk<238><STEAM_0:0:2109542054><TERRORIST>" disconnected
+L 04/03/2015 - 18:02:43: World triggered "Round_Start"
+L 04/03/2015 - 18:02:45: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/03/2015 - 18:02:45: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "20") (damage_armor "0") (health "55") (armor "0")
+L 04/03/2015 - 18:02:45: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/03/2015 - 18:02:45: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "21") (damage_armor "0") (health "34") (armor "0")
+L 04/03/2015 - 18:02:45: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "95")
+L 04/03/2015 - 18:02:45: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "21") (damage_armor "0") (health "13") (armor "0")
+L 04/03/2015 - 18:02:45: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "35") (armor "95")
+L 04/03/2015 - 18:02:46: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "21") (damage_armor "0") (health "-8") (armor "0")
+L 04/03/2015 - 18:02:46: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy"
+L 04/03/2015 - 18:02:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/03/2015 - 18:02:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "69") (armor "0")
+L 04/03/2015 - 18:02:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "55") (armor "0")
+L 04/03/2015 - 18:02:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "41") (armor "0")
+L 04/03/2015 - 18:02:48: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "27") (armor "0")
+L 04/03/2015 - 18:02:49: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "13") (armor "0")
+L 04/03/2015 - 18:02:49: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "-4") (armor "0")
+L 04/03/2015 - 18:02:49: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:02:51: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "26") (armor "93")
+L 04/03/2015 - 18:02:51: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "deagle" (damage "52") (damage_armor "0") (health "48") (armor "0")
+L 04/03/2015 - 18:02:52: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "deagle" (damage "53") (damage_armor "0") (health "-5") (armor "0")
+L 04/03/2015 - 18:02:52: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" killed "xaz<242><STEAM_0:4:245484805><CT>" with "deagle"
+L 04/03/2015 - 18:02:56: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "deagle" (damage "30") (damage_armor "0") (health "70") (armor "100")
+L 04/03/2015 - 18:02:56: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "0") (armor "87")
+L 04/03/2015 - 18:02:56: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:02:56: Team "CT" triggered "CTs_Win" (CT "15") (T "7")
+L 04/03/2015 - 18:02:56: World triggered "Round_End"
+L 04/03/2015 - 18:03:06: World triggered "Round_Start"
+L 04/03/2015 - 18:03:09: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 18:03:09: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 04/03/2015 - 18:03:09: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "xaz<242><STEAM_0:4:245484805><CT>" with "m4a1"
+L 04/03/2015 - 18:03:09: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/03/2015 - 18:03:10: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/03/2015 - 18:03:10: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 04/03/2015 - 18:03:11: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/03/2015 - 18:03:11: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/03/2015 - 18:03:11: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/03/2015 - 18:03:11: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "33") (damage_armor "5") (health "40") (armor "91")
+L 04/03/2015 - 18:03:11: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "4") (armor "0")
+L 04/03/2015 - 18:03:11: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "52") (armor "81")
+L 04/03/2015 - 18:03:11: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "ak47" (damage "33") (damage_armor "5") (health "7") (armor "86")
+L 04/03/2015 - 18:03:11: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "18") (armor "0")
+L 04/03/2015 - 18:03:11: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "31") (armor "77")
+L 04/03/2015 - 18:03:11: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "10") (armor "72")
+L 04/03/2015 - 18:03:12: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-11") (armor "67")
+L 04/03/2015 - 18:03:12: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:03:12: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "4") (armor "0")
+L 04/03/2015 - 18:03:12: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "-10") (armor "0")
+L 04/03/2015 - 18:03:12: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" triggered "weaponstats" (weapon "m4a1") (shots "7") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "105") (deaths "1")
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "3") (rightleg "2")
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" triggered "weaponstats" (weapon "ak47") (shots "16") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" triggered "time" (time "2:34")
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" triggered "latency" (ping "82")
+L 04/03/2015 - 18:03:14: "xaz<242><STEAM_0:4:245484805><CT>" disconnected
+L 04/03/2015 - 18:03:17: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-52") (armor "0")
+L 04/03/2015 - 18:03:17: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:03:17: Team "CT" triggered "CTs_Win" (CT "16") (T "7")
+L 04/03/2015 - 18:03:17: World triggered "Round_End"
+L 04/03/2015 - 18:03:27: World triggered "Round_Start"
+L 04/03/2015 - 18:03:29: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/03/2015 - 18:03:29: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "81")
+L 04/03/2015 - 18:03:30: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 18:03:30: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "81")
+L 04/03/2015 - 18:03:30: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "95")
+L 04/03/2015 - 18:03:30: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "36") (armor "91")
+L 04/03/2015 - 18:03:30: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "14") (armor "91")
+L 04/03/2015 - 18:03:30: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "41") (armor "0")
+L 04/03/2015 - 18:03:30: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "12") (armor "0")
+L 04/03/2015 - 18:03:31: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-17") (armor "0")
+L 04/03/2015 - 18:03:31: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 18:03:31: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "4") (armor "91")
+L 04/03/2015 - 18:03:32: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "25") (damage_armor "6") (health "-21") (armor "85")
+L 04/03/2015 - 18:03:32: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:03:40: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "26") (damage_armor "5") (health "31") (armor "76")
+L 04/03/2015 - 18:03:41: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "5") (armor "70")
+L 04/03/2015 - 18:03:41: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/03/2015 - 18:03:42: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-16") (armor "65")
+L 04/03/2015 - 18:03:42: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1"
+L 04/03/2015 - 18:03:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "8")
+L 04/03/2015 - 18:03:42: World triggered "Round_End"
+L 04/03/2015 - 18:03:52: World triggered "Round_Start"
+L 04/03/2015 - 18:04:02: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "28") (armor "0")
+L 04/03/2015 - 18:04:02: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-14") (armor "0")
+L 04/03/2015 - 18:04:02: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47"
+L 04/03/2015 - 18:04:03: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "31") (armor "76")
+L 04/03/2015 - 18:04:04: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "9") (armor "76")
+L 04/03/2015 - 18:04:04: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-13") (armor "76")
+L 04/03/2015 - 18:04:04: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:04:04: Team "CT" triggered "CTs_Win" (CT "17") (T "8")
+L 04/03/2015 - 18:04:04: World triggered "Round_End"
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "26") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "108") (deaths "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "1") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "9") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "43") (deaths "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "6") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "135") (deaths "3")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "93") (deaths "1")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "1:40")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "41")
+L 04/03/2015 - 18:04:09: "[Hard_Skill]_Lexa Kosmonaft<243><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 04/03/2015 - 18:04:14: World triggered "Round_Start"
+L 04/03/2015 - 18:04:23: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/03/2015 - 18:04:23: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "awp"
+L 04/03/2015 - 18:04:28: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/03/2015 - 18:04:28: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/03/2015 - 18:04:28: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/03/2015 - 18:04:28: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-117") (armor "0")
+L 04/03/2015 - 18:04:28: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:04:28: Team "CT" triggered "CTs_Win" (CT "18") (T "8")
+L 04/03/2015 - 18:04:28: World triggered "Round_End"
+L 04/03/2015 - 18:04:38: World triggered "Round_Start"
+L 04/03/2015 - 18:04:42: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/03/2015 - 18:04:42: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 04/03/2015 - 18:04:42: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "31") (armor "0")
+L 04/03/2015 - 18:04:42: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "22") (damage_armor "0") (health "57") (armor "0")
+L 04/03/2015 - 18:04:43: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "22") (damage_armor "0") (health "35") (armor "0")
+L 04/03/2015 - 18:04:43: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy" (damage "88") (damage_armor "0") (health "-53") (armor "0")
+L 04/03/2015 - 18:04:43: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "mp5navy"
+L 04/03/2015 - 18:04:46: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "mp5navy" (damage "46") (damage_armor "23") (health "54") (armor "77")
+L 04/03/2015 - 18:04:47: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "mp5navy" (damage "14") (damage_armor "8") (health "40") (armor "69")
+L 04/03/2015 - 18:04:47: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "23") (armor "69")
+L 04/03/2015 - 18:04:47: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "mp5navy" (damage "14") (damage_armor "7") (health "9") (armor "62")
+L 04/03/2015 - 18:04:47: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "-2") (armor "56")
+L 04/03/2015 - 18:04:47: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "Skyfall<224><STEAM_0:1:6978287><CT>" with "mp5navy"
+L 04/03/2015 - 18:04:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "9")
+L 04/03/2015 - 18:04:47: World triggered "Round_End"
+L 04/03/2015 - 18:04:57: World triggered "Round_Start"
+L 04/03/2015 - 18:05:08: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 18:05:09: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "60") (armor "0")
+L 04/03/2015 - 18:05:16: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "29") (armor "0")
+L 04/03/2015 - 18:05:16: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-2") (armor "0")
+L 04/03/2015 - 18:05:16: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 18:05:22: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/03/2015 - 18:05:22: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "awp"
+L 04/03/2015 - 18:05:22: Team "CT" triggered "CTs_Win" (CT "19") (T "9")
+L 04/03/2015 - 18:05:22: World triggered "Round_End"
+L 04/03/2015 - 18:05:32: World triggered "Round_Start"
+L 04/03/2015 - 18:05:32: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb392ecf0
+L 04/03/2015 - 18:05:32: "ANGELuHA<244><STEAM_0:4:1512754949><>" connected, address "178.124.9.29:27005"
+L 04/03/2015 - 18:05:33: [VTC] Player 3 speex
+L 04/03/2015 - 18:05:34: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/03/2015 - 18:05:34: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 04/03/2015 - 18:05:34: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1"
+L 04/03/2015 - 18:05:36: "ANGELuHA<244><STEAM_0:4:1512754949><>" entered the game
+L 04/03/2015 - 18:05:37: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/03/2015 - 18:05:37: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/03/2015 - 18:05:37: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/03/2015 - 18:05:37: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 04/03/2015 - 18:05:37: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:05:37: Team "CT" triggered "CTs_Win" (CT "20") (T "9")
+L 04/03/2015 - 18:05:37: World triggered "Round_End"
+L 04/03/2015 - 18:05:40: "ANGELuHA<244><STEAM_0:4:1512754949><>" joined team "TERRORIST"
+L 04/03/2015 - 18:05:47: World triggered "Round_Start"
+L 04/03/2015 - 18:05:50: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "100")
+L 04/03/2015 - 18:05:50: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "9") (damage_armor "3") (health "81") (armor "97")
+L 04/03/2015 - 18:05:51: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "52") (armor "0")
+L 04/03/2015 - 18:05:51: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "42") (armor "0")
+L 04/03/2015 - 18:05:51: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "28") (armor "0")
+L 04/03/2015 - 18:05:51: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "14") (armor "0")
+L 04/03/2015 - 18:05:51: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "0") (armor "0")
+L 04/03/2015 - 18:05:51: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:05:52: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 04/03/2015 - 18:05:53: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "84")
+L 04/03/2015 - 18:05:53: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "39") (armor "82")
+L 04/03/2015 - 18:05:53: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "17") (armor "82")
+L 04/03/2015 - 18:05:53: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-5") (armor "82")
+L 04/03/2015 - 18:05:53: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:05:53: Team "CT" triggered "CTs_Win" (CT "21") (T "9")
+L 04/03/2015 - 18:05:53: World triggered "Round_End"
+L 04/03/2015 - 18:06:03: World triggered "Round_Start"
+L 04/03/2015 - 18:06:06: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 04/03/2015 - 18:06:06: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "awp"
+L 04/03/2015 - 18:06:06: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "2") (armor "0")
+L 04/03/2015 - 18:06:08: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "-12") (armor "0")
+L 04/03/2015 - 18:06:08: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:06:11: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/03/2015 - 18:06:11: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 04/03/2015 - 18:06:12: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 04/03/2015 - 18:06:12: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "40") (armor "86")
+L 04/03/2015 - 18:06:13: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "20") (armor "82")
+L 04/03/2015 - 18:06:13: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "0") (armor "78")
+L 04/03/2015 - 18:06:13: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:06:13: Team "CT" triggered "CTs_Win" (CT "22") (T "9")
+L 04/03/2015 - 18:06:13: World triggered "Round_End"
+L 04/03/2015 - 18:06:17: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" say "ns , d[ cerf" (dead)
+L 04/03/2015 - 18:06:23: World triggered "Round_Start"
+L 04/03/2015 - 18:06:27: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-38") (armor "0")
+L 04/03/2015 - 18:06:27: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:06:31: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/03/2015 - 18:06:31: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "34") (damage_armor "0") (health "41") (armor "0")
+L 04/03/2015 - 18:06:31: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "34") (damage_armor "0") (health "7") (armor "0")
+L 04/03/2015 - 18:06:31: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47" (damage "42") (damage_armor "0") (health "-35") (armor "0")
+L 04/03/2015 - 18:06:31: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" killed "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "ak47"
+L 04/03/2015 - 18:06:32: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "67") (armor "89")
+L 04/03/2015 - 18:06:33: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "46") (armor "84")
+L 04/03/2015 - 18:06:33: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "25") (armor "79")
+L 04/03/2015 - 18:06:33: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "86") (damage_armor "18") (health "-61") (armor "61")
+L 04/03/2015 - 18:06:33: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:06:33: Team "CT" triggered "CTs_Win" (CT "23") (T "9")
+L 04/03/2015 - 18:06:33: World triggered "Round_End"
+L 04/03/2015 - 18:06:43: World triggered "Round_Start"
+L 04/03/2015 - 18:06:49: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "35") (armor "0")
+L 04/03/2015 - 18:06:49: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "14") (damage_armor "4") (health "86") (armor "96")
+L 04/03/2015 - 18:06:50: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "5") (armor "0")
+L 04/03/2015 - 18:06:50: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/03/2015 - 18:06:50: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "95")
+L 04/03/2015 - 18:06:50: "Skyfall<224><STEAM_0:1:6978287><CT>" attacked "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-25") (armor "0")
+L 04/03/2015 - 18:06:50: "Skyfall<224><STEAM_0:1:6978287><CT>" killed "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:06:50: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "37") (armor "95")
+L 04/03/2015 - 18:06:50: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "16") (armor "95")
+L 04/03/2015 - 18:06:50: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-5") (armor "95")
+L 04/03/2015 - 18:06:50: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" killed "Skyfall<224><STEAM_0:1:6978287><CT>" with "m4a1"
+L 04/03/2015 - 18:07:14: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/03/2015 - 18:07:14: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/03/2015 - 18:07:15: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "64") (armor "96")
+L 04/03/2015 - 18:07:15: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" attacked "MaXaTeX<235><STEAM_0:4:1823023548><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 04/03/2015 - 18:07:15: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" attacked "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-20") (armor "78")
+L 04/03/2015 - 18:07:15: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" killed "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" with "m4a1"
+L 04/03/2015 - 18:07:15: Team "CT" triggered "CTs_Win" (CT "24") (T "9")
+L 04/03/2015 - 18:07:15: World triggered "Round_End"
+L 04/03/2015 - 18:07:21: Server cvar "amx_nextmap" = "$3000$"
+L 04/03/2015 - 18:07:21: Server cvar "mp_timelimit" = "0.000000"
+L 04/03/2015 - 18:07:25: Server cvar "mp_timelimit" = "0.010000"
+L 04/03/2015 - 18:07:25: World triggered "Round_Start"
+L 04/03/2015 - 18:07:26: Team "CT" scored "24" with "2" players
+L 04/03/2015 - 18:07:26: Team "TERRORIST" scored "9" with "2" players
+L 04/03/2015 - 18:07:26: Server cvar "mp_chattime" = "3"
+L 04/03/2015 - 18:07:27: Server cvar "mp_chattime" = "1"
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "grenade") (shots "33") (hits "26") (kills "1") (headshots "0") (tks "0") (damage "793") (deaths "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "usp") (shots "9") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "116") (deaths "1")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "usp") (head "2") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "glock18") (shots "5") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "35") (deaths "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "m4a1") (shots "491") (hits "95") (kills "27") (headshots "12") (tks "0") (damage "3242") (deaths "3")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "m4a1") (head "15") (chest "26") (stomach "8") (leftarm "26") (rightarm "12") (leftleg "3") (rightleg "5")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats" (weapon "ak47") (shots "185") (hits "25") (kills "8") (headshots "1") (tks "0") (damage "938") (deaths "3")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "3") (stomach "5") (leftarm "11") (rightarm "3") (leftleg "1") (rightleg "1")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "time" (time "13:25")
+L 04/03/2015 - 18:07:27: "Skyfall<224><STEAM_0:1:6978287><CT>" triggered "latency" (ping "28")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "6") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "151") (deaths "1")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "11") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "337") (deaths "2")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "52") (hits "12") (kills "3") (headshots "2") (tks "0") (damage "430") (deaths "1")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "4") (chest "1") (stomach "2") (leftarm "4") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "196") (hits "27") (kills "7") (headshots "2") (tks "0") (damage "846") (deaths "13")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "5") (stomach "2") (leftarm "9") (rightarm "4") (leftleg "1") (rightleg "4")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "28") (hits "5") (kills "3") (headshots "3") (tks "0") (damage "436") (deaths "1")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "time" (time "9:37")
+L 04/03/2015 - 18:07:27: "Perdak<236><STEAM_0:4:1246055429><TERRORIST>" triggered "latency" (ping "70")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "84") (deaths "1")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "24") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "181") (deaths "1")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "4")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "13") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "161") (deaths "2")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "2")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "time" (time "1:50")
+L 04/03/2015 - 18:07:27: "ANGELuHA<244><STEAM_0:4:1512754949><TERRORIST>" triggered "latency" (ping "20")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "grenade") (shots "8") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "90") (deaths "0")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "xm1014") (shots "9") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "16") (deaths "1")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "usp") (shots "50") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "awp") (shots "11") (hits "2") (kills "2") (headshots "2") (tks "0") (damage "780") (deaths "6")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "48") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "37") (deaths "1")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "2")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "m4a1") (shots "255") (hits "39") (kills "12") (headshots "5") (tks "0") (damage "1460") (deaths "10")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "m4a1") (head "5") (chest "4") (stomach "6") (leftarm "3") (rightarm "1") (leftleg "11") (rightleg "9")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats" (weapon "ak47") (shots "21") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "211") (deaths "3")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "1") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "time" (time "13:14")
+L 04/03/2015 - 18:07:27: "MaXaTeX<235><STEAM_0:4:1823023548><CT>" triggered "latency" (ping "91")
+L 04/03/2015 - 18:07:27: Server cvar "mp_timelimit" = "30.000000"
+L 04/03/2015 - 18:07:27: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/03/2015 - 18:07:27: [META] ini: Read plugin config for: AMX Mod X
+L 04/03/2015 - 18:07:27: [META] ini: Read plugin config for: dproto_EF
+L 04/03/2015 - 18:07:27: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/03/2015 - 18:07:27: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/03/2015 - 18:07:27: [META] dll: Updating plugins...
+L 04/03/2015 - 18:07:27: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/03/2015 - 18:07:27: Log file closed

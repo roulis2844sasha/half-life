@@ -1,0 +1,431 @@
+L 03/25/2015 - 22:49:22: Log file started (file "logs/L0325031.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/25/2015 - 22:49:22: Loading map "awp_india2"
+L 03/25/2015 - 22:49:22: Server cvars start
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_debug_level" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_examine_time" = "0.5"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_look_angle" = "10"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_look_distance" = "200"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_message_repeats" = "5"
+L 03/25/2015 - 22:49:22: Server cvar "_tutor_view_distance" = "1000"
+L 03/25/2015 - 22:49:22: Server cvar "aesp_version" = "1.5b_mini"
+L 03/25/2015 - 22:49:22: Server cvar "allow_spectators" = "4"
+L 03/25/2015 - 22:49:22: Server cvar "amx_client_languages" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/25/2015 - 22:49:22: Server cvar "amx_language" = "ru"
+L 03/25/2015 - 22:49:22: Server cvar "amx_nextmap" = "awp_india2"
+L 03/25/2015 - 22:49:22: Server cvar "amx_timeleft" = "00:00"
+L 03/25/2015 - 22:49:22: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/25/2015 - 22:49:22: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/25/2015 - 22:49:22: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Config" = "Loaded"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Replace" = "Failed"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Status" = "Loaded"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/25/2015 - 22:49:22: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/25/2015 - 22:49:22: Server cvar "coop" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "deathmatch" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "decalfrequency" = "9"
+L 03/25/2015 - 22:49:22: Server cvar "dp_version" = "0.9.391"
+L 03/25/2015 - 22:49:22: Server cvar "edgefriction" = "2"
+L 03/25/2015 - 22:49:22: Server cvar "hostage_debug" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "hostage_stop" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "humans_join_team" = "any"
+L 03/25/2015 - 22:49:22: Server cvar "jtp10181" = "chute"
+L 03/25/2015 - 22:49:22: Server cvar "max_queries_sec" = "3.0"
+L 03/25/2015 - 22:49:22: Server cvar "max_queries_sec_global" = "30"
+L 03/25/2015 - 22:49:22: Server cvar "max_queries_window" = "60"
+L 03/25/2015 - 22:49:22: Server cvar "metamod_version" = "1.19"
+L 03/25/2015 - 22:49:22: Server cvar "mp_allowmonsters" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_autokick" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_autoteambalance" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_buytime" = "1.5"
+L 03/25/2015 - 22:49:22: Server cvar "mp_c4timer" = "35"
+L 03/25/2015 - 22:49:22: Server cvar "mp_chattime" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_consistency" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_fadetoblack" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_flashlight" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_footsteps" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_forcecamera" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_forcechasecam" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_fragsleft" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_freezetime" = "5"
+L 03/25/2015 - 22:49:22: Server cvar "mp_friendlyfire" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_hostagepenalty" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_kickpercent" = "0.66"
+L 03/25/2015 - 22:49:22: Server cvar "mp_limitteams" = "5"
+L 03/25/2015 - 22:49:22: Server cvar "mp_logdetail" = "3"
+L 03/25/2015 - 22:49:22: Server cvar "mp_logfile" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_logmessages" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/25/2015 - 22:49:22: Server cvar "mp_maxrounds" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_mirrordamage" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_playerid" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_roundtime" = "2.57"
+L 03/25/2015 - 22:49:22: Server cvar "mp_startmoney" = "800"
+L 03/25/2015 - 22:49:22: Server cvar "mp_timeleft" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "mp_timelimit" = "30.000000"
+L 03/25/2015 - 22:49:22: Server cvar "mp_tkpunish" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_windifference" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "mp_winlimit" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "pausable" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_accelerate" = "5"
+L 03/25/2015 - 22:49:22: Server cvar "sv_aim" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_airaccelerate" = "10"
+L 03/25/2015 - 22:49:22: Server cvar "sv_airmove" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "sv_allowupload" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "sv_alltalk" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_bounce" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "sv_cheats" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_clienttrace" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "sv_clipmode" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_contact" = ""
+L 03/25/2015 - 22:49:22: Server cvar "sv_friction" = "4"
+L 03/25/2015 - 22:49:22: Server cvar "sv_gravity" = "800"
+L 03/25/2015 - 22:49:22: Server cvar "sv_logblocks" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_maxrate" = "50000"
+L 03/25/2015 - 22:49:22: Server cvar "sv_maxspeed" = "900"
+L 03/25/2015 - 22:49:22: Server cvar "sv_minrate" = "100000"
+L 03/25/2015 - 22:49:22: Server cvar "sv_password" = ""
+L 03/25/2015 - 22:49:22: Server cvar "sv_proxies" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_region" = "255"
+L 03/25/2015 - 22:49:22: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_restartround" = "0"
+L 03/25/2015 - 22:49:22: Server cvar "sv_stepsize" = "18"
+L 03/25/2015 - 22:49:22: Server cvar "sv_stopspeed" = "75"
+L 03/25/2015 - 22:49:22: Server cvar "sv_uploadmax" = "0.5"
+L 03/25/2015 - 22:49:22: Server cvar "sv_voiceenable" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "sv_wateraccelerate" = "10"
+L 03/25/2015 - 22:49:22: Server cvar "sv_waterfriction" = "1"
+L 03/25/2015 - 22:49:22: Server cvar "travo_statmarquee" = "v1.2"
+L 03/25/2015 - 22:49:22: Server cvar "ultimate_sounds" = "1.7"
+L 03/25/2015 - 22:49:22: Server cvar "vtc_version" = "80"
+L 03/25/2015 - 22:49:22: Server cvars end
+L 03/25/2015 - 22:49:22: Server cvar "amx_nextmap" = "cs_mini_militia"
+L 03/25/2015 - 22:49:22: Server cvar "sv_restart" = "1"
+L 03/25/2015 - 22:49:22: World triggered "Restart_Round_(1_second)"
+L 03/25/2015 - 22:49:22: Team "CT" scored "0" with "0" players
+L 03/25/2015 - 22:49:22: Team "TERRORIST" scored "0" with "0" players
+L 03/25/2015 - 22:49:22: Server cvar "sv_restart" = "0"
+L 03/25/2015 - 22:49:22: Started map "awp_india2" (CRC "-1465035671")
+L 03/25/2015 - 22:49:22: [VTC] Player 5 speex
+L 03/25/2015 - 22:49:22: [VTC] Player 1 speex
+L 03/25/2015 - 22:49:22: [VTC] Player 2 speex
+L 03/25/2015 - 22:49:22: [VTC] Player 3 speex
+L 03/25/2015 - 22:49:23: [VTC] Player 4 speex
+L 03/25/2015 - 22:49:27: World triggered "Round_Start"
+L 03/25/2015 - 22:49:28: "Pidarasu<224><STEAM_0:4:1904582762><>" entered the game
+L 03/25/2015 - 22:49:28: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3903cf0
+L 03/25/2015 - 22:49:28: "nExT --><232><STEAM_0:4:1250151685><>" connected, address "178.120.91.60:30513"
+L 03/25/2015 - 22:49:28: [VTC] Player 3 speex
+L 03/25/2015 - 22:49:28: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb390dad8
+L 03/25/2015 - 22:49:28: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61709"
+L 03/25/2015 - 22:49:28: [VTC] Player 5 speex
+L 03/25/2015 - 22:49:31: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><>" entered the game
+L 03/25/2015 - 22:49:31: "nExT --><232><STEAM_0:4:1250151685><>" entered the game
+L 03/25/2015 - 22:49:33: "Pidarasu<224><STEAM_0:4:1904582762><>" joined team "TERRORIST"
+L 03/25/2015 - 22:49:35: "nExT --><232><STEAM_0:4:1250151685><>" joined team "CT"
+L 03/25/2015 - 22:49:35: World triggered "Game_Commencing"
+L 03/25/2015 - 22:49:35: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 22:49:35: World triggered "Round_End"
+L 03/25/2015 - 22:49:38: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><>" entered the game
+L 03/25/2015 - 22:49:43: World triggered "Round_Start"
+L 03/25/2015 - 22:49:57: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><>" joined team "CT"
+L 03/25/2015 - 22:50:06: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/25/2015 - 22:50:06: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:50:15: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 22:50:15: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp"
+L 03/25/2015 - 22:50:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/25/2015 - 22:50:15: World triggered "Round_End"
+L 03/25/2015 - 22:50:25: World triggered "Round_Start"
+L 03/25/2015 - 22:50:30: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><>" joined team "TERRORIST"
+L 03/25/2015 - 22:50:32: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 22:50:32: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:50:34: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39129cc
+L 03/25/2015 - 22:50:34: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><>" connected, address "178.127.11.1:27005"
+L 03/25/2015 - 22:50:34: [VTC] Player 6 speex
+L 03/25/2015 - 22:50:38: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><>" entered the game
+L 03/25/2015 - 22:50:41: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 22:50:41: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:50:41: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/25/2015 - 22:50:41: World triggered "Round_End"
+L 03/25/2015 - 22:50:44: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><>" joined team "TERRORIST"
+L 03/25/2015 - 22:50:51: World triggered "Round_Start"
+L 03/25/2015 - 22:50:56: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 22:50:56: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:51:00: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/25/2015 - 22:51:00: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp"
+L 03/25/2015 - 22:51:11: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 22:51:11: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 22:52:00: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "knife" (damage "221") (damage_armor "20") (health "-121") (armor "80")
+L 03/25/2015 - 22:52:00: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "knife"
+L 03/25/2015 - 22:52:00: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 03/25/2015 - 22:52:00: World triggered "Round_End"
+L 03/25/2015 - 22:52:10: World triggered "Round_Start"
+L 03/25/2015 - 22:52:12: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/25/2015 - 22:52:12: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:52:19: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "51") (damage_armor "1") (health "49") (armor "99")
+L 03/25/2015 - 22:52:20: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:52:20: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:52:20: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-57") (armor "97")
+L 03/25/2015 - 22:52:20: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:52:45: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "54") (damage_armor "1") (health "46") (armor "99")
+L 03/25/2015 - 22:53:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "111") (damage_armor "2") (health "-65") (armor "97")
+L 03/25/2015 - 22:53:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp"
+L 03/25/2015 - 22:53:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 03/25/2015 - 22:53:16: World triggered "Round_End"
+L 03/25/2015 - 22:53:26: World triggered "Round_Start"
+L 03/25/2015 - 22:53:28: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 22:53:28: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:53:30: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 22:53:30: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp"
+L 03/25/2015 - 22:53:38: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:53:38: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 22:53:43: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/25/2015 - 22:53:43: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:53:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/25/2015 - 22:53:43: World triggered "Round_End"
+L 03/25/2015 - 22:53:53: World triggered "Round_Start"
+L 03/25/2015 - 22:53:59: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/25/2015 - 22:54:05: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-87") (armor "98")
+L 03/25/2015 - 22:54:05: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:54:08: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/25/2015 - 22:54:08: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 22:54:11: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 03/25/2015 - 22:54:26: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:54:26: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:54:26: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 03/25/2015 - 22:54:26: World triggered "Round_End"
+L 03/25/2015 - 22:54:36: World triggered "Round_Start"
+L 03/25/2015 - 22:54:38: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "51") (damage_armor "1") (health "49") (armor "99")
+L 03/25/2015 - 22:54:39: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/25/2015 - 22:54:39: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 22:54:51: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:54:51: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:54:58: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp" (damage "436") (damage_armor "6") (health "-387") (armor "93")
+L 03/25/2015 - 22:54:58: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" with "awp"
+L 03/25/2015 - 22:55:07: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/25/2015 - 22:55:07: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:55:07: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 03/25/2015 - 22:55:07: World triggered "Round_End"
+L 03/25/2015 - 22:55:17: World triggered "Round_Start"
+L 03/25/2015 - 22:55:17: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 22:55:17: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 22:55:17: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 22:55:17: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:55:20: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 22:55:20: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:55:20: Team "CT" triggered "CTs_Win" (CT "5") (T "3")
+L 03/25/2015 - 22:55:20: World triggered "Round_End"
+L 03/25/2015 - 22:55:22: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" committed suicide with "world"
+L 03/25/2015 - 22:55:22: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><CT>" joined team "TERRORIST"
+L 03/25/2015 - 22:55:30: World triggered "Round_Start"
+L 03/25/2015 - 22:55:30: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 22:55:30: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:55:32: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 22:55:32: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp"
+L 03/25/2015 - 22:55:43: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/25/2015 - 22:55:43: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/25/2015 - 22:56:33: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 22:56:33: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" with "awp"
+L 03/25/2015 - 22:56:33: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 03/25/2015 - 22:56:33: World triggered "Round_End"
+L 03/25/2015 - 22:56:38: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><TERRORIST>" joined team "CT" (auto)
+L 03/25/2015 - 22:56:43: World triggered "Round_Start"
+L 03/25/2015 - 22:56:51: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 22:56:51: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:56:56: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 22:56:56: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 22:56:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 03/25/2015 - 22:56:56: World triggered "Round_End"
+L 03/25/2015 - 22:57:06: World triggered "Round_Start"
+L 03/25/2015 - 22:57:14: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 22:57:14: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:57:17: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:57:17: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:57:23: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:57:23: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 22:57:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "5")
+L 03/25/2015 - 22:57:23: World triggered "Round_End"
+L 03/25/2015 - 22:57:33: World triggered "Round_Start"
+L 03/25/2015 - 22:57:39: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 22:57:39: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/25/2015 - 22:57:43: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 22:57:43: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:57:52: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/25/2015 - 22:57:52: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:58:12: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp" (damage "25") (damage_armor "1") (health "75") (armor "99")
+L 03/25/2015 - 22:58:18: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" attacked "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/25/2015 - 22:58:21: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp" (damage "106") (damage_armor "1") (health "-31") (armor "98")
+L 03/25/2015 - 22:58:21: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 22:58:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "6")
+L 03/25/2015 - 22:58:21: World triggered "Round_End"
+L 03/25/2015 - 22:58:31: World triggered "Round_Start"
+L 03/25/2015 - 22:58:33: "nExT --><232><STEAM_0:4:1250151685><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 22:58:33: "nExT --><232><STEAM_0:4:1250151685><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 22:58:38: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/25/2015 - 22:58:38: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:58:44: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "41") (damage_armor "0") (health "59") (armor "100")
+L 03/25/2015 - 22:58:52: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 22:58:53: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/25/2015 - 22:58:53: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "knife"
+L 03/25/2015 - 22:58:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "7")
+L 03/25/2015 - 22:58:53: World triggered "Round_End"
+L 03/25/2015 - 22:59:03: World triggered "Round_Start"
+L 03/25/2015 - 22:59:07: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/25/2015 - 22:59:07: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:59:11: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" attacked "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 22:59:11: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" killed "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 22:59:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "8")
+L 03/25/2015 - 22:59:11: World triggered "Round_End"
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "awp") (shots "30") (hits "6") (kills "3") (headshots "0") (tks "0") (damage "500") (deaths "11")
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" triggered "time" (time "8:37")
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" triggered "latency" (ping "50")
+L 03/25/2015 - 22:59:16: "[Easy_Skill]_LoL#3<234><STEAM_0:4:1412157061><CT>" disconnected
+L 03/25/2015 - 22:59:21: World triggered "Round_Start"
+L 03/25/2015 - 22:59:21: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 22:59:21: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:59:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "9")
+L 03/25/2015 - 22:59:21: World triggered "Round_End"
+L 03/25/2015 - 22:59:31: World triggered "Round_Start"
+L 03/25/2015 - 22:59:32: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" committed suicide with "world"
+L 03/25/2015 - 22:59:32: "Pidarasu<224><STEAM_0:4:1904582762><TERRORIST>" joined team "CT"
+L 03/25/2015 - 22:59:36: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 22:59:36: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 22:59:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "10")
+L 03/25/2015 - 22:59:36: World triggered "Round_End"
+L 03/25/2015 - 22:59:38: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fedfc
+L 03/25/2015 - 22:59:38: "Dimanski<235><STEAM_0:4:1871374158><>" connected, address "37.44.73.118:37377"
+L 03/25/2015 - 22:59:38: [VTC] Player 2 speex
+L 03/25/2015 - 22:59:46: World triggered "Round_Start"
+L 03/25/2015 - 23:00:10: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 23:00:10: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 23:00:11: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 23:00:11: "Pidarasu<224><STEAM_0:4:1904582762><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 23:00:17: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/25/2015 - 23:00:17: "Pidarasu<224><STEAM_0:4:1904582762><CT>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/25/2015 - 23:00:17: Team "CT" triggered "CTs_Win" (CT "7") (T "10")
+L 03/25/2015 - 23:00:17: World triggered "Round_End"
+L 03/25/2015 - 23:00:24: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fedfc
+L 03/25/2015 - 23:00:24: "[Hard_Skill]_Novi4ek<236><STEAM_0:4:966835205><>" connected, address "178.154.29.218:27005"
+L 03/25/2015 - 23:00:24: [VTC] Player 2 speex
+L 03/25/2015 - 23:00:27: World triggered "Round_Start"
+L 03/25/2015 - 23:00:31: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 23:00:31: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 23:00:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/25/2015 - 23:00:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" killed "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/25/2015 - 23:00:41: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fedfc
+L 03/25/2015 - 23:00:41: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><>" connected, address "178.154.29.218:27005"
+L 03/25/2015 - 23:00:41: [VTC] Player 2 speex
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "64") (hits "12") (kills "12") (headshots "4") (tks "0") (damage "2572") (deaths "6")
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "1") (stomach "1") (leftarm "5") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "25") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" triggered "time" (time "11:12")
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" triggered "latency" (ping "13")
+L 03/25/2015 - 23:00:43: "[Easy_Skill]_Faza#1<233><STEAM_0:0:969824236><TERRORIST>" disconnected
+L 03/25/2015 - 23:00:46: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 23:00:46: "Pidarasu<224><STEAM_0:4:1904582762><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 23:00:46: Team "CT" triggered "CTs_Win" (CT "8") (T "10")
+L 03/25/2015 - 23:00:46: World triggered "Round_End"
+L 03/25/2015 - 23:00:56: World triggered "Round_Start"
+L 03/25/2015 - 23:00:59: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><>" entered the game
+L 03/25/2015 - 23:01:04: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39129cc
+L 03/25/2015 - 23:01:04: "0_o<238><STEAM_0:4:1412157061><>" connected, address "178.127.11.1:27005"
+L 03/25/2015 - 23:01:04: [VTC] Player 6 speex
+L 03/25/2015 - 23:01:07: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 23:01:07: "Pidarasu<224><STEAM_0:4:1904582762><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 23:01:07: Team "CT" triggered "CTs_Win" (CT "9") (T "10")
+L 03/25/2015 - 23:01:07: World triggered "Round_End"
+L 03/25/2015 - 23:01:08: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><>" joined team "TERRORIST"
+L 03/25/2015 - 23:01:09: "0_o<238><STEAM_0:4:1412157061><>" entered the game
+L 03/25/2015 - 23:01:17: World triggered "Round_Start"
+L 03/25/2015 - 23:01:21: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/25/2015 - 23:01:21: "Pidarasu<224><STEAM_0:4:1904582762><CT>" killed "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" with "awp"
+L 03/25/2015 - 23:01:24: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><TERRORIST>" joined team "SPECTATOR"
+L 03/25/2015 - 23:01:27: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/25/2015 - 23:01:27: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 23:01:32: "0_o<238><STEAM_0:4:1412157061><>" joined team "CT"
+L 03/25/2015 - 23:01:50: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "0_o<238><STEAM_0:4:1412157061><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/25/2015 - 23:01:50: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "0_o<238><STEAM_0:4:1412157061><CT>" with "awp"
+L 03/25/2015 - 23:02:04: "0_o<238><STEAM_0:4:1412157061><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/25/2015 - 23:02:04: "0_o<238><STEAM_0:4:1412157061><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:02:04: "0_o<238><STEAM_0:4:1412157061><CT>" triggered "time" (time "0:54")
+L 03/25/2015 - 23:02:04: "0_o<238><STEAM_0:4:1412157061><CT>" triggered "latency" (ping "39")
+L 03/25/2015 - 23:02:04: "0_o<238><STEAM_0:4:1412157061><CT>" disconnected
+L 03/25/2015 - 23:02:13: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/25/2015 - 23:02:13: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 23:02:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "11")
+L 03/25/2015 - 23:02:13: World triggered "Round_End"
+L 03/25/2015 - 23:02:23: World triggered "Round_Start"
+L 03/25/2015 - 23:02:48: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/25/2015 - 23:02:48: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 23:03:04: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" with "awp" (damage "31") (damage_armor "1") (health "69") (armor "99")
+L 03/25/2015 - 23:03:10: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" with "awp" (damage "40") (damage_armor "0") (health "29") (armor "99")
+L 03/25/2015 - 23:03:17: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/25/2015 - 23:03:17: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 23:03:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "12")
+L 03/25/2015 - 23:03:17: World triggered "Round_End"
+L 03/25/2015 - 23:03:27: World triggered "Round_Start"
+L 03/25/2015 - 23:03:35: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/25/2015 - 23:03:35: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "nExT --><232><STEAM_0:4:1250151685><CT>" with "awp"
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" triggered "weaponstats" (weapon "awp") (shots "74") (hits "20") (kills "18") (headshots "7") (tks "0") (damage "4293") (deaths "14")
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" triggered "weaponstats2" (weapon "awp") (head "7") (chest "2") (stomach "0") (leftarm "8") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" triggered "weaponstats" (weapon "knife") (shots "20") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "221") (deaths "1")
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" triggered "time" (time "14:07")
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" triggered "latency" (ping "45")
+L 03/25/2015 - 23:03:39: "nExT --><232><STEAM_0:4:1250151685><CT>" disconnected
+L 03/25/2015 - 23:04:00: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 23:04:00: "Pidarasu<224><STEAM_0:4:1904582762><CT>" attacked "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/25/2015 - 23:04:07: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/25/2015 - 23:04:07: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "knife"
+L 03/25/2015 - 23:04:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "13")
+L 03/25/2015 - 23:04:07: World triggered "Round_End"
+L 03/25/2015 - 23:04:17: World triggered "Round_Start"
+L 03/25/2015 - 23:04:30: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" attacked "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/25/2015 - 23:04:30: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" killed "Pidarasu<224><STEAM_0:4:1904582762><CT>" with "awp"
+L 03/25/2015 - 23:04:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "14")
+L 03/25/2015 - 23:04:30: World triggered "Round_End"
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" triggered "weaponstats" (weapon "awp") (shots "62") (hits "20") (kills "16") (headshots "2") (tks "0") (damage "2594") (deaths "7")
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "2") (stomach "2") (leftarm "7") (rightarm "5") (leftleg "1") (rightleg "1")
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" triggered "weaponstats" (weapon "knife") (shots "34") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "190") (deaths "4")
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" triggered "time" (time "15:09")
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" triggered "latency" (ping "74")
+L 03/25/2015 - 23:04:37: "Pidarasu<224><STEAM_0:4:1904582762><CT>" disconnected
+L 03/25/2015 - 23:04:40: World triggered "Round_Start"
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "11") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "348") (deaths "14")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "27") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" triggered "time" (time "15:04")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" triggered "latency" (ping "2")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "21") (hits "7") (kills "7") (headshots "4") (tks "0") (damage "2043") (deaths "0")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "0")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" triggered "time" (time "3:42")
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" triggered "latency" (ping "55")
+L 03/25/2015 - 23:04:42: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/25/2015 - 23:04:42: [META] ini: Read plugin config for: AMX Mod X
+L 03/25/2015 - 23:04:42: [META] ini: Read plugin config for: dproto_EF
+L 03/25/2015 - 23:04:42: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/25/2015 - 23:04:42: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/25/2015 - 23:04:42: [META] dll: Updating plugins...
+L 03/25/2015 - 23:04:42: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Dasha<229><STEAM_0:4:1068366041><SPECTATOR>" disconnected
+L 03/25/2015 - 23:04:42: "[Hard_Skill]_Novi4ek<237><STEAM_0:4:966835205><TERRORIST>" disconnected
+L 03/25/2015 - 23:04:42: World triggered "Round_Draw" (CT "9") (T "14")
+L 03/25/2015 - 23:04:42: World triggered "Round_End"
+L 03/25/2015 - 23:04:42: Log file closed

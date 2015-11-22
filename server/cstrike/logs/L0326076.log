@@ -1,0 +1,203 @@
+L 03/26/2015 - 23:56:14: Log file started (file "logs/L0326076.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/26/2015 - 23:56:14: Loading map "awp_india"
+L 03/26/2015 - 23:56:14: Server cvars start
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_debug_level" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_examine_time" = "0.5"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_look_angle" = "10"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_look_distance" = "200"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_message_repeats" = "5"
+L 03/26/2015 - 23:56:14: Server cvar "_tutor_view_distance" = "1000"
+L 03/26/2015 - 23:56:14: Server cvar "aesp_version" = "1.5b_mini"
+L 03/26/2015 - 23:56:14: Server cvar "allow_spectators" = "4"
+L 03/26/2015 - 23:56:14: Server cvar "amx_client_languages" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/26/2015 - 23:56:14: Server cvar "amx_language" = "ru"
+L 03/26/2015 - 23:56:14: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 03/26/2015 - 23:56:14: Server cvar "amx_timeleft" = "55:36"
+L 03/26/2015 - 23:56:14: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/26/2015 - 23:56:14: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/26/2015 - 23:56:14: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Config" = "Loaded"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Replace" = "Failed"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Status" = "Loaded"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/26/2015 - 23:56:14: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/26/2015 - 23:56:14: Server cvar "coop" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "deathmatch" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "decalfrequency" = "9"
+L 03/26/2015 - 23:56:14: Server cvar "dp_version" = "0.9.391"
+L 03/26/2015 - 23:56:14: Server cvar "edgefriction" = "2"
+L 03/26/2015 - 23:56:14: Server cvar "hostage_debug" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "hostage_stop" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "humans_join_team" = "any"
+L 03/26/2015 - 23:56:14: Server cvar "jtp10181" = "chute"
+L 03/26/2015 - 23:56:14: Server cvar "max_queries_sec" = "3.0"
+L 03/26/2015 - 23:56:14: Server cvar "max_queries_sec_global" = "30"
+L 03/26/2015 - 23:56:14: Server cvar "max_queries_window" = "60"
+L 03/26/2015 - 23:56:14: Server cvar "metamod_version" = "1.19"
+L 03/26/2015 - 23:56:14: Server cvar "mp_allowmonsters" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_autokick" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_autoteambalance" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_buytime" = "1.5"
+L 03/26/2015 - 23:56:14: Server cvar "mp_c4timer" = "35"
+L 03/26/2015 - 23:56:14: Server cvar "mp_chattime" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_consistency" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_fadetoblack" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_flashlight" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_footsteps" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_forcecamera" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_forcechasecam" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_fragsleft" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_freezetime" = "5"
+L 03/26/2015 - 23:56:14: Server cvar "mp_friendlyfire" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_hostagepenalty" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_kickpercent" = "0.66"
+L 03/26/2015 - 23:56:14: Server cvar "mp_limitteams" = "5"
+L 03/26/2015 - 23:56:14: Server cvar "mp_logdetail" = "3"
+L 03/26/2015 - 23:56:14: Server cvar "mp_logfile" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_logmessages" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/26/2015 - 23:56:14: Server cvar "mp_maxrounds" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_mirrordamage" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_playerid" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_roundtime" = "2.57"
+L 03/26/2015 - 23:56:14: Server cvar "mp_startmoney" = "800"
+L 03/26/2015 - 23:56:14: Server cvar "mp_timeleft" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "mp_timelimit" = "30.000000"
+L 03/26/2015 - 23:56:14: Server cvar "mp_tkpunish" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_windifference" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "mp_winlimit" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "pausable" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_accelerate" = "5"
+L 03/26/2015 - 23:56:14: Server cvar "sv_aim" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_airaccelerate" = "10"
+L 03/26/2015 - 23:56:14: Server cvar "sv_airmove" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "sv_allowupload" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "sv_alltalk" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_bounce" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "sv_cheats" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_clienttrace" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "sv_clipmode" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_contact" = ""
+L 03/26/2015 - 23:56:14: Server cvar "sv_friction" = "4"
+L 03/26/2015 - 23:56:14: Server cvar "sv_gravity" = "800"
+L 03/26/2015 - 23:56:14: Server cvar "sv_logblocks" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_maxrate" = "50000"
+L 03/26/2015 - 23:56:14: Server cvar "sv_maxspeed" = "900"
+L 03/26/2015 - 23:56:14: Server cvar "sv_minrate" = "100000"
+L 03/26/2015 - 23:56:14: Server cvar "sv_password" = ""
+L 03/26/2015 - 23:56:14: Server cvar "sv_proxies" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_region" = "255"
+L 03/26/2015 - 23:56:14: Server cvar "sv_restart" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_restartround" = "0"
+L 03/26/2015 - 23:56:14: Server cvar "sv_stepsize" = "18"
+L 03/26/2015 - 23:56:14: Server cvar "sv_stopspeed" = "75"
+L 03/26/2015 - 23:56:14: Server cvar "sv_uploadmax" = "0.5"
+L 03/26/2015 - 23:56:14: Server cvar "sv_voiceenable" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "sv_wateraccelerate" = "10"
+L 03/26/2015 - 23:56:14: Server cvar "sv_waterfriction" = "1"
+L 03/26/2015 - 23:56:14: Server cvar "travo_statmarquee" = "v1.2"
+L 03/26/2015 - 23:56:14: Server cvar "ultimate_sounds" = "1.7"
+L 03/26/2015 - 23:56:14: Server cvar "vtc_version" = "80"
+L 03/26/2015 - 23:56:14: Server cvars end
+L 03/26/2015 - 23:56:17: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/26/2015 - 23:56:17: Server cvar "sv_restart" = "1"
+L 03/26/2015 - 23:56:18: World triggered "Restart_Round_(1_second)"
+L 03/26/2015 - 23:56:18: Team "CT" scored "0" with "0" players
+L 03/26/2015 - 23:56:18: Team "TERRORIST" scored "0" with "0" players
+L 03/26/2015 - 23:56:18: Server cvar "sv_restart" = "0"
+L 03/26/2015 - 23:56:18: Started map "awp_india" (CRC "534917220")
+L 03/26/2015 - 23:56:18: [VTC] Player 1 speex
+L 03/26/2015 - 23:56:18: [VTC] Player 2 speex
+L 03/26/2015 - 23:56:20: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f4f08
+L 03/26/2015 - 23:56:20: "cocok cloHa<167><STEAM_0:4:1743723214><>" connected, address "37.215.130.102:7023"
+L 03/26/2015 - 23:56:21: [VTC] Player 1 speex
+L 03/26/2015 - 23:56:23: World triggered "Round_Start"
+L 03/26/2015 - 23:56:24: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38f9dfc
+L 03/26/2015 - 23:56:24: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><>" connected, address "37.213.39.80:27005"
+L 03/26/2015 - 23:56:24: "cocok cloHa<167><STEAM_0:4:1743723214><>" entered the game
+L 03/26/2015 - 23:56:24: [VTC] Player 2 speex
+L 03/26/2015 - 23:56:28: "cocok cloHa<167><STEAM_0:4:1743723214><>" joined team "CT"
+L 03/26/2015 - 23:56:30: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><>" entered the game
+L 03/26/2015 - 23:56:32: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><>" joined team "TERRORIST"
+L 03/26/2015 - 23:56:32: World triggered "Game_Commencing"
+L 03/26/2015 - 23:56:32: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/26/2015 - 23:56:32: World triggered "Round_End"
+L 03/26/2015 - 23:56:40: World triggered "Round_Start"
+L 03/26/2015 - 23:56:42: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/26/2015 - 23:56:42: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/26/2015 - 23:56:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/26/2015 - 23:56:42: World triggered "Round_End"
+L 03/26/2015 - 23:56:52: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" say "gbplfn*sq"
+L 03/26/2015 - 23:56:52: World triggered "Round_Start"
+L 03/26/2015 - 23:56:56: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" attacked "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/26/2015 - 23:56:56: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/26/2015 - 23:56:56: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/26/2015 - 23:56:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/26/2015 - 23:56:56: World triggered "Round_End"
+L 03/26/2015 - 23:56:59: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" say "gbplf*sq"
+L 03/26/2015 - 23:57:06: World triggered "Round_Start"
+L 03/26/2015 - 23:57:15: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/26/2015 - 23:57:15: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/26/2015 - 23:57:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/26/2015 - 23:57:15: World triggered "Round_End"
+L 03/26/2015 - 23:57:25: World triggered "Round_Start"
+L 03/26/2015 - 23:57:53: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" say "e vtyz vsirj ujdyj"
+L 03/26/2015 - 23:57:56: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" say ",kz"
+L 03/26/2015 - 23:58:04: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" attacked "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/26/2015 - 23:58:04: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" killed "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp"
+L 03/26/2015 - 23:58:04: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 03/26/2015 - 23:58:04: World triggered "Round_End"
+L 03/26/2015 - 23:58:14: World triggered "Round_Start"
+L 03/26/2015 - 23:58:29: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/26/2015 - 23:58:29: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/26/2015 - 23:58:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/26/2015 - 23:58:29: World triggered "Round_End"
+L 03/26/2015 - 23:58:39: World triggered "Round_Start"
+L 03/26/2015 - 23:59:22: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/26/2015 - 23:59:25: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" attacked "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/26/2015 - 23:59:25: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/26/2015 - 23:59:25: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "knife"
+L 03/26/2015 - 23:59:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 03/26/2015 - 23:59:25: World triggered "Round_End"
+L 03/26/2015 - 23:59:27: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" say ",kz)" (dead)
+L 03/26/2015 - 23:59:35: World triggered "Round_Start"
+L 03/26/2015 - 23:59:50: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/26/2015 - 23:59:50: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/26/2015 - 23:59:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 03/26/2015 - 23:59:50: World triggered "Round_End"
+L 03/27/2015 - 00:00:00: World triggered "Round_Start"
+L 03/27/2015 - 00:00:15: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" attacked "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/27/2015 - 00:00:15: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" killed "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp"
+L 03/27/2015 - 00:00:15: Team "CT" triggered "CTs_Win" (CT "2") (T "6")
+L 03/27/2015 - 00:00:15: World triggered "Round_End"
+L 03/27/2015 - 00:00:25: World triggered "Round_Start"
+L 03/27/2015 - 00:00:50: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/27/2015 - 00:00:50: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/27/2015 - 00:00:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 03/27/2015 - 00:00:50: World triggered "Round_End"
+L 03/27/2015 - 00:01:00: World triggered "Round_Start"
+L 03/27/2015 - 00:01:11: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" attacked "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/27/2015 - 00:01:11: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" killed "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" with "awp"
+L 03/27/2015 - 00:01:11: Team "CT" triggered "CTs_Win" (CT "3") (T "7")
+L 03/27/2015 - 00:01:11: World triggered "Round_End"
+L 03/27/2015 - 00:01:21: World triggered "Round_Start"
+L 03/27/2015 - 00:01:22: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/27/2015 - 00:01:22: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/27/2015 - 00:01:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "8")
+L 03/27/2015 - 00:01:22: World triggered "Round_End"
+L 03/27/2015 - 00:01:24: "cocok cloHa<167><STEAM_0:4:1743723214><CT>" say ",kz" (dead)
+L 03/27/2015 - 00:01:32: World triggered "Round_Start"
+L 03/27/2015 - 00:01:42: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" attacked "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/27/2015 - 00:01:42: "[Hard_Skill]_Mi{x}eR<168><STEAM_0:4:2092800974><TERRORIST>" killed "cocok cloHa<167><STEAM_0:4:1743723214><CT>" with "awp"
+L 03/27/2015 - 00:01:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "9")
+L 03/27/2015 - 00:01:42: World triggered "Round_End"
+L 03/27/2015 - 00:01:52

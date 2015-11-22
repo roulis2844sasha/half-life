@@ -1,0 +1,469 @@
+L 03/13/2015 - 23:26:11: Log file started (file "logs/L0313036.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/13/2015 - 23:26:11: Loading map "awp_india"
+L 03/13/2015 - 23:26:11: Server cvars start
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_debug_level" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_examine_time" = "0.5"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_look_angle" = "10"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_look_distance" = "200"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_message_repeats" = "5"
+L 03/13/2015 - 23:26:11: Server cvar "_tutor_view_distance" = "1000"
+L 03/13/2015 - 23:26:11: Server cvar "aesp_version" = "1.5b_mini"
+L 03/13/2015 - 23:26:11: Server cvar "allow_spectators" = "2"
+L 03/13/2015 - 23:26:11: Server cvar "amx_client_languages" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/13/2015 - 23:26:11: Server cvar "amx_language" = "ru"
+L 03/13/2015 - 23:26:11: Server cvar "amx_nextmap" = "he_tennis"
+L 03/13/2015 - 23:26:11: Server cvar "amx_timeleft" = "12:43"
+L 03/13/2015 - 23:26:11: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/13/2015 - 23:26:11: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/13/2015 - 23:26:11: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Config" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Status" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/13/2015 - 23:26:11: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/13/2015 - 23:26:11: Server cvar "coop" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "deathmatch" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "decalfrequency" = "9"
+L 03/13/2015 - 23:26:11: Server cvar "dp_version" = "0.9.391"
+L 03/13/2015 - 23:26:11: Server cvar "edgefriction" = "2"
+L 03/13/2015 - 23:26:11: Server cvar "hostage_debug" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "hostage_stop" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "humans_join_team" = "any"
+L 03/13/2015 - 23:26:11: Server cvar "jtp10181" = "chute"
+L 03/13/2015 - 23:26:11: Server cvar "max_queries_sec" = "3.0"
+L 03/13/2015 - 23:26:11: Server cvar "max_queries_sec_global" = "30"
+L 03/13/2015 - 23:26:11: Server cvar "max_queries_window" = "60"
+L 03/13/2015 - 23:26:11: Server cvar "metamod_version" = "1.19p32"
+L 03/13/2015 - 23:26:11: Server cvar "mp_allowmonsters" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_autokick" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_autoteambalance" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_buytime" = "1.5"
+L 03/13/2015 - 23:26:11: Server cvar "mp_c4timer" = "35"
+L 03/13/2015 - 23:26:11: Server cvar "mp_chattime" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_consistency" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_fadetoblack" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_flashlight" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_footsteps" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_forcecamera" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_forcechasecam" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_fragsleft" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_freezetime" = "5"
+L 03/13/2015 - 23:26:11: Server cvar "mp_friendlyfire" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_hostagepenalty" = "2"
+L 03/13/2015 - 23:26:11: Server cvar "mp_kickpercent" = "0.66"
+L 03/13/2015 - 23:26:11: Server cvar "mp_limitteams" = "2"
+L 03/13/2015 - 23:26:11: Server cvar "mp_logdetail" = "3"
+L 03/13/2015 - 23:26:11: Server cvar "mp_logfile" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_logmessages" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/13/2015 - 23:26:11: Server cvar "mp_maxrounds" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_mirrordamage" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_playerid" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_roundtime" = "2.57"
+L 03/13/2015 - 23:26:11: Server cvar "mp_startmoney" = "800"
+L 03/13/2015 - 23:26:11: Server cvar "mp_timeleft" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "mp_timelimit" = "30"
+L 03/13/2015 - 23:26:11: Server cvar "mp_tkpunish" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_windifference" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "mp_winlimit" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "pausable" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "sv_accelerate" = "5"
+L 03/13/2015 - 23:26:11: Server cvar "sv_aim" = "off"
+L 03/13/2015 - 23:26:11: Server cvar "sv_airaccelerate" = "10"
+L 03/13/2015 - 23:26:11: Server cvar "sv_airmove" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "sv_allowupload" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "sv_alltalk" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "sv_bounce" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "sv_cheats" = "off"
+L 03/13/2015 - 23:26:11: Server cvar "sv_clienttrace" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "sv_clipmode" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "sv_contact" = ""
+L 03/13/2015 - 23:26:11: Server cvar "sv_friction" = "4"
+L 03/13/2015 - 23:26:11: Server cvar "sv_gravity" = "800"
+L 03/13/2015 - 23:26:11: Server cvar "sv_logblocks" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "sv_maxrate" = "50000"
+L 03/13/2015 - 23:26:11: Server cvar "sv_maxspeed" = "900"
+L 03/13/2015 - 23:26:11: Server cvar "sv_minrate" = "100000"
+L 03/13/2015 - 23:26:11: Server cvar "sv_password" = ""
+L 03/13/2015 - 23:26:11: Server cvar "sv_proxies" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "sv_region" = "3"
+L 03/13/2015 - 23:26:11: Server cvar "sv_restart" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "sv_restartround" = "0"
+L 03/13/2015 - 23:26:11: Server cvar "sv_stepsize" = "18"
+L 03/13/2015 - 23:26:11: Server cvar "sv_stopspeed" = "75"
+L 03/13/2015 - 23:26:11: Server cvar "sv_uploadmax" = "0.5"
+L 03/13/2015 - 23:26:11: Server cvar "sv_voiceenable" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "sv_wateraccelerate" = "10"
+L 03/13/2015 - 23:26:11: Server cvar "sv_waterfriction" = "1"
+L 03/13/2015 - 23:26:11: Server cvar "ultimate_sounds" = "1.7"
+L 03/13/2015 - 23:26:11: Server cvar "vtc_version" = "80"
+L 03/13/2015 - 23:26:11: Server cvars end
+L 03/13/2015 - 23:26:11: Server cvar "amx_nextmap" = "de_dust2"
+L 03/13/2015 - 23:26:11: Started map "awp_india" (CRC "534917220")
+L 03/13/2015 - 23:26:12: [VTC] Player 13 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 9 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 6 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 3 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 1 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 14 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 5 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 2 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 7 speex
+L 03/13/2015 - 23:26:12: [VTC] Player 10 speex
+L 03/13/2015 - 23:26:14: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38eaf08
+L 03/13/2015 - 23:26:14: "sXelKaDeT<263><STEAM_0:0:1022933790><>" connected, address "37.215.23.150:29187"
+L 03/13/2015 - 23:26:14: [VTC] Player 1 speex
+L 03/13/2015 - 23:26:15: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><>" entered the game
+L 03/13/2015 - 23:26:16: [DPROTO]: Client 5 - Set AuthIdType 7 [HLTV]; pClient = 0xb39039cc
+L 03/13/2015 - 23:26:16: "4ANHNK<264><HLTV><>" connected, address "178.120.20.238:25541"
+L 03/13/2015 - 23:26:16: "Panisher<247><STEAM_0:0:282478831><>" entered the game
+L 03/13/2015 - 23:26:16: [VTC] Player 6 speex
+L 03/13/2015 - 23:26:16: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><>" entered the game
+L 03/13/2015 - 23:26:16: "ANGELuHA<237><STEAM_0:0:1331792062><>" entered the game
+L 03/13/2015 - 23:26:17: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38efdfc
+L 03/13/2015 - 23:26:17: "FoX<265><STEAM_0:0:1403200429><>" connected, address "82.200.168.85:5442"
+L 03/13/2015 - 23:26:17: "sXelKaDeT<263><STEAM_0:0:1022933790><>" entered the game
+L 03/13/2015 - 23:26:17: World triggered "Round_Start"
+L 03/13/2015 - 23:26:18: "4ANHNK<264><HLTV><>" entered the game
+L 03/13/2015 - 23:26:18: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><>" joined team "SPECTATOR"
+L 03/13/2015 - 23:26:18: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38fead8
+L 03/13/2015 - 23:26:18: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><>" connected, address "188.163.80.88:46695"
+L 03/13/2015 - 23:26:19: [VTC] Player 5 speex
+L 03/13/2015 - 23:26:21: "ANGELuHA<237><STEAM_0:0:1331792062><>" joined team "TERRORIST"
+L 03/13/2015 - 23:26:22: "4ANHNK<264><HLTV><>" joined team "CT"
+L 03/13/2015 - 23:26:22: World triggered "Game_Commencing"
+L 03/13/2015 - 23:26:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/13/2015 - 23:26:22: World triggered "Round_End"
+L 03/13/2015 - 23:26:22: "Devosha Bomba<257><HLTV><>" entered the game
+L 03/13/2015 - 23:26:23: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38efdfc
+L 03/13/2015 - 23:26:23: "FoX<267><STEAM_0:0:1403200429><>" connected, address "82.200.168.85:5442"
+L 03/13/2015 - 23:26:23: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><>" joined team "CT"
+L 03/13/2015 - 23:26:23: [VTC] Player 2 speex
+L 03/13/2015 - 23:26:25: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><>" entered the game
+L 03/13/2015 - 23:26:25: "sXelKaDeT<263><STEAM_0:0:1022933790><>" joined team "CT"
+L 03/13/2015 - 23:26:27: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><SPECTATOR>" joined team "TERRORIST"
+L 03/13/2015 - 23:26:28: "Devosha Bomba<257><HLTV><>" joined team "TERRORIST"
+L 03/13/2015 - 23:26:29: "FoX<267><STEAM_0:0:1403200429><>" entered the game
+L 03/13/2015 - 23:26:30: World triggered "Round_Start"
+L 03/13/2015 - 23:26:32: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><>" joined team "CT"
+L 03/13/2015 - 23:26:33: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:26:33: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:26:38: "4ANHNK<264><HLTV><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:26:38: "4ANHNK<264><HLTV><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:26:38: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/13/2015 - 23:26:38: World triggered "Round_End"
+L 03/13/2015 - 23:26:39: Server cvar "sv_restartround" = "1"
+L 03/13/2015 - 23:26:39: World triggered "Restart_Round_(1_second)"
+L 03/13/2015 - 23:26:39: Team "CT" scored "1" with "4" players
+L 03/13/2015 - 23:26:39: Team "TERRORIST" scored "0" with "3" players
+L 03/13/2015 - 23:26:39: Server cvar "sv_restartround" = "0"
+L 03/13/2015 - 23:26:40: "Devosha Bomba<257><HLTV><TERRORIST>" say "/rs" (dead)
+L 03/13/2015 - 23:26:45: World triggered "Round_Start"
+L 03/13/2015 - 23:26:49: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:26:49: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:26:52: "Panisher<247><STEAM_0:0:282478831><>" joined team "TERRORIST"
+L 03/13/2015 - 23:26:54: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 03/13/2015 - 23:26:54: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:26:55: "FoX<267><STEAM_0:0:1403200429><UNASSIGNED>" triggered "time" (time "0:25")
+L 03/13/2015 - 23:26:55: "FoX<267><STEAM_0:0:1403200429><UNASSIGNED>" triggered "latency" (ping "100")
+L 03/13/2015 - 23:26:55: "FoX<267><STEAM_0:0:1403200429><>" disconnected
+L 03/13/2015 - 23:26:56: "Devosha Bomba<257><HLTV><TERRORIST>" say "/rs" (dead)
+L 03/13/2015 - 23:26:59: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/13/2015 - 23:26:59: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:00: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 03/13/2015 - 23:27:00: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "55") (damage_armor "4") (health "33") (armor "94")
+L 03/13/2015 - 23:27:01: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp" (damage "63") (damage_armor "0") (health "37") (armor "100")
+L 03/13/2015 - 23:27:01: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "12") (damage_armor "2") (health "21") (armor "92")
+L 03/13/2015 - 23:27:02: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/13/2015 - 23:27:02: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "12") (damage_armor "1") (health "9") (armor "91")
+L 03/13/2015 - 23:27:02: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "12") (damage_armor "1") (health "-3") (armor "90")
+L 03/13/2015 - 23:27:02: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" killed "4ANHNK<264><HLTV><CT>" with "knife"
+L 03/13/2015 - 23:27:03: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "knife" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 03/13/2015 - 23:27:03: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "knife" (damage "221") (damage_armor "20") (health "-184") (armor "80")
+L 03/13/2015 - 23:27:03: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "knife"
+L 03/13/2015 - 23:27:04: "4ANHNK<264><HLTV><CT>" say "/rs" (dead)
+L 03/13/2015 - 23:27:04: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "-5") (armor "98")
+L 03/13/2015 - 23:27:04: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:04: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/13/2015 - 23:27:04: World triggered "Round_End"
+L 03/13/2015 - 23:27:14: World triggered "Round_Start"
+L 03/13/2015 - 23:27:16: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:27:16: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:18: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/13/2015 - 23:27:18: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:27:18: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:26: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "knife" (damage "165") (damage_armor "15") (health "-146") (armor "85")
+L 03/13/2015 - 23:27:26: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "knife"
+L 03/13/2015 - 23:27:28: "Devosha Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/13/2015 - 23:27:28: "Devosha Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:27:32: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/13/2015 - 23:27:32: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:34: "4ANHNK<264><HLTV><CT>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:27:34: "4ANHNK<264><HLTV><CT>" killed "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:34: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/13/2015 - 23:27:34: World triggered "Round_End"
+L 03/13/2015 - 23:27:44: World triggered "Round_Start"
+L 03/13/2015 - 23:27:48: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/13/2015 - 23:27:48: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:27:51: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/13/2015 - 23:27:51: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" with "awp"
+L 03/13/2015 - 23:27:55: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:27:55: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:02: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/13/2015 - 23:28:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/13/2015 - 23:28:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "knife"
+L 03/13/2015 - 23:28:05: "Devosha Bomba<257><HLTV><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/13/2015 - 23:28:05: "Devosha Bomba<257><HLTV><TERRORIST>" killed "4ANHNK<264><HLTV><CT>" with "awp"
+L 03/13/2015 - 23:28:12: "Devosha Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:28:12: "Devosha Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:28:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 03/13/2015 - 23:28:12: World triggered "Round_End"
+L 03/13/2015 - 23:28:22: World triggered "Round_Start"
+L 03/13/2015 - 23:28:24: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/13/2015 - 23:28:25: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "40") (damage_armor "0") (health "60") (armor "100")
+L 03/13/2015 - 23:28:28: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/13/2015 - 23:28:28: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:31: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:28:31: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:31: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-87") (armor "98")
+L 03/13/2015 - 23:28:31: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:32: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/13/2015 - 23:28:32: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" with "awp"
+L 03/13/2015 - 23:28:32: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "315") (damage_armor "5") (health "-255") (armor "95")
+L 03/13/2015 - 23:28:32: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:28:35: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/13/2015 - 23:28:35: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:35: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 03/13/2015 - 23:28:35: World triggered "Round_End"
+L 03/13/2015 - 23:28:40: "4ANHNK<264><HLTV><CT>" say "/rs"
+L 03/13/2015 - 23:28:45: World triggered "Round_Start"
+L 03/13/2015 - 23:28:56: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/13/2015 - 23:28:56: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:56: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38efdfc
+L 03/13/2015 - 23:28:56: "[Hard_Skill]_Angel_Smerti_<268><STEAM_0:0:1079844652><>" connected, address "178.120.125.247:11277"
+L 03/13/2015 - 23:28:56: [VTC] Player 2 speex
+L 03/13/2015 - 23:28:58: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/13/2015 - 23:28:58: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:28:59: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/13/2015 - 23:29:00: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" attacked "4ANHNK<264><HLTV><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/13/2015 - 23:29:00: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" killed "4ANHNK<264><HLTV><CT>" with "knife"
+L 03/13/2015 - 23:29:02: "4ANHNK<264><HLTV><CT>" say "/rs" (dead)
+L 03/13/2015 - 23:29:02: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/13/2015 - 23:29:02: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:29:03: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:29:03: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp"
+L 03/13/2015 - 23:29:03: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 03/13/2015 - 23:29:03: World triggered "Round_End"
+L 03/13/2015 - 23:29:06: "4ANHNK<264><HLTV><CT>" joined team "SPECTATOR"
+L 03/13/2015 - 23:29:12: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38efdfc
+L 03/13/2015 - 23:29:12: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><>" connected, address "178.120.125.247:11277"
+L 03/13/2015 - 23:29:12: [VTC] Player 2 speex
+L 03/13/2015 - 23:29:13: World triggered "Round_Start"
+L 03/13/2015 - 23:29:20: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/13/2015 - 23:29:20: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:29:31: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:29:31: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" with "awp"
+L 03/13/2015 - 23:29:32: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:29:32: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" with "awp"
+L 03/13/2015 - 23:29:33: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><>" entered the game
+L 03/13/2015 - 23:29:35: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/13/2015 - 23:29:39: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-40") (armor "95")
+L 03/13/2015 - 23:29:39: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "knife"
+L 03/13/2015 - 23:29:40: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" triggered "weaponstats" (weapon "awp") (shots "22") (hits "4") (kills "4") (headshots "1") (tks "0") (damage "478") (deaths "2")
+L 03/13/2015 - 23:29:40: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:29:40: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" triggered "time" (time "3:22")
+L 03/13/2015 - 23:29:40: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" triggered "latency" (ping "32")
+L 03/13/2015 - 23:29:40: "sXelKaDeT<263><STEAM_0:0:1022933790><CT>" disconnected
+L 03/13/2015 - 23:29:42: "Devosha Bomba<257><HLTV><TERRORIST>" say "/rs" (dead)
+L 03/13/2015 - 23:29:44: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:29:44: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:29:48: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><>" joined team "CT"
+L 03/13/2015 - 23:29:59: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/13/2015 - 23:29:59: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/13/2015 - 23:30:04: "Devosha Bomba<257><HLTV><TERRORIST>" say "a" (dead)
+L 03/13/2015 - 23:30:05: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><TERRORIST>" joined team "CT"
+L 03/13/2015 - 23:30:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp" (damage "108") (damage_armor "2") (health "-92") (armor "98")
+L 03/13/2015 - 23:30:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp"
+L 03/13/2015 - 23:30:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 03/13/2015 - 23:30:18: World triggered "Round_End"
+L 03/13/2015 - 23:30:20: "Devosha Bomba<257><HLTV><TERRORIST>" say "ai" (dead)
+L 03/13/2015 - 23:30:28: World triggered "Round_Start"
+L 03/13/2015 - 23:30:31: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:30:31: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:30:31: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 03/13/2015 - 23:30:31: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:30:31: "Devosha Bomba<257><HLTV><TERRORIST>" say "ns ujvfc" (dead)
+L 03/13/2015 - 23:30:34: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/13/2015 - 23:30:39: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-64") (armor "93")
+L 03/13/2015 - 23:30:39: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:30:39: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 03/13/2015 - 23:30:39: World triggered "Round_End"
+L 03/13/2015 - 23:30:49: World triggered "Round_Start"
+L 03/13/2015 - 23:30:49: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 03/13/2015 - 23:30:49: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" with "awp" (damage "60") (damage_armor "0") (health "40") (armor "100")
+L 03/13/2015 - 23:30:53: "Devosha Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp" (damage "106") (damage_armor "2") (health "-88") (armor "98")
+L 03/13/2015 - 23:30:53: "Devosha Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" with "awp"
+L 03/13/2015 - 23:30:58: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/13/2015 - 23:30:58: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:30:58: "Devosha Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/13/2015 - 23:30:58: "Devosha Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "15") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "217") (deaths "2")
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" triggered "time" (time "4:40")
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" triggered "latency" (ping "28")
+L 03/13/2015 - 23:30:58: "4ANHNK<264><HLTV><SPECTATOR>" disconnected
+L 03/13/2015 - 23:30:58: [DPROTO]: Client 5 - Set AuthIdType 7 [HLTV]; pClient = 0xb39039cc
+L 03/13/2015 - 23:30:58: "[Hard_Skill]_4ANHNK<270><HLTV><>" connected, address "178.120.20.238:25541"
+L 03/13/2015 - 23:30:59: [VTC] Player 6 speex
+L 03/13/2015 - 23:31:00: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/13/2015 - 23:31:00: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" with "awp"
+L 03/13/2015 - 23:31:01: "[Hard_Skill]_4ANHNK<270><HLTV><>" entered the game
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "12") (kills "4") (headshots "0") (tks "0") (damage "555") (deaths "6")
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "4") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" triggered "time" (time "4:49")
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" triggered "latency" (ping "10")
+L 03/13/2015 - 23:31:04: "[Hard_Skill]_4IKIST<243><STEAM_0:0:2025036726><CT>" disconnected
+L 03/13/2015 - 23:31:05: "[Hard_Skill]_4ANHNK<270><HLTV><>" joined team "CT"
+L 03/13/2015 - 23:31:08: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/13/2015 - 23:31:08: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:31:17: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/13/2015 - 23:31:17: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:31:17: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 03/13/2015 - 23:31:17: World triggered "Round_End"
+L 03/13/2015 - 23:31:27: World triggered "Round_Start"
+L 03/13/2015 - 23:31:37: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "Devosha Bomba<257><HLTV><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/13/2015 - 23:31:37: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "Devosha Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:31:37: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/13/2015 - 23:31:37: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:31:38: "[Hard_Skill]_4ekHyTbIu*<266><STEAM_0:0:763412821><CT>" changed name to "[Hard_Skill]_Zalupa"
+L 03/13/2015 - 23:31:40: "Devosha Bomba<257><HLTV><TERRORIST>" say "/rsd" (dead)
+L 03/13/2015 - 23:31:43: "Devosha Bomba<257><HLTV><TERRORIST>" say "/rs" (dead)
+L 03/13/2015 - 23:31:50: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "knife" (damage "221") (damage_armor "20") (health "-121") (armor "80")
+L 03/13/2015 - 23:31:50: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "knife"
+L 03/13/2015 - 23:31:50: Team "CT" triggered "CTs_Win" (CT "7") (T "2")
+L 03/13/2015 - 23:31:50: World triggered "Round_End"
+L 03/13/2015 - 23:32:00: World triggered "Round_Start"
+L 03/13/2015 - 23:32:00: "Devosha Bomba<257><HLTV><TERRORIST>" changed name to "Devosha_ Bomba"
+L 03/13/2015 - 23:32:02: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:32:02: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:32:12: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/13/2015 - 23:32:12: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:32:13: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "Devosha_ Bomba<257><HLTV><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/13/2015 - 23:32:13: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "Devosha_ Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:32:13: Team "CT" triggered "CTs_Win" (CT "8") (T "2")
+L 03/13/2015 - 23:32:13: World triggered "Round_End"
+L 03/13/2015 - 23:32:16: "Devosha_ Bomba<257><HLTV><TERRORIST>" say "/rs" (dead)
+L 03/13/2015 - 23:32:23: World triggered "Round_Start"
+L 03/13/2015 - 23:32:23: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/13/2015 - 23:32:23: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/13/2015 - 23:32:23: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:32:23: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_4ANHNK<270><HLTV><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/13/2015 - 23:32:23: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" with "awp" (damage "57") (damage_armor "1") (health "43") (armor "99")
+L 03/13/2015 - 23:32:29: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" attacked "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:32:29: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" killed "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" with "awp"
+L 03/13/2015 - 23:32:33: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "137") (damage_armor "2") (health "-115") (armor "97")
+L 03/13/2015 - 23:32:33: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:32:39: "Devosha_ Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" with "knife" (damage "51") (damage_armor "5") (health "-8") (armor "94")
+L 03/13/2015 - 23:32:39: "Devosha_ Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" with "knife"
+L 03/13/2015 - 23:32:39: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "12") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "369") (deaths "12")
+L 03/13/2015 - 23:32:39: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "4") (rightleg "0")
+L 03/13/2015 - 23:32:39: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" triggered "time" (time "6:22")
+L 03/13/2015 - 23:32:39: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" triggered "latency" (ping "24")
+L 03/13/2015 - 23:32:39: "ANGELuHA<237><STEAM_0:0:1331792062><TERRORIST>" disconnected
+L 03/13/2015 - 23:32:47: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" attacked "Devosha_ Bomba<257><HLTV><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/13/2015 - 23:32:47: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" killed "Devosha_ Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:32:47: Team "CT" triggered "CTs_Win" (CT "9") (T "2")
+L 03/13/2015 - 23:32:47: World triggered "Round_End"
+L 03/13/2015 - 23:32:57: World triggered "Round_Start"
+L 03/13/2015 - 23:32:59: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:32:59: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:33:06: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" attacked "Devosha_ Bomba<257><HLTV><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/13/2015 - 23:33:06: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" killed "Devosha_ Bomba<257><HLTV><TERRORIST>" with "awp"
+L 03/13/2015 - 23:33:06: Team "CT" triggered "CTs_Win" (CT "10") (T "2")
+L 03/13/2015 - 23:33:06: World triggered "Round_End"
+L 03/13/2015 - 23:33:11: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" committed suicide with "world"
+L 03/13/2015 - 23:33:11: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><CT>" joined team "TERRORIST"
+L 03/13/2015 - 23:33:16: World triggered "Round_Start"
+L 03/13/2015 - 23:33:18: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 03/13/2015 - 23:33:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" attacked "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/13/2015 - 23:33:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" killed "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" with "awp"
+L 03/13/2015 - 23:33:25: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/13/2015 - 23:33:28: "Devosha_ Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "109") (damage_armor "2") (health "-91") (armor "98")
+L 03/13/2015 - 23:33:28: "Devosha_ Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:33:35: "Devosha_ Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/13/2015 - 23:33:35: "Devosha_ Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" with "awp"
+L 03/13/2015 - 23:33:48: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" attacked "[Hard_Skill]_4ANHNK<270><HLTV><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/13/2015 - 23:34:03: "Devosha_ Bomba<257><HLTV><TERRORIST>" attacked "[Hard_Skill]_4ANHNK<270><HLTV><CT>" with "knife" (damage "55") (damage_armor "5") (health "-40") (armor "95")
+L 03/13/2015 - 23:34:03: "Devosha_ Bomba<257><HLTV><TERRORIST>" killed "[Hard_Skill]_4ANHNK<270><HLTV><CT>" with "knife"
+L 03/13/2015 - 23:34:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "3")
+L 03/13/2015 - 23:34:03: World triggered "Round_End"
+L 03/13/2015 - 23:34:08: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" say "/rs"
+L 03/13/2015 - 23:34:13: World triggered "Round_Start"
+L 03/13/2015 - 23:34:13: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" attacked "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/13/2015 - 23:34:13: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" killed "Panisher<247><STEAM_0:0:282478831><TERRORIST>" with "awp"
+L 03/13/2015 - 23:34:15: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/13/2015 - 23:34:15: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" with "awp"
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "12") (hits "9") (kills "8") (headshots "0") (tks "0") (damage "945") (deaths "1")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "6") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" triggered "time" (time "4:44")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" triggered "latency" (ping "57")
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "35") (hits "12") (kills "8") (headshots "3") (tks "0") (damage "2022") (deaths "10")
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "0") (stomach "0") (leftarm "4") (rightarm "3") (leftleg "2") (rightleg "0")
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" triggered "time" (time "8:02")
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" triggered "latency" (ping "34")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" triggered "weaponstats" (weapon "awp") (shots "47") (hits "15") (kills "10") (headshots "0") (tks "0") (damage "1451") (deaths "6")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "5") (stomach "1") (leftarm "4") (rightarm "3") (leftleg "0") (rightleg "2")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "2") (kills "2") (headshots "1") (tks "0") (damage "276") (deaths "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" triggered "time" (time "7:52")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" triggered "latency" (ping "78")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" triggered "weaponstats" (weapon "awp") (shots "22") (hits "4") (kills "4") (headshots "2") (tks "0") (damage "1079") (deaths "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" triggered "time" (time "3:16")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" triggered "latency" (ping "27")
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "24") (hits "7") (kills "7") (headshots "1") (tks "0") (damage "1075") (deaths "11")
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "5") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "17") (hits "2") (kills "2") (headshots "1") (tks "0") (damage "106") (deaths "1")
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" triggered "time" (time "7:55")
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" triggered "latency" (ping "360")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "awp") (shots "27") (hits "13") (kills "12") (headshots "4") (tks "0") (damage "2650") (deaths "9")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "2") (stomach "0") (leftarm "5") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "221") (deaths "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" triggered "time" (time "8:01")
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" triggered "latency" (ping "48")
+L 03/13/2015 - 23:34:18: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/13/2015 - 23:34:18: [META] ini: Read plugin config for: AMX Mod X
+L 03/13/2015 - 23:34:18: [META] ini: Read plugin config for: dproto_EF
+L 03/13/2015 - 23:34:18: [META] ini: Read plugin config for: mmtimer
+L 03/13/2015 - 23:34:18: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/13/2015 - 23:34:18: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/13/2015 - 23:34:18: [META] dll: Updating plugins...
+L 03/13/2015 - 23:34:18: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/13/2015 - 23:34:18: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/13/2015 - 23:34:18: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Angel_Smerti_<269><STEAM_0:0:1079844652><TERRORIST>" disconnected
+L 03/13/2015 - 23:34:18: "Panisher<247><STEAM_0:0:282478831><TERRORIST>" disconnected
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Zalupa<266><STEAM_0:0:763412821><CT>" disconnected
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_4ANHNK<270><HLTV><CT>" disconnected
+L 03/13/2015 - 23:34:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "4")
+L 03/13/2015 - 23:34:18: World triggered "Round_End"
+L 03/13/2015 - 23:34:18: "Devosha_ Bomba<257><HLTV><TERRORIST>" disconnected
+L 03/13/2015 - 23:34:18: "[Hard_Skill]_Mi{x}eR<262><STEAM_0:0:898503398><CT>" disconnected
+L 03/13/2015 - 23:34:18: Log file closed

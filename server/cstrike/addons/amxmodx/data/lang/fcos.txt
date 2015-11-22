@@ -1,0 +1,124 @@
+[ru]
+FCOS_LANG_INFO_STARTUP = %s версии %s, Copyright (C) 2006 %s.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx плагин запущен.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg загружен.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" address "%s" changed "%s" from illegal value "%f" to CAL required value "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" установил значение "%s" равным "%f" вместо "%f".
+FCOS_LANG_REASON = Вы изменили значение %s равным %f вместо %f.
+
+[en]
+FCOS_LANG_INFO_STARTUP = %s version %s, Copyright (C) 2006 %s.  This plugin comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome to redistribute it under certain conditions; type `amxx gpl' for details.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx plugin initiated.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg executed.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" address "%s" changed "%s" from illegal value "%f" to CAL required value "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" changed "%s" from illegal value "%f" to CAL required value "%f".
+FCOS_LANG_REASON = You changed %s from %f to %f which is an illegal value.
+FCOS_LANG_MOTD_TITLE = WARNING!
+FCOS_LANG_MOTD_SUBTITLE = YOU ARE BEING WARNED FOR<br>CHANGING YOUR SETTINGS MID-GAME!!!
+FCOS_LANG_MOTD_MAINMSG1 = This server enforces CAL Open required settings for all players!!!
+FCOS_LANG_MOTD_MAINMSG2 = You are viewing this page because you changed %s from %f to %f which is an illegal value.
+FCOS_LANG_MOTD_MAINMSG3 = Changing your settings mid-game is against the rules of this server.
+FCOS_LANG_MOTD_MAINMSG4 = We consider players who use cheap settings cheaters and they will not be tolerated!
+FCOS_LANG_MOTD_MAINMSG5 = If you continue to attempt to change your settings, further action may be taken!
+
+[de]
+FCOS_LANG_INFO_STARTUP = %s Version %s, Copyright (C) 2006 %s.  Dieses Plugin kommt OHNE JEGLICHE GEWAEHRLEISTUNG. Es ist freie Software und Du kannst es unter bestimmten Bedingungen weiter verteilen; tippe "amx gpl" fuer weitere Details.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx Plugin wurde gestartet.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg ausgefuehrt.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" Adresse "%s" aendert "%s" vom verbotenen Wert "%f" auf den von CAL geforderten Wert "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" aendert "%s" vom verbotenen Wert "%f" auf den von CAL geforderten Wert "%f".
+FCOS_LANG_REASON = Du hast %s von %f auf %f geaendert, welches ein verbotener Wert ist.
+FCOS_LANG_MOTD_TITLE = WARNUNG!
+FCOS_LANG_MOTD_SUBTITLE = DU WIRST VERWARNT, WEIL DU<br>DEINE EINSTELLUNGEN WAEHREND DES SPIELS WECHSELST!!!
+FCOS_LANG_MOTD_MAINMSG1 = Dieser Server verlangt CAL Einstellungen  fuer alle Spieler!!!
+FCOS_LANG_MOTD_MAINMSG2 = Du schaust Dir diese Seite an, da Du %s von %f auf %f gewechstelt hast. Das ist ein verbotener Wert!
+FCOS_LANG_MOTD_MAINMSG3 = Das Wechseln Deiner Einstellungen waehrend des Spielens ist gegen die Regeln dieses Servers.
+FCOS_LANG_MOTD_MAINMSG4 = Wir betrachten Spieler mit verbotenen Einstellungen als Cheater und diese werden nicht tolleriert!
+FCOS_LANG_MOTD_MAINMSG5 = Wenn Du weitere Versuche unternimmst Deine Einstellungen zu aendern, werden weitere Massnahmen folgen.
+
+[sr]
+
+[tr]
+
+[fr]
+
+[sv]
+FCOS_LANG_INFO_STARTUP = %s version %s, Upphovsr'a'tt (C) 2006 %s.  Denna plugin kommer med ABSOLUT INGEN GARANTI. Det h'a'r 'a'r en gratis programvara, och du 'a'r vдlkommen att 'a'ndra den under vissa villkor; skriv `amxx gpl' f'o'r detaljer.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx plugin initierad.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg verkst'a'lld.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" adress "%s" 'a'ndrade "%s" fran illegalt v'a'rde "%f" till CAL kr'a'vande v'a'rde "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" 'a'ndrade "%s" fran illegalt v'a'rde "%f" till CAL kr'a'vande v'a'rde "%f".
+FCOS_LANG_REASON = Du 'a'ndrade %s fran %f till %f vilket 'a'r ett illegalt v'a'rde.
+FCOS_LANG_MOTD_TITLE = VARNING!
+FCOS_LANG_MOTD_SUBTITLE = DU HAR BLIVIGT VARNAD F'O'R<br>ATT 'A'NDRA DINA INST'A'LLNINGAR I MITTEN AV SPELET!!!
+FCOS_LANG_MOTD_MAINMSG1 = Den h'a'r servern tvingar CAL Open beh'o'vande inst'a'llningar f'o'r alla spelare!!!
+FCOS_LANG_MOTD_MAINMSG2 = Du blir visad till denna sida f'o'r att du 'a'ndrade %s fran %f till %f vilket 'a'r ett illegalt v'a'rde.
+FCOS_LANG_MOTD_MAINMSG3 = 'A'ndring av dina inst'a'llningar i mitten av spelet 'a'r mot reglerna pa denna server.
+FCOS_LANG_MOTD_MAINMSG4 = Vi tar h'a'nsyn till spelare som anv'a'nder billiga inst'a'llning fuskare och dom kommer inte vara tolererade!
+FCOS_LANG_MOTD_MAINMSG5 = Om du forts'a'tter att f'o'rs'o'ka att 'a'ndra dina inst'a'llningar, vidare handling kan bli tagen!
+
+[da]
+FCOS_LANG_INFO_STARTUP = % version %, Copyright (C) 2006 %s denne plugin kommer med ABSOLUT INGEN GARANTI. Dette er en gratis software, og du er velkommen til at жndre pе det under sжrlige omstжndigheder; skriv `amxx gpl’ for detaljer.
+FCOS_LANG_SERVER_MSG1 = [AMXX][fcos] fcos.amxx plugin initieret.
+FCOS_LANG_SERVER_MGS2 = [AMXX][fcos] fcos.cfg udfшrt
+FCOS_LANG_LOG_ENTRY = ”%s<%d><%s><>” adresse ”%s” skiftet “%s” fra ulovlig valuta ”%f” til CAL pеsat {value} ”%f”’.
+FCOS_LANG_SHOW_ADMIN = ”%s” skiftet “%s” fra ulovlig  valuta ”%f” til CAL pеsat valuta ”%f”.
+FCOS_LANG_REASON = du skiftede %s fra %f til %f hvilket er en ulovlig valuta.
+FCOS_LANG_MOTD_TITLE = ADVARSEL
+FCOS_LANG_MOTD_SUBTITLE = DU ER BLEVET ADVARET FOR <br> AT SKIFTE DINE FUNKTIONER midt i spillet!!
+FCOS_LANG_MOTD_MAINMSG1 = Denne server behшver alle CAL еben funktioner for alle spillere!!!
+FCOS_LANG_MOTD_MAINMSG2 = du kigger pе denne fordi du har skiftet %s fra  %f til  %f hvilket er en ulovlig valuta
+FCOS_LANG_MOTD_MAINMSG3 = skifte dine funktioner midt i spillet er imod reglerne pе denne server.
+FCOS_LANG_MOTD_MAINMSG4 = vi overvejer spiller som bruger cheats og de vil ikke blive tolereret!
+FCOS_LANG_MOTD_MAINMSG5 = hvis du bliver ved med at forsшge pе at skifte dine funktioner, vil du mеske blive straffet!
+
+[pl]
+FCOS_LANG_INFO_STARTUP = %s wersja %s, Copyright (C) 2006 %s. Plugin wydawany jest ABSOLUTNIE BEZ ZADNEJ GWARANCJI. To jest wolne oprogramowanie mozesz je rozprowadzac dalej i/lub modyfikowac na okreslonych warunkach - w celu uzyskania blizszych szczegolow wpisz 'amxx gpl'.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx plugin zaladowany.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg wczytany.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" adres "%s" zmienil "%s" z niepoprawnej wartosci "%f" na wartosc wymagana w lidze CAL "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" zmienil "%s" z niepoprawnej wartosci "%f" na wartosc wymagana w lidze CAL "%f".
+FCOS_LANG_REASON = Zmieniles %s z %f na %f. To jest niedozwolona wartosc.
+FCOS_LANG_MOTD_TITLE = UWAGA!
+FCOS_LANG_MOTD_SUBTITLE = ZOSTALES OSTRZEZONY<br>ZMIEN SWOJE USTAWIENIA MID-GAME!!!
+FCOS_LANG_MOTD_MAINMSG1 = Ten serwer forsuje ustawienia wymagane w lidze CAL!!!
+FCOS_LANG_MOTD_MAINMSG2 = Widzisz ta strone poniewaz zmieniles %s z %f na %f a to jest niedozwolona wartosc.
+FCOS_LANG_MOTD_MAINMSG3 = Zmien swoje ustawienia mid-game is against the rules of this server.
+FCOS_LANG_MOTD_MAINMSG4 = Gracze uzywajacych zabronionych ustawien badz czitow nie sa tutaj tolerowani!
+FCOS_LANG_MOTD_MAINMSG5 = Jezeli bedzisz probowal zmienic swoje ustawienia, beda podjete odpowiednie srodki!
+
+[nl]
+FCOS_LANG_INFO_STARTUP = %s versie %s, Copyright (C) 2006 %s.  Deze plugin komt ABSOLUUT ZONDER ENIGE GARANTIE.  Dit is gratis software, en het staat u vrij deze te verspeiden onder bepaalde voorwaarden; typ `amxx gpl' voor details.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx plugin gestart.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg Uitgevoerd.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" adres "%s" veranderde "%s" van illegale waarde "%f" naar door CAL vereiste waarde "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" veranderde "%s" van illegale waarde "%f" naar door CAL vereiste waarde "%f".
+FCOS_LANG_REASON = Je veranderde %s van %f naar %f welke een illegale waarde is.
+FCOS_LANG_MOTD_TITLE = WAARSCHUWING!
+FCOS_LANG_MOTD_SUBTITLE = JE WORDT GEWAARSCHUWD WEGENS HET VERANDEREN<br>VAN JE INSTELLINGEN TIJDENS HET SPELEN!!!
+FCOS_LANG_MOTD_MAINMSG1 = Deze server forceert door CAL Open vereiste instellingen voor alle spelers!!!
+FCOS_LANG_MOTD_MAINMSG2 = Je ziet deze pagina omdat je %s wijzigde van %f naar %f welke een illegale waarde is.
+FCOS_LANG_MOTD_MAINMSG3 = Het veranderen van je instellingen tijdens het spelen is tegen de regels op deze server.
+FCOS_LANG_MOTD_MAINMSG4 = Spelers met goedkope instellingen worden als cheaters beschouwd en worden niet getolereerd!
+FCOS_LANG_MOTD_MAINMSG5 = Indien je blijft proberen om je instellingen te wijzigen kan er nadere actie ondernomen worden!
+
+[es]
+
+[bp]
+
+[cz]
+
+[bg]
+FCOS_LANG_INFO_STARTUP = %s versia %s, Copyright (C) 2006 %s.  Tozi plugin idva s ABSOLUTNO NIKAKVI GARANCII.  Tove e bezplaten software, i ste dobre do6li da go raznesete na drugite hora pot tezi pravila; napi6ete `amxx gpl' za pove4e informacia.
+FCOS_LANG_SERVER_MSG1 = [AMXX] [fcos] fcos.amxx plugin nameren.
+FCOS_LANG_SERVER_MSG2 = [AMXX] [fcos] fcos.cfg zapo4na.
+FCOS_LANG_LOG_ENTRY = "%s<%d><%s><>" adres "%s" smenen na "%s" ot nelegalen status "%f" za CAL iziskva6t status "%f".
+FCOS_LANG_SHOW_ADMIN = "%s" smenen "%s"  ot nelegalen status "%f" za CAL iziskva6t status "%f".
+FCOS_LANG_REASON = Vie smenihte %s ot %f na %f Koeto e nelegalen status
+FCOS_LANG_MOTD_TITLE = VNIMANIE!
+COS_LANG_MOTD_SUBTITLE = VIE STE PREDOPREDENI FOR<br>SMENQTE SI NASTROIKITE V STREDATA NA IGRATA!!!
+FCOS_LANG_MOTD_MAINMSG1 = Tozi Server e svarzan s CAL Otvorete nujnite nastroiki za vsi4kite igra4i!!!
+FCOS_LANG_MOTD_MAINMSG2 = Vie vijdate tazi stranica poneje vie smenihte %s ot %f na %f koeto e nelegalno.
+FCOS_LANG_MOTD_MAINMSG3 = Ne e pozvoleno v servara da si smenqte nastroikite po vreme na igrata.
+FCOS_LANG_MOTD_MAINMSG4 = Nie obra6tame mnogo vnimanie kam horata koito igraqt s nastroeni igra4i i te nqma da sa dobre do6li!
+FCOS_LANG_MOTD_MAINMSG5 = Ako produljavate da si smenqte nastroikite, 6te budete nakazani!

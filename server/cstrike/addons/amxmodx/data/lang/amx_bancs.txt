@@ -1,0 +1,29 @@
+﻿[en]
+INFO_BANNED = Sorry, but you are Banned
+PL_BANNED = Banned
+UNBANNED = %s Unbanned^nPlayer %s
+SERVER_PLAYER = Main Admin
+FOR_MINUTES = for %i minutes
+FOR_MINUTE = for %i minute
+PERMANENTLY = Permanently
+BANNED_TO = Banned to:
+BAN_DURATION = Ban Duration:
+WHY_BAN = Why: 
+BAN_FOR_DAY = Ban for %d day
+BAN_FOR_DAYS = Ban for %d days
+BAN_ONE_MIN = Ban for %d minute
+
+[ru]
+INFO_BANNED = Ты забанен !!
+PL_BANNED = Забанен
+UNBANNED = %s Снял Бан^nС игрока %s
+SERVER_PLAYER = Администратор
+FOR_MINUTES = на %i минут
+FOR_MINUTE = на %i минуту
+PERMANENTLY = Навсегда
+BANNED_TO = Забанен до:
+BAN_DURATION = Длительность бана:
+WHY_BAN = Причина:
+BAN_FOR_DAY = Бан на %d день
+BAN_FOR_DAYS = Бан на %d дней
+BAN_ONE_MIN = Бан на %d минуту

@@ -1,0 +1,27 @@
+﻿[ru]
+STATISTICS_GENERATED = 		Статистика сгенерирована за: %s
+CONNECTED_PLAYERS = 		Игроков: %d
+SIZES = 			Команды: CTs %d, Ts %d
+SCORES = 			Счет: CTs %d, Ts %d
+PTB_KILLS = 			Фраги и смерти: CTs %d:%d, Ts %d:%d
+KILL_DEATHS = 			Соотношение фраги/смерти: CTs %.2f, Ts %.2f
+STRENGTHS = 			Сила команд: CTs %.2f, Ts %.2f
+RATINGS = 			Рейтинг команд: CTs %.2f, Ts %.2f
+LAST_ROUND_WON_CT = 		Последние %d раунда(ов) выйгарли CT
+LAST_ROUND_WON_T = 		Последние %d раунда(ов) выйграли T
+CT_WINNING = 			CT побеждают
+T_WINNING = 			T побеждают
+
+[en]
+STATISTICS_GENERATED = 		Статистика сгенерирована за: %s
+CONNECTED_PLAYERS = 		Игроков: %d
+SIZES = 			Команды: CTs %d, Ts %d
+SCORES = 			Счет: CTs %d, Ts %d
+PTB_KILLS = 			Фраги и смерти: CTs %d:%d, Ts %d:%d
+KILL_DEATHS = 			Соотношение фраги/смерти: CTs %.2f, Ts %.2f
+STRENGTHS = 			Сила команд: CTs %.2f, Ts %.2f
+RATINGS = 			Рейтинг команд: CTs %.2f, Ts %.2f
+LAST_ROUND_WON_CT = 		Последние %d раунда(ов) выйгарли CT
+LAST_ROUND_WON_T = 		Последние %d раунда(ов) выйграли T
+CT_WINNING = 			CT побеждают
+T_WINNING = 			T побеждают

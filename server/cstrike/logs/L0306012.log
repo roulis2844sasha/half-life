@@ -1,0 +1,253 @@
+L 03/06/2015 - 11:56:49: Log file started (file "logs/L0306012.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/06/2015 - 11:56:49: Loading map "aim_usp"
+L 03/06/2015 - 11:56:49: Server cvars start
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_debug_level" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_examine_time" = "0.5"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_look_angle" = "10"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_look_distance" = "200"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_message_repeats" = "5"
+L 03/06/2015 - 11:56:49: Server cvar "_tutor_view_distance" = "1000"
+L 03/06/2015 - 11:56:49: Server cvar "aesp_version" = "1.5b_mini"
+L 03/06/2015 - 11:56:49: Server cvar "allow_spectators" = "2"
+L 03/06/2015 - 11:56:49: Server cvar "amx_client_languages" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/06/2015 - 11:56:49: Server cvar "amx_language" = "ru"
+L 03/06/2015 - 11:56:49: Server cvar "amx_nextmap" = "35hp_2"
+L 03/06/2015 - 11:56:49: Server cvar "amx_timeleft" = "52:51"
+L 03/06/2015 - 11:56:49: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/06/2015 - 11:56:49: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/06/2015 - 11:56:49: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Config" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Status" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/06/2015 - 11:56:49: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/06/2015 - 11:56:49: Server cvar "coop" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "deathmatch" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "decalfrequency" = "9"
+L 03/06/2015 - 11:56:49: Server cvar "dp_version" = "0.9.391"
+L 03/06/2015 - 11:56:49: Server cvar "edgefriction" = "2"
+L 03/06/2015 - 11:56:49: Server cvar "hostage_debug" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "hostage_stop" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "humans_join_team" = "any"
+L 03/06/2015 - 11:56:49: Server cvar "jtp10181" = "chute"
+L 03/06/2015 - 11:56:49: Server cvar "max_queries_sec" = "3.0"
+L 03/06/2015 - 11:56:49: Server cvar "max_queries_sec_global" = "30"
+L 03/06/2015 - 11:56:49: Server cvar "max_queries_window" = "60"
+L 03/06/2015 - 11:56:49: Server cvar "metamod_version" = "1.19p32"
+L 03/06/2015 - 11:56:49: Server cvar "mp_allowmonsters" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_autokick" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_autoteambalance" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_buytime" = "1.5"
+L 03/06/2015 - 11:56:49: Server cvar "mp_c4timer" = "35"
+L 03/06/2015 - 11:56:49: Server cvar "mp_chattime" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_consistency" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_fadetoblack" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_flashlight" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_footsteps" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_forcecamera" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_forcechasecam" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_fragsleft" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_freezetime" = "5"
+L 03/06/2015 - 11:56:49: Server cvar "mp_friendlyfire" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_hostagepenalty" = "2"
+L 03/06/2015 - 11:56:49: Server cvar "mp_kickpercent" = "0.66"
+L 03/06/2015 - 11:56:49: Server cvar "mp_limitteams" = "2"
+L 03/06/2015 - 11:56:49: Server cvar "mp_logdetail" = "3"
+L 03/06/2015 - 11:56:49: Server cvar "mp_logfile" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_logmessages" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/06/2015 - 11:56:49: Server cvar "mp_maxrounds" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_mirrordamage" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_playerid" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_roundtime" = "2.57"
+L 03/06/2015 - 11:56:49: Server cvar "mp_startmoney" = "800"
+L 03/06/2015 - 11:56:49: Server cvar "mp_timeleft" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "mp_timelimit" = "70"
+L 03/06/2015 - 11:56:49: Server cvar "mp_tkpunish" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_windifference" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "mp_winlimit" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "pausable" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "sv_accelerate" = "5"
+L 03/06/2015 - 11:56:49: Server cvar "sv_aim" = "off"
+L 03/06/2015 - 11:56:49: Server cvar "sv_airaccelerate" = "10"
+L 03/06/2015 - 11:56:49: Server cvar "sv_airmove" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "sv_allowupload" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "sv_alltalk" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "sv_bounce" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "sv_cheats" = "off"
+L 03/06/2015 - 11:56:49: Server cvar "sv_clienttrace" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "sv_clipmode" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "sv_contact" = ""
+L 03/06/2015 - 11:56:49: Server cvar "sv_friction" = "4"
+L 03/06/2015 - 11:56:49: Server cvar "sv_gravity" = "800"
+L 03/06/2015 - 11:56:49: Server cvar "sv_logblocks" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "sv_maxrate" = "50000"
+L 03/06/2015 - 11:56:49: Server cvar "sv_maxspeed" = "900"
+L 03/06/2015 - 11:56:49: Server cvar "sv_minrate" = "100000"
+L 03/06/2015 - 11:56:49: Server cvar "sv_password" = ""
+L 03/06/2015 - 11:56:49: Server cvar "sv_proxies" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "sv_region" = "3"
+L 03/06/2015 - 11:56:49: Server cvar "sv_restart" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "sv_restartround" = "0"
+L 03/06/2015 - 11:56:49: Server cvar "sv_stepsize" = "18"
+L 03/06/2015 - 11:56:49: Server cvar "sv_stopspeed" = "75"
+L 03/06/2015 - 11:56:49: Server cvar "sv_uploadmax" = "0.5"
+L 03/06/2015 - 11:56:49: Server cvar "sv_voiceenable" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "sv_wateraccelerate" = "10"
+L 03/06/2015 - 11:56:49: Server cvar "sv_waterfriction" = "1"
+L 03/06/2015 - 11:56:49: Server cvar "ultimate_sounds" = "1.7"
+L 03/06/2015 - 11:56:49: Server cvar "vtc_version" = "80"
+L 03/06/2015 - 11:56:49: Server cvars end
+L 03/06/2015 - 11:56:51: Server cvar "amx_nextmap" = "cs_assault"
+L 03/06/2015 - 11:56:52: Started map "aim_usp" (CRC "100757065")
+L 03/06/2015 - 11:56:52: [VTC] Player 2 speex
+L 03/06/2015 - 11:56:53: [VTC] Player 1 speex
+L 03/06/2015 - 11:56:53: [VTC] Player 7 speex
+L 03/06/2015 - 11:56:53: [VTC] Player 3 speex
+L 03/06/2015 - 11:56:53: [VTC] Player 5 speex
+L 03/06/2015 - 11:56:55: [DPROTO]: Client 1 - Set AuthIdType 3 [dproto]; pClient = 0xb39c8dfc
+L 03/06/2015 - 11:56:55: "[St].Dorogi<322><STEAM_0:4:847878862><>" connected, address "37.215.79.204:29567"
+L 03/06/2015 - 11:56:55: [VTC] Player 2 speex
+L 03/06/2015 - 11:56:57: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><>" entered the game
+L 03/06/2015 - 11:56:57: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><>" entered the game
+L 03/06/2015 - 11:56:58: "[St].Dorogi<322><STEAM_0:4:847878862><>" entered the game
+L 03/06/2015 - 11:56:58: World triggered "Round_Start"
+L 03/06/2015 - 11:57:00: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><>" entered the game
+L 03/06/2015 - 11:57:03: "[St].Dorogi<322><STEAM_0:4:847878862><>" joined team "CT"
+L 03/06/2015 - 11:57:04: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><>" joined team "TERRORIST"
+L 03/06/2015 - 11:57:04: World triggered "Game_Commencing"
+L 03/06/2015 - 11:57:04: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/06/2015 - 11:57:04: World triggered "Round_End"
+L 03/06/2015 - 11:57:05: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><>" joined team "TERRORIST"
+L 03/06/2015 - 11:57:05: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><>" joined team "TERRORIST"
+L 03/06/2015 - 11:57:12: World triggered "Round_Start"
+L 03/06/2015 - 11:57:16: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/06/2015 - 11:57:17: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "84") (damage_armor "0") (health "-68") (armor "0")
+L 03/06/2015 - 11:57:17: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp"
+L 03/06/2015 - 11:57:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/06/2015 - 11:57:17: World triggered "Round_End"
+L 03/06/2015 - 11:57:22: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><TERRORIST>" joined team "CT" (auto)
+L 03/06/2015 - 11:57:27: World triggered "Round_Start"
+L 03/06/2015 - 11:57:31: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "60") (damage_armor "0") (health "40") (armor "0")
+L 03/06/2015 - 11:57:32: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "15") (damage_armor "0") (health "25") (armor "0")
+L 03/06/2015 - 11:57:32: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "15") (damage_armor "0") (health "10") (armor "0")
+L 03/06/2015 - 11:57:33: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "60") (damage_armor "0") (health "-50") (armor "0")
+L 03/06/2015 - 11:57:33: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp"
+L 03/06/2015 - 11:57:35: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "80") (damage_armor "0") (health "20") (armor "0")
+L 03/06/2015 - 11:57:35: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "20") (damage_armor "0") (health "0") (armor "0")
+L 03/06/2015 - 11:57:35: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" killed "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp"
+L 03/06/2015 - 11:57:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/06/2015 - 11:57:35: World triggered "Round_End"
+L 03/06/2015 - 11:57:45: World triggered "Round_Start"
+L 03/06/2015 - 11:57:52: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/06/2015 - 11:57:52: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/06/2015 - 11:57:52: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "92") (damage_armor "0") (health "-17") (armor "0")
+L 03/06/2015 - 11:57:52: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp"
+L 03/06/2015 - 11:58:01: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/06/2015 - 11:58:01: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" killed "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp"
+L 03/06/2015 - 11:58:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/06/2015 - 11:58:01: World triggered "Round_End"
+L 03/06/2015 - 11:58:11: World triggered "Round_Start"
+L 03/06/2015 - 11:58:11: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "52") (damage_armor "0") (health "48") (armor "0")
+L 03/06/2015 - 11:58:11: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp" (damage "52") (damage_armor "0") (health "-4") (armor "0")
+L 03/06/2015 - 11:58:11: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[St].Dorogi<322><STEAM_0:4:847878862><CT>" with "usp"
+L 03/06/2015 - 11:58:15: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 03/06/2015 - 11:58:15: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "19") (damage_armor "0") (health "5") (armor "0")
+L 03/06/2015 - 11:58:15: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "76") (damage_armor "0") (health "-71") (armor "0")
+L 03/06/2015 - 11:58:15: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp"
+L 03/06/2015 - 11:58:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/06/2015 - 11:58:15: World triggered "Round_End"
+L 03/06/2015 - 11:58:23: "[St].Dorogi<322><STEAM_0:4:847878862><CT>" triggered "weaponstats" (weapon "usp") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 03/06/2015 - 11:58:23: "[St].Dorogi<322><STEAM_0:4:847878862><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 11:58:23: "[St].Dorogi<322><STEAM_0:4:847878862><CT>" triggered "time" (time "1:25")
+L 03/06/2015 - 11:58:23: "[St].Dorogi<322><STEAM_0:4:847878862><CT>" triggered "latency" (ping "31")
+L 03/06/2015 - 11:58:23: "[St].Dorogi<322><STEAM_0:4:847878862><CT>" disconnected
+L 03/06/2015 - 11:58:25: World triggered "Round_Start"
+L 03/06/2015 - 11:58:31: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" with "usp" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 03/06/2015 - 11:58:32: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/06/2015 - 11:58:32: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "23") (damage_armor "0") (health "63") (armor "0")
+L 03/06/2015 - 11:58:34: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "19") (damage_armor "0") (health "44") (armor "0")
+L 03/06/2015 - 11:58:35: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "23") (damage_armor "0") (health "21") (armor "0")
+L 03/06/2015 - 11:58:42: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "26") (damage_armor "0") (health "-5") (armor "0")
+L 03/06/2015 - 11:58:42: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" killed "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp"
+L 03/06/2015 - 11:58:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 03/06/2015 - 11:58:42: World triggered "Round_End"
+L 03/06/2015 - 11:58:49: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" committed suicide with "world"
+L 03/06/2015 - 11:58:49: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><TERRORIST>" joined team "CT"
+L 03/06/2015 - 11:58:52: World triggered "Round_Start"
+L 03/06/2015 - 11:58:58: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/06/2015 - 11:58:58: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "84") (damage_armor "0") (health "-5") (armor "0")
+L 03/06/2015 - 11:58:58: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" killed "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp"
+L 03/06/2015 - 11:58:58: Team "CT" triggered "CTs_Win" (CT "1") (T "5")
+L 03/06/2015 - 11:58:58: World triggered "Round_End"
+L 03/06/2015 - 11:59:08: World triggered "Round_Start"
+L 03/06/2015 - 11:59:12: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" with "usp" (damage "60") (damage_armor "0") (health "40") (armor "0")
+L 03/06/2015 - 11:59:12: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" with "usp" (damage "60") (damage_armor "0") (health "-20") (armor "0")
+L 03/06/2015 - 11:59:12: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" with "usp"
+L 03/06/2015 - 11:59:22: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/06/2015 - 11:59:22: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/06/2015 - 11:59:22: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "21") (damage_armor "0") (health "57") (armor "0")
+L 03/06/2015 - 11:59:22: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "52") (armor "0")
+L 03/06/2015 - 11:59:29: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "92") (damage_armor "0") (health "-35") (armor "0")
+L 03/06/2015 - 11:59:29: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp"
+L 03/06/2015 - 11:59:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 03/06/2015 - 11:59:29: World triggered "Round_End"
+L 03/06/2015 - 11:59:39: World triggered "Round_Start"
+L 03/06/2015 - 11:59:44: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" with "usp" (damage "80") (damage_armor "0") (health "20") (armor "0")
+L 03/06/2015 - 11:59:44: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" with "usp" (damage "80") (damage_armor "0") (health "-60") (armor "0")
+L 03/06/2015 - 11:59:44: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" with "usp"
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" triggered "weaponstats" (weapon "usp") (shots "35") (hits "9") (kills "3") (headshots "1") (tks "0") (damage "342") (deaths "2")
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" triggered "weaponstats2" (weapon "usp") (head "2") (chest "1") (stomach "2") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" triggered "time" (time "2:49")
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" triggered "latency" (ping "54")
+L 03/06/2015 - 11:59:47: "[Hard_Skill]_Novi4ek<279><STEAM_0:0:315688883><CT>" disconnected
+L 03/06/2015 - 11:59:54: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/06/2015 - 11:59:54: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/06/2015 - 11:59:55: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 03/06/2015 - 11:59:55: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "12") (armor "0")
+L 03/06/2015 - 11:59:56: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/06/2015 - 11:59:56: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "23") (damage_armor "0") (health "55") (armor "0")
+L 03/06/2015 - 12:00:00: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" attacked "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp" (damage "92") (damage_armor "0") (health "-37") (armor "0")
+L 03/06/2015 - 12:00:00: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" killed "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" with "usp"
+L 03/06/2015 - 12:00:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "7")
+L 03/06/2015 - 12:00:00: World triggered "Round_End"
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "50") (hits "22") (kills "9") (headshots "9") (tks "0") (damage "1237") (deaths "1")
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "15") (chest "1") (stomach "0") (leftarm "3") (rightarm "3") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" triggered "time" (time "3:05")
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" triggered "latency" (ping "2")
+L 03/06/2015 - 12:00:06: "[Hard_Skill]_Extazy<291><STEAM_0:0:112811475><TERRORIST>" disconnected
+L 03/06/2015 - 12:00:10: World triggered "Round_Start"
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" triggered "weaponstats" (weapon "usp") (shots "52") (hits "10") (kills "1") (headshots "1") (tks "0") (damage "342") (deaths "6")
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" triggered "weaponstats2" (weapon "usp") (head "2") (chest "2") (stomach "1") (leftarm "4") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" triggered "time" (time "3:20")
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" triggered "latency" (ping "49")
+L 03/06/2015 - 12:00:17: "[Hard_Skill]_Leks<313><STEAM_0:0:2116245732><CT>" disconnected
+L 03/06/2015 - 12:00:17: World triggered "Round_Draw" (CT "1") (T "7")
+L 03/06/2015 - 12:00:17: World triggered "Round_End"
+L 03/06/2015 - 12:00:27: World triggered "Round_Start"
+L 03/06/2015 - 12:02:02: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/06/2015 - 12:02:02: [META] ini: Read plugin config for: AMX Mod X
+L 03/06/2015 - 12:02:02: [META] ini: Read plugin config for: dproto_EF
+L 03/06/2015 - 12:02:02: [META] ini: Read plugin config for: mmtimer
+L 03/06/2015 - 12:02:02: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/06/2015 - 12:02:02: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/06/2015 - 12:02:02: [META] dll: Updating plugins...
+L 03/06/2015 - 12:02:02: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/06/2015 - 12:02:02: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/06/2015 - 12:02:02: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/06/2015 - 12:02:02: Log file closed

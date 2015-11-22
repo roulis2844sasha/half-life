@@ -1,0 +1,394 @@
+L 03/14/2015 - 18:17:46: Log file started (file "logs/L0314037.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/14/2015 - 18:17:46: Loading map "35_hp_2011"
+L 03/14/2015 - 18:17:46: Server cvars start
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_debug_level" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_examine_time" = "0.5"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_look_angle" = "10"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_look_distance" = "200"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_message_repeats" = "5"
+L 03/14/2015 - 18:17:46: Server cvar "_tutor_view_distance" = "1000"
+L 03/14/2015 - 18:17:46: Server cvar "aesp_version" = "1.5b_mini"
+L 03/14/2015 - 18:17:46: Server cvar "allow_spectators" = "2"
+L 03/14/2015 - 18:17:46: Server cvar "amx_client_languages" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/14/2015 - 18:17:46: Server cvar "amx_language" = "ru"
+L 03/14/2015 - 18:17:46: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 03/14/2015 - 18:17:46: Server cvar "amx_timeleft" = "25:00"
+L 03/14/2015 - 18:17:46: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/14/2015 - 18:17:46: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/14/2015 - 18:17:46: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Config" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Status" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/14/2015 - 18:17:46: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/14/2015 - 18:17:46: Server cvar "coop" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "deathmatch" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "decalfrequency" = "9"
+L 03/14/2015 - 18:17:46: Server cvar "dp_version" = "0.9.391"
+L 03/14/2015 - 18:17:46: Server cvar "edgefriction" = "2"
+L 03/14/2015 - 18:17:46: Server cvar "hostage_debug" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "hostage_stop" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "humans_join_team" = "any"
+L 03/14/2015 - 18:17:46: Server cvar "jtp10181" = "chute"
+L 03/14/2015 - 18:17:46: Server cvar "max_queries_sec" = "3.0"
+L 03/14/2015 - 18:17:46: Server cvar "max_queries_sec_global" = "30"
+L 03/14/2015 - 18:17:46: Server cvar "max_queries_window" = "60"
+L 03/14/2015 - 18:17:46: Server cvar "metamod_version" = "1.19p32"
+L 03/14/2015 - 18:17:46: Server cvar "mp_allowmonsters" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_autokick" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_autoteambalance" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_buytime" = "1.5"
+L 03/14/2015 - 18:17:46: Server cvar "mp_c4timer" = "35"
+L 03/14/2015 - 18:17:46: Server cvar "mp_chattime" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_consistency" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_fadetoblack" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_flashlight" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_footsteps" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_forcecamera" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_forcechasecam" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_fragsleft" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_freezetime" = "5"
+L 03/14/2015 - 18:17:46: Server cvar "mp_friendlyfire" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_hostagepenalty" = "2"
+L 03/14/2015 - 18:17:46: Server cvar "mp_kickpercent" = "0.66"
+L 03/14/2015 - 18:17:46: Server cvar "mp_limitteams" = "2"
+L 03/14/2015 - 18:17:46: Server cvar "mp_logdetail" = "3"
+L 03/14/2015 - 18:17:46: Server cvar "mp_logfile" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_logmessages" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/14/2015 - 18:17:46: Server cvar "mp_maxrounds" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_mirrordamage" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_playerid" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_roundtime" = "2.57"
+L 03/14/2015 - 18:17:46: Server cvar "mp_startmoney" = "800"
+L 03/14/2015 - 18:17:46: Server cvar "mp_timeleft" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "mp_timelimit" = "30"
+L 03/14/2015 - 18:17:46: Server cvar "mp_tkpunish" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_windifference" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "mp_winlimit" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "pausable" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "sb_ignoresteam" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sb_kickreason" = "Your subnet is banned"
+L 03/14/2015 - 18:17:46: Server cvar "sb_version" = "1.4"
+L 03/14/2015 - 18:17:46: Server cvar "sv_accelerate" = "5"
+L 03/14/2015 - 18:17:46: Server cvar "sv_aim" = "off"
+L 03/14/2015 - 18:17:46: Server cvar "sv_airaccelerate" = "10"
+L 03/14/2015 - 18:17:46: Server cvar "sv_airmove" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sv_allowupload" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sv_alltalk" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sv_bounce" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sv_cheats" = "off"
+L 03/14/2015 - 18:17:46: Server cvar "sv_clienttrace" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sv_clipmode" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "sv_contact" = ""
+L 03/14/2015 - 18:17:46: Server cvar "sv_friction" = "4"
+L 03/14/2015 - 18:17:46: Server cvar "sv_gravity" = "800"
+L 03/14/2015 - 18:17:46: Server cvar "sv_logblocks" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "sv_maxrate" = "50000"
+L 03/14/2015 - 18:17:46: Server cvar "sv_maxspeed" = "900"
+L 03/14/2015 - 18:17:46: Server cvar "sv_minrate" = "100000"
+L 03/14/2015 - 18:17:46: Server cvar "sv_password" = ""
+L 03/14/2015 - 18:17:46: Server cvar "sv_proxies" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "sv_region" = "3"
+L 03/14/2015 - 18:17:46: Server cvar "sv_restart" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "sv_restartround" = "0"
+L 03/14/2015 - 18:17:46: Server cvar "sv_stepsize" = "18"
+L 03/14/2015 - 18:17:46: Server cvar "sv_stopspeed" = "75"
+L 03/14/2015 - 18:17:46: Server cvar "sv_uploadmax" = "0.5"
+L 03/14/2015 - 18:17:46: Server cvar "sv_voiceenable" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "sv_wateraccelerate" = "10"
+L 03/14/2015 - 18:17:46: Server cvar "sv_waterfriction" = "1"
+L 03/14/2015 - 18:17:46: Server cvar "vtc_version" = "80"
+L 03/14/2015 - 18:17:46: Server cvars end
+L 03/14/2015 - 18:17:46: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 03/14/2015 - 18:17:46: Started map "35_hp_2011" (CRC "1681787481")
+L 03/14/2015 - 18:17:46: [VTC] Player 4 speex
+L 03/14/2015 - 18:17:47: [VTC] Player 6 speex
+L 03/14/2015 - 18:17:47: [VTC] Player 5 speex
+L 03/14/2015 - 18:17:50: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><>" entered the game
+L 03/14/2015 - 18:17:50: "Russiancfg<214><STEAM_0:4:2143721349><>" entered the game
+L 03/14/2015 - 18:17:51: "Russiancfg<214><STEAM_0:4:2143721349><>" joined team "TERRORIST"
+L 03/14/2015 - 18:17:52: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><>" entered the game
+L 03/14/2015 - 18:17:52: World triggered "Round_Start"
+L 03/14/2015 - 18:17:53: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><>" joined team "CT"
+L 03/14/2015 - 18:17:54: World triggered "Game_Commencing"
+L 03/14/2015 - 18:17:54: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/14/2015 - 18:17:54: World triggered "Round_End"
+L 03/14/2015 - 18:17:55: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><>" joined team "CT"
+L 03/14/2015 - 18:18:02: World triggered "Round_Start"
+L 03/14/2015 - 18:18:16: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:18:16: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:18:16: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/14/2015 - 18:18:16: World triggered "Round_End"
+L 03/14/2015 - 18:18:26: World triggered "Round_Start"
+L 03/14/2015 - 18:18:31: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:18:31: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" with "knife"
+L 03/14/2015 - 18:18:40: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:18:40: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:18:40: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/14/2015 - 18:18:40: World triggered "Round_End"
+L 03/14/2015 - 18:18:50: World triggered "Round_Start"
+L 03/14/2015 - 18:18:54: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:18:54: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" with "knife"
+L 03/14/2015 - 18:18:58: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "2")
+L 03/14/2015 - 18:18:58: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:18:58: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" triggered "time" (time "1:08")
+L 03/14/2015 - 18:18:58: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" triggered "latency" (ping "30")
+L 03/14/2015 - 18:18:58: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><CT>" disconnected
+L 03/14/2015 - 18:18:58: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:18:58: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:18:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 03/14/2015 - 18:18:58: World triggered "Round_End"
+L 03/14/2015 - 18:19:08: World triggered "Round_Start"
+L 03/14/2015 - 18:19:15: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:19:15: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:19:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 03/14/2015 - 18:19:15: World triggered "Round_End"
+L 03/14/2015 - 18:19:25: World triggered "Round_Start"
+L 03/14/2015 - 18:19:33: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:19:33: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:19:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/14/2015 - 18:19:33: World triggered "Round_End"
+L 03/14/2015 - 18:19:43: World triggered "Round_Start"
+L 03/14/2015 - 18:19:49: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:19:49: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:19:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 03/14/2015 - 18:19:49: World triggered "Round_End"
+L 03/14/2015 - 18:19:59: World triggered "Round_Start"
+L 03/14/2015 - 18:20:14: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:20:14: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:20:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 03/14/2015 - 18:20:14: World triggered "Round_End"
+L 03/14/2015 - 18:20:24: World triggered "Round_Start"
+L 03/14/2015 - 18:20:40: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:20:40: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:20:40: Team "CT" triggered "CTs_Win" (CT "3") (T "5")
+L 03/14/2015 - 18:20:40: World triggered "Round_End"
+L 03/14/2015 - 18:20:50: World triggered "Round_Start"
+L 03/14/2015 - 18:21:07: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:21:07: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:21:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 03/14/2015 - 18:21:07: World triggered "Round_End"
+L 03/14/2015 - 18:21:14: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" committed suicide with "game_player_hurt" (world)
+L 03/14/2015 - 18:21:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "7")
+L 03/14/2015 - 18:21:14: World triggered "Round_End"
+L 03/14/2015 - 18:21:17: World triggered "Round_Start"
+L 03/14/2015 - 18:21:24: World triggered "Round_Start"
+L 03/14/2015 - 18:21:38: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:21:38: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:21:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "8")
+L 03/14/2015 - 18:21:38: World triggered "Round_End"
+L 03/14/2015 - 18:21:48: World triggered "Round_Start"
+L 03/14/2015 - 18:21:59: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:21:59: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:21:59: Team "CT" triggered "CTs_Win" (CT "4") (T "8")
+L 03/14/2015 - 18:21:59: World triggered "Round_End"
+L 03/14/2015 - 18:22:09: World triggered "Round_Start"
+L 03/14/2015 - 18:22:22: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:22:22: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:22:22: Team "CT" triggered "CTs_Win" (CT "5") (T "8")
+L 03/14/2015 - 18:22:22: World triggered "Round_End"
+L 03/14/2015 - 18:22:32: World triggered "Round_Start"
+L 03/14/2015 - 18:22:38: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:22:38: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:22:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 03/14/2015 - 18:22:38: World triggered "Round_End"
+L 03/14/2015 - 18:22:48: World triggered "Round_Start"
+L 03/14/2015 - 18:23:00: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:23:00: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:23:00: Team "CT" triggered "CTs_Win" (CT "6") (T "9")
+L 03/14/2015 - 18:23:00: World triggered "Round_End"
+L 03/14/2015 - 18:23:10: World triggered "Round_Start"
+L 03/14/2015 - 18:23:18: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:23:18: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:23:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "10")
+L 03/14/2015 - 18:23:18: World triggered "Round_End"
+L 03/14/2015 - 18:23:28: World triggered "Round_Start"
+L 03/14/2015 - 18:23:49: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:23:49: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:23:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "11")
+L 03/14/2015 - 18:23:49: World triggered "Round_End"
+L 03/14/2015 - 18:23:59: World triggered "Round_Start"
+L 03/14/2015 - 18:24:15: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:24:15: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:24:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "12")
+L 03/14/2015 - 18:24:15: World triggered "Round_End"
+L 03/14/2015 - 18:24:25: World triggered "Round_Start"
+L 03/14/2015 - 18:24:33: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:24:33: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:24:33: Team "CT" triggered "CTs_Win" (CT "7") (T "12")
+L 03/14/2015 - 18:24:33: World triggered "Round_End"
+L 03/14/2015 - 18:24:43: World triggered "Round_Start"
+L 03/14/2015 - 18:25:05: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:25:05: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:25:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "13")
+L 03/14/2015 - 18:25:05: World triggered "Round_End"
+L 03/14/2015 - 18:25:15: World triggered "Round_Start"
+L 03/14/2015 - 18:25:34: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:25:34: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:25:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "14")
+L 03/14/2015 - 18:25:34: World triggered "Round_End"
+L 03/14/2015 - 18:25:44: World triggered "Round_Start"
+L 03/14/2015 - 18:25:54: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:25:54: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:25:54: Team "CT" triggered "CTs_Win" (CT "8") (T "14")
+L 03/14/2015 - 18:25:54: World triggered "Round_End"
+L 03/14/2015 - 18:26:04: World triggered "Round_Start"
+L 03/14/2015 - 18:26:17: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:26:17: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:26:17: Team "CT" triggered "CTs_Win" (CT "9") (T "14")
+L 03/14/2015 - 18:26:17: World triggered "Round_End"
+L 03/14/2015 - 18:26:27: World triggered "Round_Start"
+L 03/14/2015 - 18:26:34: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:26:34: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:26:34: Team "CT" triggered "CTs_Win" (CT "10") (T "14")
+L 03/14/2015 - 18:26:34: World triggered "Round_End"
+L 03/14/2015 - 18:26:44: World triggered "Round_Start"
+L 03/14/2015 - 18:26:52: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/14/2015 - 18:26:52: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/14/2015 - 18:26:53: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "15") (damage_armor "0") (health "-10") (armor "0")
+L 03/14/2015 - 18:26:53: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:26:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "15")
+L 03/14/2015 - 18:26:53: World triggered "Round_End"
+L 03/14/2015 - 18:27:03: World triggered "Round_Start"
+L 03/14/2015 - 18:27:10: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:27:10: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:27:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "16")
+L 03/14/2015 - 18:27:10: World triggered "Round_End"
+L 03/14/2015 - 18:27:20: World triggered "Round_Start"
+L 03/14/2015 - 18:27:29: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:27:29: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:27:29: Team "CT" triggered "CTs_Win" (CT "11") (T "16")
+L 03/14/2015 - 18:27:29: World triggered "Round_End"
+L 03/14/2015 - 18:27:39: World triggered "Round_Start"
+L 03/14/2015 - 18:28:02: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 18:28:02: "4ANHNK<218><STEAM_0:4:61000965><>" connected, address "178.120.25.174:21708"
+L 03/14/2015 - 18:28:02: [VTC] Player 1 speex
+L 03/14/2015 - 18:28:14: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:28:14: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:28:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "17")
+L 03/14/2015 - 18:28:14: World triggered "Round_End"
+L 03/14/2015 - 18:28:20: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 18:28:20: "4ANHNK<219><STEAM_0:4:61000965><>" connected, address "178.120.25.174:21708"
+L 03/14/2015 - 18:28:20: [VTC] Player 1 speex
+L 03/14/2015 - 18:28:23: "4ANHNK<219><STEAM_0:4:61000965><>" entered the game
+L 03/14/2015 - 18:28:24: World triggered "Round_Start"
+L 03/14/2015 - 18:28:25: "4ANHNK<219><STEAM_0:4:61000965><>" joined team "TERRORIST"
+L 03/14/2015 - 18:28:33: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:28:33: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:28:58: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:28:58: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:28:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "18")
+L 03/14/2015 - 18:28:58: World triggered "Round_End"
+L 03/14/2015 - 18:29:02: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "0")
+L 03/14/2015 - 18:29:02: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:29:02: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" triggered "time" (time "0:39")
+L 03/14/2015 - 18:29:02: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" triggered "latency" (ping "52")
+L 03/14/2015 - 18:29:02: "4ANHNK<219><STEAM_0:4:61000965><TERRORIST>" disconnected
+L 03/14/2015 - 18:29:08: World triggered "Round_Start"
+L 03/14/2015 - 18:29:18: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:29:18: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:29:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "19")
+L 03/14/2015 - 18:29:18: World triggered "Round_End"
+L 03/14/2015 - 18:29:28: World triggered "Round_Start"
+L 03/14/2015 - 18:29:47: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:29:47: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:29:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "20")
+L 03/14/2015 - 18:29:47: World triggered "Round_End"
+L 03/14/2015 - 18:29:57: World triggered "Round_Start"
+L 03/14/2015 - 18:30:36: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:30:36: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:30:36: Team "CT" triggered "CTs_Win" (CT "12") (T "20")
+L 03/14/2015 - 18:30:36: World triggered "Round_End"
+L 03/14/2015 - 18:30:46: World triggered "Round_Start"
+L 03/14/2015 - 18:31:06: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:31:06: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:31:06: Team "CT" triggered "CTs_Win" (CT "13") (T "20")
+L 03/14/2015 - 18:31:06: World triggered "Round_End"
+L 03/14/2015 - 18:31:16: World triggered "Round_Start"
+L 03/14/2015 - 18:31:24: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:31:24: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:31:24: Team "CT" triggered "CTs_Win" (CT "14") (T "20")
+L 03/14/2015 - 18:31:24: World triggered "Round_End"
+L 03/14/2015 - 18:31:34: World triggered "Round_Start"
+L 03/14/2015 - 18:31:55: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:31:55: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:31:55: Team "CT" triggered "CTs_Win" (CT "15") (T "20")
+L 03/14/2015 - 18:31:55: World triggered "Round_End"
+L 03/14/2015 - 18:32:05: World triggered "Round_Start"
+L 03/14/2015 - 18:32:10: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:32:10: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:32:10: Team "CT" triggered "CTs_Win" (CT "16") (T "20")
+L 03/14/2015 - 18:32:10: World triggered "Round_End"
+L 03/14/2015 - 18:32:20: World triggered "Round_Start"
+L 03/14/2015 - 18:32:26: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:32:26: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:32:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "21")
+L 03/14/2015 - 18:32:26: World triggered "Round_End"
+L 03/14/2015 - 18:32:36: World triggered "Round_Start"
+L 03/14/2015 - 18:32:41: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:32:41: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:32:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "22")
+L 03/14/2015 - 18:32:41: World triggered "Round_End"
+L 03/14/2015 - 18:32:43: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" joined team "SPECTATOR"
+L 03/14/2015 - 18:32:49: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><SPECTATOR>" joined team "CT"
+L 03/14/2015 - 18:32:49: World triggered "Game_Commencing"
+L 03/14/2015 - 18:32:49: World triggered "Game_Commencing" (CT "16") (T "22")
+L 03/14/2015 - 18:32:49: World triggered "Round_End"
+L 03/14/2015 - 18:32:57: World triggered "Round_Start"
+L 03/14/2015 - 18:33:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:33:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:33:11: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/14/2015 - 18:33:11: World triggered "Round_End"
+L 03/14/2015 - 18:33:21: World triggered "Round_Start"
+L 03/14/2015 - 18:33:29: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:33:29: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:33:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 03/14/2015 - 18:33:29: World triggered "Round_End"
+L 03/14/2015 - 18:33:39: World triggered "Round_Start"
+L 03/14/2015 - 18:34:28: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/14/2015 - 18:34:28: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:34:28: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 03/14/2015 - 18:34:28: World triggered "Round_End"
+L 03/14/2015 - 18:34:38: World triggered "Round_Start"
+L 03/14/2015 - 18:34:49: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "60") (damage_armor "0") (health "-25") (armor "0")
+L 03/14/2015 - 18:34:49: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:34:49: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 03/14/2015 - 18:34:49: World triggered "Round_End"
+L 03/14/2015 - 18:34:55: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 18:34:55: "ArtemPRO<220><STEAM_0:4:1045646725><>" connected, address "178.121.250.213:25622"
+L 03/14/2015 - 18:34:55: [VTC] Player 1 speex
+L 03/14/2015 - 18:34:59: World triggered "Round_Start"
+L 03/14/2015 - 18:35:45: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "156") (hits "25") (kills "23") (headshots "0") (tks "0") (damage "1475") (deaths "19")
+L 03/14/2015 - 18:35:45: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:35:45: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "time" (time "17:55")
+L 03/14/2015 - 18:35:45: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "latency" (ping "42")
+L 03/14/2015 - 18:35:45: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" disconnected
+L 03/14/2015 - 18:36:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "weaponstats" (weapon "knife") (shots "174") (hits "18") (kills "18") (headshots "1") (tks "0") (damage "1365") (deaths "22")
+L 03/14/2015 - 18:36:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:36:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "time" (time "18:18")
+L 03/14/2015 - 18:36:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "latency" (ping "45")
+L 03/14/2015 - 18:36:11: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" disconnected
+L 03/14/2015 - 18:36:11: World triggered "Round_Draw" (CT "3") (T "1")
+L 03/14/2015 - 18:36:11: World triggered "Round_End"
+L 03/14/2015 - 18:36:21: World triggered "Round_Start"
+L 03/14/2015 - 18:36:51: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/14/2015 - 18:36:51: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2015 - 18:36:51: [META] ini: Read plugin config for: dproto_EF
+L 03/14/2015 - 18:36:51: [META] ini: Read plugin config for: mmtimer
+L 03/14/2015 - 18:36:51: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/14/2015 - 18:36:51: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/14/2015 - 18:36:51: [META] dll: Updating plugins...
+L 03/14/2015 - 18:36:51: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/14/2015 - 18:36:51: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/14/2015 - 18:36:51: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2015 - 18:36:51: Log file closed

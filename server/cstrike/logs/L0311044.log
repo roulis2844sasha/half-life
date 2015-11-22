@@ -1,0 +1,397 @@
+L 03/11/2015 - 17:06:10: Log file started (file "logs/L0311044.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/11/2015 - 17:06:10: Loading map "35_hp_2011"
+L 03/11/2015 - 17:06:10: Server cvars start
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_debug_level" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_examine_time" = "0.5"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_look_angle" = "10"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_look_distance" = "200"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_message_repeats" = "5"
+L 03/11/2015 - 17:06:10: Server cvar "_tutor_view_distance" = "1000"
+L 03/11/2015 - 17:06:10: Server cvar "aesp_version" = "1.5b_mini"
+L 03/11/2015 - 17:06:10: Server cvar "allow_spectators" = "2"
+L 03/11/2015 - 17:06:10: Server cvar "amx_client_languages" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/11/2015 - 17:06:10: Server cvar "amx_language" = "ru"
+L 03/11/2015 - 17:06:10: Server cvar "amx_nextmap" = "35_hp_2011"
+L 03/11/2015 - 17:06:10: Server cvar "amx_timeleft" = "00:00"
+L 03/11/2015 - 17:06:10: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/11/2015 - 17:06:10: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/11/2015 - 17:06:10: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Config" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Status" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/11/2015 - 17:06:10: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/11/2015 - 17:06:10: Server cvar "coop" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "deathmatch" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "decalfrequency" = "9"
+L 03/11/2015 - 17:06:10: Server cvar "dp_version" = "0.9.391"
+L 03/11/2015 - 17:06:10: Server cvar "edgefriction" = "2"
+L 03/11/2015 - 17:06:10: Server cvar "hostage_debug" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "hostage_stop" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "humans_join_team" = "any"
+L 03/11/2015 - 17:06:10: Server cvar "jtp10181" = "chute"
+L 03/11/2015 - 17:06:10: Server cvar "max_queries_sec" = "3.0"
+L 03/11/2015 - 17:06:10: Server cvar "max_queries_sec_global" = "30"
+L 03/11/2015 - 17:06:10: Server cvar "max_queries_window" = "60"
+L 03/11/2015 - 17:06:10: Server cvar "metamod_version" = "1.19p32"
+L 03/11/2015 - 17:06:10: Server cvar "mp_allowmonsters" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_autokick" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_autoteambalance" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_buytime" = "1.5"
+L 03/11/2015 - 17:06:10: Server cvar "mp_c4timer" = "35"
+L 03/11/2015 - 17:06:10: Server cvar "mp_chattime" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_consistency" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_fadetoblack" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_flashlight" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_footsteps" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_forcecamera" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_forcechasecam" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_fragsleft" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_freezetime" = "5"
+L 03/11/2015 - 17:06:10: Server cvar "mp_friendlyfire" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_hostagepenalty" = "2"
+L 03/11/2015 - 17:06:10: Server cvar "mp_kickpercent" = "0.66"
+L 03/11/2015 - 17:06:10: Server cvar "mp_limitteams" = "2"
+L 03/11/2015 - 17:06:10: Server cvar "mp_logdetail" = "3"
+L 03/11/2015 - 17:06:10: Server cvar "mp_logfile" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_logmessages" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/11/2015 - 17:06:10: Server cvar "mp_maxrounds" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_mirrordamage" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_playerid" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_roundtime" = "2.57"
+L 03/11/2015 - 17:06:10: Server cvar "mp_startmoney" = "800"
+L 03/11/2015 - 17:06:10: Server cvar "mp_timeleft" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "mp_timelimit" = "30"
+L 03/11/2015 - 17:06:10: Server cvar "mp_tkpunish" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_windifference" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "mp_winlimit" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "pausable" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "sv_accelerate" = "5"
+L 03/11/2015 - 17:06:10: Server cvar "sv_aim" = "off"
+L 03/11/2015 - 17:06:10: Server cvar "sv_airaccelerate" = "10"
+L 03/11/2015 - 17:06:10: Server cvar "sv_airmove" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "sv_allowupload" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "sv_alltalk" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "sv_bounce" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "sv_cheats" = "off"
+L 03/11/2015 - 17:06:10: Server cvar "sv_clienttrace" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "sv_clipmode" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "sv_contact" = ""
+L 03/11/2015 - 17:06:10: Server cvar "sv_friction" = "4"
+L 03/11/2015 - 17:06:10: Server cvar "sv_gravity" = "800"
+L 03/11/2015 - 17:06:10: Server cvar "sv_logblocks" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "sv_maxrate" = "50000"
+L 03/11/2015 - 17:06:10: Server cvar "sv_maxspeed" = "900"
+L 03/11/2015 - 17:06:10: Server cvar "sv_minrate" = "100000"
+L 03/11/2015 - 17:06:10: Server cvar "sv_password" = ""
+L 03/11/2015 - 17:06:10: Server cvar "sv_proxies" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "sv_region" = "3"
+L 03/11/2015 - 17:06:10: Server cvar "sv_restart" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "sv_restartround" = "0"
+L 03/11/2015 - 17:06:10: Server cvar "sv_stepsize" = "18"
+L 03/11/2015 - 17:06:10: Server cvar "sv_stopspeed" = "75"
+L 03/11/2015 - 17:06:10: Server cvar "sv_uploadmax" = "0.5"
+L 03/11/2015 - 17:06:10: Server cvar "sv_voiceenable" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "sv_wateraccelerate" = "10"
+L 03/11/2015 - 17:06:10: Server cvar "sv_waterfriction" = "1"
+L 03/11/2015 - 17:06:10: Server cvar "ultimate_sounds" = "1.7"
+L 03/11/2015 - 17:06:10: Server cvar "vtc_version" = "80"
+L 03/11/2015 - 17:06:10: Server cvars end
+L 03/11/2015 - 17:06:10: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/11/2015 - 17:06:10: Started map "35_hp_2011" (CRC "1681787481")
+L 03/11/2015 - 17:06:10: [VTC] Player 3 speex
+L 03/11/2015 - 17:06:10: [VTC] Player 1 speex
+L 03/11/2015 - 17:06:10: [VTC] Player 5 speex
+L 03/11/2015 - 17:06:10: [VTC] Player 6 speex
+L 03/11/2015 - 17:06:10: [VTC] Player 2 speex
+L 03/11/2015 - 17:06:10: [VTC] Player 4 speex
+L 03/11/2015 - 17:06:14: "Radion#<15><STEAM_0:0:1417911346><>" entered the game
+L 03/11/2015 - 17:06:14: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39daad8
+L 03/11/2015 - 17:06:14: "D@MON<23><STEAM_0:0:1388912614><>" connected, address "193.43.210.134:27005"
+L 03/11/2015 - 17:06:15: "ANGELINA<20><STEAM_0:0:1331792062><>" entered the game
+L 03/11/2015 - 17:06:15: [VTC] Player 5 speex
+L 03/11/2015 - 17:06:15: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d0cf0
+L 03/11/2015 - 17:06:15: "nastyucha^.^<24><STEAM_0:0:1472701561><>" connected, address "178.120.235.163:49369"
+L 03/11/2015 - 17:06:16: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39df9cc
+L 03/11/2015 - 17:06:16: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><>" connected, address "37.213.125.16:27005"
+L 03/11/2015 - 17:06:16: [VTC] Player 3 speex
+L 03/11/2015 - 17:06:16: [VTC] Player 6 speex
+L 03/11/2015 - 17:06:16: World triggered "Round_Start"
+L 03/11/2015 - 17:06:18: "D@MON<23><STEAM_0:0:1388912614><>" entered the game
+L 03/11/2015 - 17:06:20: "nastyucha^.^<24><STEAM_0:0:1472701561><>" entered the game
+L 03/11/2015 - 17:06:20: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><>" entered the game
+L 03/11/2015 - 17:06:22: "Radion#<15><STEAM_0:0:1417911346><>" joined team "TERRORIST"
+L 03/11/2015 - 17:06:23: "ANGELINA<20><STEAM_0:0:1331792062><>" joined team "TERRORIST"
+L 03/11/2015 - 17:06:24: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><>" joined team "CT"
+L 03/11/2015 - 17:06:24: World triggered "Game_Commencing"
+L 03/11/2015 - 17:06:24: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/11/2015 - 17:06:24: World triggered "Round_End"
+L 03/11/2015 - 17:06:27: "nastyucha^.^<24><STEAM_0:0:1472701561><>" joined team "TERRORIST"
+L 03/11/2015 - 17:06:32: World triggered "Round_Start"
+L 03/11/2015 - 17:06:38: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:06:38: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><TERRORIST>" with "knife"
+L 03/11/2015 - 17:06:49: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:06:49: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:06:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/11/2015 - 17:06:49: World triggered "Round_End"
+L 03/11/2015 - 17:06:50: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/11/2015 - 17:06:59: World triggered "Round_Start"
+L 03/11/2015 - 17:07:06: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:07:06: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><TERRORIST>" with "knife"
+L 03/11/2015 - 17:07:08: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:07:08: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:07:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/11/2015 - 17:07:08: World triggered "Round_End"
+L 03/11/2015 - 17:07:13: "nastyucha^.^<24><STEAM_0:0:1472701561><TERRORIST>" joined team "CT" (auto)
+L 03/11/2015 - 17:07:18: World triggered "Round_Start"
+L 03/11/2015 - 17:07:28: "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/11/2015 - 17:07:29: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:07:29: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife"
+L 03/11/2015 - 17:07:29: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:07:29: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:07:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/11/2015 - 17:07:29: World triggered "Round_End"
+L 03/11/2015 - 17:07:39: World triggered "Round_Start"
+L 03/11/2015 - 17:07:52: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39cbdfc
+L 03/11/2015 - 17:07:52: "Fantomas_killer<26><STEAM_0:0:2101780682><>" connected, address "93.113.220.220:27005"
+L 03/11/2015 - 17:07:52: [VTC] Player 2 speex
+L 03/11/2015 - 17:07:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:07:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:07:54: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:07:54: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:08:00: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39cbdfc
+L 03/11/2015 - 17:08:00: "Fantomas_killer<27><STEAM_0:0:2101780682><>" connected, address "93.113.220.220:27005"
+L 03/11/2015 - 17:08:00: [VTC] Player 2 speex
+L 03/11/2015 - 17:08:01: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:08:01: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife"
+L 03/11/2015 - 17:08:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/11/2015 - 17:08:01: World triggered "Round_End"
+L 03/11/2015 - 17:08:06: "Fantomas_killer<27><STEAM_0:0:2101780682><>" entered the game
+L 03/11/2015 - 17:08:07: "Fantomas_killer<27><STEAM_0:0:2101780682><>" joined team "CT"
+L 03/11/2015 - 17:08:11: World triggered "Round_Start"
+L 03/11/2015 - 17:08:20: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:08:20: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:08:21: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "Fantomas_killer<27><STEAM_0:0:2101780682><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:08:21: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "Fantomas_killer<27><STEAM_0:0:2101780682><CT>" with "knife"
+L 03/11/2015 - 17:08:29: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/11/2015 - 17:08:30: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife" (damage "60") (damage_armor "0") (health "-40") (armor "0")
+L 03/11/2015 - 17:08:30: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife"
+L 03/11/2015 - 17:08:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 03/11/2015 - 17:08:30: World triggered "Round_End"
+L 03/11/2015 - 17:08:40: World triggered "Round_Start"
+L 03/11/2015 - 17:08:46: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/11/2015 - 17:08:54: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:08:54: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife"
+L 03/11/2015 - 17:09:20: "Fantomas_killer<27><STEAM_0:0:2101780682><CT>" triggered "time" (time "1:14")
+L 03/11/2015 - 17:09:20: "Fantomas_killer<27><STEAM_0:0:2101780682><CT>" triggered "latency" (ping "85")
+L 03/11/2015 - 17:09:20: "Fantomas_killer<27><STEAM_0:0:2101780682><CT>" disconnected
+L 03/11/2015 - 17:09:37: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:09:37: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:09:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "6")
+L 03/11/2015 - 17:09:37: World triggered "Round_End"
+L 03/11/2015 - 17:09:47: World triggered "Round_Start"
+L 03/11/2015 - 17:09:58: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:09:58: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" with "knife"
+L 03/11/2015 - 17:10:01: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:10:01: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:10:09: "D@MON<23><STEAM_0:0:1388912614><>" joined team "CT"
+L 03/11/2015 - 17:10:12: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:10:12: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:10:12: Team "CT" triggered "CTs_Win" (CT "1") (T "6")
+L 03/11/2015 - 17:10:12: World triggered "Round_End"
+L 03/11/2015 - 17:10:22: World triggered "Round_Start"
+L 03/11/2015 - 17:10:35: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:10:35: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:10:37: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:10:37: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:10:37: Team "CT" triggered "CTs_Win" (CT "2") (T "6")
+L 03/11/2015 - 17:10:37: World triggered "Round_End"
+L 03/11/2015 - 17:10:40: "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "15") (deaths "7")
+L 03/11/2015 - 17:10:40: "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/11/2015 - 17:10:40: "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" triggered "time" (time "4:20")
+L 03/11/2015 - 17:10:40: "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" triggered "latency" (ping "34")
+L 03/11/2015 - 17:10:40: "nastyucha^.^<24><STEAM_0:0:1472701561><CT>" disconnected
+L 03/11/2015 - 17:10:47: World triggered "Round_Start"
+L 03/11/2015 - 17:10:57: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:10:57: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:11:04: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:11:04: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:11:07: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:11:07: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:11:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 03/11/2015 - 17:11:07: World triggered "Round_End"
+L 03/11/2015 - 17:11:17: World triggered "Round_Start"
+L 03/11/2015 - 17:11:34: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:11:34: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:11:38: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:11:38: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:11:38: Team "CT" triggered "CTs_Win" (CT "3") (T "7")
+L 03/11/2015 - 17:11:38: World triggered "Round_End"
+L 03/11/2015 - 17:11:48: World triggered "Round_Start"
+L 03/11/2015 - 17:11:57: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:11:57: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:12:00: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:12:00: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:12:00: Team "CT" triggered "CTs_Win" (CT "4") (T "7")
+L 03/11/2015 - 17:12:00: World triggered "Round_End"
+L 03/11/2015 - 17:12:10: World triggered "Round_Start"
+L 03/11/2015 - 17:12:16: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:12:16: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:12:21: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:12:21: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:12:22: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:12:22: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:12:22: Team "CT" triggered "CTs_Win" (CT "5") (T "7")
+L 03/11/2015 - 17:12:22: World triggered "Round_End"
+L 03/11/2015 - 17:12:32: World triggered "Round_Start"
+L 03/11/2015 - 17:12:41: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:12:41: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:12:45: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:12:45: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:12:50: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-33") (armor "0")
+L 03/11/2015 - 17:12:50: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:12:50: Team "CT" triggered "CTs_Win" (CT "6") (T "7")
+L 03/11/2015 - 17:12:50: World triggered "Round_End"
+L 03/11/2015 - 17:12:52: [DPROTO]: Client 1 - Set AuthIdType 3 [dproto]; pClient = 0xb39cbdfc
+L 03/11/2015 - 17:12:52: "POTRASCHITEL<28><STEAM_0:4:459001349><>" connected, address "178.126.235.159:18045"
+L 03/11/2015 - 17:12:52: [VTC] Player 2 speex
+L 03/11/2015 - 17:12:58: [DPROTO]: Client 1 - Set AuthIdType 3 [dproto]; pClient = 0xb39cbdfc
+L 03/11/2015 - 17:12:58: "POTRASCHITEL<29><STEAM_0:4:459001349><>" connected, address "178.126.235.159:18045"
+L 03/11/2015 - 17:12:59: [VTC] Player 2 speex
+L 03/11/2015 - 17:13:00: World triggered "Round_Start"
+L 03/11/2015 - 17:13:02: "POTRASCHITEL<29><STEAM_0:4:459001349><>" entered the game
+L 03/11/2015 - 17:13:06: "POTRASCHITEL<29><STEAM_0:4:459001349><>" joined team "TERRORIST"
+L 03/11/2015 - 17:13:10: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:13:10: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:13:14: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:13:14: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:13:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "8")
+L 03/11/2015 - 17:13:14: World triggered "Round_End"
+L 03/11/2015 - 17:13:24: World triggered "Round_Start"
+L 03/11/2015 - 17:13:29: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:13:29: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:13:31: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:13:31: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:13:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "9")
+L 03/11/2015 - 17:13:31: World triggered "Round_End"
+L 03/11/2015 - 17:13:41: World triggered "Round_Start"
+L 03/11/2015 - 17:13:45: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/11/2015 - 17:13:45: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:13:46: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:13:46: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" with "knife"
+L 03/11/2015 - 17:14:04: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:14:04: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/11/2015 - 17:14:32: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-37") (armor "0")
+L 03/11/2015 - 17:14:32: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:14:32: Team "CT" triggered "CTs_Win" (CT "7") (T "9")
+L 03/11/2015 - 17:14:32: World triggered "Round_End"
+L 03/11/2015 - 17:14:42: World triggered "Round_Start"
+L 03/11/2015 - 17:14:50: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:14:50: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:14:52: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:14:52: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:14:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "10")
+L 03/11/2015 - 17:14:52: World triggered "Round_End"
+L 03/11/2015 - 17:15:02: World triggered "Round_Start"
+L 03/11/2015 - 17:15:09: "D@MON<23><STEAM_0:0:1388912614><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:15:09: "D@MON<23><STEAM_0:0:1388912614><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:15:15: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:15:15: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:15:18: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:15:18: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:15:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "11")
+L 03/11/2015 - 17:15:18: World triggered "Round_End"
+L 03/11/2015 - 17:15:28: World triggered "Round_Start"
+L 03/11/2015 - 17:15:41: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" attacked "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:15:41: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" killed "D@MON<23><STEAM_0:0:1388912614><CT>" with "knife"
+L 03/11/2015 - 17:15:43: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" attacked "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:15:43: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" killed "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" with "knife"
+L 03/11/2015 - 17:15:45: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:15:45: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" with "knife"
+L 03/11/2015 - 17:15:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "12")
+L 03/11/2015 - 17:15:45: World triggered "Round_End"
+L 03/11/2015 - 17:15:50: "D@MON<23><STEAM_0:0:1388912614><CT>" triggered "weaponstats" (weapon "knife") (shots "47") (hits "8") (kills "8") (headshots "0") (tks "0") (damage "520") (deaths "8")
+L 03/11/2015 - 17:15:50: "D@MON<23><STEAM_0:0:1388912614><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 17:15:50: "D@MON<23><STEAM_0:0:1388912614><CT>" triggered "time" (time "9:32")
+L 03/11/2015 - 17:15:50: "D@MON<23><STEAM_0:0:1388912614><CT>" triggered "latency" (ping "41")
+L 03/11/2015 - 17:15:50: "D@MON<23><STEAM_0:0:1388912614><CT>" disconnected
+L 03/11/2015 - 17:15:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "knife") (shots "46") (hits "13") (kills "13") (headshots "0") (tks "0") (damage "845") (deaths "13")
+L 03/11/2015 - 17:15:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 17:15:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" triggered "time" (time "9:34")
+L 03/11/2015 - 17:15:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" triggered "latency" (ping "40")
+L 03/11/2015 - 17:15:54: "[Hard_Skill]_Mi{x}eR<25><STEAM_0:0:898503398><CT>" disconnected
+L 03/11/2015 - 17:15:55: World triggered "Round_Start"
+L 03/11/2015 - 17:16:10: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" committed suicide with "world"
+L 03/11/2015 - 17:16:10: "ANGELINA<20><STEAM_0:0:1331792062><TERRORIST>" joined team "CT"
+L 03/11/2015 - 17:16:11: World triggered "Game_Commencing"
+L 03/11/2015 - 17:16:11: World triggered "Game_Commencing" (CT "7") (T "12")
+L 03/11/2015 - 17:16:11: World triggered "Round_End"
+L 03/11/2015 - 17:16:19: World triggered "Round_Start"
+L 03/11/2015 - 17:16:34: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" attacked "ANGELINA<20><STEAM_0:0:1331792062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:16:34: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" killed "ANGELINA<20><STEAM_0:0:1331792062><CT>" with "knife"
+L 03/11/2015 - 17:16:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/11/2015 - 17:16:34: World triggered "Round_End"
+L 03/11/2015 - 17:16:42: "ANGELINA<20><STEAM_0:0:1331792062><CT>" triggered "weaponstats" (weapon "knife") (shots "49") (hits "7") (kills "7") (headshots "0") (tks "0") (damage "455") (deaths "12")
+L 03/11/2015 - 17:16:42: "ANGELINA<20><STEAM_0:0:1331792062><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 17:16:42: "ANGELINA<20><STEAM_0:0:1331792062><CT>" triggered "time" (time "10:27")
+L 03/11/2015 - 17:16:42: "ANGELINA<20><STEAM_0:0:1331792062><CT>" triggered "latency" (ping "16")
+L 03/11/2015 - 17:16:42: "ANGELINA<20><STEAM_0:0:1331792062><CT>" disconnected
+L 03/11/2015 - 17:16:44: World triggered "Round_Start"
+L 03/11/2015 - 17:16:49: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/11/2015 - 17:16:51: "Radion#<15><STEAM_0:0:1417911346><TERRORIST>" joined team "CT"
+L 03/11/2015 - 17:16:51: World triggered "Game_Commencing"
+L 03/11/2015 - 17:16:51: World triggered "Game_Commencing" (CT "0") (T "1")
+L 03/11/2015 - 17:16:51: World triggered "Round_End"
+L 03/11/2015 - 17:16:59: World triggered "Round_Start"
+L 03/11/2015 - 17:17:16: "Radion#<15><STEAM_0:0:1417911346><CT>" attacked "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/11/2015 - 17:17:16: "Radion#<15><STEAM_0:0:1417911346><CT>" killed "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" with "knife"
+L 03/11/2015 - 17:17:16: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/11/2015 - 17:17:16: World triggered "Round_End"
+L 03/11/2015 - 17:17:18: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "26") (hits "6") (kills "6") (headshots "1") (tks "0") (damage "585") (deaths "2")
+L 03/11/2015 - 17:17:18: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 17:17:18: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" triggered "time" (time "4:16")
+L 03/11/2015 - 17:17:18: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" triggered "latency" (ping "6")
+L 03/11/2015 - 17:17:18: "POTRASCHITEL<29><STEAM_0:4:459001349><TERRORIST>" disconnected
+L 03/11/2015 - 17:17:25: "Radion#<15><STEAM_0:0:1417911346><CT>" triggered "weaponstats" (weapon "knife") (shots "143") (hits "16") (kills "15") (headshots "1") (tks "0") (damage "985") (deaths "7")
+L 03/11/2015 - 17:17:25: "Radion#<15><STEAM_0:0:1417911346><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 17:17:25: "Radion#<15><STEAM_0:0:1417911346><CT>" triggered "time" (time "11:11")
+L 03/11/2015 - 17:17:25: "Radion#<15><STEAM_0:0:1417911346><CT>" triggered "latency" (ping "34")
+L 03/11/2015 - 17:17:25: "Radion#<15><STEAM_0:0:1417911346><CT>" disconnected
+L 03/11/2015 - 17:17:25: World triggered "Round_Draw" (CT "1") (T "0")
+L 03/11/2015 - 17:17:25: World triggered "Round_End"
+L 03/11/2015 - 17:17:26: World triggered "Round_Start"
+L 03/11/2015 - 17:17:35: World triggered "Round_Start"
+L 03/11/2015 - 17:19:38: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c6f08
+L 03/11/2015 - 17:19:38: "Radion#<30><STEAM_0:0:1417911346><>" connected, address "37.212.220.13:60359"
+L 03/11/2015 - 17:19:38: [VTC] Player 1 speex
+L 03/11/2015 - 17:19:42: "Radion#<30><STEAM_0:0:1417911346><>" entered the game
+L 03/11/2015 - 17:19:46: "Radion#<30><STEAM_0:0:1417911346><>" joined team "TERRORIST"
+L 03/11/2015 - 17:20:50: "Radion#<30><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/11/2015 - 17:20:50: "Radion#<30><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/11/2015 - 17:20:50: "Radion#<30><STEAM_0:0:1417911346><TERRORIST>" triggered "time" (time "1:07")
+L 03/11/2015 - 17:20:50: "Radion#<30><STEAM_0:0:1417911346><TERRORIST>" triggered "latency" (ping "52")
+L 03/11/2015 - 17:20:50: "Radion#<30><STEAM_0:0:1417911346><TERRORIST>" disconnected
+L 03/11/2015 - 17:20:50: World triggered "Round_Draw" (CT "1") (T "0")
+L 03/11/2015 - 17:20:50: World triggered "Round_End"
+L 03/11/2015 - 17:21:00: World triggered "Round_Start"
+L 03/11/2015 - 17:21:19: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/11/2015 - 17:21:19: [META] ini: Read plugin config for: AMX Mod X
+L 03/11/2015 - 17:21:19: [META] ini: Read plugin config for: dproto_EF
+L 03/11/2015 - 17:21:19: [META] ini: Read plugin config for: mmtimer
+L 03/11/2015 - 17:21:19: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/11/2015 - 17:21:19: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/11/2015 - 17:21:19: [META] dll: Updating plugins...
+L 03/11/2015 - 17:21:19: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/11/2015 - 17:21:19: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/11/2015 - 17:21:19: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/11/2015 - 17:21:19: Log file closed

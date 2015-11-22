@@ -1,3 +1,20 @@
+[ru]
+ADMIN_BAN_1 = АДМИНИСТРАТОР забанил %s
+ADMIN_BAN_2 = АДМИНИСТРАТОР %s забанил %s
+BAN_MENU = Бан меню
+BAN_FOR_MIN = Бан на %d минут
+BAN_PERM = Бан НАВСЕГДА
+SLAP_SLAY_MENU = Стукнуть/Убить
+SLAP_WITH_DMG = Стукнуть на %d HP
+SLAY = Убить
+KICK_MENU = Кик меню
+ADMIN_TRANSF_1 = АДМИНИСТРАТОР перевел %s за %s
+ADMIN_TRANSF_2 = АДМИНИСТРАТОР %s перевел %s за %s
+TEAM_MENU = Меню команды игрока
+TRANSF_TO = Переместить за %s
+CL_CMD_MENU = Клиентское меню
+NO_CMDS = Нет доступных переменных
+
 [en]
 ADMIN_BAN_1 = ADMIN: ban %s
 ADMIN_BAN_2 = ADMIN %s: ban %s
@@ -218,122 +235,3 @@ TEAM_MENU = Joukkuevalikko
 TRANSF_TO = Siirra %s.ksi
 CL_CMD_MENU = Clientkomentovalikko
 NO_CMDS = Ei komentoja kaytettavissa
-
-[ls]
-ADMIN_BAN_1 = ADMIN: b4nz0|2 %s
-ADMIN_BAN_2 = ADMIN %s: b4nz0|2 %s
-BAN_MENU = |34nz0|2 M3nu
-BAN_FOR_MIN = |34nz0|2 for %d minut3s
-BAN_PERM = |34nz0|2 p3rm4n3ntly
-SLAP_SLAY_MENU = Sl4p/Sl4y M3nu
-SLAP_WITH_DMG = Sl4p \/\/I7|-| %d d4m4g3
-SLAY = Sl4y
-KICK_MENU = |<ic|< M3nu
-ADMIN_TRANSF_1 = ADMIN: tr4nsf3r %s to %s
-ADMIN_TRANSF_2 = ADMIN %s: tr4nsf3r %s to %s
-TEAM_MENU = T34m M3nu
-TRANSF_TO = Tr4nsf3r t0 %s
-CL_CMD_MENU = (li3nt (mds M3nu
-NO_CMDS = |\|0 cmds 4v4il4bl3
-
-[bg]
-ADMIN_BAN_1 = ADMINISTRATOR: banna %s
-ADMIN_BAN_2 = ADMINISTRATOR %s: banna %s
-BAN_MENU = Ban Menu
-BAN_FOR_MIN = Ban za %d minuti
-BAN_PERM = Banni za vinagi
-SLAP_SLAY_MENU = Slap/Slay Menu
-SLAP_WITH_DMG = Slapni s %d damage
-SLAY = Slay
-KICK_MENU = Kick Menu
-ADMIN_TRANSF_1 = ADMINISTRATOR: transferira %s kam %s
-ADMIN_TRANSF_2 = ADMINISTRATOR %s: transferira %s kam %s
-TEAM_MENU = Otborno Menu
-TRANSF_TO = Transferirai kam %s
-CL_CMD_MENU = Klient Comandno Menu
-NO_CMDS = Nqma nikakvi pozvoleni comandi
-
-[ro]
-ADMIN_BAN_1 = ADMIN: ban %s
-ADMIN_BAN_2 = ADMIN %s: ban %s
-BAN_MENU = Menu Ban
-BAN_FOR_MIN = Ban %d minute
-BAN_PERM = Ban permanent
-SLAP_SLAY_MENU = Slap/Slay
-SLAP_WITH_DMG = Slap cu %d dmg
-SLAY = Slay
-KICK_MENU = Menu Kick
-ADMIN_TRANSF_1 = ADMIN: transfera %s la %s
-ADMIN_TRANSF_2 = ADMIN %s: transfera %s la %s
-TEAM_MENU = Menu Echipe
-TRANSF_TO = Transfera la %s
-CL_CMD_MENU = Menu Comenzi Jucator
-NO_CMDS = Nici o comanda valabila
-
-[hu]
-ADMIN_BAN_1 = ADMIN: %s banolva
-ADMIN_BAN_2 = ADMIN %s: %s banolva
-BAN_MENU = Ban Menu
-BAN_FOR_MIN = Banolva %d percre
-BAN_PERM = Orokos ban
-SLAP_SLAY_MENU = Utes/Oles Menu
-SLAP_WITH_DMG = Megutve %d sebzessel
-SLAY = Megoles
-KICK_MENU = kick Menu
-ADMIN_TRANSF_1 = ADMIN: %s atallitva %s-nak
-ADMIN_TRANSF_2 = ADMIN %s: %s atallitva %s-nak
-TEAM_MENU = CSapat Menu
-TRANSF_TO = Atallitva %s-nek
-CL_CMD_MENU = Client Cmds Menu
-NO_CMDS = Nincs elerheto parancs
-
-[lt]
-ADMIN_BAN_1 = ADMINAS: isbanino %s
-ADMIN_BAN_2 = ADMINAS %s: isbanino %s
-BAN_MENU = Ban meniu
-BAN_FOR_MIN = Banas %d minutem
-BAN_PERM = Banas visam laikui
-SLAP_SLAY_MENU = Musti/Nudeti Meniu
-SLAP_WITH_DMG = Musa su %d zala
-SLAY = Nudeti
-KICK_MENU = Ismetimo meniu
-ADMIN_TRANSF_1 = ADMINAS: siuncia %s i %s
-ADMIN_TRANSF_2 = ADMINAS %s: siuncia %s i %s
-TEAM_MENU = Komandos meniu
-TRANSF_TO = Issiusti i %s
-CL_CMD_MENU = Klientu CMD meniu
-NO_CMDS = Nera galimu CMD
-
-[sk]
-ADMIN_BAN_1 = ADMIN: zabanoval %s
-ADMIN_BAN_2 = ADMIN %s: zabanovali %s
-BAN_MENU = MENU: ban
-BAN_FOR_MIN = Zabanovat na %d minut
-BAN_PERM = Zabanovat permanentne
-SLAP_SLAY_MENU = MENU: Placnut/Zabit
-SLAP_WITH_DMG = Udret silou %d damage
-SLAY = Zabit
-KICK_MENU = MENU: vykopnutie
-ADMIN_TRANSF_1 = ADMIN: premiestnil %s k %s
-ADMIN_TRANSF_2 = ADMIN %s: premiestnili %s k %s
-TEAM_MENU = MENU: Tym
-TRANSF_TO = Premiestnit k %s
-CL_CMD_MENU = MENU: klientske prikazy
-NO_CMDS = Ziadny cmds
-
-[mk]
-ADMIN_BAN_1 = ADMIN: ban %s
-ADMIN_BAN_2 = ADMIN %s: ban %s
-BAN_MENU = Ban Meni
-BAN_FOR_MIN = Ban na %d minuti
-BAN_PERM = Ban zasekogas
-SLAP_SLAY_MENU = Slap/Slay Meni
-SLAP_WITH_DMG = Udri mu samar so %d steta
-SLAY = Nasilno ubij go
-KICK_MENU = Kick Meni
-ADMIN_TRANSF_1 = ADMIN: napravi transfer na %s vo %s
-ADMIN_TRANSF_2 = ADMIN %s: napravi transfer na %s vo %s
-TEAM_MENU = Meni za timot
-TRANSF_TO = Transfer vo %s
-CL_CMD_MENU = Meni so komandi za klientite
-NO_CMDS = Nema dostapni komandi

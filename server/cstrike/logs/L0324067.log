@@ -1,0 +1,351 @@
+L 03/24/2015 - 20:22:51: Log file started (file "logs/L0324067.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/24/2015 - 20:22:51: Loading map "awp_india"
+L 03/24/2015 - 20:22:51: Server cvars start
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_debug_level" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_examine_time" = "0.5"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_look_angle" = "10"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_look_distance" = "200"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_message_repeats" = "5"
+L 03/24/2015 - 20:22:51: Server cvar "_tutor_view_distance" = "1000"
+L 03/24/2015 - 20:22:51: Server cvar "aesp_version" = "1.5b_mini"
+L 03/24/2015 - 20:22:51: Server cvar "allow_spectators" = "4"
+L 03/24/2015 - 20:22:51: Server cvar "amx_client_languages" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/24/2015 - 20:22:51: Server cvar "amx_language" = "ru"
+L 03/24/2015 - 20:22:51: Server cvar "amx_nextmap" = "awp_india"
+L 03/24/2015 - 20:22:51: Server cvar "amx_timeleft" = "00:00"
+L 03/24/2015 - 20:22:51: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/24/2015 - 20:22:51: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/24/2015 - 20:22:51: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Config" = "Loaded"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Replace" = "Failed"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Status" = "Loaded"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/24/2015 - 20:22:51: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/24/2015 - 20:22:51: Server cvar "coop" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "deathmatch" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "decalfrequency" = "9"
+L 03/24/2015 - 20:22:51: Server cvar "dp_version" = "0.9.391"
+L 03/24/2015 - 20:22:51: Server cvar "edgefriction" = "2"
+L 03/24/2015 - 20:22:51: Server cvar "hostage_debug" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "hostage_stop" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "humans_join_team" = "any"
+L 03/24/2015 - 20:22:51: Server cvar "jtp10181" = "chute"
+L 03/24/2015 - 20:22:51: Server cvar "max_queries_sec" = "3.0"
+L 03/24/2015 - 20:22:51: Server cvar "max_queries_sec_global" = "30"
+L 03/24/2015 - 20:22:51: Server cvar "max_queries_window" = "60"
+L 03/24/2015 - 20:22:51: Server cvar "metamod_version" = "1.19"
+L 03/24/2015 - 20:22:51: Server cvar "mp_allowmonsters" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_autokick" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_autoteambalance" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_buytime" = "1.5"
+L 03/24/2015 - 20:22:51: Server cvar "mp_c4timer" = "35"
+L 03/24/2015 - 20:22:51: Server cvar "mp_chattime" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_consistency" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_fadetoblack" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_flashlight" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_footsteps" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_forcecamera" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_forcechasecam" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_fragsleft" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_freezetime" = "5"
+L 03/24/2015 - 20:22:51: Server cvar "mp_friendlyfire" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_hostagepenalty" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_kickpercent" = "0.66"
+L 03/24/2015 - 20:22:51: Server cvar "mp_limitteams" = "5"
+L 03/24/2015 - 20:22:51: Server cvar "mp_logdetail" = "3"
+L 03/24/2015 - 20:22:51: Server cvar "mp_logfile" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_logmessages" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/24/2015 - 20:22:51: Server cvar "mp_maxrounds" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_mirrordamage" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_playerid" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_roundtime" = "2.57"
+L 03/24/2015 - 20:22:51: Server cvar "mp_startmoney" = "800"
+L 03/24/2015 - 20:22:51: Server cvar "mp_timeleft" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "mp_timelimit" = "30.000000"
+L 03/24/2015 - 20:22:51: Server cvar "mp_tkpunish" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_windifference" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "mp_winlimit" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "pausable" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_accelerate" = "5"
+L 03/24/2015 - 20:22:51: Server cvar "sv_aim" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_airaccelerate" = "10"
+L 03/24/2015 - 20:22:51: Server cvar "sv_airmove" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "sv_allowupload" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "sv_alltalk" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_bounce" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "sv_cheats" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_clienttrace" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "sv_clipmode" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_contact" = ""
+L 03/24/2015 - 20:22:51: Server cvar "sv_friction" = "4"
+L 03/24/2015 - 20:22:51: Server cvar "sv_gravity" = "800"
+L 03/24/2015 - 20:22:51: Server cvar "sv_logblocks" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_maxrate" = "50000"
+L 03/24/2015 - 20:22:51: Server cvar "sv_maxspeed" = "900"
+L 03/24/2015 - 20:22:51: Server cvar "sv_minrate" = "100000"
+L 03/24/2015 - 20:22:51: Server cvar "sv_password" = ""
+L 03/24/2015 - 20:22:51: Server cvar "sv_proxies" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_region" = "255"
+L 03/24/2015 - 20:22:51: Server cvar "sv_restart" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_restartround" = "0"
+L 03/24/2015 - 20:22:51: Server cvar "sv_stepsize" = "18"
+L 03/24/2015 - 20:22:51: Server cvar "sv_stopspeed" = "75"
+L 03/24/2015 - 20:22:51: Server cvar "sv_uploadmax" = "0.5"
+L 03/24/2015 - 20:22:51: Server cvar "sv_voiceenable" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "sv_wateraccelerate" = "10"
+L 03/24/2015 - 20:22:51: Server cvar "sv_waterfriction" = "1"
+L 03/24/2015 - 20:22:51: Server cvar "travo_statmarquee" = "v1.2"
+L 03/24/2015 - 20:22:51: Server cvar "ultimate_sounds" = "1.7"
+L 03/24/2015 - 20:22:51: Server cvar "vtc_version" = "80"
+L 03/24/2015 - 20:22:51: Server cvar "whb_version" = "1.5.530"
+L 03/24/2015 - 20:22:51: Server cvars end
+L 03/24/2015 - 20:22:52: Server cvar "amx_nextmap" = "de_go_go_go"
+L 03/24/2015 - 20:22:52: Server cvar "sv_restart" = "1"
+L 03/24/2015 - 20:22:52: World triggered "Restart_Round_(1_second)"
+L 03/24/2015 - 20:22:52: Team "CT" scored "0" with "0" players
+L 03/24/2015 - 20:22:52: Team "TERRORIST" scored "0" with "0" players
+L 03/24/2015 - 20:22:52: Server cvar "sv_restart" = "0"
+L 03/24/2015 - 20:22:52: Started map "awp_india" (CRC "534917220")
+L 03/24/2015 - 20:22:52: [VTC] Player 9 speex
+L 03/24/2015 - 20:22:52: [VTC] Player 1 speex
+L 03/24/2015 - 20:22:53: [VTC] Player 5 speex
+L 03/24/2015 - 20:22:53: [VTC] Player 3 speex
+L 03/24/2015 - 20:22:54: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39ae6a8
+L 03/24/2015 - 20:22:54: "fuNNface<181><STEAM_0:0:2045175822><>" connected, address "93.125.74.7:27005"
+L 03/24/2015 - 20:22:54: [VTC] Player 9 speex
+L 03/24/2015 - 20:22:56: "solnishko<180><STEAM_0:4:1005558606><>" entered the game
+L 03/24/2015 - 20:22:56: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:22:56: "(Black_Eagle)FaNtoM<182><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:22:56: [VTC] Player 5 speex
+L 03/24/2015 - 20:22:57: World triggered "Round_Start"
+L 03/24/2015 - 20:22:57: "fuNNface<181><STEAM_0:0:2045175822><>" entered the game
+L 03/24/2015 - 20:22:59: "solnishko<180><STEAM_0:4:1005558606><>" joined team "CT"
+L 03/24/2015 - 20:22:59: "fuNNface<181><STEAM_0:0:2045175822><>" joined team "CT"
+L 03/24/2015 - 20:22:59: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3990cf0
+L 03/24/2015 - 20:22:59: "nExT --><183><STEAM_0:4:1106857221><>" connected, address "178.120.174.42:41255"
+L 03/24/2015 - 20:22:59: [VTC] Player 3 speex
+L 03/24/2015 - 20:23:03: "nExT --><183><STEAM_0:4:1106857221><>" entered the game
+L 03/24/2015 - 20:23:04: "nExT --><183><STEAM_0:4:1106857221><>" joined team "TERRORIST"
+L 03/24/2015 - 20:23:06: World triggered "Game_Commencing"
+L 03/24/2015 - 20:23:06: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/24/2015 - 20:23:06: World triggered "Round_End"
+L 03/24/2015 - 20:23:14: World triggered "Round_Start"
+L 03/24/2015 - 20:23:16: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "fuNNface<181><STEAM_0:0:2045175822><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/24/2015 - 20:23:18: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:23:18: "(Black_Eagle)FaNtoM<184><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:23:18: [VTC] Player 5 speex
+L 03/24/2015 - 20:23:20: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "fuNNface<181><STEAM_0:0:2045175822><CT>" with "awp" (damage "425") (damage_armor "6") (health "-377") (armor "93")
+L 03/24/2015 - 20:23:20: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "fuNNface<181><STEAM_0:0:2045175822><CT>" with "awp"
+L 03/24/2015 - 20:23:23: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:23:23: "(Black_Eagle)FaNtoM<185><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:23:23: [VTC] Player 5 speex
+L 03/24/2015 - 20:23:25: "fuNNface<181><STEAM_0:0:2045175822><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/24/2015 - 20:23:25: "fuNNface<181><STEAM_0:0:2045175822><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:23:25: "fuNNface<181><STEAM_0:0:2045175822><CT>" triggered "time" (time "0:27")
+L 03/24/2015 - 20:23:25: "fuNNface<181><STEAM_0:0:2045175822><CT>" triggered "latency" (ping "0")
+L 03/24/2015 - 20:23:25: "fuNNface<181><STEAM_0:0:2045175822><CT>" disconnected
+L 03/24/2015 - 20:23:27: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/24/2015 - 20:23:28: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398bdfc
+L 03/24/2015 - 20:23:28: "vasa<186><STEAM_0:4:411999182><>" connected, address "37.213.65.152:27005"
+L 03/24/2015 - 20:23:28: [VTC] Player 2 speex
+L 03/24/2015 - 20:23:30: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398bdfc
+L 03/24/2015 - 20:23:30: "vasa<187><STEAM_0:4:411999182><>" connected, address "37.213.65.152:27005"
+L 03/24/2015 - 20:23:30: [VTC] Player 2 speex
+L 03/24/2015 - 20:23:34: "vasa<187><STEAM_0:4:411999182><>" entered the game
+L 03/24/2015 - 20:23:37: "vasa<187><STEAM_0:4:411999182><>" joined team "TERRORIST"
+L 03/24/2015 - 20:23:41: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "knife" (damage "55") (damage_armor "5") (health "-7") (armor "94")
+L 03/24/2015 - 20:23:41: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "solnishko<180><STEAM_0:4:1005558606><CT>" with "knife"
+L 03/24/2015 - 20:23:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/24/2015 - 20:23:41: World triggered "Round_End"
+L 03/24/2015 - 20:23:42: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:23:42: "(Black_Eagle)FaNtoM<188><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:23:42: [VTC] Player 5 speex
+L 03/24/2015 - 20:23:51: World triggered "Round_Start"
+L 03/24/2015 - 20:23:57: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/24/2015 - 20:23:57: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/24/2015 - 20:23:57: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:24:00: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "vasa<187><STEAM_0:4:411999182><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/24/2015 - 20:24:00: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "vasa<187><STEAM_0:4:411999182><TERRORIST>" with "awp"
+L 03/24/2015 - 20:24:00: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/24/2015 - 20:24:00: World triggered "Round_End"
+L 03/24/2015 - 20:24:10: World triggered "Round_Start"
+L 03/24/2015 - 20:24:18: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "vasa<187><STEAM_0:4:411999182><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/24/2015 - 20:24:18: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "vasa<187><STEAM_0:4:411999182><TERRORIST>" with "awp"
+L 03/24/2015 - 20:24:28: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "138") (damage_armor "2") (health "-38") (armor "98")
+L 03/24/2015 - 20:24:28: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:24:28: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 03/24/2015 - 20:24:28: World triggered "Round_End"
+L 03/24/2015 - 20:24:37: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:24:37: "(Black_Eagle)FaNtoM<189><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:24:37: [VTC] Player 5 speex
+L 03/24/2015 - 20:24:38: World triggered "Round_Start"
+L 03/24/2015 - 20:24:42: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:24:42: "(Black_Eagle)FaNtoM<190><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:24:42: [VTC] Player 5 speex
+L 03/24/2015 - 20:24:46: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/24/2015 - 20:24:46: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp"
+L 03/24/2015 - 20:24:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 03/24/2015 - 20:24:46: World triggered "Round_End"
+L 03/24/2015 - 20:24:56: World triggered "Round_Start"
+L 03/24/2015 - 20:25:01: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "vasa<187><STEAM_0:4:411999182><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/24/2015 - 20:25:01: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "vasa<187><STEAM_0:4:411999182><TERRORIST>" with "awp"
+L 03/24/2015 - 20:25:04: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "54") (damage_armor "1") (health "46") (armor "99")
+L 03/24/2015 - 20:25:07: "vasa<187><STEAM_0:4:411999182><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/24/2015 - 20:25:07: "vasa<187><STEAM_0:4:411999182><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:25:07: "vasa<187><STEAM_0:4:411999182><TERRORIST>" triggered "time" (time "1:33")
+L 03/24/2015 - 20:25:07: "vasa<187><STEAM_0:4:411999182><TERRORIST>" triggered "latency" (ping "13")
+L 03/24/2015 - 20:25:07: "vasa<187><STEAM_0:4:411999182><TERRORIST>" disconnected
+L 03/24/2015 - 20:25:08: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/24/2015 - 20:25:08: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp"
+L 03/24/2015 - 20:25:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/24/2015 - 20:25:08: World triggered "Round_End"
+L 03/24/2015 - 20:25:18: World triggered "Round_Start"
+L 03/24/2015 - 20:25:25: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/24/2015 - 20:25:25: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:25:25: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 03/24/2015 - 20:25:25: World triggered "Round_End"
+L 03/24/2015 - 20:25:35: World triggered "Round_Start"
+L 03/24/2015 - 20:25:46: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/24/2015 - 20:25:52: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "436") (damage_armor "6") (health "-420") (armor "94")
+L 03/24/2015 - 20:25:52: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp"
+L 03/24/2015 - 20:25:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 03/24/2015 - 20:25:52: World triggered "Round_End"
+L 03/24/2015 - 20:26:02: World triggered "Round_Start"
+L 03/24/2015 - 20:26:03: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/24/2015 - 20:26:03: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:26:03: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 03/24/2015 - 20:26:03: World triggered "Round_End"
+L 03/24/2015 - 20:26:13: World triggered "Round_Start"
+L 03/24/2015 - 20:26:30: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/24/2015 - 20:26:30: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp"
+L 03/24/2015 - 20:26:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 03/24/2015 - 20:26:30: World triggered "Round_End"
+L 03/24/2015 - 20:26:40: World triggered "Round_Start"
+L 03/24/2015 - 20:26:54: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/24/2015 - 20:26:54: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "solnishko<180><STEAM_0:4:1005558606><CT>" with "awp"
+L 03/24/2015 - 20:26:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 03/24/2015 - 20:26:54: World triggered "Round_End"
+L 03/24/2015 - 20:27:04: World triggered "Round_Start"
+L 03/24/2015 - 20:27:34: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/24/2015 - 20:27:34: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:27:34: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 03/24/2015 - 20:27:34: World triggered "Round_End"
+L 03/24/2015 - 20:27:40: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39ae6a8
+L 03/24/2015 - 20:27:40: "fuNNface<191><STEAM_0:0:2045175822><>" connected, address "93.125.74.7:27005"
+L 03/24/2015 - 20:27:40: [VTC] Player 9 speex
+L 03/24/2015 - 20:27:43: "fuNNface<191><STEAM_0:0:2045175822><>" entered the game
+L 03/24/2015 - 20:27:44: World triggered "Round_Start"
+L 03/24/2015 - 20:27:46: "fuNNface<191><STEAM_0:0:2045175822><>" joined team "CT"
+L 03/24/2015 - 20:27:59: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/24/2015 - 20:27:59: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:27:59: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 03/24/2015 - 20:27:59: World triggered "Round_End"
+L 03/24/2015 - 20:28:09: World triggered "Round_Start"
+L 03/24/2015 - 20:28:17: "fuNNface<191><STEAM_0:0:2045175822><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/24/2015 - 20:28:17: "fuNNface<191><STEAM_0:0:2045175822><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:28:17: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 03/24/2015 - 20:28:17: World triggered "Round_End"
+L 03/24/2015 - 20:28:27: World triggered "Round_Start"
+L 03/24/2015 - 20:28:36: "solnishko<180><STEAM_0:4:1005558606><CT>" attacked "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/24/2015 - 20:28:36: "solnishko<180><STEAM_0:4:1005558606><CT>" killed "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" with "awp"
+L 03/24/2015 - 20:28:36: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 03/24/2015 - 20:28:36: World triggered "Round_End"
+L 03/24/2015 - 20:28:40: "solnishko<180><STEAM_0:4:1005558606><CT>" committed suicide with "world"
+L 03/24/2015 - 20:28:40: "solnishko<180><STEAM_0:4:1005558606><CT>" joined team "TERRORIST"
+L 03/24/2015 - 20:28:46: World triggered "Round_Start"
+L 03/24/2015 - 20:28:51: "fuNNface<191><STEAM_0:0:2045175822><CT>" attacked "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/24/2015 - 20:28:51: "fuNNface<191><STEAM_0:0:2045175822><CT>" killed "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" with "awp"
+L 03/24/2015 - 20:29:21: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb398bdfc
+L 03/24/2015 - 20:29:21: "yAk.v3<192><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/24/2015 - 20:29:21: [VTC] Player 2 silk
+L 03/24/2015 - 20:29:22: "yAk.v3<192><STEAM_0:1:113150434><>" STEAM USERID validated
+L 03/24/2015 - 20:29:26: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" attacked "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/24/2015 - 20:29:26: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" killed "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp"
+L 03/24/2015 - 20:29:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "7")
+L 03/24/2015 - 20:29:26: World triggered "Round_End"
+L 03/24/2015 - 20:29:31: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:29:31: "(Black_Eagle)FaNtoM<193><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:29:31: [VTC] Player 5 speex
+L 03/24/2015 - 20:29:35: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399aad8
+L 03/24/2015 - 20:29:35: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><>" connected, address "178.120.143.201:5311"
+L 03/24/2015 - 20:29:35: [VTC] Player 5 speex
+L 03/24/2015 - 20:29:36: World triggered "Round_Start"
+L 03/24/2015 - 20:29:38: "yAk.v3<192><STEAM_0:1:113150434><>" entered the game
+L 03/24/2015 - 20:29:39: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><>" entered the game
+L 03/24/2015 - 20:29:41: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><>" joined team "CT"
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "37") (hits "11") (kills "7") (headshots "3") (tks "0") (damage "2008") (deaths "6")
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "2") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "2")
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "55") (deaths "2")
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" triggered "time" (time "6:38")
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" triggered "latency" (ping "46")
+L 03/24/2015 - 20:29:42: "nExT --><183><STEAM_0:4:1106857221><TERRORIST>" disconnected
+L 03/24/2015 - 20:29:45: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" attacked "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/24/2015 - 20:29:45: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" killed "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp"
+L 03/24/2015 - 20:29:46: "yAk.v3<192><STEAM_0:1:113150434><>" joined team "TERRORIST"
+L 03/24/2015 - 20:29:50: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" attacked "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/24/2015 - 20:29:50: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" killed "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" with "awp"
+L 03/24/2015 - 20:29:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "8")
+L 03/24/2015 - 20:29:50: World triggered "Round_End"
+L 03/24/2015 - 20:29:57: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/24/2015 - 20:29:57: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:29:57: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" triggered "time" (time "0:18")
+L 03/24/2015 - 20:29:57: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" triggered "latency" (ping "0")
+L 03/24/2015 - 20:29:57: "(Black_Eagle)FaNtoM<194><STEAM_0:4:812240133><CT>" disconnected
+L 03/24/2015 - 20:30:00: World triggered "Round_Start"
+L 03/24/2015 - 20:30:07: "fuNNface<191><STEAM_0:0:2045175822><CT>" attacked "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/24/2015 - 20:30:07: "fuNNface<191><STEAM_0:0:2045175822><CT>" killed "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" with "awp"
+L 03/24/2015 - 20:30:09: "fuNNface<191><STEAM_0:0:2045175822><CT>" attacked "yAk.v3<192><STEAM_0:1:113150434><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/24/2015 - 20:30:09: "fuNNface<191><STEAM_0:0:2045175822><CT>" killed "yAk.v3<192><STEAM_0:1:113150434><TERRORIST>" with "awp"
+L 03/24/2015 - 20:30:09: Team "CT" triggered "CTs_Win" (CT "9") (T "8")
+L 03/24/2015 - 20:30:09: World triggered "Round_End"
+L 03/24/2015 - 20:30:19: World triggered "Round_Start"
+L 03/24/2015 - 20:30:25: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" attacked "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/24/2015 - 20:30:25: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" killed "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp"
+L 03/24/2015 - 20:30:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "9")
+L 03/24/2015 - 20:30:25: World triggered "Round_End"
+L 03/24/2015 - 20:30:35: World triggered "Round_Start"
+L 03/24/2015 - 20:30:35: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" attacked "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/24/2015 - 20:30:35: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" killed "fuNNface<191><STEAM_0:0:2045175822><CT>" with "awp"
+L 03/24/2015 - 20:30:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "10")
+L 03/24/2015 - 20:30:35: World triggered "Round_End"
+L 03/24/2015 - 20:30:43: "yAk.v3<192><STEAM_0:1:113150434><TERRORIST>" changed name to "empty"
+L 03/24/2015 - 20:30:45: World triggered "Round_Start"
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "43") (hits "15") (kills "14") (headshots "3") (tks "0") (damage "2583") (deaths "8")
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "3") (stomach "1") (leftarm "7") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" triggered "time" (time "7:58")
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" triggered "latency" (ping "29")
+L 03/24/2015 - 20:30:54: "empty<192><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/24/2015 - 20:30:54: "empty<192><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:30:54: "empty<192><STEAM_0:1:113150434><TERRORIST>" triggered "time" (time "1:16")
+L 03/24/2015 - 20:30:54: "empty<192><STEAM_0:1:113150434><TERRORIST>" triggered "latency" (ping "5")
+L 03/24/2015 - 20:30:54: "fuNNface<191><STEAM_0:0:2045175822><CT>" triggered "weaponstats" (weapon "awp") (shots "12") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "427") (deaths "4")
+L 03/24/2015 - 20:30:54: "fuNNface<191><STEAM_0:0:2045175822><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/24/2015 - 20:30:54: "fuNNface<191><STEAM_0:0:2045175822><CT>" triggered "time" (time "3:11")
+L 03/24/2015 - 20:30:54: "fuNNface<191><STEAM_0:0:2045175822><CT>" triggered "latency" (ping "17")
+L 03/24/2015 - 20:30:54: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/24/2015 - 20:30:54: [META] ini: Read plugin config for: AMX Mod X
+L 03/24/2015 - 20:30:54: [META] ini: Read plugin config for: dproto_EF
+L 03/24/2015 - 20:30:54: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/24/2015 - 20:30:54: [META] ini: Read plugin config for: WHBlocker
+L 03/24/2015 - 20:30:54: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/24/2015 - 20:30:54: [META] dll: Updating plugins...
+L 03/24/2015 - 20:30:54: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/24/2015 - 20:30:54: "solnishko<180><STEAM_0:4:1005558606><TERRORIST>" disconnected
+L 03/24/2015 - 20:30:54: "empty<192><STEAM_0:1:113150434><TERRORIST>" disconnected
+L 03/24/2015 - 20:30:54: "fuNNface<191><STEAM_0:0:2045175822><CT>" disconnected
+L 03/24/2015 - 20:30:54: World triggered "Round_Draw" (CT "9") (T "10")
+L 03/24/2015 - 20:30:54: World triggered "Round_End"
+L 03/24/2015 - 20:30:54: Log file closed

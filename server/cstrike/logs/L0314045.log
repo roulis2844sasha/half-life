@@ -1,0 +1,548 @@
+L 03/14/2015 - 21:05:32: Log file started (file "logs/L0314045.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/14/2015 - 21:05:32: Loading map "awp_india"
+L 03/14/2015 - 21:05:32: Server cvars start
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_debug_level" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_examine_time" = "0.5"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_look_angle" = "10"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_look_distance" = "200"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_message_repeats" = "5"
+L 03/14/2015 - 21:05:32: Server cvar "_tutor_view_distance" = "1000"
+L 03/14/2015 - 21:05:32: Server cvar "aesp_version" = "1.5b_mini"
+L 03/14/2015 - 21:05:32: Server cvar "allow_spectators" = "2"
+L 03/14/2015 - 21:05:32: Server cvar "amx_client_languages" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/14/2015 - 21:05:32: Server cvar "amx_language" = "ru"
+L 03/14/2015 - 21:05:32: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 03/14/2015 - 21:05:32: Server cvar "amx_timeleft" = "09:32"
+L 03/14/2015 - 21:05:32: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/14/2015 - 21:05:32: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/14/2015 - 21:05:32: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Config" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Status" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/14/2015 - 21:05:32: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/14/2015 - 21:05:32: Server cvar "coop" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "deathmatch" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "decalfrequency" = "9"
+L 03/14/2015 - 21:05:32: Server cvar "dp_version" = "0.9.391"
+L 03/14/2015 - 21:05:32: Server cvar "edgefriction" = "2"
+L 03/14/2015 - 21:05:32: Server cvar "hostage_debug" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "hostage_stop" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "humans_join_team" = "any"
+L 03/14/2015 - 21:05:32: Server cvar "jtp10181" = "chute"
+L 03/14/2015 - 21:05:32: Server cvar "max_queries_sec" = "3.0"
+L 03/14/2015 - 21:05:32: Server cvar "max_queries_sec_global" = "30"
+L 03/14/2015 - 21:05:32: Server cvar "max_queries_window" = "60"
+L 03/14/2015 - 21:05:32: Server cvar "metamod_version" = "1.19p32"
+L 03/14/2015 - 21:05:32: Server cvar "mp_allowmonsters" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_autokick" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_autoteambalance" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_buytime" = "1.5"
+L 03/14/2015 - 21:05:32: Server cvar "mp_c4timer" = "35"
+L 03/14/2015 - 21:05:32: Server cvar "mp_chattime" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_consistency" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_fadetoblack" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_flashlight" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_footsteps" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_forcecamera" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_forcechasecam" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_fragsleft" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_freezetime" = "5"
+L 03/14/2015 - 21:05:32: Server cvar "mp_friendlyfire" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_hostagepenalty" = "2"
+L 03/14/2015 - 21:05:32: Server cvar "mp_kickpercent" = "0.66"
+L 03/14/2015 - 21:05:32: Server cvar "mp_limitteams" = "2"
+L 03/14/2015 - 21:05:32: Server cvar "mp_logdetail" = "3"
+L 03/14/2015 - 21:05:32: Server cvar "mp_logfile" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_logmessages" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/14/2015 - 21:05:32: Server cvar "mp_maxrounds" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_mirrordamage" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_playerid" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_roundtime" = "2.57"
+L 03/14/2015 - 21:05:32: Server cvar "mp_startmoney" = "800"
+L 03/14/2015 - 21:05:32: Server cvar "mp_timeleft" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "mp_timelimit" = "30"
+L 03/14/2015 - 21:05:32: Server cvar "mp_tkpunish" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_windifference" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "mp_winlimit" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "pausable" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "sv_accelerate" = "5"
+L 03/14/2015 - 21:05:32: Server cvar "sv_aim" = "off"
+L 03/14/2015 - 21:05:32: Server cvar "sv_airaccelerate" = "10"
+L 03/14/2015 - 21:05:32: Server cvar "sv_airmove" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "sv_allowupload" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "sv_alltalk" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "sv_bounce" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "sv_cheats" = "off"
+L 03/14/2015 - 21:05:32: Server cvar "sv_clienttrace" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "sv_clipmode" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "sv_contact" = ""
+L 03/14/2015 - 21:05:32: Server cvar "sv_friction" = "4"
+L 03/14/2015 - 21:05:32: Server cvar "sv_gravity" = "800"
+L 03/14/2015 - 21:05:32: Server cvar "sv_logblocks" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "sv_maxrate" = "50000"
+L 03/14/2015 - 21:05:32: Server cvar "sv_maxspeed" = "900"
+L 03/14/2015 - 21:05:32: Server cvar "sv_minrate" = "100000"
+L 03/14/2015 - 21:05:32: Server cvar "sv_password" = ""
+L 03/14/2015 - 21:05:32: Server cvar "sv_proxies" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "sv_region" = "3"
+L 03/14/2015 - 21:05:32: Server cvar "sv_restart" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "sv_restartround" = "0"
+L 03/14/2015 - 21:05:32: Server cvar "sv_stepsize" = "18"
+L 03/14/2015 - 21:05:32: Server cvar "sv_stopspeed" = "75"
+L 03/14/2015 - 21:05:32: Server cvar "sv_uploadmax" = "0.5"
+L 03/14/2015 - 21:05:32: Server cvar "sv_voiceenable" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "sv_wateraccelerate" = "10"
+L 03/14/2015 - 21:05:32: Server cvar "sv_waterfriction" = "1"
+L 03/14/2015 - 21:05:32: Server cvar "vtc_version" = "80"
+L 03/14/2015 - 21:05:32: Server cvars end
+L 03/14/2015 - 21:05:33: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/14/2015 - 21:05:33: Started map "awp_india" (CRC "534917220")
+L 03/14/2015 - 21:05:33: [VTC] Player 4 speex
+L 03/14/2015 - 21:05:33: [VTC] Player 7 speex
+L 03/14/2015 - 21:05:33: [VTC] Player 3 speex
+L 03/14/2015 - 21:05:33: [VTC] Player 5 speex
+L 03/14/2015 - 21:05:33: [VTC] Player 1 speex
+L 03/14/2015 - 21:05:33: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39109cc
+L 03/14/2015 - 21:05:33: "baba zina 228<39><STEAM_0:4:854465230><>" connected, address "37.215.128.204:51905"
+L 03/14/2015 - 21:05:34: [VTC] Player 6 speex
+L 03/14/2015 - 21:05:36: "Petryshka)))<38><STEAM_0:4:1362434766><>" entered the game
+L 03/14/2015 - 21:05:36: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fcdfc
+L 03/14/2015 - 21:05:36: "iPlayer<40><STEAM_0:4:1372009043><>" connected, address "31.134.210.10:27005"
+L 03/14/2015 - 21:05:37: [VTC] Player 2 speex
+L 03/14/2015 - 21:05:37: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><>" entered the game
+L 03/14/2015 - 21:05:37: "Radion#<33><STEAM_0:4:533469774><>" entered the game
+L 03/14/2015 - 21:05:37: "BlanDer<30><STEAM_0:4:361516037><>" entered the game
+L 03/14/2015 - 21:05:38: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><>" entered the game
+L 03/14/2015 - 21:05:38: "Petryshka)))<38><STEAM_0:4:1362434766><>" joined team "TERRORIST"
+L 03/14/2015 - 21:05:39: World triggered "Round_Start"
+L 03/14/2015 - 21:05:40: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><>" joined team "CT"
+L 03/14/2015 - 21:05:40: "Radion#<33><STEAM_0:4:533469774><>" joined team "CT"
+L 03/14/2015 - 21:05:40: World triggered "Game_Commencing"
+L 03/14/2015 - 21:05:40: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/14/2015 - 21:05:40: World triggered "Round_End"
+L 03/14/2015 - 21:05:41: "BlanDer<30><STEAM_0:4:361516037><>" joined team "CT"
+L 03/14/2015 - 21:05:41: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fcdfc
+L 03/14/2015 - 21:05:41: "iPlayer<41><STEAM_0:4:1372009043><>" connected, address "31.134.210.10:27005"
+L 03/14/2015 - 21:05:41: [VTC] Player 2 speex
+L 03/14/2015 - 21:05:43: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><>" joined team "TERRORIST"
+L 03/14/2015 - 21:05:43: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39109cc
+L 03/14/2015 - 21:05:43: "baba zina 228<42><STEAM_0:4:854465230><>" connected, address "37.215.128.204:51905"
+L 03/14/2015 - 21:05:44: [VTC] Player 6 speex
+L 03/14/2015 - 21:05:46: "iPlayer<41><STEAM_0:4:1372009043><>" entered the game
+L 03/14/2015 - 21:05:48: World triggered "Round_Start"
+L 03/14/2015 - 21:05:48: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "Radion#<33><STEAM_0:4:533469774><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:05:48: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "Radion#<33><STEAM_0:4:533469774><CT>" with "awp"
+L 03/14/2015 - 21:05:49: "iPlayer<41><STEAM_0:4:1372009043><>" joined team "CT"
+L 03/14/2015 - 21:05:52: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "iPlayer<41><STEAM_0:4:1372009043><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:05:52: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "iPlayer<41><STEAM_0:4:1372009043><CT>" with "awp"
+L 03/14/2015 - 21:05:53: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:05:53: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp"
+L 03/14/2015 - 21:05:54: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/14/2015 - 21:05:54: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:05:58: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:05:58: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:05:58: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/14/2015 - 21:05:58: World triggered "Round_End"
+L 03/14/2015 - 21:06:03: "baba zina 228<42><STEAM_0:4:854465230><>" entered the game
+L 03/14/2015 - 21:06:03: "iPlayer<41><STEAM_0:4:1372009043><CT>" joined team "TERRORIST" (auto)
+L 03/14/2015 - 21:06:06: "baba zina 228<42><STEAM_0:4:854465230><>" joined team "TERRORIST"
+L 03/14/2015 - 21:06:08: World triggered "Round_Start"
+L 03/14/2015 - 21:06:10: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/14/2015 - 21:06:10: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:06:14: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:06:14: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" with "awp"
+L 03/14/2015 - 21:06:18: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:06:18: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp"
+L 03/14/2015 - 21:06:20: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb391a7b4
+L 03/14/2015 - 21:06:20: "AcT1oN [T]oK<43><STEAM_0:1:101491933><>" connected, address "37.215.33.203:60967"
+L 03/14/2015 - 21:06:20: [VTC] Player 8 silk
+L 03/14/2015 - 21:06:20: "AcT1oN [T]oK<43><STEAM_0:1:101491933><>" STEAM USERID validated
+L 03/14/2015 - 21:06:23: "AcT1oN [T]oK<43><STEAM_0:1:101491933><>" entered the game
+L 03/14/2015 - 21:06:25: "AcT1oN [T]oK<43><STEAM_0:1:101491933><>" joined team "CT"
+L 03/14/2015 - 21:06:27: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/14/2015 - 21:06:27: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp"
+L 03/14/2015 - 21:06:27: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/14/2015 - 21:06:27: World triggered "Round_End"
+L 03/14/2015 - 21:06:37: World triggered "Round_Start"
+L 03/14/2015 - 21:06:39: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "Radion#<33><STEAM_0:4:533469774><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:06:39: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "Radion#<33><STEAM_0:4:533469774><CT>" with "awp"
+L 03/14/2015 - 21:06:46: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/14/2015 - 21:06:46: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp"
+L 03/14/2015 - 21:06:51: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:06:51: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" with "awp"
+L 03/14/2015 - 21:06:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/14/2015 - 21:06:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:06:56: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "awp" (damage "67") (damage_armor "1") (health "33") (armor "99")
+L 03/14/2015 - 21:06:58: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:06:58: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:00: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/14/2015 - 21:07:00: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:00: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/14/2015 - 21:07:00: World triggered "Round_End"
+L 03/14/2015 - 21:07:07: "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/14/2015 - 21:07:07: "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:07:07: "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" triggered "time" (time "1:21")
+L 03/14/2015 - 21:07:07: "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" triggered "latency" (ping "71")
+L 03/14/2015 - 21:07:07: "iPlayer<41><STEAM_0:4:1372009043><TERRORIST>" disconnected
+L 03/14/2015 - 21:07:10: World triggered "Round_Start"
+L 03/14/2015 - 21:07:10: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "awp" (damage "78") (damage_armor "2") (health "22") (armor "98")
+L 03/14/2015 - 21:07:10: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "57") (damage_armor "1") (health "43") (armor "99")
+L 03/14/2015 - 21:07:11: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:07:11: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:11: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/14/2015 - 21:07:13: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-84") (armor "97")
+L 03/14/2015 - 21:07:13: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:19: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-32") (armor "98")
+L 03/14/2015 - 21:07:19: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:19: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/14/2015 - 21:07:19: World triggered "Round_End"
+L 03/14/2015 - 21:07:23: "Radion#<33><STEAM_0:4:533469774><CT>" committed suicide with "world"
+L 03/14/2015 - 21:07:23: "Radion#<33><STEAM_0:4:533469774><CT>" joined team "TERRORIST"
+L 03/14/2015 - 21:07:29: World triggered "Round_Start"
+L 03/14/2015 - 21:07:31: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:07:31: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:07:32: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:07:32: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "BlanDer<30><STEAM_0:4:361516037><CT>" with "awp"
+L 03/14/2015 - 21:07:35: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:07:35: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:42: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/14/2015 - 21:07:44: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-91") (armor "98")
+L 03/14/2015 - 21:07:44: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:47: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/14/2015 - 21:07:47: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:50: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/14/2015 - 21:07:50: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" with "awp"
+L 03/14/2015 - 21:07:50: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 03/14/2015 - 21:07:50: World triggered "Round_End"
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "135") (deaths "4")
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "2") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" triggered "time" (time "2:21")
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" triggered "latency" (ping "25")
+L 03/14/2015 - 21:07:57: "Petryshka)))<38><STEAM_0:4:1362434766><TERRORIST>" disconnected
+L 03/14/2015 - 21:08:00: World triggered "Round_Start"
+L 03/14/2015 - 21:08:00: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/14/2015 - 21:08:00: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp"
+L 03/14/2015 - 21:08:02: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:08:02: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:08:11: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:08:11: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:08:11: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 03/14/2015 - 21:08:11: World triggered "Round_End"
+L 03/14/2015 - 21:08:21: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fcdfc
+L 03/14/2015 - 21:08:21: "(1)baba zina 228<44><STEAM_0:4:854465230><>" connected, address "37.215.128.204:4346"
+L 03/14/2015 - 21:08:21: [VTC] Player 2 speex
+L 03/14/2015 - 21:08:21: World triggered "Round_Start"
+L 03/14/2015 - 21:08:23: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:08:23: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:08:31: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/14/2015 - 21:08:32: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/14/2015 - 21:08:32: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp"
+L 03/14/2015 - 21:08:35: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/14/2015 - 21:08:36: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:08:36: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "knife" (damage "55") (damage_armor "5") (health "-39") (armor "95")
+L 03/14/2015 - 21:08:36: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "BlanDer<30><STEAM_0:4:361516037><CT>" with "knife"
+L 03/14/2015 - 21:08:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "1")
+L 03/14/2015 - 21:08:36: World triggered "Round_End"
+L 03/14/2015 - 21:08:46: World triggered "Round_Start"
+L 03/14/2015 - 21:08:51: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 03/14/2015 - 21:08:51: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" with "awp"
+L 03/14/2015 - 21:08:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "108") (deaths "3")
+L 03/14/2015 - 21:08:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:08:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" triggered "time" (time "2:50")
+L 03/14/2015 - 21:08:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" triggered "latency" (ping "36")
+L 03/14/2015 - 21:08:53: "baba zina 228<42><STEAM_0:4:854465230><TERRORIST>" disconnected
+L 03/14/2015 - 21:08:58: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:08:59: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:09:01: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "BlanDer<30><STEAM_0:4:361516037><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/14/2015 - 21:09:01: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "BlanDer<30><STEAM_0:4:361516037><CT>" with "knife"
+L 03/14/2015 - 21:09:03: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/14/2015 - 21:09:03: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" killed "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp"
+L 03/14/2015 - 21:09:04: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "214") (damage_armor "3") (health "-114") (armor "97")
+L 03/14/2015 - 21:09:04: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:09:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "2")
+L 03/14/2015 - 21:09:04: World triggered "Round_End"
+L 03/14/2015 - 21:09:14: World triggered "Round_Start"
+L 03/14/2015 - 21:09:14: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:09:14: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:09:14: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:09:14: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:09:14: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:09:14: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:09:14: Team "CT" triggered "CTs_Win" (CT "7") (T "2")
+L 03/14/2015 - 21:09:14: World triggered "Round_End"
+L 03/14/2015 - 21:09:24: World triggered "Round_Start"
+L 03/14/2015 - 21:09:29: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/14/2015 - 21:09:29: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:09:35: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:09:35: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp"
+L 03/14/2015 - 21:09:36: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:09:36: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:09:41: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:09:41: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:09:41: Team "CT" triggered "CTs_Win" (CT "8") (T "2")
+L 03/14/2015 - 21:09:41: World triggered "Round_End"
+L 03/14/2015 - 21:09:51: World triggered "Round_Start"
+L 03/14/2015 - 21:10:00: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/14/2015 - 21:10:00: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:10:02: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "214") (damage_armor "3") (health "-114") (armor "97")
+L 03/14/2015 - 21:10:02: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:10:02: Team "CT" triggered "CTs_Win" (CT "9") (T "2")
+L 03/14/2015 - 21:10:02: World triggered "Round_End"
+L 03/14/2015 - 21:10:12: World triggered "Round_Start"
+L 03/14/2015 - 21:10:19: "BlanDer<30><STEAM_0:4:361516037><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:10:19: "BlanDer<30><STEAM_0:4:361516037><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:10:26: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:10:26: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:10:26: Team "CT" triggered "CTs_Win" (CT "10") (T "2")
+L 03/14/2015 - 21:10:26: World triggered "Round_End"
+L 03/14/2015 - 21:10:36: World triggered "Round_Start"
+L 03/14/2015 - 21:10:43: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/14/2015 - 21:10:46: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/14/2015 - 21:10:46: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:10:50: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:10:50: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:10:50: Team "CT" triggered "CTs_Win" (CT "11") (T "2")
+L 03/14/2015 - 21:10:50: World triggered "Round_End"
+L 03/14/2015 - 21:10:54: "BlanDer<30><STEAM_0:4:361516037><CT>" committed suicide with "world"
+L 03/14/2015 - 21:10:54: "BlanDer<30><STEAM_0:4:361516037><CT>" joined team "TERRORIST"
+L 03/14/2015 - 21:11:00: World triggered "Round_Start"
+L 03/14/2015 - 21:11:03: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/14/2015 - 21:11:03: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:11:09: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/14/2015 - 21:11:11: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:11:11: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:11:22: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "-6") (armor "98")
+L 03/14/2015 - 21:11:22: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:11:22: Team "CT" triggered "CTs_Win" (CT "12") (T "2")
+L 03/14/2015 - 21:11:22: World triggered "Round_End"
+L 03/14/2015 - 21:11:32: World triggered "Round_Start"
+L 03/14/2015 - 21:11:38: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/14/2015 - 21:11:38: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:11:39: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/14/2015 - 21:11:39: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:11:45: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/14/2015 - 21:11:45: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:11:58: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:11:58: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:11:59: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/14/2015 - 21:11:59: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "knife"
+L 03/14/2015 - 21:11:59: Team "CT" triggered "CTs_Win" (CT "13") (T "2")
+L 03/14/2015 - 21:11:59: World triggered "Round_End"
+L 03/14/2015 - 21:12:09: World triggered "Round_Start"
+L 03/14/2015 - 21:12:10: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:12:10: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:12:10: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/14/2015 - 21:12:15: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:12:15: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:12:28: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "-30") (armor "98")
+L 03/14/2015 - 21:12:28: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:12:28: Team "CT" triggered "CTs_Win" (CT "14") (T "2")
+L 03/14/2015 - 21:12:28: World triggered "Round_End"
+L 03/14/2015 - 21:12:38: World triggered "Round_Start"
+L 03/14/2015 - 21:12:46: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:12:46: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp"
+L 03/14/2015 - 21:12:48: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/14/2015 - 21:12:48: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:12:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "3")
+L 03/14/2015 - 21:12:48: World triggered "Round_End"
+L 03/14/2015 - 21:12:58: World triggered "Round_Start"
+L 03/14/2015 - 21:12:58: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/14/2015 - 21:12:58: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:13:01: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/14/2015 - 21:13:01: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:13:06: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:13:06: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "109") (damage_armor "2") (health "-64") (armor "93")
+L 03/14/2015 - 21:13:06: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp"
+L 03/14/2015 - 21:13:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "4")
+L 03/14/2015 - 21:13:06: World triggered "Round_End"
+L 03/14/2015 - 21:13:16: World triggered "Round_Start"
+L 03/14/2015 - 21:13:17: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:13:17: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:13:19: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:13:19: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" with "awp"
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" triggered "weaponstats" (weapon "awp") (shots "62") (hits "23") (kills "20") (headshots "5") (tks "0") (damage "3790") (deaths "5")
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "4") (stomach "2") (leftarm "9") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "4") (kills "2") (headshots "1") (tks "0") (damage "588") (deaths "1")
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" triggered "time" (time "6:58")
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" triggered "latency" (ping "24")
+L 03/14/2015 - 21:13:21: "AcT1oN [T]oK<43><STEAM_0:1:101491933><CT>" disconnected
+L 03/14/2015 - 21:13:23: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:13:26: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:13:26: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:13:28: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:13:28: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:13:28: Team "CT" triggered "CTs_Win" (CT "15") (T "4")
+L 03/14/2015 - 21:13:28: World triggered "Round_End"
+L 03/14/2015 - 21:13:38: World triggered "Round_Start"
+L 03/14/2015 - 21:13:43: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:13:43: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" with "awp"
+L 03/14/2015 - 21:13:44: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:13:44: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><TERRORIST>" joined team "CT"
+L 03/14/2015 - 21:13:46: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/14/2015 - 21:13:46: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife"
+L 03/14/2015 - 21:13:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "5")
+L 03/14/2015 - 21:13:46: World triggered "Round_End"
+L 03/14/2015 - 21:13:56: World triggered "Round_Start"
+L 03/14/2015 - 21:14:06: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:14:06: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp"
+L 03/14/2015 - 21:14:08: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/14/2015 - 21:14:08: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:14:17: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/14/2015 - 21:14:17: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "knife" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 03/14/2015 - 21:14:17: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "33") (armor "94")
+L 03/14/2015 - 21:14:21: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/14/2015 - 21:14:21: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "knife"
+L 03/14/2015 - 21:14:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "6")
+L 03/14/2015 - 21:14:21: World triggered "Round_End"
+L 03/14/2015 - 21:14:31: World triggered "Round_Start"
+L 03/14/2015 - 21:14:31: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:14:31: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:14:36: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:14:36: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp"
+L 03/14/2015 - 21:14:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "7")
+L 03/14/2015 - 21:14:36: World triggered "Round_End"
+L 03/14/2015 - 21:14:46: World triggered "Round_Start"
+L 03/14/2015 - 21:14:48: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fcdfc
+L 03/14/2015 - 21:14:48: "HaCTeHbKa<45><STEAM_0:4:404213125><>" connected, address "178.121.115.153:12941"
+L 03/14/2015 - 21:14:48: [VTC] Player 2 speex
+L 03/14/2015 - 21:14:50: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb38fcdfc
+L 03/14/2015 - 21:14:50: "HaCTeHbKa<46><STEAM_0:4:404213125><>" connected, address "178.121.115.153:12941"
+L 03/14/2015 - 21:14:51: [VTC] Player 2 speex
+L 03/14/2015 - 21:14:52: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:14:52: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:14:56: "HaCTeHbKa<46><STEAM_0:4:404213125><>" entered the game
+L 03/14/2015 - 21:15:01: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:15:01: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:15:01: Team "CT" triggered "CTs_Win" (CT "16") (T "7")
+L 03/14/2015 - 21:15:01: World triggered "Round_End"
+L 03/14/2015 - 21:15:05: "HaCTeHbKa<46><STEAM_0:4:404213125><>" joined team "TERRORIST"
+L 03/14/2015 - 21:15:08: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39109cc
+L 03/14/2015 - 21:15:08: "D}I{okep<47><STEAM_0:4:791050166><>" connected, address "212.13.16.247:27005"
+L 03/14/2015 - 21:15:08: [VTC] Player 6 speex
+L 03/14/2015 - 21:15:11: World triggered "Round_Start"
+L 03/14/2015 - 21:15:11: "D}I{okep<47><STEAM_0:4:791050166><>" entered the game
+L 03/14/2015 - 21:15:13: "D}I{okep<47><STEAM_0:4:791050166><>" joined team "CT"
+L 03/14/2015 - 21:15:20: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/14/2015 - 21:15:20: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:15:21: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/14/2015 - 21:15:21: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" with "awp"
+L 03/14/2015 - 21:15:25: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/14/2015 - 21:15:33: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-8") (armor "94")
+L 03/14/2015 - 21:15:33: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "knife"
+L 03/14/2015 - 21:15:33: Team "CT" triggered "CTs_Win" (CT "17") (T "7")
+L 03/14/2015 - 21:15:33: World triggered "Round_End"
+L 03/14/2015 - 21:15:43: World triggered "Round_Start"
+L 03/14/2015 - 21:15:45: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/14/2015 - 21:15:45: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:15:51: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:15:51: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp"
+L 03/14/2015 - 21:15:54: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "D}I{okep<47><STEAM_0:4:791050166><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/14/2015 - 21:15:54: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "D}I{okep<47><STEAM_0:4:791050166><CT>" with "awp"
+L 03/14/2015 - 21:16:04: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/14/2015 - 21:16:04: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:16:08: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/14/2015 - 21:16:08: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" with "awp"
+L 03/14/2015 - 21:16:08: Team "CT" triggered "CTs_Win" (CT "18") (T "7")
+L 03/14/2015 - 21:16:08: World triggered "Round_End"
+L 03/14/2015 - 21:16:18: World triggered "Round_Start"
+L 03/14/2015 - 21:16:18: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "D}I{okep<47><STEAM_0:4:791050166><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:16:18: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" killed "D}I{okep<47><STEAM_0:4:791050166><CT>" with "awp"
+L 03/14/2015 - 21:16:18: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/14/2015 - 21:16:18: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp" (damage "57") (damage_armor "1") (health "43") (armor "99")
+L 03/14/2015 - 21:16:18: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/14/2015 - 21:16:18: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:16:24: "D}I{okep<47><STEAM_0:4:791050166><CT>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 21:16:24: "D}I{okep<47><STEAM_0:4:791050166><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:16:24: "D}I{okep<47><STEAM_0:4:791050166><CT>" triggered "time" (time "1:12")
+L 03/14/2015 - 21:16:24: "D}I{okep<47><STEAM_0:4:791050166><CT>" triggered "latency" (ping "29")
+L 03/14/2015 - 21:16:24: "D}I{okep<47><STEAM_0:4:791050166><CT>" disconnected
+L 03/14/2015 - 21:16:31: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp" (damage "137") (damage_armor "2") (health "-94") (armor "97")
+L 03/14/2015 - 21:16:31: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" with "awp"
+L 03/14/2015 - 21:16:35: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" attacked "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp" (damage "444") (damage_armor "6") (health "-422") (armor "93")
+L 03/14/2015 - 21:16:35: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" killed "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" with "awp"
+L 03/14/2015 - 21:16:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "8")
+L 03/14/2015 - 21:16:35: World triggered "Round_End"
+L 03/14/2015 - 21:16:45: World triggered "Round_Start"
+L 03/14/2015 - 21:16:51: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0xb39109cc
+L 03/14/2015 - 21:16:51: "{Krayzi} mega heel<48><STEAM_0:1:90598954><>" connected, address "213.24.125.100:45550"
+L 03/14/2015 - 21:16:52: [VTC] Player 6 silk
+L 03/14/2015 - 21:16:52: "{Krayzi} mega heel<48><STEAM_0:1:90598954><>" STEAM USERID validated
+L 03/14/2015 - 21:16:54: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0xb39109cc
+L 03/14/2015 - 21:16:54: "{Krayzi} mega heel<49><STEAM_0:1:90598954><>" connected, address "213.24.125.100:45550"
+L 03/14/2015 - 21:16:54: [VTC] Player 6 silk
+L 03/14/2015 - 21:16:55: "{Krayzi} mega heel<49><STEAM_0:1:90598954><>" STEAM USERID validated
+L 03/14/2015 - 21:16:55: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/14/2015 - 21:16:55: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" with "awp"
+L 03/14/2015 - 21:16:58: "{Krayzi} mega heel<49><STEAM_0:1:90598954><>" entered the game
+L 03/14/2015 - 21:17:02: "{Krayzi} mega heel<49><STEAM_0:1:90598954><>" joined team "CT"
+L 03/14/2015 - 21:17:02: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/14/2015 - 21:17:02: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" with "awp"
+L 03/14/2015 - 21:17:07: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" attacked "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/14/2015 - 21:17:07: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" killed "Radion#<33><STEAM_0:4:533469774><TERRORIST>" with "awp"
+L 03/14/2015 - 21:17:07: Team "CT" triggered "CTs_Win" (CT "19") (T "8")
+L 03/14/2015 - 21:17:07: World triggered "Round_End"
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" triggered "weaponstats" (weapon "awp") (shots "41") (hits "18") (kills "17") (headshots "4") (tks "0") (damage "2966") (deaths "16")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "2") (stomach "1") (leftarm "7") (rightarm "4") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" triggered "weaponstats" (weapon "knife") (shots "22") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "330") (deaths "4")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" triggered "time" (time "11:37")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" triggered "latency" (ping "45")
+L 03/14/2015 - 21:17:16: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "444") (deaths "3")
+L 03/14/2015 - 21:17:16: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" triggered "time" (time "2:19")
+L 03/14/2015 - 21:17:16: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" triggered "latency" (ping "57")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" triggered "weaponstats" (weapon "awp") (shots "81") (hits "22") (kills "20") (headshots "5") (tks "0") (damage "3897") (deaths "13")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "5") (stomach "1") (leftarm "11") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "4") (kills "2") (headshots "1") (tks "0") (damage "566") (deaths "1")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" triggered "weaponstats2" (weapon "knife") (head "3") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" triggered "time" (time "11:38")
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" triggered "latency" (ping "44")
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "64") (hits "17") (kills "17") (headshots "2") (tks "0") (damage "2532") (deaths "6")
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "2") (leftarm "10") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "39") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "330") (deaths "5")
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" triggered "time" (time "11:38")
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" triggered "latency" (ping "19")
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "68") (hits "9") (kills "5") (headshots "2") (tks "0") (damage "1450") (deaths "12")
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "0") (stomach "0") (leftarm "6") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "8")
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" triggered "time" (time "11:38")
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" triggered "latency" (ping "60")
+L 03/14/2015 - 21:17:16: "{Krayzi} mega heel<49><STEAM_0:1:90598954><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 21:17:16: "{Krayzi} mega heel<49><STEAM_0:1:90598954><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 21:17:16: "{Krayzi} mega heel<49><STEAM_0:1:90598954><CT>" triggered "time" (time "0:17")
+L 03/14/2015 - 21:17:16: "{Krayzi} mega heel<49><STEAM_0:1:90598954><CT>" triggered "latency" (ping "0")
+L 03/14/2015 - 21:17:16: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/14/2015 - 21:17:16: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2015 - 21:17:16: [META] ini: Read plugin config for: dproto_EF
+L 03/14/2015 - 21:17:16: [META] ini: Read plugin config for: mmtimer
+L 03/14/2015 - 21:17:16: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/14/2015 - 21:17:16: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/14/2015 - 21:17:16: [META] dll: Updating plugins...
+L 03/14/2015 - 21:17:16: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/14/2015 - 21:17:16: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/14/2015 - 21:17:16: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Mi{x}eR<28><STEAM_0:4:1196530638><CT>" disconnected
+L 03/14/2015 - 21:17:16: "HaCTeHbKa<46><STEAM_0:4:404213125><TERRORIST>" disconnected
+L 03/14/2015 - 21:17:16: "[Hard_Skill]_Leks<8><STEAM_0:4:672615685><CT>" disconnected
+L 03/14/2015 - 21:17:16: "BlanDer<30><STEAM_0:4:361516037><TERRORIST>" disconnected
+L 03/14/2015 - 21:17:16: "Radion#<33><STEAM_0:4:533469774><TERRORIST>" disconnected
+L 03/14/2015 - 21:17:16: "{Krayzi} mega heel<49><STEAM_0:1:90598954><CT>" disconnected
+L 03/14/2015 - 21:17:16: World triggered "Round_Draw" (CT "19") (T "8")
+L 03/14/2015 - 21:17:16: World triggered "Round_End"
+L 03/14/2015 - 21:17:16: Log file closed

@@ -1,0 +1,191 @@
+L 03/22/2015 - 18:43:28: Log file started (file "logs/L0322055.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/22/2015 - 18:43:28: Loading map "$2000$"
+L 03/22/2015 - 18:43:28: Server cvars start
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_debug_level" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_examine_time" = "0.5"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_look_angle" = "10"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_look_distance" = "200"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_message_repeats" = "5"
+L 03/22/2015 - 18:43:28: Server cvar "_tutor_view_distance" = "1000"
+L 03/22/2015 - 18:43:28: Server cvar "aesp_version" = "1.5b_mini"
+L 03/22/2015 - 18:43:28: Server cvar "allow_spectators" = "4"
+L 03/22/2015 - 18:43:28: Server cvar "amx_client_languages" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/22/2015 - 18:43:28: Server cvar "amx_language" = "ru"
+L 03/22/2015 - 18:43:28: Server cvar "amx_nextmap" = "cs_assault_1337"
+L 03/22/2015 - 18:43:28: Server cvar "amx_timeleft" = "25:29"
+L 03/22/2015 - 18:43:28: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/22/2015 - 18:43:28: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/22/2015 - 18:43:28: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Config" = "Loaded"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Replace" = "Failed"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Status" = "Loaded"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/22/2015 - 18:43:28: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/22/2015 - 18:43:28: Server cvar "coop" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "deathmatch" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "decalfrequency" = "9"
+L 03/22/2015 - 18:43:28: Server cvar "dp_version" = "0.9.391"
+L 03/22/2015 - 18:43:28: Server cvar "edgefriction" = "2"
+L 03/22/2015 - 18:43:28: Server cvar "hostage_debug" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "hostage_stop" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "humans_join_team" = "any"
+L 03/22/2015 - 18:43:28: Server cvar "jtp10181" = "chute"
+L 03/22/2015 - 18:43:28: Server cvar "max_queries_sec" = "3.0"
+L 03/22/2015 - 18:43:28: Server cvar "max_queries_sec_global" = "30"
+L 03/22/2015 - 18:43:28: Server cvar "max_queries_window" = "60"
+L 03/22/2015 - 18:43:28: Server cvar "metamod_version" = "1.19"
+L 03/22/2015 - 18:43:28: Server cvar "mp_allowmonsters" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_autokick" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_autoteambalance" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_buytime" = "1.5"
+L 03/22/2015 - 18:43:28: Server cvar "mp_c4timer" = "35"
+L 03/22/2015 - 18:43:28: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_consistency" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_fadetoblack" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_flashlight" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_footsteps" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_forcecamera" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_forcechasecam" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_fragsleft" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_freezetime" = "5"
+L 03/22/2015 - 18:43:28: Server cvar "mp_friendlyfire" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_hostagepenalty" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_kickpercent" = "0.66"
+L 03/22/2015 - 18:43:28: Server cvar "mp_limitteams" = "5"
+L 03/22/2015 - 18:43:28: Server cvar "mp_logdetail" = "3"
+L 03/22/2015 - 18:43:28: Server cvar "mp_logfile" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_logmessages" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/22/2015 - 18:43:28: Server cvar "mp_maxrounds" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_mirrordamage" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_playerid" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_roundtime" = "2.57"
+L 03/22/2015 - 18:43:28: Server cvar "mp_startmoney" = "800"
+L 03/22/2015 - 18:43:28: Server cvar "mp_timeleft" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 18:43:28: Server cvar "mp_tkpunish" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_windifference" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "mp_winlimit" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "pausable" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_accelerate" = "5"
+L 03/22/2015 - 18:43:28: Server cvar "sv_aim" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_airaccelerate" = "10"
+L 03/22/2015 - 18:43:28: Server cvar "sv_airmove" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "sv_allowupload" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "sv_alltalk" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_bounce" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "sv_cheats" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_clienttrace" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "sv_clipmode" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_contact" = ""
+L 03/22/2015 - 18:43:28: Server cvar "sv_friction" = "4"
+L 03/22/2015 - 18:43:28: Server cvar "sv_gravity" = "800"
+L 03/22/2015 - 18:43:28: Server cvar "sv_logblocks" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_maxrate" = "50000"
+L 03/22/2015 - 18:43:28: Server cvar "sv_maxspeed" = "900"
+L 03/22/2015 - 18:43:28: Server cvar "sv_minrate" = "100000"
+L 03/22/2015 - 18:43:28: Server cvar "sv_password" = ""
+L 03/22/2015 - 18:43:28: Server cvar "sv_proxies" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_region" = "255"
+L 03/22/2015 - 18:43:28: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_restartround" = "0"
+L 03/22/2015 - 18:43:28: Server cvar "sv_stepsize" = "18"
+L 03/22/2015 - 18:43:28: Server cvar "sv_stopspeed" = "75"
+L 03/22/2015 - 18:43:28: Server cvar "sv_uploadmax" = "0.5"
+L 03/22/2015 - 18:43:28: Server cvar "sv_voiceenable" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "sv_wateraccelerate" = "10"
+L 03/22/2015 - 18:43:28: Server cvar "sv_waterfriction" = "1"
+L 03/22/2015 - 18:43:28: Server cvar "travo_statmarquee" = "v1.2"
+L 03/22/2015 - 18:43:28: Server cvar "ultimate_sounds" = "1.7"
+L 03/22/2015 - 18:43:28: Server cvar "vtc_version" = "80"
+L 03/22/2015 - 18:43:28: Server cvars end
+L 03/22/2015 - 18:43:28: Server cvar "amx_nextmap" = "cs_italy"
+L 03/22/2015 - 18:43:28: Server cvar "sv_restart" = "1"
+L 03/22/2015 - 18:43:28: World triggered "Restart_Round_(1_second)"
+L 03/22/2015 - 18:43:28: Team "CT" scored "0" with "0" players
+L 03/22/2015 - 18:43:28: Team "TERRORIST" scored "0" with "0" players
+L 03/22/2015 - 18:43:28: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 18:43:29: Started map "$2000$" (CRC "-1688392397")
+L 03/22/2015 - 18:43:29: [VTC] Player 2 speex
+L 03/22/2015 - 18:43:29: [VTC] Player 6 speex
+L 03/22/2015 - 18:43:29: [VTC] Player 4 speex
+L 03/22/2015 - 18:43:29: [VTC] Player 1 speex
+L 03/22/2015 - 18:43:31: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><>" entered the game
+L 03/22/2015 - 18:43:31: "____DRAKULA_____<311><STEAM_0:4:1565019781><>" entered the game
+L 03/22/2015 - 18:43:32: "Andrii<320><STEAM_0:4:274302594><>" entered the game
+L 03/22/2015 - 18:43:32: "KoT_L<323><STEAM_0:4:480025422><>" entered the game
+L 03/22/2015 - 18:43:34: World triggered "Round_Start"
+L 03/22/2015 - 18:43:34: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><>" joined team "CT"
+L 03/22/2015 - 18:43:34: "ARTEM)) =)<315><STEAM_0:4:1633406597><>" entered the game
+L 03/22/2015 - 18:43:34: "Andrii<320><STEAM_0:4:274302594><>" joined team "CT"
+L 03/22/2015 - 18:43:34: "____DRAKULA_____<311><STEAM_0:4:1565019781><>" joined team "CT"
+L 03/22/2015 - 18:43:35: "KoT_L<323><STEAM_0:4:480025422><>" joined team "CT"
+L 03/22/2015 - 18:43:37: "ARTEM)) =)<315><STEAM_0:4:1633406597><>" joined team "CT"
+L 03/22/2015 - 18:43:40: "____DRAKULA_____<311><STEAM_0:4:1565019781><CT>" committed suicide with "world"
+L 03/22/2015 - 18:43:40: "____DRAKULA_____<311><STEAM_0:4:1565019781><CT>" joined team "TERRORIST"
+L 03/22/2015 - 18:43:51: World triggered "Game_Commencing"
+L 03/22/2015 - 18:43:51: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/22/2015 - 18:43:51: World triggered "Round_End"
+L 03/22/2015 - 18:43:59: World triggered "Round_Start"
+L 03/22/2015 - 18:44:02: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" attacked "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 18:44:02: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" killed "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" with "awp"
+L 03/22/2015 - 18:44:09: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 03/22/2015 - 18:44:10: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" attacked "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/22/2015 - 18:44:10: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" killed "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" with "ak47"
+L 03/22/2015 - 18:44:10: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/22/2015 - 18:44:10: World triggered "Round_End"
+L 03/22/2015 - 18:44:14: "KoT_L<323><STEAM_0:4:480025422><CT>" committed suicide with "world"
+L 03/22/2015 - 18:44:14: "KoT_L<323><STEAM_0:4:480025422><CT>" joined team "TERRORIST"
+L 03/22/2015 - 18:44:20: World triggered "Round_Start"
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "0")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "43") (deaths "1")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "time" (time "0:51")
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" triggered "latency" (ping "44")
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" triggered "weaponstats" (weapon "ak47") (shots "29") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "140") (deaths "0")
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" triggered "time" (time "0:51")
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" triggered "latency" (ping "20")
+L 03/22/2015 - 18:44:23: "Andrii<320><STEAM_0:4:274302594><CT>" triggered "weaponstats" (weapon "ak47") (shots "51") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 18:44:23: "Andrii<320><STEAM_0:4:274302594><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "Andrii<320><STEAM_0:4:274302594><CT>" triggered "time" (time "0:50")
+L 03/22/2015 - 18:44:23: "Andrii<320><STEAM_0:4:274302594><CT>" triggered "latency" (ping "57")
+L 03/22/2015 - 18:44:23: "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" triggered "weaponstats" (weapon "m4a1") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 18:44:23: "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" triggered "time" (time "0:49")
+L 03/22/2015 - 18:44:23: "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" triggered "latency" (ping "45")
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" triggered "time" (time "0:50")
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" triggered "latency" (ping "38")
+L 03/22/2015 - 18:44:23: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/22/2015 - 18:44:23: [META] ini: Read plugin config for: AMX Mod X
+L 03/22/2015 - 18:44:23: [META] ini: Read plugin config for: dproto_EF
+L 03/22/2015 - 18:44:23: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/22/2015 - 18:44:23: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/22/2015 - 18:44:23: [META] dll: Updating plugins...
+L 03/22/2015 - 18:44:23: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/22/2015 - 18:44:23: "____DRAKULA_____<311><STEAM_0:4:1565019781><TERRORIST>" disconnected
+L 03/22/2015 - 18:44:23: "[TOP-MS] FANAT CAXAPA<322><STEAM_0:4:1512688901><CT>" disconnected
+L 03/22/2015 - 18:44:23: "Andrii<320><STEAM_0:4:274302594><CT>" disconnected
+L 03/22/2015 - 18:44:23: "ARTEM)) =)<315><STEAM_0:4:1633406597><CT>" disconnected
+L 03/22/2015 - 18:44:23: "KoT_L<323><STEAM_0:4:480025422><TERRORIST>" disconnected
+L 03/22/2015 - 18:44:23: World triggered "Round_Draw" (CT "1") (T "0")
+L 03/22/2015 - 18:44:23: World triggered "Round_End"
+L 03/22/2015 - 18:44:23: Log file closed

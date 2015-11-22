@@ -1,0 +1,69 @@
+[ru]
+AFK_INFO_MSG = "Все оставшиеся оппоненты стоят на месте!"
+AFK_KILL_MSG = "%s убит!"
+AFK_TIMELEFT = "У вас осталось %i секунд, чтобы начать играть или вы будете кикнуты!"
+AFK_STIME    = "У вас осталось %i секунд, чтобы начать играть или вы будете перемещены в НАБЛЮДАТЕЛИ!"
+AFK_KICKED   = "%s был кикнут за простой в течение %i секунд."
+
+[en]
+AFK_INFO_MSG = "All remaining opponents are afk!"
+AFK_KILL_MSG = "%s was killed for being AFK and last surviver."
+AFK_TIMELEFT = "You have %i seconds to move or you will be kicked for being AFK."
+AFK_STIME    = "You have %i seconds to move or you will be switched spec for being AFK."
+AFK_KICKED   = "%s was kicked for being AFK longer than %i seconds."
+
+[de] 
+AFK_INFO_MSG = "Alle verbleibenden Gegner sind afk!" 
+AFK_KILL_MSG = "%s wurde getoetet, da er AFK war und letzter Ueberlebender." 
+AFK_TIMELEFT = "Du hast noch %i Sekunden um dich zu bewegen, bevor du wegen AFK gekickt wirst." 
+AFK_STIME    = "Du hast noch %i Sekunden um dich zu bewegen, bevor du wegen AFK zu den Specs geswitcht wirst." 
+AFK_KICKED   = "%s wurde gekickt, da er laenger als %i Sekunden AFK war."
+
+[fr]
+AFK_INFO_MSG = "Tous vos adversaires sont afk!"
+AFK_KILL_MSG = "%s a ete tuer pour etre dernier survivant et afk."
+AFK_TIMELEFT = "Il te reste %i secondes pour te mouvoir avant d'etre balancer pour etre afk."
+AFK_STIME    = "Il te reste %i secondes pour te mouvoir avant de devenier spec pour etre afk."
+AFK_KICKED   = "%s a ete balancer pour avoir ete afk plus de %i secondes."
+
+[sv] 
+AFK_INFO_MSG = "Alla kvarvarande spelare 'a'r AFK!" 
+AFK_KILL_MSG = "%s blev d'o'dad f'o'r att vara AFK och den sista levande spelaren."
+AFK_STIME    = "Du har %i sekunder pa dig att r'o'ra dig innan du blir flyttad till spectators f'o'r att du 'a'r AFK."
+AFK_TIMELEFT = "Du har %i sekunder pa dig att r'o'ra dig innan du blir sparkad f'o'r att du 'a'r AFK."
+AFK_KICKED   = "%s blev sparkad f'o'r att ha varit AFK l'a'ngre 'a'n %i sekunder."
+
+[nl]
+AFK_INFO_MSG = "Al de overblijvende tegenstanders zijn afk!" 
+AFK_KILL_MSG = "%s Was gedood omdat hij afk en laaste overlevende was." 
+AFK_TIMELEFT = "Je hebt %i seconden om te bewegen of je word gekickt omdat je afk bent."
+AFK_STIME    = "Je hebt %i seconden de tijd om te bewegen voordat je in spec. mode wordt gezet omdat je AFK bent."
+AFK_KICKED   = "%s was gekickt omdat hij %i seconds afk was."
+
+[es] 
+AFK_INFO_MSG = "Todos los enemigos restantes estan AFK!" 
+AFK_KILL_MSG = "%s ha muerto por estar AFK y ser el ultimo superviviente." 
+AFK_TIMELEFT = "Tienes %i segundos para moverte o seras expulsado por estar AFK."
+AFK_STIME    = "Tienes %i segundos para moverte o pasaras a ser un espectador por estar AFK."
+AFK_KICKED   = "%s ha sido expulsado por estar AFK mas de %i segundos."
+
+[tr] 
+AFK_INFO_MSG = "Geri kalan tum dusmanlar AFK!" 
+AFK_KILL_MSG = "%s AFK ve son canli oldugu icin olduruldu." 
+AFK_TIMELEFT = "%i Saniye icinde bulundugunuz bolgeden yurumezseniz AFK oldugunuz icin atilacaksiniz." 
+AFK_STIME    = "%i Saniye icinde yurumezseniz AFK nedeninden Gorus (spectate) takimina alinacaksiniz." 
+AFK_KICKED   = "%i Saniyeden fazla AFK oldugu icin atildi %s." 
+	
+[da] 
+AFK_INFO_MSG = "Alle tilbagevaerende fjender er AFK!" 
+AFK_KILL_MSG = "%s Blev draebt grundet AFK og var sidste overlevende." 
+AFK_TIMELEFT = "Du har %i sekunder til at bevaege dig eller du vil blive kicked for at vaere AFK." 
+AFK_STIME    = "Du har %i sekunder til at bevaege dig eller du vil blive skiftet til team Spec pga AFK." 
+AFK_KICKED   = "%s kicked for at vaere AFK lжngere end %i sekunder."
+
+[pl] 
+AFK_INFO_MSG = "Wszyscy pozostali wrogowie sa AFK!" 
+AFK_KILL_MSG = "%s jest AFK i zostal zabity jako ostatni gracz swojej druzyny." 
+AFK_TIMELEFT = "Za %i sekund zostaniesz wykopany jako AFK." 
+AFK_STIME    = "Za %i sekund zostaniesz Spectatorem jako AFK." 
+AFK_KICKED   = "%s byl AFK przez %i sekund i zostal wykopany."

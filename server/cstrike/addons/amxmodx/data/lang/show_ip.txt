@@ -1,0 +1,6 @@
+[en]
+PLAYERS_ON_SERVER = Players on server
+DESCRIPTION = description
+TOTAL_NUM = Total %d
+PLAYER_CONNECT = ### "%s" (%s, ,%s, %s) is trying to connect ###
+PLAYER_DISCONNECT = ### "%s" (%s, %s, %s) dropped ###

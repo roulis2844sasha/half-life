@@ -1,0 +1,11 @@
+[ru]
+HPK_PING = * Игрок '%s' отключен из-за высокого пинга
+HPK_MES = * Игроки с пингом выше чем %d будут удалены с сервера!
+HPK_KICK = Извините, Ваш пинг слишком высок..
+
+[en]
+HPK_PING = * Player '%s' disconnected due to high ping 
+HPK_MES = * Players and lols with ping higher than %d will be kicked!
+HPK_KICK = Sorry but you have too High Ping, try later...
+
+

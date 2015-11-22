@@ -1,0 +1,20 @@
+[ru]
+TRANSLIT_ON = Транслит ВКЛЮЧЕН
+TRANSLIT_OFF = Транслит ВЫКЛЮЧЕН
+TRANSLIT = <сообщение> для транслита
+TRANSLIT_MODE = Включить/Выключить транслит
+DEAD = МЕРТВ
+SPECTATOR = НАБЛЮДАТЕЛЬ
+COUNTERTERRORIST = Спецназ
+TERRORIST = Террорист
+
+[en]
+TRANSLIT_MODE = On/Off translit
+TRANSLIT_ON = Translit ON
+TRANSLIT_OFF = Translit OFF
+TRANSLIT = <message> to translit
+DEAD = DEAD
+SPECTATOR = Spectator
+COUNTERTERRORIST = Counter-Terrorist
+TERRORIST = Terrorist
+

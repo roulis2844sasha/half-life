@@ -68,7 +68,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"nst_buy_mywpn mk46"
+		"command"		"m249"
 		"cost"			"5750"
 		"as_restrict"		"1"
 	}

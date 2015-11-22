@@ -1,0 +1,547 @@
+L 03/05/2015 - 19:22:31: Log file started (file "logs/L0305035.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/05/2015 - 19:22:31: Loading map "35hp_2"
+L 03/05/2015 - 19:22:31: Server cvars start
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_debug_level" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_examine_time" = "0.5"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_look_angle" = "10"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_look_distance" = "200"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_message_repeats" = "5"
+L 03/05/2015 - 19:22:31: Server cvar "_tutor_view_distance" = "1000"
+L 03/05/2015 - 19:22:31: Server cvar "aesp_version" = "1.5b_mini"
+L 03/05/2015 - 19:22:31: Server cvar "allow_spectators" = "2"
+L 03/05/2015 - 19:22:31: Server cvar "amx_client_languages" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/05/2015 - 19:22:31: Server cvar "amx_language" = "ru"
+L 03/05/2015 - 19:22:31: Server cvar "amx_nextmap" = "awp_india"
+L 03/05/2015 - 19:22:31: Server cvar "amx_timeleft" = "20:22"
+L 03/05/2015 - 19:22:31: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/05/2015 - 19:22:31: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/05/2015 - 19:22:31: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Config" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Status" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/05/2015 - 19:22:31: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/05/2015 - 19:22:31: Server cvar "coop" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "deathmatch" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "decalfrequency" = "9"
+L 03/05/2015 - 19:22:31: Server cvar "dp_version" = "0.9.391"
+L 03/05/2015 - 19:22:31: Server cvar "edgefriction" = "2"
+L 03/05/2015 - 19:22:31: Server cvar "hostage_debug" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "hostage_stop" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "humans_join_team" = "any"
+L 03/05/2015 - 19:22:31: Server cvar "jtp10181" = "chute"
+L 03/05/2015 - 19:22:31: Server cvar "max_queries_sec" = "3.0"
+L 03/05/2015 - 19:22:31: Server cvar "max_queries_sec_global" = "30"
+L 03/05/2015 - 19:22:31: Server cvar "max_queries_window" = "60"
+L 03/05/2015 - 19:22:31: Server cvar "metamod_version" = "1.19p32"
+L 03/05/2015 - 19:22:31: Server cvar "mp_allowmonsters" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_autokick" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_autoteambalance" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_buytime" = "1.5"
+L 03/05/2015 - 19:22:31: Server cvar "mp_c4timer" = "35"
+L 03/05/2015 - 19:22:31: Server cvar "mp_chattime" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_consistency" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_fadetoblack" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_flashlight" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_footsteps" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_forcecamera" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_forcechasecam" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_fragsleft" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_freezetime" = "5"
+L 03/05/2015 - 19:22:31: Server cvar "mp_friendlyfire" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_hostagepenalty" = "2"
+L 03/05/2015 - 19:22:31: Server cvar "mp_kickpercent" = "0.66"
+L 03/05/2015 - 19:22:31: Server cvar "mp_limitteams" = "2"
+L 03/05/2015 - 19:22:31: Server cvar "mp_logdetail" = "3"
+L 03/05/2015 - 19:22:31: Server cvar "mp_logfile" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_logmessages" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/05/2015 - 19:22:31: Server cvar "mp_maxrounds" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_mirrordamage" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_playerid" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_roundtime" = "2.57"
+L 03/05/2015 - 19:22:31: Server cvar "mp_startmoney" = "800"
+L 03/05/2015 - 19:22:31: Server cvar "mp_timeleft" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "mp_timelimit" = "30"
+L 03/05/2015 - 19:22:31: Server cvar "mp_tkpunish" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_windifference" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "mp_winlimit" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "pausable" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "sv_accelerate" = "5"
+L 03/05/2015 - 19:22:31: Server cvar "sv_aim" = "off"
+L 03/05/2015 - 19:22:31: Server cvar "sv_airaccelerate" = "10"
+L 03/05/2015 - 19:22:31: Server cvar "sv_airmove" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "sv_allowupload" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "sv_alltalk" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "sv_bounce" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "sv_cheats" = "off"
+L 03/05/2015 - 19:22:31: Server cvar "sv_clienttrace" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "sv_clipmode" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "sv_contact" = ""
+L 03/05/2015 - 19:22:31: Server cvar "sv_friction" = "4"
+L 03/05/2015 - 19:22:31: Server cvar "sv_gravity" = "800"
+L 03/05/2015 - 19:22:31: Server cvar "sv_logblocks" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "sv_maxrate" = "50000"
+L 03/05/2015 - 19:22:31: Server cvar "sv_maxspeed" = "900"
+L 03/05/2015 - 19:22:31: Server cvar "sv_minrate" = "100000"
+L 03/05/2015 - 19:22:31: Server cvar "sv_password" = ""
+L 03/05/2015 - 19:22:31: Server cvar "sv_proxies" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "sv_region" = "3"
+L 03/05/2015 - 19:22:31: Server cvar "sv_restart" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "sv_restartround" = "0"
+L 03/05/2015 - 19:22:31: Server cvar "sv_stepsize" = "18"
+L 03/05/2015 - 19:22:31: Server cvar "sv_stopspeed" = "75"
+L 03/05/2015 - 19:22:31: Server cvar "sv_uploadmax" = "0.5"
+L 03/05/2015 - 19:22:31: Server cvar "sv_voiceenable" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "sv_wateraccelerate" = "10"
+L 03/05/2015 - 19:22:31: Server cvar "sv_waterfriction" = "1"
+L 03/05/2015 - 19:22:31: Server cvar "ultimate_sounds" = "1.7"
+L 03/05/2015 - 19:22:31: Server cvar "vtc_version" = "80"
+L 03/05/2015 - 19:22:31: Server cvars end
+L 03/05/2015 - 19:22:32: Server cvar "amx_nextmap" = "fy_pool_day"
+L 03/05/2015 - 19:22:32: Started map "35hp_2" (CRC "-364611601")
+L 03/05/2015 - 19:22:32: [VTC] Player 6 speex
+L 03/05/2015 - 19:22:32: [VTC] Player 5 speex
+L 03/05/2015 - 19:22:32: [VTC] Player 3 speex
+L 03/05/2015 - 19:22:33: [VTC] Player 2 speex
+L 03/05/2015 - 19:22:33: [VTC] Player 4 speex
+L 03/05/2015 - 19:22:33: [DPROTO]: Client 6 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39e18c0
+L 03/05/2015 - 19:22:33: "Vrag___SIstembI<47><STEAM_0:0:1457735169><>" connected, address "178.120.190.95:64219"
+L 03/05/2015 - 19:22:33: [VTC] Player 7 speex
+L 03/05/2015 - 19:22:35: "Xyu MOP)l(OBblu<42><STEAM_0:0:61868154><>" entered the game
+L 03/05/2015 - 19:22:36: "**(Begyn)**<44><STEAM_0:0:914666820><>" entered the game
+L 03/05/2015 - 19:22:37: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><>" entered the game
+L 03/05/2015 - 19:22:38: "santer<45><STEAM_0:0:124081382><>" entered the game
+L 03/05/2015 - 19:22:38: "Vrag___SIstembI<47><STEAM_0:0:1457735169><>" entered the game
+L 03/05/2015 - 19:22:38: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d2be4
+L 03/05/2015 - 19:22:38: "Rapchik@228<48><STEAM_0:0:870682240><>" connected, address "176.102.193.162:27005"
+L 03/05/2015 - 19:22:38: World triggered "Round_Start"
+L 03/05/2015 - 19:22:38: [VTC] Player 4 speex
+L 03/05/2015 - 19:22:39: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d7ad8
+L 03/05/2015 - 19:22:39: "Radion#<49><STEAM_0:0:2071757291><>" connected, address "178.120.204.212:53487"
+L 03/05/2015 - 19:22:39: [VTC] Player 5 speex
+L 03/05/2015 - 19:22:43: "Radion#<49><STEAM_0:0:2071757291><>" entered the game
+L 03/05/2015 - 19:22:44: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><>" joined team "TERRORIST"
+L 03/05/2015 - 19:22:44: "Vrag___SIstembI<47><STEAM_0:0:1457735169><>" joined team "CT"
+L 03/05/2015 - 19:22:44: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d2be4
+L 03/05/2015 - 19:22:44: "AUE<50><STEAM_0:0:1585774656><>" connected, address "213.138.80.52:27005"
+L 03/05/2015 - 19:22:44: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39e67b4
+L 03/05/2015 - 19:22:44: "Rapchik@228<51><STEAM_0:0:870682240><>" connected, address "176.102.193.162:27005"
+L 03/05/2015 - 19:22:44: [VTC] Player 4 speex
+L 03/05/2015 - 19:22:44: [VTC] Player 8 speex
+L 03/05/2015 - 19:22:44: World triggered "Game_Commencing"
+L 03/05/2015 - 19:22:44: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/05/2015 - 19:22:44: World triggered "Round_End"
+L 03/05/2015 - 19:22:47: "**(Begyn)**<44><STEAM_0:0:914666820><UNASSIGNED>" triggered "time" (time "0:11")
+L 03/05/2015 - 19:22:47: "**(Begyn)**<44><STEAM_0:0:914666820><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/05/2015 - 19:22:47: "**(Begyn)**<44><STEAM_0:0:914666820><>" disconnected
+L 03/05/2015 - 19:22:47: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39dc9cc
+L 03/05/2015 - 19:22:47: "**(Begyn)**<52><STEAM_0:0:914666820><>" connected, address "178.121.143.196:25003"
+L 03/05/2015 - 19:22:47: [VTC] Player 6 speex
+L 03/05/2015 - 19:22:48: "Radion#<49><STEAM_0:0:2071757291><>" joined team "CT"
+L 03/05/2015 - 19:22:49: "Rapchik@228<51><STEAM_0:0:870682240><>" entered the game
+L 03/05/2015 - 19:22:51: "**(Begyn)**<52><STEAM_0:0:914666820><>" entered the game
+L 03/05/2015 - 19:22:52: "Rapchik@228<51><STEAM_0:0:870682240><>" joined team "CT"
+L 03/05/2015 - 19:22:52: "**(Begyn)**<52><STEAM_0:0:914666820><>" joined team "CT"
+L 03/05/2015 - 19:22:52: World triggered "Round_Start"
+L 03/05/2015 - 19:22:53: "AUE<50><STEAM_0:0:1585774656><>" entered the game
+L 03/05/2015 - 19:23:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Radion#<49><STEAM_0:0:2071757291><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:23:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Radion#<49><STEAM_0:0:2071757291><CT>" with "knife"
+L 03/05/2015 - 19:23:03: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:23:03: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:23:03: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/05/2015 - 19:23:03: World triggered "Round_End"
+L 03/05/2015 - 19:23:08: "**(Begyn)**<52><STEAM_0:0:914666820><CT>" committed suicide with "world"
+L 03/05/2015 - 19:23:08: "**(Begyn)**<52><STEAM_0:0:914666820><CT>" joined team "TERRORIST"
+L 03/05/2015 - 19:23:09: "santer<45><STEAM_0:0:124081382><UNASSIGNED>" triggered "time" (time "0:30")
+L 03/05/2015 - 19:23:09: "santer<45><STEAM_0:0:124081382><UNASSIGNED>" triggered "latency" (ping "64")
+L 03/05/2015 - 19:23:09: "santer<45><STEAM_0:0:124081382><>" disconnected
+L 03/05/2015 - 19:23:09: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c8dfc
+L 03/05/2015 - 19:23:09: "santer<53><STEAM_0:0:124081382><>" connected, address "31.23.170.10:27005"
+L 03/05/2015 - 19:23:09: [VTC] Player 2 speex
+L 03/05/2015 - 19:23:12: "santer<53><STEAM_0:0:124081382><>" entered the game
+L 03/05/2015 - 19:23:13: World triggered "Round_Start"
+L 03/05/2015 - 19:23:14: "santer<53><STEAM_0:0:124081382><>" joined team "CT"
+L 03/05/2015 - 19:23:20: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Rapchik@228<51><STEAM_0:0:870682240><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:23:20: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Rapchik@228<51><STEAM_0:0:870682240><CT>" with "knife"
+L 03/05/2015 - 19:23:24: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:23:24: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife"
+L 03/05/2015 - 19:23:27: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:23:27: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:23:27: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/05/2015 - 19:23:27: World triggered "Round_End"
+L 03/05/2015 - 19:23:35: "Radion#<49><STEAM_0:0:2071757291><CT>" committed suicide with "world"
+L 03/05/2015 - 19:23:35: "Radion#<49><STEAM_0:0:2071757291><CT>" joined team "TERRORIST"
+L 03/05/2015 - 19:23:37: World triggered "Round_Start"
+L 03/05/2015 - 19:23:42: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:23:42: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:23:47: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:23:47: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife"
+L 03/05/2015 - 19:23:47: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/05/2015 - 19:23:47: World triggered "Round_End"
+L 03/05/2015 - 19:23:57: World triggered "Round_Start"
+L 03/05/2015 - 19:24:02: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:02: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:24:04: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Rapchik@228<51><STEAM_0:0:870682240><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:04: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Rapchik@228<51><STEAM_0:0:870682240><CT>" with "knife"
+L 03/05/2015 - 19:24:09: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "santer<53><STEAM_0:0:124081382><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:09: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "santer<53><STEAM_0:0:124081382><CT>" with "knife"
+L 03/05/2015 - 19:24:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 03/05/2015 - 19:24:09: World triggered "Round_End"
+L 03/05/2015 - 19:24:19: World triggered "Round_Start"
+L 03/05/2015 - 19:24:26: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "santer<53><STEAM_0:0:124081382><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:26: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "santer<53><STEAM_0:0:124081382><CT>" with "knife"
+L 03/05/2015 - 19:24:27: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Rapchik@228<51><STEAM_0:0:870682240><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:27: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Rapchik@228<51><STEAM_0:0:870682240><CT>" with "knife"
+L 03/05/2015 - 19:24:29: "AUE<50><STEAM_0:0:1585774656><>" joined team "CT"
+L 03/05/2015 - 19:24:31: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:31: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:24:31: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39eb6a8
+L 03/05/2015 - 19:24:31: "Bloody Revenge<54><STEAM_0:0:1704071459><>" connected, address "46.63.157.112:60596"
+L 03/05/2015 - 19:24:31: [VTC] Player 9 speex
+L 03/05/2015 - 19:24:36: "Bloody Revenge<54><STEAM_0:0:1704071459><>" entered the game
+L 03/05/2015 - 19:24:37: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:37: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:24:38: "Bloody Revenge<54><STEAM_0:0:1704071459><>" joined team "CT"
+L 03/05/2015 - 19:24:45: "Rapchik@228<51><STEAM_0:0:870682240><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/05/2015 - 19:24:45: "Rapchik@228<51><STEAM_0:0:870682240><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:24:45: "Rapchik@228<51><STEAM_0:0:870682240><CT>" triggered "time" (time "1:56")
+L 03/05/2015 - 19:24:45: "Rapchik@228<51><STEAM_0:0:870682240><CT>" triggered "latency" (ping "71")
+L 03/05/2015 - 19:24:45: "Rapchik@228<51><STEAM_0:0:870682240><CT>" disconnected
+L 03/05/2015 - 19:24:48: "Bloody Revenge<54><STEAM_0:0:1704071459><CT>" triggered "time" (time "0:12")
+L 03/05/2015 - 19:24:48: "Bloody Revenge<54><STEAM_0:0:1704071459><CT>" triggered "latency" (ping "0")
+L 03/05/2015 - 19:24:48: "Bloody Revenge<54><STEAM_0:0:1704071459><CT>" disconnected
+L 03/05/2015 - 19:24:51: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "AUE<50><STEAM_0:0:1585774656><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:24:51: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "AUE<50><STEAM_0:0:1585774656><CT>" with "knife"
+L 03/05/2015 - 19:24:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 03/05/2015 - 19:24:51: World triggered "Round_End"
+L 03/05/2015 - 19:24:58: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39e67b4
+L 03/05/2015 - 19:24:58: "<Warrior> Player<55><STEAM_0:0:252642470><>" connected, address "2.50.185.237:27005"
+L 03/05/2015 - 19:24:58: [VTC] Player 8 speex
+L 03/05/2015 - 19:25:01: World triggered "Round_Start"
+L 03/05/2015 - 19:25:06: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:25:06: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:25:08: "santer<53><STEAM_0:0:124081382><CT>" triggered "weaponstats" (weapon "knife") (shots "16") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/05/2015 - 19:25:08: "santer<53><STEAM_0:0:124081382><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:25:08: "santer<53><STEAM_0:0:124081382><CT>" triggered "time" (time "1:55")
+L 03/05/2015 - 19:25:08: "santer<53><STEAM_0:0:124081382><CT>" triggered "latency" (ping "52")
+L 03/05/2015 - 19:25:08: "santer<53><STEAM_0:0:124081382><CT>" disconnected
+L 03/05/2015 - 19:25:14: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 19:25:15: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/05/2015 - 19:25:15: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "60") (damage_armor "0") (health "-55") (armor "0")
+L 03/05/2015 - 19:25:15: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife"
+L 03/05/2015 - 19:25:24: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39e67b4
+L 03/05/2015 - 19:25:24: "<Warrior> Player<56><STEAM_0:0:252642470><>" connected, address "2.50.185.237:27005"
+L 03/05/2015 - 19:25:24: [VTC] Player 8 speex
+L 03/05/2015 - 19:25:29: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "AUE<50><STEAM_0:0:1585774656><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:25:29: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "AUE<50><STEAM_0:0:1585774656><CT>" with "knife"
+L 03/05/2015 - 19:25:31: "<Warrior> Player<56><STEAM_0:0:252642470><>" entered the game
+L 03/05/2015 - 19:25:34: "<Warrior> Player<56><STEAM_0:0:252642470><>" joined team "CT"
+L 03/05/2015 - 19:25:44: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:25:44: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:25:44: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 03/05/2015 - 19:25:44: World triggered "Round_End"
+L 03/05/2015 - 19:25:50: "AUE<50><STEAM_0:0:1585774656><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/05/2015 - 19:25:50: "AUE<50><STEAM_0:0:1585774656><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:25:50: "AUE<50><STEAM_0:0:1585774656><CT>" triggered "time" (time "2:56")
+L 03/05/2015 - 19:25:50: "AUE<50><STEAM_0:0:1585774656><CT>" triggered "latency" (ping "79")
+L 03/05/2015 - 19:25:50: "AUE<50><STEAM_0:0:1585774656><CT>" disconnected
+L 03/05/2015 - 19:25:54: World triggered "Round_Start"
+L 03/05/2015 - 19:26:00: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:26:00: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:26:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:26:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:26:06: "<Warrior> Player<56><STEAM_0:0:252642470><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/05/2015 - 19:26:06: "<Warrior> Player<56><STEAM_0:0:252642470><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:26:06: "<Warrior> Player<56><STEAM_0:0:252642470><CT>" triggered "time" (time "0:35")
+L 03/05/2015 - 19:26:06: "<Warrior> Player<56><STEAM_0:0:252642470><CT>" triggered "latency" (ping "188")
+L 03/05/2015 - 19:26:06: "<Warrior> Player<56><STEAM_0:0:252642470><CT>" disconnected
+L 03/05/2015 - 19:26:08: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 19:26:08: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife" (damage "60") (damage_armor "0") (health "-40") (armor "0")
+L 03/05/2015 - 19:26:08: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" with "knife"
+L 03/05/2015 - 19:26:08: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 03/05/2015 - 19:26:08: World triggered "Round_End"
+L 03/05/2015 - 19:26:18: World triggered "Round_Start"
+L 03/05/2015 - 19:26:21: "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" committed suicide with "world"
+L 03/05/2015 - 19:26:24: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:26:24: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:26:29: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:26:29: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:26:29: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 03/05/2015 - 19:26:29: World triggered "Round_End"
+L 03/05/2015 - 19:26:39: World triggered "Round_Start"
+L 03/05/2015 - 19:26:44: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:26:44: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:26:53: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:26:53: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:26:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "3")
+L 03/05/2015 - 19:26:53: World triggered "Round_End"
+L 03/05/2015 - 19:27:03: World triggered "Round_Start"
+L 03/05/2015 - 19:27:09: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:27:09: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:27:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 03/05/2015 - 19:27:09: World triggered "Round_End"
+L 03/05/2015 - 19:27:19: World triggered "Round_Start"
+L 03/05/2015 - 19:27:20: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c8dfc
+L 03/05/2015 - 19:27:20: "qp o k y c H u k<57><STEAM_0:0:929973930><>" connected, address "85.93.59.8:7992"
+L 03/05/2015 - 19:27:20: [VTC] Player 2 speex
+L 03/05/2015 - 19:27:26: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:27:26: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:27:31: "qp o k y c H u k<57><STEAM_0:0:929973930><>" entered the game
+L 03/05/2015 - 19:27:33: "qp o k y c H u k<57><STEAM_0:0:929973930><>" joined team "CT"
+L 03/05/2015 - 19:27:43: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:27:43: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:27:43: Team "CT" triggered "CTs_Win" (CT "7") (T "4")
+L 03/05/2015 - 19:27:43: World triggered "Round_End"
+L 03/05/2015 - 19:27:49: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d2be4
+L 03/05/2015 - 19:27:49: "GameFun# ZoniCwOw#mfk:3<58><STEAM_0:0:586625548><>" connected, address "188.231.184.107:27005"
+L 03/05/2015 - 19:27:50: [VTC] Player 4 speex
+L 03/05/2015 - 19:27:51: "Xyu MOP)l(OBblu<42><STEAM_0:0:61868154><>" triggered "Game_idle_kick" (auto)
+L 03/05/2015 - 19:27:51: Kick: "Xyu MOP)l(OBblu<42><STEAM_0:0:61868154><>" was kicked by "Console"
+L 03/05/2015 - 19:27:51: "Xyu MOP)l(OBblu<42><STEAM_0:0:61868154><UNASSIGNED>" triggered "time" (time "5:15")
+L 03/05/2015 - 19:27:51: "Xyu MOP)l(OBblu<42><STEAM_0:0:61868154><UNASSIGNED>" triggered "latency" (ping "40")
+L 03/05/2015 - 19:27:51: "Xyu MOP)l(OBblu<42><STEAM_0:0:61868154><>" disconnected
+L 03/05/2015 - 19:27:53: World triggered "Round_Start"
+L 03/05/2015 - 19:27:57: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d2be4
+L 03/05/2015 - 19:27:57: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><>" connected, address "188.231.184.107:27005"
+L 03/05/2015 - 19:27:58: [VTC] Player 4 speex
+L 03/05/2015 - 19:27:59: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "qp o k y c H u k<57><STEAM_0:0:929973930><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:27:59: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "qp o k y c H u k<57><STEAM_0:0:929973930><CT>" with "knife"
+L 03/05/2015 - 19:28:06: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><>" entered the game
+L 03/05/2015 - 19:28:09: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><>" joined team "TERRORIST"
+L 03/05/2015 - 19:28:12: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-44") (armor "0")
+L 03/05/2015 - 19:28:12: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:28:14: "qp o k y c H u k<57><STEAM_0:0:929973930><CT>" triggered "time" (time "0:42")
+L 03/05/2015 - 19:28:14: "qp o k y c H u k<57><STEAM_0:0:929973930><CT>" triggered "latency" (ping "45")
+L 03/05/2015 - 19:28:14: "qp o k y c H u k<57><STEAM_0:0:929973930><CT>" disconnected
+L 03/05/2015 - 19:28:15: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:28:15: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:28:20: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:28:20: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:28:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "5")
+L 03/05/2015 - 19:28:20: World triggered "Round_End"
+L 03/05/2015 - 19:28:30: World triggered "Round_Start"
+L 03/05/2015 - 19:28:37: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:28:37: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:28:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "6")
+L 03/05/2015 - 19:28:37: World triggered "Round_End"
+L 03/05/2015 - 19:28:42: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><TERRORIST>" joined team "CT" (auto)
+L 03/05/2015 - 19:28:47: World triggered "Round_Start"
+L 03/05/2015 - 19:28:57: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:28:57: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:29:02: "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 03/05/2015 - 19:29:02: "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:29:02: "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" triggered "time" (time "6:11")
+L 03/05/2015 - 19:29:02: "**(Begyn)**<52><STEAM_0:0:914666820><TERRORIST>" triggered "latency" (ping "51")
+L 03/05/2015 - 19:29:02: "**(Begyn)**<52><STEAM_0:0:914666820><SPECTATOR>" disconnected
+L 03/05/2015 - 19:29:07: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:29:07: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:29:14: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:29:14: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:29:14: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 03/05/2015 - 19:29:14: World triggered "Round_End"
+L 03/05/2015 - 19:29:24: World triggered "Round_Start"
+L 03/05/2015 - 19:29:30: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c3f08
+L 03/05/2015 - 19:29:30: "Rapchik@228<60><STEAM_0:0:870682240><>" connected, address "176.102.193.162:27005"
+L 03/05/2015 - 19:29:31: [VTC] Player 1 speex
+L 03/05/2015 - 19:29:35: "Rapchik@228<60><STEAM_0:0:870682240><>" entered the game
+L 03/05/2015 - 19:29:37: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:29:37: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:29:39: "Rapchik@228<60><STEAM_0:0:870682240><>" joined team "TERRORIST"
+L 03/05/2015 - 19:30:03: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 19:30:03: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:30:03: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:30:25: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-45") (armor "0")
+L 03/05/2015 - 19:30:25: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:30:27: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:30:27: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:30:27: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 03/05/2015 - 19:30:27: World triggered "Round_End"
+L 03/05/2015 - 19:30:37: World triggered "Round_Start"
+L 03/05/2015 - 19:30:45: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:30:45: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:30:48: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:30:48: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:30:55: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 19:30:55: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:30:55: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:31:10: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:31:10: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:31:10: Team "CT" triggered "CTs_Win" (CT "10") (T "6")
+L 03/05/2015 - 19:31:10: World triggered "Round_End"
+L 03/05/2015 - 19:31:20: World triggered "Round_Start"
+L 03/05/2015 - 19:31:28: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:31:28: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:31:36: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:31:36: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:31:37: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:31:37: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:31:37: Team "CT" triggered "CTs_Win" (CT "11") (T "6")
+L 03/05/2015 - 19:31:37: World triggered "Round_End"
+L 03/05/2015 - 19:31:47: World triggered "Round_Start"
+L 03/05/2015 - 19:31:54: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:31:54: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:31:55: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "15") (damage_armor "0") (health "-4") (armor "0")
+L 03/05/2015 - 19:31:55: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:31:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "7")
+L 03/05/2015 - 19:31:55: World triggered "Round_End"
+L 03/05/2015 - 19:32:05: World triggered "Round_Start"
+L 03/05/2015 - 19:32:11: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/05/2015 - 19:32:35: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:32:35: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:32:35: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-48") (armor "0")
+L 03/05/2015 - 19:32:35: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:32:38: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:32:38: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:32:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "8")
+L 03/05/2015 - 19:32:38: World triggered "Round_End"
+L 03/05/2015 - 19:32:48: World triggered "Round_Start"
+L 03/05/2015 - 19:32:56: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:32:56: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:33:00: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:33:00: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:33:03: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:33:03: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:33:08: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:33:08: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:33:08: Team "CT" triggered "CTs_Win" (CT "12") (T "8")
+L 03/05/2015 - 19:33:08: World triggered "Round_End"
+L 03/05/2015 - 19:33:18: World triggered "Round_Start"
+L 03/05/2015 - 19:33:25: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:33:25: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:33:28: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:33:28: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:33:29: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:33:29: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:34:22: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:34:22: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:34:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "9")
+L 03/05/2015 - 19:34:22: World triggered "Round_End"
+L 03/05/2015 - 19:34:32: World triggered "Round_Start"
+L 03/05/2015 - 19:34:38: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:34:38: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:34:42: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:34:42: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:34:48: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:34:48: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:34:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "10")
+L 03/05/2015 - 19:34:48: World triggered "Round_End"
+L 03/05/2015 - 19:34:58: World triggered "Round_Start"
+L 03/05/2015 - 19:35:05: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:05: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:35:07: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:07: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:35:16: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:16: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:35:16: Team "CT" triggered "CTs_Win" (CT "13") (T "10")
+L 03/05/2015 - 19:35:16: World triggered "Round_End"
+L 03/05/2015 - 19:35:26: World triggered "Round_Start"
+L 03/05/2015 - 19:35:33: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:33: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:35:34: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/05/2015 - 19:35:34: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:34: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:35:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "11")
+L 03/05/2015 - 19:35:34: World triggered "Round_End"
+L 03/05/2015 - 19:35:44: World triggered "Round_Start"
+L 03/05/2015 - 19:35:51: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:51: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:35:53: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:53: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:35:56: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:35:56: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:35:56: Team "CT" triggered "CTs_Win" (CT "14") (T "11")
+L 03/05/2015 - 19:35:56: World triggered "Round_End"
+L 03/05/2015 - 19:36:06: World triggered "Round_Start"
+L 03/05/2015 - 19:36:13: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:36:13: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:36:15: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:36:15: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:36:18: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:36:18: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:36:18: Team "CT" triggered "CTs_Win" (CT "15") (T "11")
+L 03/05/2015 - 19:36:18: World triggered "Round_End"
+L 03/05/2015 - 19:36:28: World triggered "Round_Start"
+L 03/05/2015 - 19:36:40: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:36:40: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:36:41: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:36:41: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:36:48: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-33") (armor "0")
+L 03/05/2015 - 19:36:48: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:36:48: Team "CT" triggered "CTs_Win" (CT "16") (T "11")
+L 03/05/2015 - 19:36:48: World triggered "Round_End"
+L 03/05/2015 - 19:36:58: World triggered "Round_Start"
+L 03/05/2015 - 19:37:05: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:05: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife"
+L 03/05/2015 - 19:37:07: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:07: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:16: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "48") (damage_armor "0") (health "-13") (armor "0")
+L 03/05/2015 - 19:37:16: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:17: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 19:37:17: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:17: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:17: Team "CT" triggered "CTs_Win" (CT "17") (T "11")
+L 03/05/2015 - 19:37:17: World triggered "Round_End"
+L 03/05/2015 - 19:37:27: World triggered "Round_Start"
+L 03/05/2015 - 19:37:35: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:35: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:36: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" attacked "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:36: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" killed "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" with "knife"
+L 03/05/2015 - 19:37:36: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" attacked "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/05/2015 - 19:37:37: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" committed suicide with "worldspawn" (world)
+L 03/05/2015 - 19:37:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "12")
+L 03/05/2015 - 19:37:37: World triggered "Round_End"
+L 03/05/2015 - 19:37:47: World triggered "Round_Start"
+L 03/05/2015 - 19:37:52: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/05/2015 - 19:37:52: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:54: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" attacked "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:54: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" killed "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:58: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" attacked "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/05/2015 - 19:37:58: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" killed "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" with "knife"
+L 03/05/2015 - 19:37:58: Team "CT" triggered "CTs_Win" (CT "18") (T "12")
+L 03/05/2015 - 19:37:58: World triggered "Round_End"
+L 03/05/2015 - 19:38:01: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "101") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "75") (deaths "11")
+L 03/05/2015 - 19:38:01: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:38:01: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" triggered "time" (time "8:26")
+L 03/05/2015 - 19:38:01: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" triggered "latency" (ping "68")
+L 03/05/2015 - 19:38:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "90") (hits "17") (kills "17") (headshots "0") (tks "0") (damage "1105") (deaths "23")
+L 03/05/2015 - 19:38:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:38:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" triggered "time" (time "15:23")
+L 03/05/2015 - 19:38:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" triggered "latency" (ping "44")
+L 03/05/2015 - 19:38:01: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" triggered "weaponstats" (weapon "knife") (shots "147") (hits "18") (kills "18") (headshots "1") (tks "0") (damage "1365") (deaths "9")
+L 03/05/2015 - 19:38:01: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:38:01: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" triggered "time" (time "9:55")
+L 03/05/2015 - 19:38:01: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" triggered "latency" (ping "66")
+L 03/05/2015 - 19:38:01: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "152") (hits "12") (kills "12") (headshots "0") (tks "0") (damage "780") (deaths "19")
+L 03/05/2015 - 19:38:01: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:38:01: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" triggered "time" (time "15:18")
+L 03/05/2015 - 19:38:01: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" triggered "latency" (ping "38")
+L 03/05/2015 - 19:38:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" triggered "weaponstats" (weapon "knife") (shots "132") (hits "42") (kills "39") (headshots "9") (tks "0") (damage "3918") (deaths "13")
+L 03/05/2015 - 19:38:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" triggered "weaponstats2" (weapon "knife") (head "10") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 19:38:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" triggered "time" (time "15:23")
+L 03/05/2015 - 19:38:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" triggered "latency" (ping "40")
+L 03/05/2015 - 19:38:01: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/05/2015 - 19:38:01: [META] ini: Read plugin config for: AMX Mod X
+L 03/05/2015 - 19:38:01: [META] ini: Read plugin config for: dproto_EF
+L 03/05/2015 - 19:38:01: [META] ini: Read plugin config for: mmtimer
+L 03/05/2015 - 19:38:01: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/05/2015 - 19:38:01: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/05/2015 - 19:38:01: [META] dll: Updating plugins...
+L 03/05/2015 - 19:38:01: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/05/2015 - 19:38:01: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/05/2015 - 19:38:01: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/05/2015 - 19:38:01: "Rapchik@228<60><STEAM_0:0:870682240><TERRORIST>" disconnected
+L 03/05/2015 - 19:38:01: "[Hard_Skill]_Mi{x}eR<34><STEAM_0:0:898503398><TERRORIST>" disconnected
+L 03/05/2015 - 19:38:01: "GameFun# ZoniCwOw#mfk:3<59><STEAM_0:0:586625548><CT>" disconnected
+L 03/05/2015 - 19:38:01: "Radion#<49><STEAM_0:0:2071757291><TERRORIST>" disconnected
+L 03/05/2015 - 19:38:01: "Vrag___SIstembI<47><STEAM_0:0:1457735169><CT>" disconnected
+L 03/05/2015 - 19:38:01: Log file closed

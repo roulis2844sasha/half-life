@@ -1,3 +1,9 @@
+[ru]
+CMD_MENU = Меню серверных команд
+CONF_MENU = Меню конфигураций
+SPE_MENU = Меню голосовых сообщений
+CVARS_MENU = Меню переменных
+
 [en]
 CMD_MENU = Commands Menu
 CONF_MENU = Configs Menu
@@ -62,38 +68,3 @@ SPE_MENU = Nastaveni reci
 CMD_MENU = Komentovalikko
 CONF_MENU = Saatovalikko
 SPE_MENU = Puhevalikko
-
-[ls]
-CMD_MENU = l33t cmdz M3nu
-CONF_MENU = l33t c0nf!gz M3nu
-SPE_MENU = l33t $p33ch M3nu
-
-[bg]
-CMD_MENU = Comandnoto Menu
-CONF_MENU = Configuracionno Menu
-SPE_MENU = Menu za Govorene
-
-[ro]
-CMD_MENU = Menu Comenzi
-CONF_MENU = Menu Configuratie
-SPE_MENU = Menu Speech
-
-[hu]
-CMD_MENU = Parancs Menu
-CONF_MENU = Beallitas Menu
-SPE_MENU = Beszed Menu
-
-[lt]
-CMD_MENU = Komandu meniu
-CONF_MENU = Konfigu meniu
-SPE_MENU = Kalbos meniu
-
-[sk]
-CMD_MENU = Menu prikazov
-CONF_MENU = Menu nastaveni
-SPE_MENU = Nastavenie reci
-
-[mk]
-CMD_MENU = Meni so komandi
-CONF_MENU = Meni so konfiguracii
-SPE_MENU = Meni so glasovni komandi

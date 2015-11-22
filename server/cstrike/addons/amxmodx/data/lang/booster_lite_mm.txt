@@ -1,0 +1,76 @@
+Booster-Lite MM Plugin v1.13
+ by Jussi Kivilinna <jussi@jussikivilinna.cjb.net>
+ http://hullu.xtragaming.com/
+ [31.1.2004]
+
+
+Info:
+ - Booster-Lite replaces hlds Sleep function with 'NetSleep' function that
+   stops sleeping if hlds receives network packet from client. This lowers
+   ping about 10-15ms.
+
+
+Settings:
+ - With booster_lite_mode you can select which sleeping mode booster uses.
+     
+   * Mode 0: Server sleeps 10ms if no network packets are received. If server
+     receives network packet server stops sleeping. If you want this version of
+     Booster-Lite work as version 1.00 use this mode.
+     
+   * Mode 1: Server first tries to sleep 10ms. If network packet is received
+     server stops sleeping. Otherwise server tries to sleep another 10ms. This
+     mode uses less CPU than mode 0.
+     
+   * Mode 2: Server tries to sleep 50ms. If server receives network packet
+     server stops sleeping. This mode uses less CPU than mode 0.
+     
+   * Mode 3: Disables Booster-Lite. Server sleeps 10ms between every frame
+     even if network packets have been arraived.
+     
+ - With booster_lite_extra_sleep_frequency you can force server to sleep 
+   even if network packet is received. Setting value of cvar to 10 makes 
+   server sleep 10ms for every 10th skipped sleep. This setting is for 
+   lowering CPU usage.
+
+
+Installing:
+ 1. You need Metamod.
+ 2. Extract booster_lite_mm.dll to your
+    "c:\halflife\moddir\addons\boosterlite"-folder.
+ 3. Add following line to either "c:\halflife\moddir\metamod.ini" or
+    "c:\halflife\moddir\addons\metamod\plugin.ini":
+
+win32 addons/boosterlite/booster_lite_mm.dll
+
+ Note! sys_ticrate cvar must not be changed in server.cfg. If sys_ticrate
+       is set less than 10000 Booster-Lite might not work correctly.
+
+
+History:
+[1.13]
+ * Fixed bug that caused 1.12 not to work at all.
+[1.12]
+ * Compiled for i686 processors (PPro/P-II/P-III/P4/Athlon).
+ * booster_lite_mm_i586.dll for Pentium/PMMX/K6 processors.
+ * Minor internal tweaks.
+[1.11]
+ * Minor internal fixes.
+[1.10]
+ * Added new sleeping modes and extra sleep feature to control CPU usage.
+ * Added booster_lite_mode cvar.
+ * Added booster_lite_extra_sleep_frequency cvar.
+[1.00]
+ * First release
+[0.99-beta1]
+ * First version
+
+
+Credits:
+ * cleaners flash, FatDaddy, Red Cape and all others for Booster-Lite betatesting
+ * -[SBV]-MeGaHuRtZ, Rage, Mikee and all others for WinHL-Booster betatesting
+
+
+Links:
+ Homepage:     http://hullu.xtragaming.com/
+ Metamod:      http://www.metamod.org/
+

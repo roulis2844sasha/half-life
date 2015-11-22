@@ -1,0 +1,14 @@
+// overview description file for de_dice.bsp
+
+global 
+{
+	ZOOM	1.50
+	ORIGIN	696	622	368
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dice.bmp"
+	HEIGHT	-65
+}

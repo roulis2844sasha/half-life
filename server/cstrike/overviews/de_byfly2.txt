@@ -1,0 +1,14 @@
+// overview description file for de_byfly2.bsp
+
+global 
+{
+	ZOOM	1.53
+	ORIGIN	-104.75 	1334.06	        -204.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_byfly2.bmp"
+	HEIGHT	-601.00
+}

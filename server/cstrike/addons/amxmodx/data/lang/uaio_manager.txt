@@ -1,0 +1,53 @@
+[en]
+FILE_NOT_FOUND = Файл %s Не найден.
+FRONT_MENU_LINE_1 = This is a menu to add admins to UAIO Admin Menu.
+FRONT_MENU_LINE_2 = You must first select how you want to save the admin
+FRONT_MENU_LINE_3 = to uaio_admins.ini. Your choices are STEAM ID or IP.
+FRONT_MENU_LINE_4 = It is important to select the correct one for your server.
+MENU_TITLE_GROUP = Выбрать группу
+MENU_TITLE_TYPE = Добавить админское меню
+MENU_TITLE_PLAYER = Выбор админа
+SAVE_ADMIN = Сохранить админа
+SAVE_SUCC = Successfully added admin to admin file. Change map or restart server to load new admin.
+NEXT_GROUP = Следующий тип группы
+MORE = More...
+ON = Вкл
+OFF = Выкл
+BACK = Назад
+EXIT = Выход
+
+[nl]
+FILE_NOT_FOUND = Het bestand %s Kon niet gevonden worden.
+FRONT_MENU_LINE_1 = Dit is een menu om UAIO admins toe te voegen aan het admin menu.
+FRONT_MENU_LINE_2 = Je moet eerst kiezen hoe je admins wilt opslaan
+FRONT_MENU_LINE_3 = naar uaio_admins.ini. Je kunt kiezen uit SteamID of IP
+FRONT_MENU_LINE_4 = Het is belangrijk om de goede te kiezen voor jou server
+MENU_TITLE_GROUP = Kies groepen:
+MENU_TITLE_TYPE = UAIO voeg een admin toe menu:
+MENU_TITLE_PLAYER = KiesAdmin:
+SAVE_ADMIN = Admin Opslaan
+SAVE_SUCC = De admin is succesvol toegevoegd aan het bestand. Verander van map of herstart de server om de admin te laden.
+NEXT_GROUP = Volgende groep type
+MORE = Meer...
+ON = Aan
+OFF = Uit
+BACK = Terug
+
+[sv]
+FILE_NOT_FOUND = Filen %s Hittades ej.
+FRONT_MENU_LINE_1 = Det hдr 'a'r en meny f'o'r att l'a'gga till administrat'o'rer till
+FRONT_MENU_LINE_2 = UAIO Administrat'o'rs Menyn. Du mеste f'o'rst v'a'lja hur du vill
+FRONT_MENU_LINE_3 = spara administrat'o'ren i uaio_admins.ini. Dina val 'a'r STEAM ID
+FRONT_MENU_LINE_4 = eller IP. Det 'a'r viktigt att du v'a'ljer r'a'tt f'o'r din server.
+MENU_TITLE_GROUP = V'a'lj Grupper:
+MENU_TITLE_TYPE = UAIO Meny f'o'r att L'a'gga till administrat'o'r:
+MENU_TITLE_PLAYER = V'a'lj administrat'o'r:
+SAVE_ADMIN = Spara administrat'o'r
+SAVE_SUCC = Administrat'o'ren sparades i administrat'o'r filen utan problem. Byt bana eller starta om servern f'o'r att ladda administrat'o'ren.
+NEXT_GROUP = N'a'sta typ av grupp
+MORE = Mer...
+ON = Aktiverad
+OFF = Avaktiverad
+BACK = Tillbaka
+EXIT = St'a'ng
+EXIT = Sluiten

@@ -1,0 +1,226 @@
+L 04/03/2015 - 13:04:18: Log file started (file "logs/L0403019.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/03/2015 - 13:04:18: Loading map "$2000$"
+L 04/03/2015 - 13:04:18: Server cvars start
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_debug_level" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_examine_time" = "0.5"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_look_angle" = "10"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_look_distance" = "200"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_message_repeats" = "5"
+L 04/03/2015 - 13:04:18: Server cvar "_tutor_view_distance" = "1000"
+L 04/03/2015 - 13:04:18: Server cvar "aesp_version" = "1.5b_mini"
+L 04/03/2015 - 13:04:18: Server cvar "allow_spectators" = "4"
+L 04/03/2015 - 13:04:18: Server cvar "amx_client_languages" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/03/2015 - 13:04:18: Server cvar "amx_language" = "ru"
+L 04/03/2015 - 13:04:18: Server cvar "amx_nextmap" = "de_go_go_go"
+L 04/03/2015 - 13:04:18: Server cvar "amx_timeleft" = "23:24"
+L 04/03/2015 - 13:04:18: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/03/2015 - 13:04:18: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/03/2015 - 13:04:18: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Config" = "Loaded"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Replace" = "Failed"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Status" = "Loaded"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/03/2015 - 13:04:18: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/03/2015 - 13:04:18: Server cvar "coop" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "deathmatch" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "decalfrequency" = "9"
+L 04/03/2015 - 13:04:18: Server cvar "dp_version" = "0.9.391"
+L 04/03/2015 - 13:04:18: Server cvar "edgefriction" = "2"
+L 04/03/2015 - 13:04:18: Server cvar "hostage_debug" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "hostage_stop" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "humans_join_team" = "any"
+L 04/03/2015 - 13:04:18: Server cvar "jtp10181" = "chute,gore"
+L 04/03/2015 - 13:04:18: Server cvar "max_queries_sec" = "3.0"
+L 04/03/2015 - 13:04:18: Server cvar "max_queries_sec_global" = "30"
+L 04/03/2015 - 13:04:18: Server cvar "max_queries_window" = "60"
+L 04/03/2015 - 13:04:18: Server cvar "metamod_version" = "1.19"
+L 04/03/2015 - 13:04:18: Server cvar "mp_allowmonsters" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_autokick" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_autoteambalance" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_buytime" = "1.5"
+L 04/03/2015 - 13:04:18: Server cvar "mp_c4timer" = "35"
+L 04/03/2015 - 13:04:18: Server cvar "mp_chattime" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_consistency" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_fadetoblack" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_flashlight" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_footsteps" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_forcecamera" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_forcechasecam" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_fragsleft" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_freezetime" = "5"
+L 04/03/2015 - 13:04:18: Server cvar "mp_friendlyfire" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_hostagepenalty" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_kickpercent" = "0.66"
+L 04/03/2015 - 13:04:18: Server cvar "mp_limitteams" = "5"
+L 04/03/2015 - 13:04:18: Server cvar "mp_logdetail" = "3"
+L 04/03/2015 - 13:04:18: Server cvar "mp_logfile" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_logmessages" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/03/2015 - 13:04:18: Server cvar "mp_maxrounds" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_mirrordamage" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_playerid" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_roundtime" = "2.57"
+L 04/03/2015 - 13:04:18: Server cvar "mp_startmoney" = "800"
+L 04/03/2015 - 13:04:18: Server cvar "mp_timeleft" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "mp_timelimit" = "30"
+L 04/03/2015 - 13:04:18: Server cvar "mp_tkpunish" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_windifference" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "mp_winlimit" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "pausable" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_accelerate" = "5"
+L 04/03/2015 - 13:04:18: Server cvar "sv_aim" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_airaccelerate" = "10"
+L 04/03/2015 - 13:04:18: Server cvar "sv_airmove" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "sv_allowupload" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "sv_alltalk" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_bounce" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "sv_cheats" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_clienttrace" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "sv_clipmode" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_contact" = ""
+L 04/03/2015 - 13:04:18: Server cvar "sv_friction" = "4"
+L 04/03/2015 - 13:04:18: Server cvar "sv_gravity" = "800"
+L 04/03/2015 - 13:04:18: Server cvar "sv_logblocks" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_maxrate" = "25000"
+L 04/03/2015 - 13:04:18: Server cvar "sv_maxspeed" = "900"
+L 04/03/2015 - 13:04:18: Server cvar "sv_minrate" = "100000"
+L 04/03/2015 - 13:04:18: Server cvar "sv_password" = ""
+L 04/03/2015 - 13:04:18: Server cvar "sv_proxies" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_region" = "3"
+L 04/03/2015 - 13:04:18: Server cvar "sv_restart" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_restartround" = "0"
+L 04/03/2015 - 13:04:18: Server cvar "sv_stepsize" = "18"
+L 04/03/2015 - 13:04:18: Server cvar "sv_stopspeed" = "75"
+L 04/03/2015 - 13:04:18: Server cvar "sv_uploadmax" = "0.5"
+L 04/03/2015 - 13:04:18: Server cvar "sv_voiceenable" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "sv_wateraccelerate" = "10"
+L 04/03/2015 - 13:04:18: Server cvar "sv_waterfriction" = "1"
+L 04/03/2015 - 13:04:18: Server cvar "travo_statmarquee" = "v1.2"
+L 04/03/2015 - 13:04:18: Server cvar "vtc_version" = "80"
+L 04/03/2015 - 13:04:18: Server cvar "wallblocker_version" = "1.0"
+L 04/03/2015 - 13:04:18: Server cvars end
+L 04/03/2015 - 13:04:19: Server cvar "amx_nextmap" = "aim_ak-colt"
+L 04/03/2015 - 13:04:19: Server cvar "sv_restart" = "1"
+L 04/03/2015 - 13:04:19: World triggered "Restart_Round_(1_second)"
+L 04/03/2015 - 13:04:19: Team "CT" scored "0" with "0" players
+L 04/03/2015 - 13:04:19: Team "TERRORIST" scored "0" with "0" players
+L 04/03/2015 - 13:04:19: Server cvar "sv_restart" = "0"
+L 04/03/2015 - 13:04:19: Started map "$2000$" (CRC "-1688392397")
+L 04/03/2015 - 13:04:24: World triggered "Round_Start"
+L 04/03/2015 - 13:05:04: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39477b4
+L 04/03/2015 - 13:05:04: "Player<46><STEAM_0:1:113150434><>" connected, address "178.172.151.48:27005"
+L 04/03/2015 - 13:05:05: [VTC] Player 8 silk
+L 04/03/2015 - 13:05:05: "Player<46><STEAM_0:1:113150434><>" STEAM USERID validated
+L 04/03/2015 - 13:05:08: "Player<46><STEAM_0:1:113150434><>" entered the game
+L 04/03/2015 - 13:05:11: "Player<46><STEAM_0:1:113150434><>" joined team "CT"
+L 04/03/2015 - 13:05:59: Kick: "Player<46><STEAM_0:1:113150434><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 04/03/2015 - 13:05:59: "Player<46><STEAM_0:1:113150434><CT>" triggered "time" (time "0:50")
+L 04/03/2015 - 13:05:59: "Player<46><STEAM_0:1:113150434><CT>" triggered "latency" (ping "22")
+L 04/03/2015 - 13:05:59: "Player<46><STEAM_0:1:113150434><CT>" disconnected
+L 04/03/2015 - 13:05:59: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/03/2015 - 13:05:59: World triggered "Round_End"
+L 04/03/2015 - 13:06:09: World triggered "Round_Start"
+L 04/03/2015 - 13:06:18: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39477b4
+L 04/03/2015 - 13:06:18: "Player<47><STEAM_0:1:113150434><>" connected, address "178.172.151.48:27005"
+L 04/03/2015 - 13:06:18: [VTC] Player 8 silk
+L 04/03/2015 - 13:06:19: "Player<47><STEAM_0:1:113150434><>" STEAM USERID validated
+L 04/03/2015 - 13:06:19: Kick: "Player<47><STEAM_0:1:113150434><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 04/03/2015 - 13:10:48: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39477b4
+L 04/03/2015 - 13:10:48: "Player<48><STEAM_0:1:113150434><>" connected, address "178.172.151.48:27005"
+L 04/03/2015 - 13:10:48: [VTC] Player 8 silk
+L 04/03/2015 - 13:10:49: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3924f08
+L 04/03/2015 - 13:10:49: "VLG*OKT*<49><STEAM_0:4:433618038><>" connected, address "85.26.236.154:14726"
+L 04/03/2015 - 13:10:49: "Player<48><STEAM_0:1:113150434><>" STEAM USERID validated
+L 04/03/2015 - 13:10:49: [VTC] Player 1 speex
+L 04/03/2015 - 13:10:49: Kick: "Player<48><STEAM_0:1:113150434><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 04/03/2015 - 13:10:57: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39477b4
+L 04/03/2015 - 13:10:57: "Player<50><STEAM_0:1:113150434><>" connected, address "178.172.151.48:27005"
+L 04/03/2015 - 13:10:57: [VTC] Player 8 silk
+L 04/03/2015 - 13:10:58: "Player<50><STEAM_0:1:113150434><>" STEAM USERID validated
+L 04/03/2015 - 13:11:00: "Player<50><STEAM_0:1:113150434><>" entered the game
+L 04/03/2015 - 13:11:02: "Player<50><STEAM_0:1:113150434><>" joined team "CT"
+L 04/03/2015 - 13:11:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3924f08
+L 04/03/2015 - 13:11:31: "VLG*OKT*<51><STEAM_0:4:433618038><>" connected, address "85.26.236.154:14726"
+L 04/03/2015 - 13:11:31: [VTC] Player 1 speex
+L 04/03/2015 - 13:11:36: "VLG*OKT*<51><STEAM_0:4:433618038><>" entered the game
+L 04/03/2015 - 13:11:42: "VLG*OKT*<51><STEAM_0:4:433618038><>" joined team "TERRORIST"
+L 04/03/2015 - 13:11:42: World triggered "Game_Commencing"
+L 04/03/2015 - 13:11:42: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/03/2015 - 13:11:42: World triggered "Round_End"
+L 04/03/2015 - 13:11:43: Kick: "Player<50><STEAM_0:1:113150434><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 04/03/2015 - 13:11:43: "Player<50><STEAM_0:1:113150434><CT>" triggered "time" (time "0:42")
+L 04/03/2015 - 13:11:43: "Player<50><STEAM_0:1:113150434><CT>" triggered "latency" (ping "36")
+L 04/03/2015 - 13:11:43: "Player<50><STEAM_0:1:113150434><CT>" disconnected
+L 04/03/2015 - 13:11:50: World triggered "Round_Start"
+L 04/03/2015 - 13:14:24: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3929dfc
+L 04/03/2015 - 13:14:24: "satur<52><STEAM_0:4:1813859588><>" connected, address "176.120.102.113:27005"
+L 04/03/2015 - 13:14:25: [VTC] Player 2 speex
+L 04/03/2015 - 13:15:05: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3929dfc
+L 04/03/2015 - 13:15:05: "satur<53><STEAM_0:4:1813859588><>" connected, address "176.120.102.113:27005"
+L 04/03/2015 - 13:15:06: [VTC] Player 2 speex
+L 04/03/2015 - 13:15:19: "satur<53><STEAM_0:4:1813859588><>" entered the game
+L 04/03/2015 - 13:15:25: "satur<53><STEAM_0:4:1813859588><>" joined team "CT"
+L 04/03/2015 - 13:15:33: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" attacked "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/03/2015 - 13:15:33: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" attacked "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/03/2015 - 13:15:33: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" attacked "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 04/03/2015 - 13:15:33: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" attacked "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 04/03/2015 - 13:15:33: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" killed "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1"
+L 04/03/2015 - 13:15:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/03/2015 - 13:15:33: World triggered "Round_End"
+L 04/03/2015 - 13:15:43: World triggered "Round_Start"
+L 04/03/2015 - 13:15:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" attacked "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/03/2015 - 13:15:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" killed "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1"
+L 04/03/2015 - 13:15:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/03/2015 - 13:15:51: World triggered "Round_End"
+L 04/03/2015 - 13:16:01: World triggered "Round_Start"
+L 04/03/2015 - 13:16:26: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" attacked "satur<53><STEAM_0:4:1813859588><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/03/2015 - 13:16:26: "satur<53><STEAM_0:4:1813859588><CT>" attacked "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/03/2015 - 13:16:26: "satur<53><STEAM_0:4:1813859588><CT>" killed "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" with "ak47"
+L 04/03/2015 - 13:16:26: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 04/03/2015 - 13:16:26: World triggered "Round_End"
+L 04/03/2015 - 13:16:36: World triggered "Round_Start"
+L 04/03/2015 - 13:16:46: "satur<53><STEAM_0:4:1813859588><CT>" attacked "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/03/2015 - 13:16:46: "satur<53><STEAM_0:4:1813859588><CT>" killed "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" with "ak47"
+L 04/03/2015 - 13:16:46: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 04/03/2015 - 13:16:46: World triggered "Round_End"
+L 04/03/2015 - 13:16:49: Kick: "satur<53><STEAM_0:4:1813859588><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" triggered "weaponstats" (weapon "ak47") (shots "21") (hits "2") (kills "2") (headshots "2") (tks "0") (damage "276") (deaths "0")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" triggered "time" (time "1:30")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" triggered "latency" (ping "155")
+L 04/03/2015 - 13:16:49: "satur<53><STEAM_0:4:1813859588><CT>" disconnected
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "51") (deaths "1")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "54") (hits "6") (kills "2") (headshots "1") (tks "0") (damage "281") (deaths "1")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "3") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "time" (time "5:14")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" triggered "latency" (ping "84")
+L 04/03/2015 - 13:16:51: "VLG*OKT*<51><STEAM_0:4:433618038><TERRORIST>" disconnected
+L 04/03/2015 - 13:16:51: World triggered "Round_Draw" (CT "2") (T "2")
+L 04/03/2015 - 13:16:51: World triggered "Round_End"
+L 04/03/2015 - 13:16:56: World triggered "Round_Start"
+L 04/03/2015 - 13:17:01: World triggered "Round_Start"
+L 04/03/2015 - 13:18:09: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3924f08
+L 04/03/2015 - 13:18:09: "Kaban<54><STEAM_0:4:599156541><>" connected, address "194.44.48.238:27005"
+L 04/03/2015 - 13:18:10: [VTC] Player 1 speex
+L 04/03/2015 - 13:18:45: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/03/2015 - 13:18:45: [META] ini: Read plugin config for: AMX Mod X
+L 04/03/2015 - 13:18:45: [META] ini: Read plugin config for: dproto_EF
+L 04/03/2015 - 13:18:45: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/03/2015 - 13:18:45: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/03/2015 - 13:18:45: [META] dll: Updating plugins...
+L 04/03/2015 - 13:18:45: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/03/2015 - 13:18:45: Log file closed

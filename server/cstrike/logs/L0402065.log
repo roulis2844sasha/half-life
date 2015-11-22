@@ -1,0 +1,936 @@
+L 04/02/2015 - 21:00:31: Log file started (file "logs/L0402065.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/02/2015 - 21:00:31: Loading map "awp_india"
+L 04/02/2015 - 21:00:31: Server cvars start
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_debug_level" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_examine_time" = "0.5"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_look_angle" = "10"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_look_distance" = "200"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_message_repeats" = "5"
+L 04/02/2015 - 21:00:31: Server cvar "_tutor_view_distance" = "1000"
+L 04/02/2015 - 21:00:31: Server cvar "aesp_version" = "1.5b_mini"
+L 04/02/2015 - 21:00:31: Server cvar "allow_spectators" = "4"
+L 04/02/2015 - 21:00:31: Server cvar "amx_client_languages" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/02/2015 - 21:00:31: Server cvar "amx_language" = "ru"
+L 04/02/2015 - 21:00:31: Server cvar "amx_nextmap" = "awp_india"
+L 04/02/2015 - 21:00:31: Server cvar "amx_timeleft" = "00:00"
+L 04/02/2015 - 21:00:31: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/02/2015 - 21:00:31: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/02/2015 - 21:00:31: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Config" = "Loaded"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Replace" = "Failed"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Status" = "Loaded"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/02/2015 - 21:00:31: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/02/2015 - 21:00:31: Server cvar "coop" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "deathmatch" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "decalfrequency" = "9"
+L 04/02/2015 - 21:00:31: Server cvar "dp_version" = "0.9.391"
+L 04/02/2015 - 21:00:31: Server cvar "edgefriction" = "2"
+L 04/02/2015 - 21:00:31: Server cvar "hostage_debug" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "hostage_stop" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "humans_join_team" = "any"
+L 04/02/2015 - 21:00:31: Server cvar "jtp10181" = "chute,gore"
+L 04/02/2015 - 21:00:31: Server cvar "max_queries_sec" = "3.0"
+L 04/02/2015 - 21:00:31: Server cvar "max_queries_sec_global" = "30"
+L 04/02/2015 - 21:00:31: Server cvar "max_queries_window" = "60"
+L 04/02/2015 - 21:00:31: Server cvar "metamod_version" = "1.19"
+L 04/02/2015 - 21:00:31: Server cvar "mp_allowmonsters" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_autokick" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_autoteambalance" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_buytime" = "1.5"
+L 04/02/2015 - 21:00:31: Server cvar "mp_c4timer" = "35"
+L 04/02/2015 - 21:00:31: Server cvar "mp_chattime" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_consistency" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_fadetoblack" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_flashlight" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_footsteps" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_forcecamera" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_forcechasecam" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_fragsleft" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_freezetime" = "5"
+L 04/02/2015 - 21:00:31: Server cvar "mp_friendlyfire" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_hostagepenalty" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_kickpercent" = "0.66"
+L 04/02/2015 - 21:00:31: Server cvar "mp_limitteams" = "5"
+L 04/02/2015 - 21:00:31: Server cvar "mp_logdetail" = "3"
+L 04/02/2015 - 21:00:31: Server cvar "mp_logfile" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_logmessages" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/02/2015 - 21:00:31: Server cvar "mp_maxrounds" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_mirrordamage" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_playerid" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_roundtime" = "2.57"
+L 04/02/2015 - 21:00:31: Server cvar "mp_startmoney" = "800"
+L 04/02/2015 - 21:00:31: Server cvar "mp_timeleft" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "mp_timelimit" = "30.000000"
+L 04/02/2015 - 21:00:31: Server cvar "mp_tkpunish" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_windifference" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "mp_winlimit" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "pausable" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_accelerate" = "5"
+L 04/02/2015 - 21:00:31: Server cvar "sv_aim" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_airaccelerate" = "10"
+L 04/02/2015 - 21:00:31: Server cvar "sv_airmove" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "sv_allowupload" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "sv_alltalk" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_bounce" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "sv_cheats" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_clienttrace" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "sv_clipmode" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_contact" = ""
+L 04/02/2015 - 21:00:31: Server cvar "sv_friction" = "4"
+L 04/02/2015 - 21:00:31: Server cvar "sv_gravity" = "800"
+L 04/02/2015 - 21:00:31: Server cvar "sv_logblocks" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_maxrate" = "25000"
+L 04/02/2015 - 21:00:31: Server cvar "sv_maxspeed" = "900"
+L 04/02/2015 - 21:00:31: Server cvar "sv_minrate" = "100000"
+L 04/02/2015 - 21:00:31: Server cvar "sv_password" = ""
+L 04/02/2015 - 21:00:31: Server cvar "sv_proxies" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_region" = "3"
+L 04/02/2015 - 21:00:31: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_restartround" = "0"
+L 04/02/2015 - 21:00:31: Server cvar "sv_stepsize" = "18"
+L 04/02/2015 - 21:00:31: Server cvar "sv_stopspeed" = "75"
+L 04/02/2015 - 21:00:31: Server cvar "sv_uploadmax" = "0.5"
+L 04/02/2015 - 21:00:31: Server cvar "sv_voiceenable" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "sv_wateraccelerate" = "10"
+L 04/02/2015 - 21:00:31: Server cvar "sv_waterfriction" = "1"
+L 04/02/2015 - 21:00:31: Server cvar "travo_statmarquee" = "v1.2"
+L 04/02/2015 - 21:00:31: Server cvar "vtc_version" = "80"
+L 04/02/2015 - 21:00:31: Server cvar "wallblocker_version" = "1.0"
+L 04/02/2015 - 21:00:31: Server cvars end
+L 04/02/2015 - 21:00:32: Server cvar "amx_nextmap" = "aim_awp"
+L 04/02/2015 - 21:00:32: Server cvar "sv_restart" = "1"
+L 04/02/2015 - 21:00:32: World triggered "Restart_Round_(1_second)"
+L 04/02/2015 - 21:00:32: Team "CT" scored "0" with "0" players
+L 04/02/2015 - 21:00:32: Team "TERRORIST" scored "0" with "0" players
+L 04/02/2015 - 21:00:32: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 21:00:32: Started map "awp_india" (CRC "534917220")
+L 04/02/2015 - 21:00:32: [VTC] Player 4 speex
+L 04/02/2015 - 21:00:32: [VTC] Player 2 speex
+L 04/02/2015 - 21:00:32: [VTC] Player 6 speex
+L 04/02/2015 - 21:00:32: [VTC] Player 5 speex
+L 04/02/2015 - 21:00:32: [VTC] Player 7 speex
+L 04/02/2015 - 21:00:32: [VTC] Player 3 speex
+L 04/02/2015 - 21:00:33: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:00:33: "walter_skot<383><STEAM_0:4:1889179083><>" connected, address "46.201.105.72:27005"
+L 04/02/2015 - 21:00:33: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 21:00:33: "To4ka<384><STEAM_0:4:1201589637><>" connected, address "178.121.97.38:62597"
+L 04/02/2015 - 21:00:34: [VTC] Player 4 speex
+L 04/02/2015 - 21:00:34: [VTC] Player 1 speex
+L 04/02/2015 - 21:00:34: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 04/02/2015 - 21:00:34: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><>" connected, address "178.120.191.245:40785"
+L 04/02/2015 - 21:00:34: [VTC] Player 5 speex
+L 04/02/2015 - 21:00:35: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 21:00:35: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><>" connected, address "178.123.248.44:27005"
+L 04/02/2015 - 21:00:35: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 21:00:35: "AIMPOWER* myP<387><STEAM_0:4:1767286533><>" connected, address "178.172.241.123:33089"
+L 04/02/2015 - 21:00:35: [VTC] Player 7 speex
+L 04/02/2015 - 21:00:35: [VTC] Player 2 speex
+L 04/02/2015 - 21:00:35: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><>" entered the game
+L 04/02/2015 - 21:00:36: "To4ka<384><STEAM_0:4:1201589637><>" entered the game
+L 04/02/2015 - 21:00:37: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><>" entered the game
+L 04/02/2015 - 21:00:37: World triggered "Round_Start"
+L 04/02/2015 - 21:00:37: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><>" entered the game
+L 04/02/2015 - 21:00:38: "AIMPOWER* myP<387><STEAM_0:4:1767286533><>" entered the game
+L 04/02/2015 - 21:00:39: "AIMPOWER* myP<387><STEAM_0:4:1767286533><>" joined team "CT"
+L 04/02/2015 - 21:00:40: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><>" joined team "CT"
+L 04/02/2015 - 21:00:40: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b79cc
+L 04/02/2015 - 21:00:40: "Strikes<388><STEAM_0:4:1604275204><>" connected, address "176.122.98.22:27005"
+L 04/02/2015 - 21:00:40: [VTC] Player 6 speex
+L 04/02/2015 - 21:00:40: "To4ka<384><STEAM_0:4:1201589637><>" joined team "TERRORIST"
+L 04/02/2015 - 21:00:40: World triggered "Game_Commencing"
+L 04/02/2015 - 21:00:40: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/02/2015 - 21:00:40: World triggered "Round_End"
+L 04/02/2015 - 21:00:41: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><>" joined team "CT"
+L 04/02/2015 - 21:00:42: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><>" joined team "TERRORIST"
+L 04/02/2015 - 21:00:42: "walter_skot<383><STEAM_0:4:1889179083><>" entered the game
+L 04/02/2015 - 21:00:43: "Strikes<388><STEAM_0:4:1604275204><>" entered the game
+L 04/02/2015 - 21:00:48: "Strikes<388><STEAM_0:4:1604275204><>" joined team "TERRORIST"
+L 04/02/2015 - 21:00:48: World triggered "Round_Start"
+L 04/02/2015 - 21:00:51: "walter_skot<383><STEAM_0:4:1889179083><>" joined team "TERRORIST"
+L 04/02/2015 - 21:00:52: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:00:52: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:00:54: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:00:54: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:00:57: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:00:57: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp"
+L 04/02/2015 - 21:01:03: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:01:03: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:01:03: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/02/2015 - 21:01:03: World triggered "Round_End"
+L 04/02/2015 - 21:01:13: World triggered "Round_Start"
+L 04/02/2015 - 21:01:16: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/02/2015 - 21:01:16: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:01:19: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 04/02/2015 - 21:01:26: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:01:26: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:01:28: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:01:28: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:01:37: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/02/2015 - 21:01:37: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" with "awp"
+L 04/02/2015 - 21:01:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 04/02/2015 - 21:01:37: World triggered "Round_End"
+L 04/02/2015 - 21:01:47: World triggered "Round_Start"
+L 04/02/2015 - 21:01:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" attacked "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:01:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" killed "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" with "awp"
+L 04/02/2015 - 21:01:49: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:01:49: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" with "awp"
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" triggered "weaponstats" (weapon "awp") (shots "9") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "107") (deaths "2")
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" triggered "time" (time "1:12")
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" triggered "latency" (ping "24")
+L 04/02/2015 - 21:01:50: "AIMPOWER* myP<387><STEAM_0:4:1767286533><CT>" disconnected
+L 04/02/2015 - 21:01:51: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:01:51: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:01:59: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/02/2015 - 21:01:59: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:01:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/02/2015 - 21:01:59: World triggered "Round_End"
+L 04/02/2015 - 21:02:09: World triggered "Round_Start"
+L 04/02/2015 - 21:02:10: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:02:10: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:02:12: Kick: "walter_skot<383><STEAM_0:4:1889179083><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 21:02:12: "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 21:02:12: "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:02:12: "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" triggered "time" (time "1:30")
+L 04/02/2015 - 21:02:12: "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" triggered "latency" (ping "131")
+L 04/02/2015 - 21:02:12: "walter_skot<383><STEAM_0:4:1889179083><TERRORIST>" disconnected
+L 04/02/2015 - 21:02:15: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:02:15: "walter_skot<389><STEAM_0:4:1889179083><>" connected, address "46.201.105.72:27005"
+L 04/02/2015 - 21:02:15: Kick: "walter_skot<389><STEAM_0:4:1889179083><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 17 секунд"")
+L 04/02/2015 - 21:02:17: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:02:17: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:02:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 04/02/2015 - 21:02:17: World triggered "Round_End"
+L 04/02/2015 - 21:02:26: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:02:26: "walter_skot<390><STEAM_0:4:1889179083><>" connected, address "46.201.105.72:27005"
+L 04/02/2015 - 21:02:27: Kick: "walter_skot<390><STEAM_0:4:1889179083><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 6 секунд"")
+L 04/02/2015 - 21:02:27: World triggered "Round_Start"
+L 04/02/2015 - 21:02:27: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:02:27: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:02:27: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "78") (damage_armor "2") (health "22") (armor "98")
+L 04/02/2015 - 21:02:27: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:02:27: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:02:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:02:31: "walter_skot<391><STEAM_0:4:1889179083><>" connected, address "46.201.105.72:27005"
+L 04/02/2015 - 21:02:31: Kick: "walter_skot<391><STEAM_0:4:1889179083><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 1 секунд"")
+L 04/02/2015 - 21:02:36: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "109") (damage_armor "1") (health "-87") (armor "97")
+L 04/02/2015 - 21:02:36: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:02:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 04/02/2015 - 21:02:36: World triggered "Round_End"
+L 04/02/2015 - 21:02:46: World triggered "Round_Start"
+L 04/02/2015 - 21:02:47: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "78") (damage_armor "2") (health "22") (armor "98")
+L 04/02/2015 - 21:02:47: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:02:47: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp"
+L 04/02/2015 - 21:02:47: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:02:47: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:02:47: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 04/02/2015 - 21:02:49: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:02:49: "walter_skot<392><STEAM_0:4:1889179083><>" connected, address "46.201.105.72:27005"
+L 04/02/2015 - 21:02:50: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "1") (health "-84") (armor "97")
+L 04/02/2015 - 21:02:50: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:02:50: [VTC] Player 1 speex
+L 04/02/2015 - 21:02:50: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "52") (damage_armor "1") (health "-30") (armor "98")
+L 04/02/2015 - 21:02:50: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:02:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 04/02/2015 - 21:02:50: World triggered "Round_End"
+L 04/02/2015 - 21:02:58: "walter_skot<392><STEAM_0:4:1889179083><>" entered the game
+L 04/02/2015 - 21:03:00: World triggered "Round_Start"
+L 04/02/2015 - 21:03:03: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:03:03: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:03:04: "walter_skot<392><STEAM_0:4:1889179083><>" joined team "CT"
+L 04/02/2015 - 21:03:12: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "136") (damage_armor "2") (health "-58") (armor "98")
+L 04/02/2015 - 21:03:12: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:03:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 04/02/2015 - 21:03:12: World triggered "Round_End"
+L 04/02/2015 - 21:03:22: World triggered "Round_Start"
+L 04/02/2015 - 21:03:23: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/02/2015 - 21:03:23: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp"
+L 04/02/2015 - 21:03:24: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:03:24: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:03:30: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:03:30: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:03:33: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:03:33: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:03:33: Team "CT" triggered "CTs_Win" (CT "2") (T "6")
+L 04/02/2015 - 21:03:33: World triggered "Round_End"
+L 04/02/2015 - 21:03:43: World triggered "Round_Start"
+L 04/02/2015 - 21:03:45: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:03:45: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" with "awp"
+L 04/02/2015 - 21:03:46: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:03:46: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:03:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "23") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "322") (deaths "4")
+L 04/02/2015 - 21:03:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:03:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" triggered "time" (time "3:10")
+L 04/02/2015 - 21:03:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" triggered "latency" (ping "28")
+L 04/02/2015 - 21:03:47: "[TOP-MS] FANAT CAXAPA<385><STEAM_0:4:779209989><TERRORIST>" disconnected
+L 04/02/2015 - 21:03:55: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "walter_skot<392><STEAM_0:4:1889179083><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:03:55: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "walter_skot<392><STEAM_0:4:1889179083><CT>" with "awp"
+L 04/02/2015 - 21:03:55: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:03:55: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:03:55: Team "CT" triggered "CTs_Win" (CT "3") (T "6")
+L 04/02/2015 - 21:03:55: World triggered "Round_End"
+L 04/02/2015 - 21:04:05: World triggered "Round_Start"
+L 04/02/2015 - 21:04:05: "walter_skot<392><STEAM_0:4:1889179083><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:04:05: "walter_skot<392><STEAM_0:4:1889179083><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:04:18: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "walter_skot<392><STEAM_0:4:1889179083><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:04:18: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "walter_skot<392><STEAM_0:4:1889179083><CT>" with "awp"
+L 04/02/2015 - 21:04:19: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:04:19: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:04:19: Team "CT" triggered "CTs_Win" (CT "4") (T "6")
+L 04/02/2015 - 21:04:19: World triggered "Round_End"
+L 04/02/2015 - 21:04:28: Kick: "walter_skot<392><STEAM_0:4:1889179083><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 21:04:28: "walter_skot<392><STEAM_0:4:1889179083><CT>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "429") (deaths "2")
+L 04/02/2015 - 21:04:28: "walter_skot<392><STEAM_0:4:1889179083><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:04:28: "walter_skot<392><STEAM_0:4:1889179083><CT>" triggered "time" (time "1:30")
+L 04/02/2015 - 21:04:28: "walter_skot<392><STEAM_0:4:1889179083><CT>" triggered "latency" (ping "164")
+L 04/02/2015 - 21:04:28: "walter_skot<392><STEAM_0:4:1889179083><CT>" disconnected
+L 04/02/2015 - 21:04:29: World triggered "Round_Start"
+L 04/02/2015 - 21:04:29: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:04:29: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:04:29: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "60") (damage_armor "0") (health "40") (armor "100")
+L 04/02/2015 - 21:04:31: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:04:31: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:04:34: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 04/02/2015 - 21:04:34: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:04:34: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 04/02/2015 - 21:04:34: World triggered "Round_End"
+L 04/02/2015 - 21:04:44: World triggered "Round_Start"
+L 04/02/2015 - 21:04:47: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:04:47: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:04:50: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:04:50: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:04:50: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 04/02/2015 - 21:04:50: World triggered "Round_End"
+L 04/02/2015 - 21:05:00: World triggered "Round_Start"
+L 04/02/2015 - 21:05:01: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "131") (damage_armor "2") (health "-31") (armor "98")
+L 04/02/2015 - 21:05:01: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:05:01: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:05:01: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:05:12: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/02/2015 - 21:05:12: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:05:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "7")
+L 04/02/2015 - 21:05:12: World triggered "Round_End"
+L 04/02/2015 - 21:05:22: World triggered "Round_Start"
+L 04/02/2015 - 21:05:30: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:05:30: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:05:37: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:05:37: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:05:37: Team "CT" triggered "CTs_Win" (CT "7") (T "7")
+L 04/02/2015 - 21:05:37: World triggered "Round_End"
+L 04/02/2015 - 21:05:38: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:05:38: "walter_skot<393><STEAM_0:4:1889179083><>" connected, address "46.201.105.72:27005"
+L 04/02/2015 - 21:05:39: [VTC] Player 1 speex
+L 04/02/2015 - 21:05:45: "walter_skot<393><STEAM_0:4:1889179083><>" entered the game
+L 04/02/2015 - 21:05:47: World triggered "Round_Start"
+L 04/02/2015 - 21:05:51: "walter_skot<393><STEAM_0:4:1889179083><>" joined team "TERRORIST"
+L 04/02/2015 - 21:05:53: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/02/2015 - 21:05:54: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:05:54: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" with "awp"
+L 04/02/2015 - 21:05:57: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:05:57: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:05:59: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "36") (hits "10") (kills "10") (headshots "1") (tks "0") (damage "1384") (deaths "7")
+L 04/02/2015 - 21:05:59: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "1") (leftarm "7") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:05:59: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" triggered "time" (time "5:23")
+L 04/02/2015 - 21:05:59: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" triggered "latency" (ping "46")
+L 04/02/2015 - 21:05:59: "To4ka<384><STEAM_0:4:1201589637><TERRORIST>" disconnected
+L 04/02/2015 - 21:06:00: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-382") (armor "93")
+L 04/02/2015 - 21:06:00: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:06:25: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 04/02/2015 - 21:06:31: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-66") (armor "93")
+L 04/02/2015 - 21:06:31: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp"
+L 04/02/2015 - 21:06:31: Team "CT" triggered "CTs_Win" (CT "8") (T "7")
+L 04/02/2015 - 21:06:31: World triggered "Round_End"
+L 04/02/2015 - 21:06:41: World triggered "Round_Start"
+L 04/02/2015 - 21:06:43: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:06:43: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:06:45: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 21:06:45: "(BlackWhite)Max<394><STEAM_0:4:1364630731><>" connected, address "46.219.241.11:8723"
+L 04/02/2015 - 21:06:45: [VTC] Player 2 speex
+L 04/02/2015 - 21:06:55: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/02/2015 - 21:06:58: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-89") (armor "97")
+L 04/02/2015 - 21:06:58: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp"
+L 04/02/2015 - 21:06:58: Team "CT" triggered "CTs_Win" (CT "9") (T "7")
+L 04/02/2015 - 21:06:58: World triggered "Round_End"
+L 04/02/2015 - 21:07:08: World triggered "Round_Start"
+L 04/02/2015 - 21:07:10: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:07:10: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" with "awp"
+L 04/02/2015 - 21:07:11: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 04/02/2015 - 21:07:11: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:07:11: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:07:11: Team "CT" triggered "CTs_Win" (CT "10") (T "7")
+L 04/02/2015 - 21:07:11: World triggered "Round_End"
+L 04/02/2015 - 21:07:14: Kick: "walter_skot<393><STEAM_0:4:1889179083><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" triggered "time" (time "1:30")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" triggered "latency" (ping "133")
+L 04/02/2015 - 21:07:14: "walter_skot<393><STEAM_0:4:1889179083><TERRORIST>" disconnected
+L 04/02/2015 - 21:07:19: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:07:19: "(BlackWhite) Roma<395><STEAM_0:4:125143923><>" connected, address "94.244.183.167:27005"
+L 04/02/2015 - 21:07:19: [VTC] Player 1 speex
+L 04/02/2015 - 21:07:21: World triggered "Round_Start"
+L 04/02/2015 - 21:07:29: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:07:29: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:07:29: Team "CT" triggered "CTs_Win" (CT "11") (T "7")
+L 04/02/2015 - 21:07:29: World triggered "Round_End"
+L 04/02/2015 - 21:07:39: World triggered "Round_Start"
+L 04/02/2015 - 21:07:47: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:07:47: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:07:47: Team "CT" triggered "CTs_Win" (CT "12") (T "7")
+L 04/02/2015 - 21:07:47: World triggered "Round_End"
+L 04/02/2015 - 21:07:57: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 21:07:57: "(BlackWhite) Roma<396><STEAM_0:4:125143923><>" connected, address "94.244.183.167:27005"
+L 04/02/2015 - 21:07:57: World triggered "Round_Start"
+L 04/02/2015 - 21:07:57: [VTC] Player 1 speex
+L 04/02/2015 - 21:08:00: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:08:00: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:08:00: Team "CT" triggered "CTs_Win" (CT "13") (T "7")
+L 04/02/2015 - 21:08:00: World triggered "Round_End"
+L 04/02/2015 - 21:08:03: "(BlackWhite) Roma<396><STEAM_0:4:125143923><>" entered the game
+L 04/02/2015 - 21:08:07: "(BlackWhite) Roma<396><STEAM_0:4:125143923><>" joined team "TERRORIST"
+L 04/02/2015 - 21:08:10: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 21:08:10: "(BlackWhite)Max<397><STEAM_0:4:1364630731><>" connected, address "46.219.241.11:9142"
+L 04/02/2015 - 21:08:10: World triggered "Round_Start"
+L 04/02/2015 - 21:08:10: [VTC] Player 2 speex
+L 04/02/2015 - 21:08:19: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:08:19: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:08:20: "(BlackWhite)Max<397><STEAM_0:4:1364630731><>" entered the game
+L 04/02/2015 - 21:08:20: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 04/02/2015 - 21:08:20: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:08:21: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:08:21: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:08:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "8")
+L 04/02/2015 - 21:08:21: World triggered "Round_End"
+L 04/02/2015 - 21:08:24: "(BlackWhite)Max<397><STEAM_0:4:1364630731><>" joined team "CT"
+L 04/02/2015 - 21:08:28: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 21:08:28: "dugors.051<398><STEAM_0:0:1637747130><>" connected, address "212.90.63.137:10895"
+L 04/02/2015 - 21:08:28: [VTC] Player 4 speex
+L 04/02/2015 - 21:08:31: World triggered "Round_Start"
+L 04/02/2015 - 21:08:38: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 21:08:38: "dugors.051<399><STEAM_0:0:1637747130><>" connected, address "212.90.63.137:10895"
+L 04/02/2015 - 21:08:38: [VTC] Player 4 speex
+L 04/02/2015 - 21:08:38: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:08:38: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:08:41: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 04/02/2015 - 21:08:41: "[BLR]Marjina Gorka<400><STEAM_0:4:320196485><>" connected, address "178.125.119.143:27005"
+L 04/02/2015 - 21:08:42: [VTC] Player 5 speex
+L 04/02/2015 - 21:08:43: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 04/02/2015 - 21:08:43: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:08:44: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 04/02/2015 - 21:08:44: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><>" connected, address "178.125.119.143:27005"
+L 04/02/2015 - 21:08:44: [VTC] Player 5 speex
+L 04/02/2015 - 21:08:48: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><>" entered the game
+L 04/02/2015 - 21:08:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:08:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:08:49: Team "CT" triggered "CTs_Win" (CT "14") (T "8")
+L 04/02/2015 - 21:08:49: World triggered "Round_End"
+L 04/02/2015 - 21:08:49: "dugors.051<399><STEAM_0:0:1637747130><>" entered the game
+L 04/02/2015 - 21:08:52: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><>" joined team "TERRORIST"
+L 04/02/2015 - 21:08:54: "dugors.051<399><STEAM_0:0:1637747130><>" joined team "TERRORIST"
+L 04/02/2015 - 21:08:59: World triggered "Round_Start"
+L 04/02/2015 - 21:09:00: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:09:00: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:09:03: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:09:03: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:09:06: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "138") (damage_armor "2") (health "-38") (armor "98")
+L 04/02/2015 - 21:09:06: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:09:11: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 04/02/2015 - 21:09:11: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:09:11: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp"
+L 04/02/2015 - 21:09:11: Team "CT" triggered "CTs_Win" (CT "15") (T "8")
+L 04/02/2015 - 21:09:11: World triggered "Round_End"
+L 04/02/2015 - 21:09:21: World triggered "Round_Start"
+L 04/02/2015 - 21:09:21: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:09:21: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:09:23: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:09:23: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:09:27: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:09:27: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:09:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 04/02/2015 - 21:09:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:09:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "9")
+L 04/02/2015 - 21:09:33: World triggered "Round_End"
+L 04/02/2015 - 21:09:43: World triggered "Round_Start"
+L 04/02/2015 - 21:09:45: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:09:45: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:09:49: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/02/2015 - 21:09:49: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:09:49: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:10:00: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 04/02/2015 - 21:10:00: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 04/02/2015 - 21:10:01: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 04/02/2015 - 21:10:01: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "knife"
+L 04/02/2015 - 21:10:07: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "109") (damage_armor "2") (health "-64") (armor "93")
+L 04/02/2015 - 21:10:07: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:10:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "10")
+L 04/02/2015 - 21:10:07: World triggered "Round_End"
+L 04/02/2015 - 21:10:17: World triggered "Round_Start"
+L 04/02/2015 - 21:10:17: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:10:17: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp"
+L 04/02/2015 - 21:10:19: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/02/2015 - 21:10:19: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:10:22: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 04/02/2015 - 21:10:24: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-89") (armor "98")
+L 04/02/2015 - 21:10:24: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:10:29: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 04/02/2015 - 21:10:29: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:10:36: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:10:36: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:10:36: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:10:36: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:10:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "11")
+L 04/02/2015 - 21:10:36: World triggered "Round_End"
+L 04/02/2015 - 21:10:46: World triggered "Round_Start"
+L 04/02/2015 - 21:10:48: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:10:48: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:10:51: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:10:51: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:10:51: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 04/02/2015 - 21:10:52: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/02/2015 - 21:10:52: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:10:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "12")
+L 04/02/2015 - 21:10:52: World triggered "Round_End"
+L 04/02/2015 - 21:11:02: World triggered "Round_Start"
+L 04/02/2015 - 21:11:07: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:11:07: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:09: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 04/02/2015 - 21:11:09: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:11: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:11:11: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:11:11: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 04/02/2015 - 21:11:11: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "13") (hits "5") (kills "4") (headshots "2") (tks "0") (damage "1149") (deaths "3")
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "0")
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" triggered "time" (time "2:29")
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" triggered "latency" (ping "61")
+L 04/02/2015 - 21:11:19: "dugors.051<399><STEAM_0:0:1637747130><TERRORIST>" disconnected
+L 04/02/2015 - 21:11:22: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:11:22: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:22: Team "CT" triggered "CTs_Win" (CT "16") (T "12")
+L 04/02/2015 - 21:11:22: World triggered "Round_End"
+L 04/02/2015 - 21:11:32: World triggered "Round_Start"
+L 04/02/2015 - 21:11:42: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:11:42: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:44: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/02/2015 - 21:11:44: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:44: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 04/02/2015 - 21:11:44: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:11:44: Team "CT" triggered "CTs_Win" (CT "17") (T "12")
+L 04/02/2015 - 21:11:44: World triggered "Round_End"
+L 04/02/2015 - 21:11:54: World triggered "Round_Start"
+L 04/02/2015 - 21:11:56: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:11:56: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:12:04: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:12:04: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:12:07: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/02/2015 - 21:12:07: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:12:07: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:12:07: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:12:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "13")
+L 04/02/2015 - 21:12:07: World triggered "Round_End"
+L 04/02/2015 - 21:12:17: World triggered "Round_Start"
+L 04/02/2015 - 21:12:17: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 04/02/2015 - 21:12:17: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:12:20: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 04/02/2015 - 21:12:23: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:12:23: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:12:27: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "106") (damage_armor "2") (health "-87") (armor "98")
+L 04/02/2015 - 21:12:27: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:12:31: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:12:31: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:12:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "14")
+L 04/02/2015 - 21:12:31: World triggered "Round_End"
+L 04/02/2015 - 21:12:41: World triggered "Round_Start"
+L 04/02/2015 - 21:12:49: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 04/02/2015 - 21:12:50: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/02/2015 - 21:12:50: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:12:51: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:12:51: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:12:57: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:12:57: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:12:58: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:12:58: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:12:58: Team "CT" triggered "CTs_Win" (CT "18") (T "14")
+L 04/02/2015 - 21:12:58: World triggered "Round_End"
+L 04/02/2015 - 21:13:08: World triggered "Round_Start"
+L 04/02/2015 - 21:13:23: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 04/02/2015 - 21:13:23: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:13:32: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:13:32: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:13:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:13:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:13:40: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:13:40: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:13:42: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/02/2015 - 21:13:48: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "107") (damage_armor "2") (health "-60") (armor "97")
+L 04/02/2015 - 21:13:48: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:13:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "15")
+L 04/02/2015 - 21:13:48: World triggered "Round_End"
+L 04/02/2015 - 21:13:58: World triggered "Round_Start"
+L 04/02/2015 - 21:13:59: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:13:59: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:14:01: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:14:01: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:14:04: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:14:04: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:14:07: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:14:07: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:14:07: Team "CT" triggered "CTs_Win" (CT "19") (T "15")
+L 04/02/2015 - 21:14:07: World triggered "Round_End"
+L 04/02/2015 - 21:14:17: World triggered "Round_Start"
+L 04/02/2015 - 21:14:22: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:14:22: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:14:26: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 04/02/2015 - 21:14:26: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" with "awp"
+L 04/02/2015 - 21:14:30: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 04/02/2015 - 21:14:30: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:14:34: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:14:34: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:14:44: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:14:44: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:14:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "16")
+L 04/02/2015 - 21:14:44: World triggered "Round_End"
+L 04/02/2015 - 21:14:50: Kick: "(BlackWhite)Max<397><STEAM_0:4:1364630731><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" triggered "weaponstats" (weapon "awp") (shots "24") (hits "7") (kills "6") (headshots "2") (tks "0") (damage "1417") (deaths "9")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "0") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "1")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" triggered "time" (time "6:30")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" triggered "latency" (ping "183")
+L 04/02/2015 - 21:14:50: "(BlackWhite)Max<397><STEAM_0:4:1364630731><CT>" disconnected
+L 04/02/2015 - 21:14:54: World triggered "Round_Start"
+L 04/02/2015 - 21:14:55: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:14:55: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:14:56: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 21:14:56: "(BlackWhite)Max<402><STEAM_0:4:1364630731><>" connected, address "46.219.241.11:9142"
+L 04/02/2015 - 21:14:56: Kick: "(BlackWhite)Max<402><STEAM_0:4:1364630731><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 14 секунд"")
+L 04/02/2015 - 21:15:00: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:15:00: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:15:02: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 04/02/2015 - 21:15:02: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:15:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "17")
+L 04/02/2015 - 21:15:02: World triggered "Round_End"
+L 04/02/2015 - 21:15:12: World triggered "Round_Start"
+L 04/02/2015 - 21:15:19: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:15:19: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:15:23: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/02/2015 - 21:15:23: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:15:24: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:15:24: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:15:30: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:15:30: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" with "awp"
+L 04/02/2015 - 21:15:30: Team "CT" triggered "CTs_Win" (CT "20") (T "17")
+L 04/02/2015 - 21:15:30: World triggered "Round_End"
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "32") (hits "15") (kills "14") (headshots "5") (tks "0") (damage "3283") (deaths "10")
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "0") (stomach "2") (leftarm "5") (rightarm "3") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" triggered "time" (time "7:29")
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" triggered "latency" (ping "73")
+L 04/02/2015 - 21:15:33: "(BlackWhite) Roma<396><STEAM_0:4:125143923><TERRORIST>" disconnected
+L 04/02/2015 - 21:15:40: World triggered "Round_Start"
+L 04/02/2015 - 21:15:48: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:15:48: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:15:54: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:15:54: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:15:54: Team "CT" triggered "CTs_Win" (CT "21") (T "17")
+L 04/02/2015 - 21:15:54: World triggered "Round_End"
+L 04/02/2015 - 21:16:04: World triggered "Round_Start"
+L 04/02/2015 - 21:16:09: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:16:09: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:16:13: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:16:13: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:16:17: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:16:17: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:16:17: Team "CT" triggered "CTs_Win" (CT "22") (T "17")
+L 04/02/2015 - 21:16:17: World triggered "Round_End"
+L 04/02/2015 - 21:16:27: World triggered "Round_Start"
+L 04/02/2015 - 21:16:37: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:16:37: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:16:40: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:16:40: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:16:40: Team "CT" triggered "CTs_Win" (CT "23") (T "17")
+L 04/02/2015 - 21:16:40: World triggered "Round_End"
+L 04/02/2015 - 21:16:50: World triggered "Round_Start"
+L 04/02/2015 - 21:16:56: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:16:56: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:16:58: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:16:58: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" with "awp"
+L 04/02/2015 - 21:17:09: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "83") (damage_armor "0") (health "14") (armor "100")
+L 04/02/2015 - 21:17:10: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><CT>" joined team "SPECTATOR"
+L 04/02/2015 - 21:17:18: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "135") (damage_armor "2") (health "-121") (armor "98")
+L 04/02/2015 - 21:17:18: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:17:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "18")
+L 04/02/2015 - 21:17:18: World triggered "Round_End"
+L 04/02/2015 - 21:17:23: "Strikes<388><STEAM_0:4:1604275204><TERRORIST>" changed name to "artem"
+L 04/02/2015 - 21:17:28: World triggered "Round_Start"
+L 04/02/2015 - 21:17:33: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:17:33: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:17:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "19")
+L 04/02/2015 - 21:17:33: World triggered "Round_End"
+L 04/02/2015 - 21:17:43: World triggered "Round_Start"
+L 04/02/2015 - 21:18:05: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 04/02/2015 - 21:18:05: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:18:07: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:18:07: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:18:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "20")
+L 04/02/2015 - 21:18:07: World triggered "Round_End"
+L 04/02/2015 - 21:18:17: World triggered "Round_Start"
+L 04/02/2015 - 21:18:28: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:18:28: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:18:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "21")
+L 04/02/2015 - 21:18:28: World triggered "Round_End"
+L 04/02/2015 - 21:18:38: World triggered "Round_Start"
+L 04/02/2015 - 21:18:44: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:18:44: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:18:52: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:18:52: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:18:52: Team "CT" triggered "CTs_Win" (CT "24") (T "21")
+L 04/02/2015 - 21:18:52: World triggered "Round_End"
+L 04/02/2015 - 21:19:02: World triggered "Round_Start"
+L 04/02/2015 - 21:19:02: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "421") (damage_armor "6") (health "-321") (armor "94")
+L 04/02/2015 - 21:19:02: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:19:09: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 04/02/2015 - 21:19:11: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:19:11: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:19:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "22")
+L 04/02/2015 - 21:19:11: World triggered "Round_End"
+L 04/02/2015 - 21:19:21: World triggered "Round_Start"
+L 04/02/2015 - 21:19:23: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_SC2009]; pClient = 0xb399ef08
+L 04/02/2015 - 21:19:23: "Joker-_-<403><STEAM_0:4:433322117><>" connected, address "178.19.251.154:27005"
+L 04/02/2015 - 21:19:23: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 21:19:23: "combat sambo*))<404><STEAM_0:4:1299052928><>" connected, address "185.17.135.51:35903"
+L 04/02/2015 - 21:19:23: [VTC] Player 1 speex
+L 04/02/2015 - 21:19:23: [VTC] Player 2 speex
+L 04/02/2015 - 21:19:34: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:19:34: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:19:46: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:19:46: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:19:46: Team "CT" triggered "CTs_Win" (CT "25") (T "22")
+L 04/02/2015 - 21:19:46: World triggered "Round_End"
+L 04/02/2015 - 21:19:49: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_SC2009]; pClient = 0xb399ef08
+L 04/02/2015 - 21:19:49: "Joker-_-<405><STEAM_0:4:433322117><>" connected, address "178.19.251.154:27005"
+L 04/02/2015 - 21:19:50: [VTC] Player 1 speex
+L 04/02/2015 - 21:19:55: "Joker-_-<405><STEAM_0:4:433322117><>" entered the game
+L 04/02/2015 - 21:19:56: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 21:19:56: "combat sambo*))<406><STEAM_0:4:1299052928><>" connected, address "185.17.135.51:35903"
+L 04/02/2015 - 21:19:56: World triggered "Round_Start"
+L 04/02/2015 - 21:19:56: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:19:56: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:19:56: [VTC] Player 2 speex
+L 04/02/2015 - 21:20:01: "combat sambo*))<406><STEAM_0:4:1299052928><>" entered the game
+L 04/02/2015 - 21:20:05: "combat sambo*))<406><STEAM_0:4:1299052928><>" joined team "TERRORIST"
+L 04/02/2015 - 21:20:12: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:20:12: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:20:13: "Joker-_-<405><STEAM_0:4:433322117><>" joined team "CT"
+L 04/02/2015 - 21:20:23: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:20:23: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:20:28: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:20:28: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:20:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "23")
+L 04/02/2015 - 21:20:28: World triggered "Round_End"
+L 04/02/2015 - 21:20:38: World triggered "Round_Start"
+L 04/02/2015 - 21:20:42: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:20:42: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:20:50: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:20:50: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:20:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "24")
+L 04/02/2015 - 21:20:50: World triggered "Round_End"
+L 04/02/2015 - 21:21:00: World triggered "Round_Start"
+L 04/02/2015 - 21:21:05: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 21:21:05: "[KillYouMan] smailkill:)<407><STEAM_0:4:1543416691><>" connected, address "94.180.161.30:27005"
+L 04/02/2015 - 21:21:05: [VTC] Player 4 speex
+L 04/02/2015 - 21:21:12: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 04/02/2015 - 21:21:13: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:21:13: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:21:15: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "knife" (damage "55") (damage_armor "5") (health "-40") (armor "95")
+L 04/02/2015 - 21:21:15: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "knife"
+L 04/02/2015 - 21:21:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "25")
+L 04/02/2015 - 21:21:15: World triggered "Round_End"
+L 04/02/2015 - 21:21:20: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 21:21:20: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><>" connected, address "94.180.161.30:27005"
+L 04/02/2015 - 21:21:21: [VTC] Player 4 speex
+L 04/02/2015 - 21:21:25: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><>" entered the game
+L 04/02/2015 - 21:21:25: World triggered "Round_Start"
+L 04/02/2015 - 21:21:25: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:21:25: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:21:29: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><>" joined team "CT"
+L 04/02/2015 - 21:21:39: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:21:39: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" with "awp"
+L 04/02/2015 - 21:21:42: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:21:42: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:21:44: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:21:44: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" with "awp"
+L 04/02/2015 - 21:21:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "26")
+L 04/02/2015 - 21:21:44: World triggered "Round_End"
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" triggered "weaponstats" (weapon "awp") (shots "128") (hits "41") (kills "38") (headshots "13") (tks "0") (damage "8486") (deaths "28")
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" triggered "weaponstats2" (weapon "awp") (head "13") (chest "6") (stomach "3") (leftarm "16") (rightarm "3") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" triggered "time" (time "21:11")
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" triggered "latency" (ping "40")
+L 04/02/2015 - 21:21:49: "Mr.DJaGerNaUt228<386><STEAM_0:4:1121078405><CT>" disconnected
+L 04/02/2015 - 21:21:52: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 21:21:52: "Mr.DJaGerNaUt228<409><STEAM_0:4:1121078405><>" connected, address "178.123.248.44:27005"
+L 04/02/2015 - 21:21:52: Kick: "Mr.DJaGerNaUt228<409><STEAM_0:4:1121078405><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 17 секунд"")
+L 04/02/2015 - 21:21:54: World triggered "Round_Start"
+L 04/02/2015 - 21:21:57: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 21:21:57: "Mr.DJaGerNaUt228<410><STEAM_0:4:1121078405><>" connected, address "178.123.248.44:27005"
+L 04/02/2015 - 21:21:57: Kick: "Mr.DJaGerNaUt228<410><STEAM_0:4:1121078405><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 12 секунд"")
+L 04/02/2015 - 21:22:00: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 21:22:00: "Mr.DJaGerNaUt228<411><STEAM_0:4:1121078405><>" connected, address "178.123.248.44:27005"
+L 04/02/2015 - 21:22:00: Kick: "Mr.DJaGerNaUt228<411><STEAM_0:4:1121078405><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 9 секунд"")
+L 04/02/2015 - 21:22:03: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 21:22:03: "Mr.DJaGerNaUt228<412><STEAM_0:4:1121078405><>" connected, address "178.123.248.44:27005"
+L 04/02/2015 - 21:22:03: Kick: "Mr.DJaGerNaUt228<412><STEAM_0:4:1121078405><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 6 секунд"")
+L 04/02/2015 - 21:22:03: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" attacked "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:22:03: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" killed "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" with "awp"
+L 04/02/2015 - 21:22:06: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 04/02/2015 - 21:22:06: "Mr.DJaGerNaUt228<413><STEAM_0:4:1121078405><>" connected, address "178.123.248.44:27005"
+L 04/02/2015 - 21:22:06: Kick: "Mr.DJaGerNaUt228<413><STEAM_0:4:1121078405><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 3 секунд"")
+L 04/02/2015 - 21:22:11: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/02/2015 - 21:22:11: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:22:11: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" triggered "time" (time "0:46")
+L 04/02/2015 - 21:22:11: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" triggered "latency" (ping "48")
+L 04/02/2015 - 21:22:11: "[KillYouMan] smailkill:)<408><STEAM_0:4:1543416691><CT>" disconnected
+L 04/02/2015 - 21:22:14: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 04/02/2015 - 21:22:14: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 21:22:14: "One Love is WoT<414><STEAM_0:4:69453750><>" connected, address "212.109.27.161:27005"
+L 04/02/2015 - 21:22:14: [VTC] Player 4 speex
+L 04/02/2015 - 21:22:14: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 04/02/2015 - 21:22:15: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><SPECTATOR>" triggered "Game_idle_kick" (auto)
+L 04/02/2015 - 21:22:15: Kick: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><>" was kicked by "Console"
+L 04/02/2015 - 21:22:15: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><SPECTATOR>" triggered "weaponstats" (weapon "awp") (shots "84") (hits "41") (kills "37") (headshots "6") (tks "0") (damage "6211") (deaths "23")
+L 04/02/2015 - 21:22:15: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><SPECTATOR>" triggered "weaponstats2" (weapon "awp") (head "6") (chest "2") (stomach "2") (leftarm "22") (rightarm "7") (leftleg "2") (rightleg "0")
+L 04/02/2015 - 21:22:15: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><SPECTATOR>" triggered "time" (time "21:40")
+L 04/02/2015 - 21:22:15: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><SPECTATOR>" triggered "latency" (ping "58")
+L 04/02/2015 - 21:22:15: "[Hard_Skill]_Angel_Smerti_<355><STEAM_0:4:2080361733><SPECTATOR>" disconnected
+L 04/02/2015 - 21:22:17: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-40") (armor "95")
+L 04/02/2015 - 21:22:17: "Joker-_-<405><STEAM_0:4:433322117><CT>" killed "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "knife"
+L 04/02/2015 - 21:22:17: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "109") (damage_armor "2") (health "-93") (armor "98")
+L 04/02/2015 - 21:22:17: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:22:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "27")
+L 04/02/2015 - 21:22:17: World triggered "Round_End"
+L 04/02/2015 - 21:22:26: "One Love is WoT<414><STEAM_0:4:69453750><>" entered the game
+L 04/02/2015 - 21:22:27: World triggered "Round_Start"
+L 04/02/2015 - 21:22:33: "One Love is WoT<414><STEAM_0:4:69453750><>" joined team "TERRORIST"
+L 04/02/2015 - 21:22:33: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:22:33: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:22:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "28")
+L 04/02/2015 - 21:22:33: World triggered "Round_End"
+L 04/02/2015 - 21:22:38: "One Love is WoT<414><STEAM_0:4:69453750><TERRORIST>" joined team "CT" (auto)
+L 04/02/2015 - 21:22:43: World triggered "Round_Start"
+L 04/02/2015 - 21:22:46: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:22:46: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:22:49: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 04/02/2015 - 21:22:51: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-58") (armor "97")
+L 04/02/2015 - 21:22:51: "Joker-_-<405><STEAM_0:4:433322117><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:22:57: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 04/02/2015 - 21:23:00: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 04/02/2015 - 21:23:08: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "-6") (armor "98")
+L 04/02/2015 - 21:23:08: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp"
+L 04/02/2015 - 21:23:08: Team "CT" triggered "CTs_Win" (CT "26") (T "28")
+L 04/02/2015 - 21:23:08: World triggered "Round_End"
+L 04/02/2015 - 21:23:18: World triggered "Round_Start"
+L 04/02/2015 - 21:23:22: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:23:22: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" with "awp"
+L 04/02/2015 - 21:23:24: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:23:24: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "71") (hits "18") (kills "16") (headshots "4") (tks "0") (damage "3182") (deaths "18")
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "1") (stomach "1") (leftarm "8") (rightarm "2") (leftleg "2") (rightleg "0")
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" triggered "time" (time "14:36")
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" triggered "latency" (ping "47")
+L 04/02/2015 - 21:23:25: "[BLR]Marjina Gorka<401><STEAM_0:4:320196485><TERRORIST>" disconnected
+L 04/02/2015 - 21:23:27: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:23:27: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:23:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "29")
+L 04/02/2015 - 21:23:27: World triggered "Round_End"
+L 04/02/2015 - 21:23:37: World triggered "Round_Start"
+L 04/02/2015 - 21:23:37: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 04/02/2015 - 21:23:37: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:23:52: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 04/02/2015 - 21:23:52: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:23:54: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 04/02/2015 - 21:23:54: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp"
+L 04/02/2015 - 21:23:54: Team "CT" triggered "CTs_Win" (CT "27") (T "29")
+L 04/02/2015 - 21:23:54: World triggered "Round_End"
+L 04/02/2015 - 21:24:04: World triggered "Round_Start"
+L 04/02/2015 - 21:24:14: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:24:14: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:24:28: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 04/02/2015 - 21:24:28: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:24:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "30")
+L 04/02/2015 - 21:24:28: World triggered "Round_End"
+L 04/02/2015 - 21:24:38: World triggered "Round_Start"
+L 04/02/2015 - 21:24:49: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:24:49: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:25:03: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 04/02/2015 - 21:25:03: "Joker-_-<405><STEAM_0:4:433322117><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:25:16: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 04/02/2015 - 21:25:24: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "42") (damage_armor "0") (health "58") (armor "100")
+L 04/02/2015 - 21:25:26: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "109") (damage_armor "2") (health "-51") (armor "98")
+L 04/02/2015 - 21:25:26: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:25:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "31")
+L 04/02/2015 - 21:25:26: World triggered "Round_End"
+L 04/02/2015 - 21:25:36: World triggered "Round_Start"
+L 04/02/2015 - 21:25:39: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 04/02/2015 - 21:25:44: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 04/02/2015 - 21:25:44: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:25:48: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:25:48: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:25:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "32")
+L 04/02/2015 - 21:25:48: World triggered "Round_End"
+L 04/02/2015 - 21:25:58: World triggered "Round_Start"
+L 04/02/2015 - 21:25:58: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:25:58: "Joker-_-<405><STEAM_0:4:433322117><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:26:11: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:26:11: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:26:20: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "110") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:26:20: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:26:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "33")
+L 04/02/2015 - 21:26:20: World triggered "Round_End"
+L 04/02/2015 - 21:26:30: World triggered "Round_Start"
+L 04/02/2015 - 21:26:36: "artem<388><STEAM_0:4:1604275204><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:26:36: "artem<388><STEAM_0:4:1604275204><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:26:37: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 04/02/2015 - 21:26:37: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:26:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "34")
+L 04/02/2015 - 21:26:37: World triggered "Round_End"
+L 04/02/2015 - 21:26:47: World triggered "Round_Start"
+L 04/02/2015 - 21:26:50: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 04/02/2015 - 21:26:50: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:26:55: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/02/2015 - 21:26:55: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "Joker-_-<405><STEAM_0:4:433322117><CT>" with "awp"
+L 04/02/2015 - 21:27:00: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" attacked "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 04/02/2015 - 21:27:00: "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" killed "One Love is WoT<414><STEAM_0:4:69453750><CT>" with "awp"
+L 04/02/2015 - 21:27:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "35")
+L 04/02/2015 - 21:27:00: World triggered "Round_End"
+L 04/02/2015 - 21:27:10: World triggered "Round_Start"
+L 04/02/2015 - 21:27:15: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 04/02/2015 - 21:27:21: "Joker-_-<405><STEAM_0:4:433322117><CT>" attacked "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "-4") (armor "98")
+L 04/02/2015 - 21:27:21: "Joker-_-<405><STEAM_0:4:433322117><CT>" killed "artem<388><STEAM_0:4:1604275204><TERRORIST>" with "awp"
+L 04/02/2015 - 21:27:22: "One Love is WoT<414><STEAM_0:4:69453750><CT>" attacked "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 04/02/2015 - 21:27:22: "One Love is WoT<414><STEAM_0:4:69453750><CT>" killed "combat sambo*))<406><STEAM_0:4:1299052928><TERRORIST>" with "awp"
+L 04/02/2015 - 21:27:22: Team "CT" triggered "CTs_Win" (CT "28") (T "35")
+L 04/02/2015 - 21:27:22: World triggered "Round_End"
+L 04/02/2015 - 21:27:32: World triggered "Round_Start"
+L 0

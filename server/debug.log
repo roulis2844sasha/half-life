@@ -1,144 +1,201 @@
 ----------------------------------------------
-CRASH: Вс. нояб. 15 15:45:34 QYZT 2015
+CRASH: Чцв Сак  5 11:26:43 FET 2015
+Start Line: ./hlds_i686 -game cstrike +map de_dust2 -insecure -nomaster +sv_lan 0 +maxplayers 32 +ip 178.172.151.48 +port 27015
+----------------------------------------------
+CRASH: Чцв Сак  5 17:13:22 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster -ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак  5 17:29:57 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster -ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак  5 17:33:00 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster -ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак  5 17:33:51 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster -ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Пят Сак  6 22:51:10 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster -ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Аўт Сак 10 23:01:27 FET 2015
+Start Line: ./hlds_i686 -game cstrike +map de_dust2 -insecure -nomaster +sv_lan 0 +maxplayers 32 +ip 178.172.151.48 +port 27015
+----------------------------------------------
+CRASH: Аўт Сак 10 23:05:25 FET 2015
+Start Line: ./hlds_i686 -console -game cstrike -insecure -nomaster +ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Аўт Сак 10 23:08:59 FET 2015
+Start Line: ./hlds_i686 -binary ./hlds_i686 -game cstrike +maxplayers 32 -noipx +port 27015 +ip 178.172.151.48
+----------------------------------------------
+CRASH: Аўт Сак 10 23:11:10 FET 2015
+Start Line: ./hlds_i686 -binary ./hlds_i686 -game cstrike -console +ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Аўт Сак 10 23:13:03 FET 2015
+Start Line: ./hlds_i686 -binary ./hlds_i686 -game cstrike -console +ip 178.172.151.48 +maxplayers 20 +port 27015 +map de_dust 2
+----------------------------------------------
+CRASH: Аўт Сак 10 23:16:42 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Аўт Сак 10 23:18:54 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +ip 178.172.151.48 +maxplayers 32 +port 27016 +map de_dust2
+----------------------------------------------
+CRASH: Аўт Сак 10 23:21:44 FET 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2 sv_lan 0
+----------------------------------------------
+CRASH: Аўт Сак 10 23:27:31 FET 2015
+Start Line: ./hlds_i686 -binary ./hlds_i686 -game cstrike -insecure -console -pingboost 1 +exec server.cfg -verify_all +port 27015 +maxplayers 32 +map de_dust2 +ip 178.172.151.48
+----------------------------------------------
+CRASH: Срд Сак 11 09:23:51 FET 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2 +ip 178.172.151.48
+----------------------------------------------
+CRASH: Срд Сак 11 09:30:09 FET 2015
+Start Line: ./hlds_i686 -game cstrike +ip 178.172.151.48 +port 27015 +maxplayers 32 +map aim_map -pingboost 2 -binary ./hlds_i686
+----------------------------------------------
+CRASH: Срд Сак 11 14:26:06 FET 2015
+Start Line: ./hlds_i686 -game cstrike +ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Няд Сак 15 18:01:06 FET 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 11:39:01 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 11:40:29 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 11:41:56 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 11:53:03 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 11:55:22 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 12:05:18 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2_2x2
+----------------------------------------------
+CRASH: Чцв Сак 26 12:16:50 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 18:02:18 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Чцв Сак 26 19:07:59 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Суб Сак 28 12:47:24 MSK 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Аўт Сак 31 18:34:06 FET 2015
+Start Line: ./hlds_i686 -game cstrike +ip 178.172.151.48 +maxplayers 32 +port 27015 +map de_dust2
+----------------------------------------------
+CRASH: Аўт Сак 31 18:36:54 FET 2015
+Start Line: ./hlds_i686 -game cstrike -noipx -insecure -console -pingboost 1 +sv_lan 0 -verify_all +port 27015 +maxplayers 32 +map de_dust2
+----------------------------------------------
+CRASH: Вс. нояб. 15 21:59:20 QYZT 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +maxplayers 22 +map de_dust2 +sv_lan 0
+----------------------------------------------
+CRASH: Пн. нояб. 16 20:00:33 QYZT 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +maxplayers 22 +map de_dust2 +sv_lan 0
+----------------------------------------------
+CRASH: Пн. нояб. 16 20:00:43 QYZT 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +maxplayers 22 +map de_dust2 +sv_lan 0
+----------------------------------------------
+CRASH: Пн. нояб. 16 20:00:50 QYZT 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +maxplayers 22 +map de_dust2 +sv_lan 0
+----------------------------------------------
+CRASH: Пн. нояб. 16 20:01:17 QYZT 2015
+Start Line: ./hlds_i686 -game cstrike -nomaster +maxplayers 22 +map de_dust2 +sv_lan 0
+----------------------------------------------
+----------------------------------------------
+CRASH: Вс. нояб. 22 17:54:06 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 15:49:25 QYZT 2015
+CRASH: Вс. нояб. 22 18:00:11 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:07:00 QYZT 2015
+CRASH: Вс. нояб. 22 18:00:28 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:11:13 QYZT 2015
+CRASH: Вс. нояб. 22 18:01:54 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:13:16 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:13:19 QYZT 2015
+CRASH: Вс. нояб. 22 18:02:23 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:21:01 QYZT 2015
+CRASH: Вс. нояб. 22 18:02:53 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:25:14 QYZT 2015
+----------------------------------------------
+CRASH: Вс. нояб. 22 18:08:36 QYZT 2015
+Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
+----------------------------------------------
+CRASH: Вс. нояб. 22 18:11:36 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:52:33 QYZT 2015
+CRASH: Вс. нояб. 22 18:15:59 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:52:37 QYZT 2015
+CRASH: Вс. нояб. 22 18:19:20 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:25 QYZT 2015
+CRASH: Вс. нояб. 22 18:21:48 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:26 QYZT 2015
+CRASH: Вс. нояб. 22 18:25:29 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:30 QYZT 2015
+CRASH: Вс. нояб. 22 18:26:05 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:33 QYZT 2015
+CRASH: Вс. нояб. 22 18:27:43 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:41 QYZT 2015
+----------------------------------------------
+CRASH: Вс. нояб. 22 18:33:34 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:48 QYZT 2015
+CRASH: Вс. нояб. 22 18:37:52 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:54:55 QYZT 2015
+CRASH: Вс. нояб. 22 18:48:29 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
 End of crash report
 ----------------------------------------------
 ----------------------------------------------
-CRASH: Вс. нояб. 15 16:55:24 QYZT 2015
+CRASH: Вс. нояб. 22 18:54:03 QYZT 2015
 Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:55:28 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:55:49 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:55:54 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:00 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:09 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:28 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:32 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:36 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:50 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:54 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------
-CRASH: Вс. нояб. 15 16:56:59 QYZT 2015
-Start Line: ./hlds_i686 -game cstrike +maxplayers 20 +map de_dust2
-End of crash report
-----------------------------------------------
-----------------------------------------------

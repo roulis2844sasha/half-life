@@ -746,8 +746,8 @@ format_top15(sBuffer[MAX_BUFFER_LENGTH + 1])
 	ucfirst(lEff)
 	ucfirst(lAcc)
 
-	iLen = format(sBuffer, MAX_BUFFER_LENGTH, "<body bgcolor=#000000><font color=#FFB000><pre>")
-	iLen += format(sBuffer[iLen], MAX_BUFFER_LENGTH - iLen, "%2s %-22.22s %6s %6s %6s %6s %4s %4s %4s^n", "#", "Nick", lKills, lDeaths, lHits, lShots, "HS", lEff, lAcc)
+	iLen = format(sBuffer, MAX_BUFFER_LENGTH, "<meta http-equiv='Content-Type' content='text/html; charset=utf-8'><body bgcolor=#000000><font color=#FFB000><pre>")
+	iLen += format(sBuffer[iLen], MAX_BUFFER_LENGTH - iLen, "%2s %-22.22s %6s %6s %6s %6s %4s %4s %4s^n", "#", "Ник", lKills, lDeaths, lHits, lShots, "HS", lEff, lAcc)
 	
 	for (new i = 0; i < iMax && MAX_BUFFER_LENGTH - iLen > 0; i++)
 	{
@@ -779,7 +779,7 @@ format_rankstats(id, sBuffer[MAX_BUFFER_LENGTH + 1], iMyId = 0)
 	ucfirst(lAcc)
 	
 	iRankPos = get_user_stats(id, izStats, izBody)
-	iLen = format(sBuffer, MAX_BUFFER_LENGTH, "<body bgcolor=#000000><font color=#FFB000><pre>")
+	iLen = format(sBuffer, MAX_BUFFER_LENGTH, "<meta http-equiv='Content-Type' content='text/html; charset=utf-8'><body bgcolor=#000000><font color=#FFB000><pre>")
 	iLen += format(sBuffer[iLen], MAX_BUFFER_LENGTH - iLen, "%L %L^n^n", id, (!iMyId || iMyId == id) ? "YOUR" : "PLAYERS", id, "RANK_IS", iRankPos, get_statsnum())
 	iLen += format(sBuffer[iLen], MAX_BUFFER_LENGTH - iLen, "%6s: %d  (%d with hs)^n%6s: %d^n%6s: %d^n%6s: %d^n%6s: %d^n%6s: %0.2f%%^n%6s: %0.2f%%^n^n", 
 					lKills, izStats[STATS_KILLS], izStats[STATS_HS], lDeaths, izStats[STATS_DEATHS], lHits, izStats[STATS_HITS], lShots, izStats[STATS_SHOTS], 
@@ -819,7 +819,7 @@ format_stats(id, sBuffer[MAX_BUFFER_LENGTH + 1])
 	
 	get_user_wstats(id, 0, izStats, izBody)
 	
-	iLen = format(sBuffer, MAX_BUFFER_LENGTH, "<body bgcolor=#000000><font color=#FFB000><pre>")
+	iLen = format(sBuffer, MAX_BUFFER_LENGTH, "<meta http-equiv='Content-Type' content='text/html; charset=utf-8'><body bgcolor=#000000><font color=#FFB000><pre>")
 	iLen += format(sBuffer[iLen], MAX_BUFFER_LENGTH - iLen, "%6s: %d  (%d with hs)^n%6s: %d^n%6s: %d^n%6s: %d^n%6s: %d^n%6s: %0.2f%%^n%6s: %0.2f%%^n^n", 
 					lKills, izStats[STATS_KILLS], izStats[STATS_HS], lDeaths, izStats[STATS_DEATHS], lHits, izStats[STATS_HITS], lShots, izStats[STATS_SHOTS], 
 					lDamage, izStats[STATS_DAMAGE], lEff, effec(izStats), lAcc, accuracy(izStats))

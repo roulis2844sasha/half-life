@@ -1,0 +1,179 @@
+[ru]
+FCOS_LANG_MENU_REPEAT_CHECKING = Повторная проверка
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Сообщения админу
+FCOS_LANG_MENU_WARNING = Повторные предупреждения
+FCOS_LANG_MENU_WARNING_ATTEMPT = Предупреждать после
+FCOS_LANG_MENU_REPEAT_WARNING = Предупреждения
+FCOS_LANG_MENU_NAME_CHANGE = Смена ника
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Менять ник после
+FCOS_LANG_MENU_SLAYING = Убивать
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Убивать после
+FCOS_LANG_MENU_REPEAT_SLAYING = Повторно убивать
+FCOS_LANG_MENU_KICK_OR_BAN = Кик или Бан
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Кик или Бан после
+FCOS_LANG_MENU_BAN_TIME = Время Бана
+FCOS_LANG_MENU_USE_AMX_BAN = Использовать AMXBANS
+FCOS_LANG_MENU_SAVE = Сохранить
+FCOS_LANG_MENU_MORE = Дальше
+FCOS_LANG_MENU_EXIT = Выход
+FCOS_LANG_MENU_BACK = Назад
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] настройки сохранены
+
+[en]
+FCOS_LANG_MENU_REPEAT_CHECKING = Repeat Checking
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Show Admin Message
+FCOS_LANG_MENU_WARNING = Warning
+FCOS_LANG_MENU_WARNING_ATTEMPT = Warning Attempt Number
+FCOS_LANG_MENU_REPEAT_WARNING = Repeat Warning
+FCOS_LANG_MENU_NAME_CHANGE = Name Change
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Name Change Attempt Number
+FCOS_LANG_MENU_SLAYING = Slaying
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Slaying Attempt Number
+FCOS_LANG_MENU_REPEAT_SLAYING = Repeat Slaying
+FCOS_LANG_MENU_KICK_OR_BAN = Kick Or Ban
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Kick Or Ban Attempt Number
+FCOS_LANG_MENU_BAN_TIME = Ban Time
+FCOS_LANG_MENU_USE_AMX_BAN = Use amx_ban
+FCOS_LANG_MENU_SAVE = Save
+FCOS_LANG_MENU_MORE = More
+FCOS_LANG_MENU_EXIT = Exit
+FCOS_LANG_MENU_BACK = Back
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] settings have been saved.
+
+[de]
+FCOS_LANG_MENU_REPEAT_CHECKING = Wiederhole Ueberpruefung
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Zeige Admin Nachricht
+FCOS_LANG_MENU_WARNING = Warnung
+FCOS_LANG_MENU_WARNING_ATTEMPT = Warnung Versuch Nummer
+FCOS_LANG_MENU_REPEAT_WARNING = Wiederhole Warnung
+FCOS_LANG_MENU_NAME_CHANGE = Name wechseln
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Name wechseln. Versuch Nummer
+FCOS_LANG_MENU_SLAYING = Slaying
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Slaying Versuch Nummer
+FCOS_LANG_MENU_REPEAT_SLAYING = Wiederhole Slaying
+FCOS_LANG_MENU_KICK_OR_BAN = Kick oder Ban
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Kick oder Ban Versuch Nummer
+FCOS_LANG_MENU_BAN_TIME = Ban Zeit
+FCOS_LANG_MENU_USE_AMX_BAN = Verwende amx_ban
+FCOS_LANG_MENU_SAVE = Speichern
+FCOS_LANG_MENU_MORE = Mehr
+FCOS_LANG_MENU_EXIT = Ende
+FCOS_LANG_MENU_BACK = Zurueck
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] Einstellungen wurden gespeichert.***
+
+[sr]
+
+[tr]
+
+[fr]
+
+[sv]
+FCOS_LANG_MENU_REPEAT_CHECKING = Upprepa Kontroll
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Visa Admin Meddelande
+FCOS_LANG_MENU_WARNING = Varning
+FCOS_LANG_MENU_WARNING_ATTEMPT = Varning Antal F'o'rs'o'k
+FCOS_LANG_MENU_REPEAT_WARNING = Upprepa Varning
+FCOS_LANG_MENU_NAME_CHANGE = Namn 'A'ndring
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Namn 'A'ndring Antal F'o'rs'o'k
+FCOS_LANG_MENU_SLAYING = Slakta
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Slakt Antal F'o'rs'o'k
+FCOS_LANG_MENU_REPEAT_SLAYING = Upprepa Slaktning
+FCOS_LANG_MENU_KICK_OR_BAN = Sparka Eller Banna
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Sparka Eller Banna Antal F'o'rs'o'k
+FCOS_LANG_MENU_BAN_TIME = Bann Tid
+FCOS_LANG_MENU_USE_AMX_BAN = Anv'a'nd amx_ban
+FCOS_LANG_MENU_SAVE = Spara
+FCOS_LANG_MENU_MORE = Mera
+FCOS_LANG_MENU_EXIT = Avsluta
+FCOS_LANG_MENU_BACK = Tillbaka
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] Inst'a'llningarna har blivigt sparade. 
+
+[da]
+FCOS_LANG_MENU_REPEAT_CHECKING = gentag checkning
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = vis admin besked
+FCOS_LANG_MENU_WARNING = advarsel
+FCOS_LANG_MENU_WARNING_ATTEMPT = advarsels forsшg nummer
+FCOS_LANG_MENU_REPEAT_WARNING = gentag advarsel
+FCOS_LANG_MENU_NAME_CHANGE = skift navn
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = navne skift forsшg nummer
+FCOS_LANG_MENU_SLAYING = drжb
+FCOS_LANG_MENU_SLAYING_ATTEMPT = drabs forsшg
+FCOS_LANG_MENU_REPEAT_SLAYING = gentag drab
+FCOS_LANG_MENU_KICK_OR_BAN = kick eller ban
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = kick eller ban forsшg nummer
+FCOS_LANG_MENU_BAN_TIME = ban tid
+FCOS_LANG_MENU_USE_AMX_BAN = brug amx_ban
+FCOS_LANG_MENU_SAVE = gem
+FCOS_LANG_MENU_MORE = mere
+FCOS_LANG_MENU_EXIT = exit
+FCOS_LANG_MENU_BACK = tilbage
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] funktionerne er blevet gemt.
+
+[pl]
+FCOS_LANG_MENU_REPEAT_CHECKING = Powtorz sprawdzenie
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Pokaz wiadomosci Admina
+FCOS_LANG_MENU_WARNING = Ostrzezenie
+FCOS_LANG_MENU_WARNING_ATTEMPT = Ilosc Ostrzezen
+FCOS_LANG_MENU_REPEAT_WARNING = Powtorz ostrzezenie
+FCOS_LANG_MENU_NAME_CHANGE = Zmien Nicka
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Ilosc zmian Nicka
+FCOS_LANG_MENU_SLAYING = Zgladzenie
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Ile razy Zgladzic
+FCOS_LANG_MENU_REPEAT_SLAYING = Powtorz Zgladzenie
+FCOS_LANG_MENU_KICK_OR_BAN = Wykop lub Zbanuj
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Liczba Banow lub Kickow
+FCOS_LANG_MENU_BAN_TIME = Czas Bana
+FCOS_LANG_MENU_USE_AMX_BAN = Uzyj amxbans
+FCOS_LANG_MENU_SAVE = Zapisz
+FCOS_LANG_MENU_MORE = Nastepne
+FCOS_LANG_MENU_EXIT = Wyjscie
+FCOS_LANG_MENU_BACK = Poprzednie
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] ustawienia zostaly zapisane.
+
+[nl]
+FCOS_LANG_MENU_REPEAT_CHECKING = Herhaal Controle
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Toon Adminbericht
+FCOS_LANG_MENU_WARNING = Waarschuwing
+FCOS_LANG_MENU_WARNING_ATTEMPT = Aantal Pogingen per Waarschuwing
+FCOS_LANG_MENU_REPEAT_WARNING = Herhaal Waarschuwing
+FCOS_LANG_MENU_NAME_CHANGE = Naamswijziging
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Aantal Pogingen tot Naamswijziging
+FCOS_LANG_MENU_SLAYING = Slaying
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Slayen na Aantal Pogingen
+FCOS_LANG_MENU_REPEAT_SLAYING = Herhaal Slayen
+FCOS_LANG_MENU_KICK_OR_BAN = Kick Of Ban
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Kick Of Ban na Aantal Pogingen
+FCOS_LANG_MENU_BAN_TIME = Ban Lengte
+FCOS_LANG_MENU_USE_AMX_BAN = Gebruik amx_ban
+FCOS_LANG_MENU_SAVE = Opslaan
+FCOS_LANG_MENU_MORE = Meer
+FCOS_LANG_MENU_EXIT = Afsluiten
+FCOS_LANG_MENU_BACK = Terug
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] instellingen zijn opgeslagen.
+
+[es]
+
+[bp]
+
+[cz]
+
+[bg]
+FCOS_LANG_MENU_REPEAT_CHECKING = Proveri otnovo
+FCOS_LANG_MENU_SHOW_ADMIN_MESSAGE = Pokaji Administatorskoto saob6tenie
+FCOS_LANG_MENU_WARNING = Vnimanie
+FCOS_LANG_MENU_WARNING_ATTEMPT = Vnimanie Opitan Nomer
+FCOS_LANG_MENU_REPEAT_WARNING = Povtori vnimanieto
+FCOS_LANG_MENU_NAME_CHANGE = Smeneno ime
+FCOS_LANG_MENU_NAME_CHANGE_ATTEMPT = Opit na smenqne na ime nomer
+FCOS_LANG_MENU_SLAYING = Slayvane
+FCOS_LANG_MENU_SLAYING_ATTEMPT = Opit na Slayvane Nomer
+FCOS_LANG_MENU_REPEAT_SLAYING = Povtori Slayvaneto
+FCOS_LANG_MENU_KICK_OR_BAN = Kickni ili Banni
+FCOS_LANG_MENU_KICK_OR_BAN_ATTEMPT = Opit za Kickvane ili Banvane nomer
+FCOS_LANG_MENU_BAN_TIME = Bannato Vreme
+FCOS_LANG_MENU_USE_AMX_BAN = ispolzvaite amx_ban
+FCOS_LANG_MENU_SAVE = Zapameti
+FCOS_LANG_MENU_MORE = O6te
+FCOS_LANG_MENU_EXIT = Izhot
+FCOS_LANG_MENU_BACK = Nazad
+FCOS_LANG_MENU_SAVE_MSG = ***[FCOS] nastroikite bqha zapameteni.

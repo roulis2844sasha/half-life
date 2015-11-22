@@ -1,0 +1,213 @@
+L 03/06/2015 - 16:59:24: Log file started (file "logs/L0306017.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/06/2015 - 16:59:24: Loading map "aim_awp"
+L 03/06/2015 - 16:59:24: Server cvars start
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_debug_level" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_examine_time" = "0.5"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_look_angle" = "10"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_look_distance" = "200"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_message_repeats" = "5"
+L 03/06/2015 - 16:59:24: Server cvar "_tutor_view_distance" = "1000"
+L 03/06/2015 - 16:59:24: Server cvar "aesp_version" = "1.5b_mini"
+L 03/06/2015 - 16:59:24: Server cvar "allow_spectators" = "2"
+L 03/06/2015 - 16:59:24: Server cvar "amx_client_languages" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/06/2015 - 16:59:24: Server cvar "amx_language" = "ru"
+L 03/06/2015 - 16:59:24: Server cvar "amx_nextmap" = "aim_awp"
+L 03/06/2015 - 16:59:24: Server cvar "amx_timeleft" = "00:00"
+L 03/06/2015 - 16:59:24: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/06/2015 - 16:59:24: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/06/2015 - 16:59:24: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Config" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Status" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/06/2015 - 16:59:24: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/06/2015 - 16:59:24: Server cvar "coop" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "deathmatch" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "decalfrequency" = "9"
+L 03/06/2015 - 16:59:24: Server cvar "dp_version" = "0.9.391"
+L 03/06/2015 - 16:59:24: Server cvar "edgefriction" = "2"
+L 03/06/2015 - 16:59:24: Server cvar "hostage_debug" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "hostage_stop" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "humans_join_team" = "any"
+L 03/06/2015 - 16:59:24: Server cvar "jtp10181" = "chute"
+L 03/06/2015 - 16:59:24: Server cvar "max_queries_sec" = "3.0"
+L 03/06/2015 - 16:59:24: Server cvar "max_queries_sec_global" = "30"
+L 03/06/2015 - 16:59:24: Server cvar "max_queries_window" = "60"
+L 03/06/2015 - 16:59:24: Server cvar "metamod_version" = "1.19p32"
+L 03/06/2015 - 16:59:24: Server cvar "mp_allowmonsters" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_autokick" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_autoteambalance" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_buytime" = "1.5"
+L 03/06/2015 - 16:59:24: Server cvar "mp_c4timer" = "35"
+L 03/06/2015 - 16:59:24: Server cvar "mp_chattime" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_consistency" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_fadetoblack" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_flashlight" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_footsteps" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_forcecamera" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_forcechasecam" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_fragsleft" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_freezetime" = "5"
+L 03/06/2015 - 16:59:24: Server cvar "mp_friendlyfire" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_hostagepenalty" = "2"
+L 03/06/2015 - 16:59:24: Server cvar "mp_kickpercent" = "0.66"
+L 03/06/2015 - 16:59:24: Server cvar "mp_limitteams" = "2"
+L 03/06/2015 - 16:59:24: Server cvar "mp_logdetail" = "3"
+L 03/06/2015 - 16:59:24: Server cvar "mp_logfile" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_logmessages" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/06/2015 - 16:59:24: Server cvar "mp_maxrounds" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_mirrordamage" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_playerid" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_roundtime" = "2.57"
+L 03/06/2015 - 16:59:24: Server cvar "mp_startmoney" = "800"
+L 03/06/2015 - 16:59:24: Server cvar "mp_timeleft" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "mp_timelimit" = "70"
+L 03/06/2015 - 16:59:24: Server cvar "mp_tkpunish" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_windifference" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "mp_winlimit" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "pausable" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "sv_accelerate" = "5"
+L 03/06/2015 - 16:59:24: Server cvar "sv_aim" = "off"
+L 03/06/2015 - 16:59:24: Server cvar "sv_airaccelerate" = "10"
+L 03/06/2015 - 16:59:24: Server cvar "sv_airmove" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "sv_allowupload" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "sv_alltalk" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "sv_bounce" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "sv_cheats" = "off"
+L 03/06/2015 - 16:59:24: Server cvar "sv_clienttrace" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "sv_clipmode" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "sv_contact" = ""
+L 03/06/2015 - 16:59:24: Server cvar "sv_friction" = "4"
+L 03/06/2015 - 16:59:24: Server cvar "sv_gravity" = "800"
+L 03/06/2015 - 16:59:24: Server cvar "sv_logblocks" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "sv_maxrate" = "50000"
+L 03/06/2015 - 16:59:24: Server cvar "sv_maxspeed" = "900"
+L 03/06/2015 - 16:59:24: Server cvar "sv_minrate" = "100000"
+L 03/06/2015 - 16:59:24: Server cvar "sv_password" = ""
+L 03/06/2015 - 16:59:24: Server cvar "sv_proxies" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "sv_region" = "3"
+L 03/06/2015 - 16:59:24: Server cvar "sv_restart" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "sv_restartround" = "0"
+L 03/06/2015 - 16:59:24: Server cvar "sv_stepsize" = "18"
+L 03/06/2015 - 16:59:24: Server cvar "sv_stopspeed" = "75"
+L 03/06/2015 - 16:59:24: Server cvar "sv_uploadmax" = "0.5"
+L 03/06/2015 - 16:59:24: Server cvar "sv_voiceenable" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "sv_wateraccelerate" = "10"
+L 03/06/2015 - 16:59:24: Server cvar "sv_waterfriction" = "1"
+L 03/06/2015 - 16:59:24: Server cvar "ultimate_sounds" = "1.7"
+L 03/06/2015 - 16:59:24: Server cvar "vtc_version" = "80"
+L 03/06/2015 - 16:59:24: Server cvars end
+L 03/06/2015 - 16:59:24: Server cvar "amx_nextmap" = "de_dust2"
+L 03/06/2015 - 16:59:24: Started map "aim_awp" (CRC "313702955")
+L 03/06/2015 - 16:59:24: [VTC] Player 3 speex
+L 03/06/2015 - 16:59:25: [VTC] Player 4 speex
+L 03/06/2015 - 16:59:25: [VTC] Player 12 speex
+L 03/06/2015 - 16:59:25: [VTC] Player 13 speex
+L 03/06/2015 - 16:59:25: [VTC] Player 9 speex
+L 03/06/2015 - 16:59:25: [VTC] Player 2 speex
+L 03/06/2015 - 16:59:25: [VTC] Player 5 speex
+L 03/06/2015 - 16:59:26: "White Walker<451><STEAM_0:0:1428934429><>" entered the game
+L 03/06/2015 - 16:59:28: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><>" entered the game
+L 03/06/2015 - 16:59:28: "|Xyligans| Zla9|_P@nDa<437><HLTV><>" entered the game
+L 03/06/2015 - 16:59:28: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d7ad8
+L 03/06/2015 - 16:59:28: "[~BOMB_HAS_BEEN_PLANTED~]<472><STEAM_0:0:562794638><>" connected, address "178.120.14.43:43949"
+L 03/06/2015 - 16:59:28: "ANGELINA<471><STEAM_0:0:1331792062><>" entered the game
+L 03/06/2015 - 16:59:28: [VTC] Player 5 speex
+L 03/06/2015 - 16:59:29: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39eb6a8
+L 03/06/2015 - 16:59:29: "4ANHNK<473><STEAM_0:0:61868154><>" connected, address "178.120.153.113:3776"
+L 03/06/2015 - 16:59:29: [VTC] Player 9 speex
+L 03/06/2015 - 16:59:30: World triggered "Round_Start"
+L 03/06/2015 - 16:59:30: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39d2be4
+L 03/06/2015 - 16:59:30: "oleg_is_brovki<474><STEAM_0:0:29990838><>" connected, address "37.215.181.199:24547"
+L 03/06/2015 - 16:59:30: [VTC] Player 4 speex
+L 03/06/2015 - 16:59:31: "4ANHNK<473><STEAM_0:0:61868154><>" entered the game
+L 03/06/2015 - 16:59:33: "[~BOMB_HAS_BEEN_PLANTED~]<472><STEAM_0:0:562794638><>" entered the game
+L 03/06/2015 - 16:59:35: "|Xyligans| Zla9|_P@nDa<437><HLTV><>" joined team "TERRORIST"
+L 03/06/2015 - 16:59:36: "4ANHNK<473><STEAM_0:0:61868154><UNASSIGNED>" triggered "time" (time "0:04")
+L 03/06/2015 - 16:59:36: "4ANHNK<473><STEAM_0:0:61868154><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/06/2015 - 16:59:36: "4ANHNK<473><STEAM_0:0:61868154><>" disconnected
+L 03/06/2015 - 16:59:37: "White Walker<451><STEAM_0:0:1428934429><>" joined team "CT"
+L 03/06/2015 - 16:59:37: "oleg_is_brovki<474><STEAM_0:0:29990838><>" entered the game
+L 03/06/2015 - 16:59:37: World triggered "Game_Commencing"
+L 03/06/2015 - 16:59:37: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/06/2015 - 16:59:37: World triggered "Round_End"
+L 03/06/2015 - 16:59:38: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39eb6a8
+L 03/06/2015 - 16:59:38: "4ANHNK<475><STEAM_0:0:61868154><>" connected, address "178.120.153.113:3776"
+L 03/06/2015 - 16:59:38: [VTC] Player 9 speex
+L 03/06/2015 - 16:59:38: "oleg_is_brovki<474><STEAM_0:0:29990838><>" joined team "CT"
+L 03/06/2015 - 16:59:40: "4ANHNK<475><STEAM_0:0:61868154><>" entered the game
+L 03/06/2015 - 16:59:45: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><>" joined team "TERRORIST"
+L 03/06/2015 - 16:59:45: "4ANHNK<475><STEAM_0:0:61868154><>" joined team "TERRORIST"
+L 03/06/2015 - 16:59:45: World triggered "Round_Start"
+L 03/06/2015 - 16:59:46: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" attacked "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "0")
+L 03/06/2015 - 16:59:48: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" attacked "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-92") (armor "0")
+L 03/06/2015 - 16:59:48: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" killed "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" with "awp"
+L 03/06/2015 - 16:59:52: "ANGELINA<471><STEAM_0:0:1331792062><UNASSIGNED>" triggered "time" (time "0:23")
+L 03/06/2015 - 16:59:52: "ANGELINA<471><STEAM_0:0:1331792062><UNASSIGNED>" triggered "latency" (ping "35")
+L 03/06/2015 - 16:59:52: "ANGELINA<471><STEAM_0:0:1331792062><>" disconnected
+L 03/06/2015 - 16:59:52: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" attacked "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/06/2015 - 16:59:52: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" killed "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" with "awp"
+L 03/06/2015 - 16:59:53: "White Walker<451><STEAM_0:0:1428934429><CT>" attacked "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" with "awp" (damage "54") (damage_armor "0") (health "46") (armor "0")
+L 03/06/2015 - 16:59:54: "[~BOMB_HAS_BEEN_PLANTED~]<472><STEAM_0:0:562794638><>" joined team "TERRORIST"
+L 03/06/2015 - 17:00:05: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" attacked "White Walker<451><STEAM_0:0:1428934429><CT>" with "awp" (damage "138") (damage_armor "0") (health "-38") (armor "0")
+L 03/06/2015 - 17:00:05: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" killed "White Walker<451><STEAM_0:0:1428934429><CT>" with "awp"
+L 03/06/2015 - 17:00:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/06/2015 - 17:00:05: World triggered "Round_End"
+L 03/06/2015 - 17:00:10: "White Walker<451><STEAM_0:0:1428934429><CT>" committed suicide with "world"
+L 03/06/2015 - 17:00:10: "White Walker<451><STEAM_0:0:1428934429><CT>" joined team "CT"
+L 03/06/2015 - 17:00:15: World triggered "Round_Start"
+L 03/06/2015 - 17:00:31: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "138") (deaths "0")
+L 03/06/2015 - 17:00:31: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 17:00:31: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" triggered "time" (time "1:02")
+L 03/06/2015 - 17:00:31: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" triggered "latency" (ping "30")
+L 03/06/2015 - 17:00:31: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/06/2015 - 17:00:31: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 17:00:31: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" triggered "time" (time "1:02")
+L 03/06/2015 - 17:00:31: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" triggered "latency" (ping "14")
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" triggered "weaponstats" (weapon "usp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "192") (deaths "0")
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" triggered "time" (time "0:53")
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" triggered "latency" (ping "25")
+L 03/06/2015 - 17:00:31: "[~BOMB_HAS_BEEN_PLANTED~]<472><STEAM_0:0:562794638><TERRORIST>" triggered "time" (time "0:57")
+L 03/06/2015 - 17:00:31: "[~BOMB_HAS_BEEN_PLANTED~]<472><STEAM_0:0:562794638><TERRORIST>" triggered "latency" (ping "29")
+L 03/06/2015 - 17:00:31: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "0")
+L 03/06/2015 - 17:00:31: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 17:00:31: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" triggered "time" (time "0:50")
+L 03/06/2015 - 17:00:31: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" triggered "latency" (ping "28")
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "54") (deaths "1")
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" triggered "time" (time "1:04")
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" triggered "latency" (ping "20")
+L 03/06/2015 - 17:00:31: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/06/2015 - 17:00:31: [META] ini: Read plugin config for: AMX Mod X
+L 03/06/2015 - 17:00:31: [META] ini: Read plugin config for: dproto_EF
+L 03/06/2015 - 17:00:31: [META] ini: Read plugin config for: mmtimer
+L 03/06/2015 - 17:00:31: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/06/2015 - 17:00:31: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/06/2015 - 17:00:31: [META] dll: Updating plugins...
+L 03/06/2015 - 17:00:31: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/06/2015 - 17:00:31: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/06/2015 - 17:00:31: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/06/2015 - 17:00:31: "|Xyligans| Zla9|_P@nDa<437><HLTV><TERRORIST>" disconnected
+L 03/06/2015 - 17:00:31: "[Easy_Skill]_Faza#1<466><STEAM_0:0:969824236><TERRORIST>" disconnected
+L 03/06/2015 - 17:00:31: "oleg_is_brovki<474><STEAM_0:0:29990838><CT>" disconnected
+L 03/06/2015 - 17:00:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/06/2015 - 17:00:31: World triggered "Round_End"
+L 03/06/2015 - 17:00:31: "[~BOMB_HAS_BEEN_PLANTED~]<472><STEAM_0:0:562794638><TERRORIST>" disconnected
+L 03/06/2015 - 17:00:31: "4ANHNK<475><STEAM_0:0:61868154><TERRORIST>" disconnected
+L 03/06/2015 - 17:00:31: "White Walker<451><STEAM_0:0:1428934429><CT>" disconnected
+L 03/06/2015 - 17:00:31: Log file closed

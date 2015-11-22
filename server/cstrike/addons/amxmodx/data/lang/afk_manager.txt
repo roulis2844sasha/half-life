@@ -1,0 +1,34 @@
+[en]
+AFK_SPEC = [%s]Player %s was moved to spectators for beeing Afk more than %d sec.
+AFK_KICK = [%s]Player %s was kicked for beeing Afk more than %d sec.
+AFK_KICK_RND = [%s]A random player from specators was kicked for beeing Afk.
+AFK_MENU_DISABLED = [%s]Sorry, but the Afk menu is disabled!
+AFK_BOMB_TRANSFER = [%s]Player %s droped & transfered the bomb due he is Afk.
+
+[ro]
+AFK_SPEC = [%s]Jucatorul %s a fost mutat la specatori pentru ca a fost Afk mai mult de %d sec.
+AFK_KICK = [%s]Jucatorul %s a fost dat afara pentru ca a fost Afk mai mult de %d sec.
+AFK_KICK_RND = [%s]Un jucator aleatoriu de la spectatori a fost dat afara pentru ca a fost Afk.
+AFK_MENU_DISABLED = [%s]Scuze, dar meniul Afk este dezactivat!
+AFK_BOMB_TRANSFER = [%s]Jucatorul %s a scapat & transferat bomba deoarece este Afk.
+
+[fr]
+AFK_SPEC = [%s]%s passe spectateur car il est AFK depuis plus de %d secondes.
+AFK_KICK = [%s]%s s'est fait kicker car il est AFK depuis plus de %d secondes.
+AFK_KICK_RND = [%s]Choisi au hasard, un des spectateurs AFK s'est fait kicker.
+AFK_MENU_DISABLED = [%s]Desole, le menu AFK n'est pas disponible.
+AFK_BOMB_TRANSFER = [%s]La bombe change de main car %s est AFK.
+
+[pl]
+AFK_SPEC = [%s]Gracz %s zostal przeniesiony do Spectatorow, poniewaz byl AFK dluzej niz %d sekund.
+AFK_KICK = [%s]Gracz %s zostal wykopany, poniewaz byl AFK dluzej niz %d sekund.
+AFK_KICK_RND = [%s]Losowy gracz ze Spectatorow zostal wykopany za bycie AFK.
+AFK_MENU_DISABLED = [%s]Menu AFK jest wylaczone!
+AFK_BOMB_TRANSFER = [%s]Bomba zostala przekazana innemu graczowi, poniewaz %s jest AFK.
+
+[de]
+AFK_SPEC = [%s]Spieler %s wurde zu den Spectators verschoben, weil er laenger als %d sek. AFK war.
+AFK_KICK = [%s]Spieler %s wurde gekickt, weil er laenger als %d sek. AFK war.
+AFK_KICK_RND = [%s]Ein Zufaellig ausgewaehlter Spectator wurde gekickt weil er AFK war.
+AFK_MENU_DISABLED = [%s]Entschuldige, das AFK Menue ist abgeschaltet!
+AFK_BOMB_TRANSFER = [%s]Spieler %s wurde gedroped & verschob die Bombe weil er AFK war.

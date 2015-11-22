@@ -1,0 +1,611 @@
+L 03/12/2015 - 21:39:45: Log file started (file "logs/L0312039.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/12/2015 - 21:39:45: Loading map "awp_india"
+L 03/12/2015 - 21:39:45: Server cvars start
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_debug_level" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_examine_time" = "0.5"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_look_angle" = "10"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_look_distance" = "200"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_message_repeats" = "5"
+L 03/12/2015 - 21:39:45: Server cvar "_tutor_view_distance" = "1000"
+L 03/12/2015 - 21:39:45: Server cvar "aesp_version" = "1.5b_mini"
+L 03/12/2015 - 21:39:45: Server cvar "allow_spectators" = "2"
+L 03/12/2015 - 21:39:45: Server cvar "amx_client_languages" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/12/2015 - 21:39:45: Server cvar "amx_language" = "ru"
+L 03/12/2015 - 21:39:45: Server cvar "amx_nextmap" = "35hp_2"
+L 03/12/2015 - 21:39:45: Server cvar "amx_timeleft" = "50:54"
+L 03/12/2015 - 21:39:45: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/12/2015 - 21:39:45: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/12/2015 - 21:39:45: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Config" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Status" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/12/2015 - 21:39:45: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/12/2015 - 21:39:45: Server cvar "coop" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "deathmatch" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "decalfrequency" = "9"
+L 03/12/2015 - 21:39:45: Server cvar "dp_version" = "0.9.391"
+L 03/12/2015 - 21:39:45: Server cvar "edgefriction" = "2"
+L 03/12/2015 - 21:39:45: Server cvar "hostage_debug" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "hostage_stop" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "humans_join_team" = "any"
+L 03/12/2015 - 21:39:45: Server cvar "jtp10181" = "chute"
+L 03/12/2015 - 21:39:45: Server cvar "max_queries_sec" = "3.0"
+L 03/12/2015 - 21:39:45: Server cvar "max_queries_sec_global" = "30"
+L 03/12/2015 - 21:39:45: Server cvar "max_queries_window" = "60"
+L 03/12/2015 - 21:39:45: Server cvar "metamod_version" = "1.19p32"
+L 03/12/2015 - 21:39:45: Server cvar "mp_allowmonsters" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_autokick" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_autoteambalance" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_buytime" = "1.5"
+L 03/12/2015 - 21:39:45: Server cvar "mp_c4timer" = "35"
+L 03/12/2015 - 21:39:45: Server cvar "mp_chattime" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_consistency" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_fadetoblack" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_flashlight" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_footsteps" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_forcecamera" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_forcechasecam" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_fragsleft" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_freezetime" = "5"
+L 03/12/2015 - 21:39:45: Server cvar "mp_friendlyfire" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_hostagepenalty" = "2"
+L 03/12/2015 - 21:39:45: Server cvar "mp_kickpercent" = "0.66"
+L 03/12/2015 - 21:39:45: Server cvar "mp_limitteams" = "2"
+L 03/12/2015 - 21:39:45: Server cvar "mp_logdetail" = "3"
+L 03/12/2015 - 21:39:45: Server cvar "mp_logfile" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_logmessages" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/12/2015 - 21:39:45: Server cvar "mp_maxrounds" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_mirrordamage" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_playerid" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_roundtime" = "2.57"
+L 03/12/2015 - 21:39:45: Server cvar "mp_startmoney" = "800"
+L 03/12/2015 - 21:39:45: Server cvar "mp_timeleft" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "mp_timelimit" = "70"
+L 03/12/2015 - 21:39:45: Server cvar "mp_tkpunish" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_windifference" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "mp_winlimit" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "pausable" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "sv_accelerate" = "5"
+L 03/12/2015 - 21:39:45: Server cvar "sv_aim" = "off"
+L 03/12/2015 - 21:39:45: Server cvar "sv_airaccelerate" = "10"
+L 03/12/2015 - 21:39:45: Server cvar "sv_airmove" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "sv_allowupload" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "sv_alltalk" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "sv_bounce" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "sv_cheats" = "off"
+L 03/12/2015 - 21:39:45: Server cvar "sv_clienttrace" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "sv_clipmode" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "sv_contact" = ""
+L 03/12/2015 - 21:39:45: Server cvar "sv_friction" = "4"
+L 03/12/2015 - 21:39:45: Server cvar "sv_gravity" = "800"
+L 03/12/2015 - 21:39:45: Server cvar "sv_logblocks" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "sv_maxrate" = "50000"
+L 03/12/2015 - 21:39:45: Server cvar "sv_maxspeed" = "900"
+L 03/12/2015 - 21:39:45: Server cvar "sv_minrate" = "100000"
+L 03/12/2015 - 21:39:45: Server cvar "sv_password" = ""
+L 03/12/2015 - 21:39:45: Server cvar "sv_proxies" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "sv_region" = "3"
+L 03/12/2015 - 21:39:45: Server cvar "sv_restart" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "sv_restartround" = "0"
+L 03/12/2015 - 21:39:45: Server cvar "sv_stepsize" = "18"
+L 03/12/2015 - 21:39:45: Server cvar "sv_stopspeed" = "75"
+L 03/12/2015 - 21:39:45: Server cvar "sv_uploadmax" = "0.5"
+L 03/12/2015 - 21:39:45: Server cvar "sv_voiceenable" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "sv_wateraccelerate" = "10"
+L 03/12/2015 - 21:39:45: Server cvar "sv_waterfriction" = "1"
+L 03/12/2015 - 21:39:45: Server cvar "ultimate_sounds" = "1.7"
+L 03/12/2015 - 21:39:45: Server cvar "vtc_version" = "80"
+L 03/12/2015 - 21:39:45: Server cvars end
+L 03/12/2015 - 21:39:46: Server cvar "amx_nextmap" = "cs_assault"
+L 03/12/2015 - 21:39:46: Started map "awp_india" (CRC "534917220")
+L 03/12/2015 - 21:39:46: [VTC] Player 7 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 3 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 6 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 4 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 13 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 2 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 5 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 1 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 8 speex
+L 03/12/2015 - 21:39:46: [VTC] Player 12 speex
+L 03/12/2015 - 21:39:48: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39a4ad8
+L 03/12/2015 - 21:39:48: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><>" connected, address "178.122.113.140:10695"
+L 03/12/2015 - 21:39:48: [VTC] Player 5 speex
+L 03/12/2015 - 21:39:49: "[Hard_Skill]_4IKIST<195><STEAM_0:0:2025036726><>" entered the game
+L 03/12/2015 - 21:39:49: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><>" entered the game
+L 03/12/2015 - 21:39:49: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><>" entered the game
+L 03/12/2015 - 21:39:50: "Radion#<205><STEAM_0:0:1417911346><>" entered the game
+L 03/12/2015 - 21:39:51: "ANGELuHA<211><STEAM_0:0:1331792062><>" entered the game
+L 03/12/2015 - 21:39:51: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><>" entered the game
+L 03/12/2015 - 21:39:51: "Radion#<205><STEAM_0:0:1417911346><>" joined team "TERRORIST"
+L 03/12/2015 - 21:39:52: "HA Tb|<210><STEAM_0:0:1771118830><>" entered the game
+L 03/12/2015 - 21:39:52: World triggered "Round_Start"
+L 03/12/2015 - 21:39:52: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39b37b4
+L 03/12/2015 - 21:39:52: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><>" connected, address "37.213.58.48:27005"
+L 03/12/2015 - 21:39:52: [VTC] Player 8 speex
+L 03/12/2015 - 21:39:52: "Vrag___SIstembI<214><STEAM_0:0:1457735169><>" entered the game
+L 03/12/2015 - 21:39:52: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><>" joined team "TERRORIST"
+L 03/12/2015 - 21:39:53: "[Hard_Skill]_4IKIST<195><STEAM_0:0:2025036726><UNASSIGNED>" triggered "time" (time "0:04")
+L 03/12/2015 - 21:39:53: "[Hard_Skill]_4IKIST<195><STEAM_0:0:2025036726><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/12/2015 - 21:39:53: "[Hard_Skill]_4IKIST<195><STEAM_0:0:2025036726><>" disconnected
+L 03/12/2015 - 21:39:54: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb399acf0
+L 03/12/2015 - 21:39:54: "Tolstopuz<224><STEAM_0:0:622962821><>" connected, address "178.120.239.209:54038"
+L 03/12/2015 - 21:39:54: "HA Tb|<210><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/12/2015 - 21:39:54: [VTC] Player 3 speex
+L 03/12/2015 - 21:39:54: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><>" joined team "CT"
+L 03/12/2015 - 21:39:55: World triggered "Game_Commencing"
+L 03/12/2015 - 21:39:55: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/12/2015 - 21:39:55: World triggered "Round_End"
+L 03/12/2015 - 21:39:56: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "HA Tb|<210><STEAM_0:0:1771118830><CT>" with "awp" (damage "54") (damage_armor "0") (health "46") (armor "0")
+L 03/12/2015 - 21:39:56: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><>" joined team "CT"
+L 03/12/2015 - 21:39:57: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><>" entered the game
+L 03/12/2015 - 21:39:57: "Vrag___SIstembI<214><STEAM_0:0:1457735169><>" joined team "TERRORIST"
+L 03/12/2015 - 21:39:58: "Tolstopuz<224><STEAM_0:0:622962821><>" entered the game
+L 03/12/2015 - 21:40:03: World triggered "Round_Start"
+L 03/12/2015 - 21:40:06: "Tolstopuz<224><STEAM_0:0:622962821><>" joined team "CT"
+L 03/12/2015 - 21:40:07: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 03/12/2015 - 21:40:09: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:40:09: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:40:12: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/12/2015 - 21:40:12: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:40:13: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "HA Tb|<210><STEAM_0:0:1771118830><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/12/2015 - 21:40:13: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "HA Tb|<210><STEAM_0:0:1771118830><CT>" with "awp"
+L 03/12/2015 - 21:40:17: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "138") (damage_armor "2") (health "-38") (armor "98")
+L 03/12/2015 - 21:40:17: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp"
+L 03/12/2015 - 21:40:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/12/2015 - 21:40:17: World triggered "Round_End"
+L 03/12/2015 - 21:40:18: "HA Tb|<210><STEAM_0:0:1771118830><CT>" joined team "SPECTATOR"
+L 03/12/2015 - 21:40:27: World triggered "Round_Start"
+L 03/12/2015 - 21:40:37: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/12/2015 - 21:40:38: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/12/2015 - 21:40:38: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:40:41: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/12/2015 - 21:40:41: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:40:44: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/12/2015 - 21:40:44: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><>" joined team "CT"
+L 03/12/2015 - 21:40:46: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:40:46: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:40:54: "HA Tb|<210><STEAM_0:0:1771118830><SPECTATOR>" joined team "TERRORIST"
+L 03/12/2015 - 21:40:56: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 03/12/2015 - 21:41:08: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "52") (damage_armor "1") (health "-17") (armor "98")
+L 03/12/2015 - 21:41:08: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:41:12: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:41:12: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp"
+L 03/12/2015 - 21:41:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/12/2015 - 21:41:12: World triggered "Round_End"
+L 03/12/2015 - 21:41:22: World triggered "Round_Start"
+L 03/12/2015 - 21:41:22: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/12/2015 - 21:41:22: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/12/2015 - 21:41:25: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "106") (damage_armor "2") (health "-87") (armor "98")
+L 03/12/2015 - 21:41:25: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:41:26: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:41:26: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:41:28: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "106") (damage_armor "2") (health "-84") (armor "97")
+L 03/12/2015 - 21:41:28: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp"
+L 03/12/2015 - 21:41:36: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/12/2015 - 21:41:36: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:41:42: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/12/2015 - 21:41:42: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:41:53: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "109") (damage_armor "2") (health "-37") (armor "98")
+L 03/12/2015 - 21:41:53: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:42:05: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "knife" (damage "221") (damage_armor "20") (health "-121") (armor "80")
+L 03/12/2015 - 21:42:05: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "knife"
+L 03/12/2015 - 21:42:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/12/2015 - 21:42:05: World triggered "Round_End"
+L 03/12/2015 - 21:42:15: World triggered "Round_Start"
+L 03/12/2015 - 21:42:18: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/12/2015 - 21:42:18: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/12/2015 - 21:42:20: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "106") (damage_armor "2") (health "-58") (armor "97")
+L 03/12/2015 - 21:42:20: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:42:20: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/12/2015 - 21:42:21: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:42:21: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp"
+L 03/12/2015 - 21:42:22: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "425") (damage_armor "6") (health "-403") (armor "93")
+L 03/12/2015 - 21:42:22: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:42:29: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/12/2015 - 21:42:29: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:42:32: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/12/2015 - 21:42:34: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "432") (damage_armor "6") (health "-416") (armor "94")
+L 03/12/2015 - 21:42:34: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:42:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/12/2015 - 21:42:34: World triggered "Round_End"
+L 03/12/2015 - 21:42:44: World triggered "Round_Start"
+L 03/12/2015 - 21:42:46: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/12/2015 - 21:42:46: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:42:49: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:42:49: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:42:55: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/12/2015 - 21:42:55: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:42:59: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/12/2015 - 21:42:59: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:43:02: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/12/2015 - 21:43:02: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/12/2015 - 21:43:03: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/12/2015 - 21:43:03: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "knife"
+L 03/12/2015 - 21:43:12: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:43:12: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:43:13: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39a99cc
+L 03/12/2015 - 21:43:13: "|Xyligans|_Zl@9|_P@nD@<225><STEAM_0:0:967170807><>" connected, address "178.120.13.193:22217"
+L 03/12/2015 - 21:43:13: [VTC] Player 6 speex
+L 03/12/2015 - 21:43:19: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39a99cc
+L 03/12/2015 - 21:43:19: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><>" connected, address "178.120.13.193:22217"
+L 03/12/2015 - 21:43:19: [VTC] Player 6 speex
+L 03/12/2015 - 21:43:21: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39b86a8
+L 03/12/2015 - 21:43:21: "masha<227><STEAM_0:0:1092380237><>" connected, address "2.93.183.176:27005"
+L 03/12/2015 - 21:43:22: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/12/2015 - 21:43:22: [VTC] Player 9 speex
+L 03/12/2015 - 21:43:29: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><>" entered the game
+L 03/12/2015 - 21:43:37: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/12/2015 - 21:43:37: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "knife"
+L 03/12/2015 - 21:43:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 03/12/2015 - 21:43:37: World triggered "Round_End"
+L 03/12/2015 - 21:43:37: "masha<227><STEAM_0:0:1092380237><>" entered the game
+L 03/12/2015 - 21:43:43: "masha<227><STEAM_0:0:1092380237><>" joined team "TERRORIST"
+L 03/12/2015 - 21:43:47: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><>" joined team "CT"
+L 03/12/2015 - 21:43:47: World triggered "Round_Start"
+L 03/12/2015 - 21:43:51: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:43:51: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:43:51: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/12/2015 - 21:43:53: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/12/2015 - 21:43:53: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:43:56: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-403") (armor "93")
+L 03/12/2015 - 21:43:56: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:43:56: [DPROTO]: Client 9 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39bd59c
+L 03/12/2015 - 21:43:56: "Ampfetamin<228><STEAM_0:0:936284684><>" connected, address "176.96.195.173:27005"
+L 03/12/2015 - 21:43:57: [VTC] Player 10 speex
+L 03/12/2015 - 21:44:00: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/12/2015 - 21:44:00: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:02: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/12/2015 - 21:44:02: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:44:02: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:44:02: "Tolstopuz<224><STEAM_0:0:622962821><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:03: [DPROTO]: Client 9 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39bd59c
+L 03/12/2015 - 21:44:03: "Ampfetamin<229><STEAM_0:0:936284684><>" connected, address "176.96.195.173:27005"
+L 03/12/2015 - 21:44:03: [VTC] Player 10 speex
+L 03/12/2015 - 21:44:05: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "masha<227><STEAM_0:0:1092380237><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:44:05: "Tolstopuz<224><STEAM_0:0:622962821><CT>" killed "masha<227><STEAM_0:0:1092380237><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:05: Team "CT" triggered "CTs_Win" (CT "1") (T "5")
+L 03/12/2015 - 21:44:05: World triggered "Round_End"
+L 03/12/2015 - 21:44:08: "Ampfetamin<229><STEAM_0:0:936284684><>" entered the game
+L 03/12/2015 - 21:44:12: "Ampfetamin<229><STEAM_0:0:936284684><>" joined team "CT"
+L 03/12/2015 - 21:44:15: World triggered "Round_Start"
+L 03/12/2015 - 21:44:15: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "masha<227><STEAM_0:0:1092380237><TERRORIST>" with "awp" (damage "312") (damage_armor "4") (health "-212") (armor "96")
+L 03/12/2015 - 21:44:15: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "masha<227><STEAM_0:0:1092380237><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:15: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/12/2015 - 21:44:15: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/12/2015 - 21:44:16: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "51") (damage_armor "1") (health "49") (armor "99")
+L 03/12/2015 - 21:44:18: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:44:18: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:21: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/12/2015 - 21:44:21: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:25: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:44:25: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:27: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/12/2015 - 21:44:27: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:27: Team "CT" triggered "CTs_Win" (CT "2") (T "5")
+L 03/12/2015 - 21:44:27: World triggered "Round_End"
+L 03/12/2015 - 21:44:37: World triggered "Round_Start"
+L 03/12/2015 - 21:44:37: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" with "awp" (damage "25") (damage_armor "1") (health "75") (armor "99")
+L 03/12/2015 - 21:44:37: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:44:37: "Tolstopuz<224><STEAM_0:0:622962821><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:37: Kick: "masha<227><STEAM_0:0:1092380237><>" was kicked by "Console" (message ""[Nice Kicker] Выпилен за высокий пинг 157!"")
+L 03/12/2015 - 21:44:37: "masha<227><STEAM_0:0:1092380237><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/12/2015 - 21:44:37: "masha<227><STEAM_0:0:1092380237><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:44:37: "masha<227><STEAM_0:0:1092380237><TERRORIST>" triggered "time" (time "1:00")
+L 03/12/2015 - 21:44:37: "masha<227><STEAM_0:0:1092380237><TERRORIST>" triggered "latency" (ping "180")
+L 03/12/2015 - 21:44:37: "masha<227><STEAM_0:0:1092380237><TERRORIST>" disconnected
+L 03/12/2015 - 21:44:38: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:44:38: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:38: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:44:38: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:44:43: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" with "awp" (damage "52") (damage_armor "0") (health "23") (armor "99")
+L 03/12/2015 - 21:44:44: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:44:44: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:44:45: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:44:45: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:51: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/12/2015 - 21:44:51: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:44:52: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:44:52: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:44:52: Team "CT" triggered "CTs_Win" (CT "3") (T "5")
+L 03/12/2015 - 21:44:52: World triggered "Round_End"
+L 03/12/2015 - 21:45:01: "ANGELuHA<211><STEAM_0:0:1331792062><>" triggered "Game_idle_kick" (auto)
+L 03/12/2015 - 21:45:01: Kick: "ANGELuHA<211><STEAM_0:0:1331792062><>" was kicked by "Console"
+L 03/12/2015 - 21:45:01: "ANGELuHA<211><STEAM_0:0:1331792062><UNASSIGNED>" triggered "time" (time "5:10")
+L 03/12/2015 - 21:45:01: "ANGELuHA<211><STEAM_0:0:1331792062><UNASSIGNED>" triggered "latency" (ping "26")
+L 03/12/2015 - 21:45:01: "ANGELuHA<211><STEAM_0:0:1331792062><>" disconnected
+L 03/12/2015 - 21:45:02: World triggered "Round_Start"
+L 03/12/2015 - 21:45:05: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:45:05: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:08: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:45:08: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:09: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "206") (damage_armor "3") (health "-106") (armor "97")
+L 03/12/2015 - 21:45:09: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp"
+L 03/12/2015 - 21:45:10: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/12/2015 - 21:45:10: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:14: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:45:14: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" with "awp"
+L 03/12/2015 - 21:45:16: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:45:16: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:16: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 03/12/2015 - 21:45:16: World triggered "Round_End"
+L 03/12/2015 - 21:45:18: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><CT>" joined team "TERRORIST"
+L 03/12/2015 - 21:45:26: World triggered "Round_Start"
+L 03/12/2015 - 21:45:26: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "315") (damage_armor "5") (health "-215") (armor "95")
+L 03/12/2015 - 21:45:26: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:27: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39b86a8
+L 03/12/2015 - 21:45:27: "masha<230><STEAM_0:0:1092380237><>" connected, address "2.93.183.176:27005"
+L 03/12/2015 - 21:45:28: [VTC] Player 9 speex
+L 03/12/2015 - 21:45:30: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:45:30: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:45:34: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/12/2015 - 21:45:34: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:35: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:45:35: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:36: "masha<230><STEAM_0:0:1092380237><>" entered the game
+L 03/12/2015 - 21:45:40: "masha<230><STEAM_0:0:1092380237><>" joined team "TERRORIST"
+L 03/12/2015 - 21:45:41: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:45:41: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp"
+L 03/12/2015 - 21:45:44: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:45:44: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:45:44: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/12/2015 - 21:45:44: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" killed "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp"
+L 03/12/2015 - 21:45:44: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/12/2015 - 21:45:47: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/12/2015 - 21:45:47: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:45:50: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c2490
+L 03/12/2015 - 21:45:50: "White Walker<231><STEAM_0:0:1428934429><>" connected, address "178.122.74.79:27005"
+L 03/12/2015 - 21:45:50: [VTC] Player 11 speex
+L 03/12/2015 - 21:45:53: "White Walker<231><STEAM_0:0:1428934429><>" entered the game
+L 03/12/2015 - 21:45:57: "White Walker<231><STEAM_0:0:1428934429><>" joined team "CT"
+L 03/12/2015 - 21:46:00: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:46:00: "Tolstopuz<224><STEAM_0:0:622962821><CT>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp"
+L 03/12/2015 - 21:46:17: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-38") (armor "95")
+L 03/12/2015 - 21:46:17: "Tolstopuz<224><STEAM_0:0:622962821><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "knife"
+L 03/12/2015 - 21:46:17: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 03/12/2015 - 21:46:17: World triggered "Round_End"
+L 03/12/2015 - 21:46:27: World triggered "Round_Start"
+L 03/12/2015 - 21:46:27: "White Walker<231><STEAM_0:0:1428934429><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/12/2015 - 21:46:27: "White Walker<231><STEAM_0:0:1428934429><CT>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp"
+L 03/12/2015 - 21:46:28: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:46:28: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp"
+L 03/12/2015 - 21:46:29: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/12/2015 - 21:46:31: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:46:31: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:46:36: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/12/2015 - 21:46:36: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:46:36: "White Walker<231><STEAM_0:0:1428934429><CT>" attacked "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:46:36: "White Walker<231><STEAM_0:0:1428934429><CT>" killed "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp"
+L 03/12/2015 - 21:46:41: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:46:41: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp"
+L 03/12/2015 - 21:46:42: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:46:42: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:46:43: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/12/2015 - 21:46:43: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:46:46: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" joined team "SPECTATOR"
+L 03/12/2015 - 21:46:47: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" joined team "TERRORIST"
+L 03/12/2015 - 21:46:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-63") (armor "97")
+L 03/12/2015 - 21:46:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:46:51: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" joined team "SPECTATOR"
+L 03/12/2015 - 21:46:58: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:46:58: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp"
+L 03/12/2015 - 21:46:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 03/12/2015 - 21:46:58: World triggered "Round_End"
+L 03/12/2015 - 21:47:04: "HA Tb|<210><STEAM_0:0:1771118830><SPECTATOR>" joined team "TERRORIST"
+L 03/12/2015 - 21:47:08: World triggered "Round_Start"
+L 03/12/2015 - 21:47:16: "Tolstopuz<224><STEAM_0:0:622962821><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:47:16: "Tolstopuz<224><STEAM_0:0:622962821><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:16: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:47:16: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "Tolstopuz<224><STEAM_0:0:622962821><CT>" with "awp"
+L 03/12/2015 - 21:47:17: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/12/2015 - 21:47:17: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:20: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:47:20: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:21: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/12/2015 - 21:47:23: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp" (damage "84") (damage_armor "0") (health "-67") (armor "100")
+L 03/12/2015 - 21:47:23: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" killed "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp"
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" triggered "weaponstats" (weapon "awp") (shots "37") (hits "6") (kills "5") (headshots "0") (tks "0") (damage "625") (deaths "5")
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "2")
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" triggered "time" (time "7:24")
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" triggered "latency" (ping "31")
+L 03/12/2015 - 21:47:23: "Tolstopuz<224><STEAM_0:0:622962821><CT>" disconnected
+L 03/12/2015 - 21:47:23: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:47:23: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:28: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/12/2015 - 21:47:28: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:47:30: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:47:30: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" killed "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp"
+L 03/12/2015 - 21:47:30: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/12/2015 - 21:47:30: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:30: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 03/12/2015 - 21:47:30: World triggered "Round_End"
+L 03/12/2015 - 21:47:40: World triggered "Round_Start"
+L 03/12/2015 - 21:47:40: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:47:40: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:47:40: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/12/2015 - 21:47:41: "White Walker<231><STEAM_0:0:1428934429><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:47:41: "White Walker<231><STEAM_0:0:1428934429><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:45: "White Walker<231><STEAM_0:0:1428934429><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/12/2015 - 21:47:45: "White Walker<231><STEAM_0:0:1428934429><CT>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:49: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:47:49: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:50: "Ampfetamin<229><STEAM_0:0:936284684><CT>" attacked "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/12/2015 - 21:47:50: "Ampfetamin<229><STEAM_0:0:936284684><CT>" killed "masha<230><STEAM_0:0:1092380237><TERRORIST>" with "awp"
+L 03/12/2015 - 21:47:59: "Ampfetamin<229><STEAM_0:0:936284684><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/12/2015 - 21:48:01: "White Walker<231><STEAM_0:0:1428934429><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-94") (armor "98")
+L 03/12/2015 - 21:48:01: "White Walker<231><STEAM_0:0:1428934429><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:48:07: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:48:07: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:48:07: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 03/12/2015 - 21:48:07: World triggered "Round_End"
+L 03/12/2015 - 21:48:12: "masha<230><STEAM_0:0:1092380237><TERRORIST>" joined team "CT" (auto)
+L 03/12/2015 - 21:48:17: World triggered "Round_Start"
+L 03/12/2015 - 21:48:17: "Ampfetamin<229><STEAM_0:0:936284684><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/12/2015 - 21:48:17: "Ampfetamin<229><STEAM_0:0:936284684><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:48:19: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/12/2015 - 21:48:27: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/12/2015 - 21:48:27: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp"
+L 03/12/2015 - 21:48:28: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp" (damage "214") (damage_armor "3") (health "-114") (armor "97")
+L 03/12/2015 - 21:48:28: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp"
+L 03/12/2015 - 21:48:31: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "masha<230><STEAM_0:0:1092380237><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:48:31: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "masha<230><STEAM_0:0:1092380237><CT>" with "awp"
+L 03/12/2015 - 21:48:39: "Ampfetamin<229><STEAM_0:0:936284684><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:48:39: "Ampfetamin<229><STEAM_0:0:936284684><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:48:40: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/12/2015 - 21:48:46: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-415") (armor "94")
+L 03/12/2015 - 21:48:46: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:49:05: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "109") (damage_armor "2") (health "-61") (armor "97")
+L 03/12/2015 - 21:49:05: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:49:08: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/12/2015 - 21:49:08: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp"
+L 03/12/2015 - 21:49:22: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "knife" (damage "221") (damage_armor "20") (health "-121") (armor "80")
+L 03/12/2015 - 21:49:22: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "knife"
+L 03/12/2015 - 21:49:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 03/12/2015 - 21:49:22: World triggered "Round_End"
+L 03/12/2015 - 21:49:32: World triggered "Round_Start"
+L 03/12/2015 - 21:49:38: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:49:38: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:49:43: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/12/2015 - 21:49:43: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "Ampfetamin<229><STEAM_0:0:936284684><CT>" with "awp"
+L 03/12/2015 - 21:49:43: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:49:43: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" killed "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" with "awp"
+L 03/12/2015 - 21:49:46: "masha<230><STEAM_0:0:1092380237><CT>" attacked "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/12/2015 - 21:49:46: "masha<230><STEAM_0:0:1092380237><CT>" killed "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" with "awp"
+L 03/12/2015 - 21:49:47: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/12/2015 - 21:49:47: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" triggered "weaponstats" (weapon "awp") (shots "19") (hits "5") (kills "4") (headshots "1") (tks "0") (damage "840") (deaths "5")
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" triggered "time" (time "5:41")
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" triggered "latency" (ping "88")
+L 03/12/2015 - 21:49:49: "Ampfetamin<229><STEAM_0:0:936284684><CT>" disconnected
+L 03/12/2015 - 21:49:50: "White Walker<231><STEAM_0:0:1428934429><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 03/12/2015 - 21:49:51: "masha<230><STEAM_0:0:1092380237><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-30") (armor "98")
+L 03/12/2015 - 21:49:51: "masha<230><STEAM_0:0:1092380237><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:49:52: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/12/2015 - 21:49:52: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp"
+L 03/12/2015 - 21:49:52: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" attacked "masha<230><STEAM_0:0:1092380237><CT>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/12/2015 - 21:50:02: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><SPECTATOR>" joined team "CT"
+L 03/12/2015 - 21:50:16: "masha<230><STEAM_0:0:1092380237><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-92") (armor "98")
+L 03/12/2015 - 21:50:16: "masha<230><STEAM_0:0:1092380237><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:50:20: "masha<230><STEAM_0:0:1092380237><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-12") (armor "98")
+L 03/12/2015 - 21:50:20: "masha<230><STEAM_0:0:1092380237><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:50:20: Team "CT" triggered "CTs_Win" (CT "8") (T "7")
+L 03/12/2015 - 21:50:20: World triggered "Round_End"
+L 03/12/2015 - 21:50:30: World triggered "Round_Start"
+L 03/12/2015 - 21:50:30: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "60") (damage_armor "0") (health "40") (armor "100")
+L 03/12/2015 - 21:50:30: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "44") (damage_armor "0") (health "56") (armor "100")
+L 03/12/2015 - 21:50:30: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp" (damage "106") (damage_armor "2") (health "-66") (armor "98")
+L 03/12/2015 - 21:50:30: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" with "awp"
+L 03/12/2015 - 21:50:30: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp" (damage "78") (damage_armor "1") (health "-22") (armor "99")
+L 03/12/2015 - 21:50:30: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" with "awp"
+L 03/12/2015 - 21:50:30: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "57") (damage_armor "1") (health "43") (armor "99")
+L 03/12/2015 - 21:50:37: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "106") (damage_armor "2") (health "-63") (armor "97")
+L 03/12/2015 - 21:50:37: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" killed "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp"
+L 03/12/2015 - 21:50:39: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/12/2015 - 21:50:39: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "White Walker<231><STEAM_0:0:1428934429><CT>" with "awp"
+L 03/12/2015 - 21:50:41: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" attacked "masha<230><STEAM_0:0:1092380237><CT>" with "awp" (damage "138") (damage_armor "2") (health "-38") (armor "98")
+L 03/12/2015 - 21:50:41: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" killed "masha<230><STEAM_0:0:1092380237><CT>" with "awp"
+L 03/12/2015 - 21:50:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "8")
+L 03/12/2015 - 21:50:41: World triggered "Round_End"
+L 03/12/2015 - 21:50:51: World triggered "Round_Start"
+L 03/12/2015 - 21:50:53: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" attacked "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" with "awp" (damage "78") (damage_armor "2") (health "22") (armor "98")
+L 03/12/2015 - 21:50:53: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "78") (damage_armor "2") (health "22") (armor "98")
+L 03/12/2015 - 21:50:56: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" attacked "masha<230><STEAM_0:0:1092380237><CT>" with "awp" (damage "210") (damage_armor "3") (health "-110") (armor "97")
+L 03/12/2015 - 21:50:56: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" killed "masha<230><STEAM_0:0:1092380237><CT>" with "awp"
+L 03/12/2015 - 21:50:56: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp" (damage "425") (damage_armor "5") (health "-403") (armor "93")
+L 03/12/2015 - 21:50:56: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" with "awp"
+L 03/12/2015 - 21:50:59: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 03/12/2015 - 21:51:01: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" attacked "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/12/2015 - 21:51:01: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" killed "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" with "awp"
+L 03/12/2015 - 21:51:02: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" attacked "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-89") (armor "98")
+L 03/12/2015 - 21:51:02: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" killed "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" with "awp"
+L 03/12/2015 - 21:51:06: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "94") (hits "17") (kills "13") (headshots "3") (tks "0") (damage "2608") (deaths "11")
+L 03/12/2015 - 21:51:06: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "3") (stomach "1") (leftarm "5") (rightarm "4") (leftleg "1") (rightleg "0")
+L 03/12/2015 - 21:51:06: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" triggered "time" (time "11:16")
+L 03/12/2015 - 21:51:06: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" triggered "latency" (ping "54")
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "42") (hits "12") (kills "9") (headshots "2") (tks "0") (damage "1850") (deaths "11")
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "1") (stomach "1") (leftarm "8") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "221") (deaths "0")
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" triggered "time" (time "11:14")
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" triggered "latency" (ping "60")
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "59") (hits "23") (kills "19") (headshots "3") (tks "0") (damage "2869") (deaths "6")
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "3") (stomach "3") (leftarm "12") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "6") (kills "3") (headshots "1") (tks "0") (damage "525") (deaths "5")
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" triggered "time" (time "11:13")
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" triggered "latency" (ping "51")
+L 03/12/2015 - 21:51:06: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" triggered "weaponstats" (weapon "awp") (shots "52") (hits "12") (kills "8") (headshots "2") (tks "0") (damage "1817") (deaths "13")
+L 03/12/2015 - 21:51:06: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "2") (stomach "2") (leftarm "3") (rightarm "1") (leftleg "2") (rightleg "0")
+L 03/12/2015 - 21:51:06: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" triggered "time" (time "11:14")
+L 03/12/2015 - 21:51:06: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" triggered "latency" (ping "54")
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "23") (hits "13") (kills "9") (headshots "1") (tks "0") (damage "1610") (deaths "6")
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "3") (leftarm "4") (rightarm "1") (leftleg "2") (rightleg "2")
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" triggered "time" (time "7:36")
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" triggered "latency" (ping "35")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "awp") (shots "30") (hits "11") (kills "8") (headshots "1") (tks "0") (damage "1421") (deaths "8")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "1") (leftarm "6") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" triggered "time" (time "11:16")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" triggered "latency" (ping "38")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "awp") (shots "31") (hits "20") (kills "19") (headshots "9") (tks "0") (damage "4801") (deaths "9")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "awp") (head "9") (chest "1") (stomach "0") (leftarm "5") (rightarm "4") (leftleg "0") (rightleg "1")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" triggered "time" (time "11:09")
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" triggered "latency" (ping "46")
+L 03/12/2015 - 21:51:06: "masha<230><STEAM_0:0:1092380237><CT>" triggered "weaponstats" (weapon "awp") (shots "15") (hits "4") (kills "4") (headshots "1") (tks "0") (damage "775") (deaths "7")
+L 03/12/2015 - 21:51:06: "masha<230><STEAM_0:0:1092380237><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "masha<230><STEAM_0:0:1092380237><CT>" triggered "time" (time "5:30")
+L 03/12/2015 - 21:51:06: "masha<230><STEAM_0:0:1092380237><CT>" triggered "latency" (ping "150")
+L 03/12/2015 - 21:51:06: "White Walker<231><STEAM_0:0:1428934429><CT>" triggered "weaponstats" (weapon "awp") (shots "23") (hits "6") (kills "5") (headshots "1") (tks "0") (damage "962") (deaths "4")
+L 03/12/2015 - 21:51:06: "White Walker<231><STEAM_0:0:1428934429><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/12/2015 - 21:51:06: "White Walker<231><STEAM_0:0:1428934429><CT>" triggered "time" (time "5:13")
+L 03/12/2015 - 21:51:06: "White Walker<231><STEAM_0:0:1428934429><CT>" triggered "latency" (ping "25")
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "51") (hits "13") (kills "8") (headshots "3") (tks "0") (damage "1945") (deaths "11")
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "1") (stomach "2") (leftarm "5") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" triggered "time" (time "11:17")
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" triggered "latency" (ping "25")
+L 03/12/2015 - 21:51:06: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/12/2015 - 21:51:06: [META] ini: Read plugin config for: AMX Mod X
+L 03/12/2015 - 21:51:06: [META] ini: Read plugin config for: dproto_EF
+L 03/12/2015 - 21:51:06: [META] ini: Read plugin config for: mmtimer
+L 03/12/2015 - 21:51:06: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/12/2015 - 21:51:06: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/12/2015 - 21:51:06: [META] dll: Updating plugins...
+L 03/12/2015 - 21:51:06: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/12/2015 - 21:51:06: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/12/2015 - 21:51:06: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/12/2015 - 21:51:06: "Radion#<205><STEAM_0:0:1417911346><TERRORIST>" disconnected
+L 03/12/2015 - 21:51:06: "HA Tb|<210><STEAM_0:0:1771118830><TERRORIST>" disconnected
+L 03/12/2015 - 21:51:06: "Vrag___SIstembI<214><STEAM_0:0:1457735169><TERRORIST>" disconnected
+L 03/12/2015 - 21:51:06: "[SOBR]#[}l{eK@]#<222><STEAM_0:0:525296452><CT>" disconnected
+L 03/12/2015 - 21:51:06: "|Xyligans|_Zl@9|_P@nD@<226><STEAM_0:0:967170807><TERRORIST>" disconnected
+L 03/12/2015 - 21:51:06: Team "CT" triggered "CTs_Win" (CT "9") (T "8")
+L 03/12/2015 - 21:51:06: World triggered "Round_End"
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Lexa Kosmonaft<183><STEAM_0:0:226379933><CT>" disconnected
+L 03/12/2015 - 21:51:06: "[Hard_Skill]_Mi{x}eR<223><STEAM_0:0:898503398><CT>" disconnected
+L 03/12/2015 - 21:51:06: "masha<230><STEAM_0:0:1092380237><CT>" disconnected
+L 03/12/2015 - 21:51:06: "White Walker<231><STEAM_0:0:1428934429><CT>" disconnected
+L 03/12/2015 - 21:51:06: "|Xyligans|kpy}I{ka<203><STEAM_0:0:1696161005><TERRORIST>" disconnected
+L 03/12/2015 - 21:51:06: Log file closed

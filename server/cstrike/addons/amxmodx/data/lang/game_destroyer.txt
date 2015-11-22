@@ -1,0 +1,11 @@
+[en]
+GD_IMMUNITY = %s has immunity
+GD_ADM_DESTROYED = You has destroyed game on player %s (%s)
+GD_A1_DESTROYED = ADMIN has destroyed game on player %s
+GD_A2_DESTROYED = ADMIN %s has destroyed game on player %s
+
+[ru]
+GD_IMMUNITY = %s имеет иммунитет
+GD_ADM_DESTROYED = Вы уничтожили игру игроку %s (%s)
+GD_A1_DESTROYED = АДМИНИСТРАТОР уничтожил игру игроку %s
+GD_A2_DESTROYED = АДМИНИСТРАТОР %s уничтожил игру игроку %s

@@ -1,0 +1,320 @@
+L 03/23/2015 - 12:13:59: Log file started (file "logs/L0323034.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/23/2015 - 12:13:59: Server cvar "mp_logdetail" = "3"
+L 03/23/2015 - 12:13:59: Server cvar "mp_timelimit" = "30"
+L 03/23/2015 - 12:13:59: Server cvar "mp_c4timer" = "35"
+L 03/23/2015 - 12:13:59: Server cvar "mp_flashlight" = "1"
+L 03/23/2015 - 12:13:59: Server cvar "mp_freezetime" = "5"
+L 03/23/2015 - 12:13:59: Server cvar "mp_hostagepenalty" = "0"
+L 03/23/2015 - 12:13:59: Server cvar "mp_limitteams" = "5"
+L 03/23/2015 - 12:13:59: Server cvar "mp_roundtime" = "2.57"
+L 03/23/2015 - 12:13:59: Server cvar "mp_tkpunish" = "1"
+L 03/23/2015 - 12:13:59: Server cvar "sv_restartround" = "1"
+L 03/23/2015 - 12:13:59: Server cvar "sv_maxspeed" = "320"
+L 03/23/2015 - 12:13:59: Server cvar "sv_proxies" = "0"
+L 03/23/2015 - 12:13:59: Server cvar "allow_spectators" = "4"
+L 03/23/2015 - 12:13:59: Server cvar "mp_chattime" = "0"
+L 03/23/2015 - 12:13:59: Server cvar "decalfrequency" = "9"
+L 03/23/2015 - 12:13:59: Server cvar "sv_aim" = "0"
+L 03/23/2015 - 12:13:59: Server cvar "sv_minrate" = "100000"
+L 03/23/2015 - 12:13:59: Server cvar "sv_maxrate" = "50000"
+L 03/23/2015 - 12:13:59: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:13:59: "[Easy_Skill]_Faza#1<1><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:13:59: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:00: World triggered "Restart_Round_(1_second)"
+L 03/23/2015 - 12:14:00: Team "CT" scored "0" with "0" players
+L 03/23/2015 - 12:14:00: Team "TERRORIST" scored "0" with "0" players
+L 03/23/2015 - 12:14:00: Server cvar "sv_restartround" = "0"
+L 03/23/2015 - 12:14:00: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:00: "[Easy_Skill]_Faza#1<2><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:00: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:00: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:00: "[Easy_Skill]_Faza#1<3><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:00: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:01: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:01: "[Easy_Skill]_Faza#1<4><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:01: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:04: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:04: "[Easy_Skill]_Faza#1<5><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:04: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:05: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:05: "[Easy_Skill]_Faza#1<6><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:05: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:06: World triggered "Round_Start"
+L 03/23/2015 - 12:14:06: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:06: "[Easy_Skill]_Faza#1<7><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:06: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:10: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3943f08
+L 03/23/2015 - 12:14:10: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><>" connected, address "46.53.210.172:61708"
+L 03/23/2015 - 12:14:10: [VTC] Player 1 speex
+L 03/23/2015 - 12:14:14: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><>" entered the game
+L 03/23/2015 - 12:16:40: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 03/23/2015 - 12:16:40: World triggered "Round_End"
+L 03/23/2015 - 12:16:50: World triggered "Round_Start"
+L 03/23/2015 - 12:19:24: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 03/23/2015 - 12:19:24: World triggered "Round_End"
+L 03/23/2015 - 12:19:25: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><>" joined team "CT"
+L 03/23/2015 - 12:19:34: World triggered "Round_Start"
+L 03/23/2015 - 12:22:08: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 03/23/2015 - 12:22:08: World triggered "Round_End"
+L 03/23/2015 - 12:22:18: World triggered "Round_Start"
+L 03/23/2015 - 12:23:23: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3948dfc
+L 03/23/2015 - 12:23:23: "Lerochka<9><STEAM_0:0:226379933><>" connected, address "37.212.90.94:50523"
+L 03/23/2015 - 12:23:23: [VTC] Player 2 speex
+L 03/23/2015 - 12:23:28: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3948dfc
+L 03/23/2015 - 12:23:28: "Lerochka<10><STEAM_0:0:226379933><>" connected, address "37.212.90.94:50523"
+L 03/23/2015 - 12:23:28: [VTC] Player 2 speex
+L 03/23/2015 - 12:23:41: "Lerochka<10><STEAM_0:0:226379933><>" entered the game
+L 03/23/2015 - 12:23:44: "Lerochka<10><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/23/2015 - 12:23:44: World triggered "Game_Commencing"
+L 03/23/2015 - 12:23:44: World triggered "Game_Commencing" (CT "3") (T "0")
+L 03/23/2015 - 12:23:44: World triggered "Round_End"
+L 03/23/2015 - 12:23:47: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:23:52: World triggered "Round_Start"
+L 03/23/2015 - 12:24:15: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "deagle" (damage "208") (damage_armor "0") (health "-108") (armor "0")
+L 03/23/2015 - 12:24:15: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "deagle"
+L 03/23/2015 - 12:24:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/23/2015 - 12:24:15: World triggered "Round_End"
+L 03/23/2015 - 12:24:20: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:24:25: World triggered "Round_Start"
+L 03/23/2015 - 12:24:47: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:25:15: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/23/2015 - 12:25:16: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 03/23/2015 - 12:25:17: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 03/23/2015 - 12:25:22: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "2")
+L 03/23/2015 - 12:25:22: World triggered "Round_End"
+L 03/23/2015 - 12:25:27: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:25:32: World triggered "Round_Start"
+L 03/23/2015 - 12:26:00: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:26:20: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/23/2015 - 12:26:23: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 03/23/2015 - 12:26:24: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "55") (armor "0")
+L 03/23/2015 - 12:26:24: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "40") (armor "0")
+L 03/23/2015 - 12:26:25: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "25") (armor "0")
+L 03/23/2015 - 12:26:26: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "10") (armor "0")
+L 03/23/2015 - 12:26:27: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "-5") (armor "0")
+L 03/23/2015 - 12:26:27: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 12:26:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/23/2015 - 12:26:27: World triggered "Round_End"
+L 03/23/2015 - 12:26:32: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:26:37: World triggered "Round_Start"
+L 03/23/2015 - 12:27:05: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:27:23: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/23/2015 - 12:27:25: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 03/23/2015 - 12:27:30: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "55") (armor "0")
+L 03/23/2015 - 12:27:31: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "knife" (damage "15") (damage_armor "0") (health "40") (armor "0")
+L 03/23/2015 - 12:27:40: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "4")
+L 03/23/2015 - 12:27:40: World triggered "Round_End"
+L 03/23/2015 - 12:27:42: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394dcf0
+L 03/23/2015 - 12:27:42: "[Hard_Skill]_Mi{x}eR<11><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/23/2015 - 12:27:42: [VTC] Player 3 speex
+L 03/23/2015 - 12:27:45: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:27:46: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb394dcf0
+L 03/23/2015 - 12:27:46: "*_*Daha*_*<12><STEAM_0:0:1771118830><>" connected, address "37.212.90.94:44471"
+L 03/23/2015 - 12:27:47: [VTC] Player 3 speex
+L 03/23/2015 - 12:27:49: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3952be4
+L 03/23/2015 - 12:27:49: "[Hard_Skill]_Mi{x}eR<13><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/23/2015 - 12:27:49: [VTC] Player 4 speex
+L 03/23/2015 - 12:27:50: World triggered "Round_Start"
+L 03/23/2015 - 12:27:52: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb394dcf0
+L 03/23/2015 - 12:27:52: "*_*Daha*_*<14><STEAM_0:0:1771118830><>" connected, address "37.212.90.94:44471"
+L 03/23/2015 - 12:27:52: [VTC] Player 3 speex
+L 03/23/2015 - 12:28:00: "[Hard_Skill]_Mi{x}eR<13><STEAM_0:4:696196046><>" entered the game
+L 03/23/2015 - 12:28:04: "[Hard_Skill]_Mi{x}eR<13><STEAM_0:4:696196046><UNASSIGNED>" triggered "time" (time "0:04")
+L 03/23/2015 - 12:28:04: "[Hard_Skill]_Mi{x}eR<13><STEAM_0:4:696196046><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/23/2015 - 12:28:04: "[Hard_Skill]_Mi{x}eR<13><STEAM_0:4:696196046><>" disconnected
+L 03/23/2015 - 12:28:11: "*_*Daha*_*<14><STEAM_0:0:1771118830><>" entered the game
+L 03/23/2015 - 12:28:15: "*_*Daha*_*<14><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/23/2015 - 12:28:17: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:28:18: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3952be4
+L 03/23/2015 - 12:28:18: "Nastenbka :*<15><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/23/2015 - 12:28:18: [VTC] Player 4 speex
+L 03/23/2015 - 12:28:23: "Nastenbka :*<15><STEAM_0:4:696196046><>" entered the game
+L 03/23/2015 - 12:28:27: "Nastenbka :*<15><STEAM_0:4:696196046><>" joined team "TERRORIST"
+L 03/23/2015 - 12:28:34: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/23/2015 - 12:28:35: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "0")
+L 03/23/2015 - 12:28:35: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "26") (damage_armor "0") (health "22") (armor "0")
+L 03/23/2015 - 12:28:38: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "43") (damage_armor "0") (health "-21") (armor "0")
+L 03/23/2015 - 12:28:38: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47"
+L 03/23/2015 - 12:28:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 03/23/2015 - 12:28:38: World triggered "Round_End"
+L 03/23/2015 - 12:28:43: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:28:48: World triggered "Round_Start"
+L 03/23/2015 - 12:29:23: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/23/2015 - 12:29:23: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/23/2015 - 12:29:23: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-104") (armor "0")
+L 03/23/2015 - 12:29:23: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" killed "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47"
+L 03/23/2015 - 12:29:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/23/2015 - 12:29:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/23/2015 - 12:29:29: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/23/2015 - 12:29:29: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47"
+L 03/23/2015 - 12:29:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "6")
+L 03/23/2015 - 12:29:29: World triggered "Round_End"
+L 03/23/2015 - 12:29:34: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:29:39: World triggered "Round_Start"
+L 03/23/2015 - 12:30:00: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/23/2015 - 12:30:00: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/23/2015 - 12:30:00: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/23/2015 - 12:30:01: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/23/2015 - 12:30:01: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "92")
+L 03/23/2015 - 12:30:01: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/23/2015 - 12:30:01: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" killed "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:30:20: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:30:25: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb3957ad8
+L 03/23/2015 - 12:30:25: "[Hard_Skill]_Extazy<16><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/23/2015 - 12:30:26: [VTC] Player 5 silk
+L 03/23/2015 - 12:30:33: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/23/2015 - 12:30:33: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "35") (damage_armor "0") (health "39") (armor "0")
+L 03/23/2015 - 12:30:33: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "35") (damage_armor "0") (health "4") (armor "0")
+L 03/23/2015 - 12:30:33: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "26") (damage_armor "0") (health "-22") (armor "0")
+L 03/23/2015 - 12:30:33: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47"
+L 03/23/2015 - 12:30:35: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "76") (armor "100")
+L 03/23/2015 - 12:30:35: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "27") (damage_armor "4") (health "21") (armor "88")
+L 03/23/2015 - 12:30:35: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "48") (armor "94")
+L 03/23/2015 - 12:30:35: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-6") (armor "84")
+L 03/23/2015 - 12:30:35: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47"
+L 03/23/2015 - 12:30:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "7")
+L 03/23/2015 - 12:30:35: World triggered "Round_End"
+L 03/23/2015 - 12:30:40: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb3957ad8
+L 03/23/2015 - 12:30:40: "[Hard_Skill]_Extazy<17><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/23/2015 - 12:30:40: [VTC] Player 5 silk
+L 03/23/2015 - 12:30:40: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:30:45: World triggered "Round_Start"
+L 03/23/2015 - 12:30:45: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb3957ad8
+L 03/23/2015 - 12:30:45: "[Hard_Skill]_Extazy<18><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/23/2015 - 12:30:45: [VTC] Player 5 silk
+L 03/23/2015 - 12:30:56: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "33") (damage_armor "5") (health "67") (armor "95")
+L 03/23/2015 - 12:30:56: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-58") (armor "82")
+L 03/23/2015 - 12:30:56: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" killed "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:30:56: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/23/2015 - 12:30:58: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Got_The_Bomb"
+L 03/23/2015 - 12:30:59: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "45") (armor "72")
+L 03/23/2015 - 12:30:59: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "22") (armor "72")
+L 03/23/2015 - 12:30:59: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "1") (armor "67")
+L 03/23/2015 - 12:31:00: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-20") (armor "62")
+L 03/23/2015 - 12:31:00: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" killed "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:31:00: Team "CT" triggered "CTs_Win" (CT "1") (T "7")
+L 03/23/2015 - 12:31:00: World triggered "Round_End"
+L 03/23/2015 - 12:31:05: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:31:10: World triggered "Round_Start"
+L 03/23/2015 - 12:31:21: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/23/2015 - 12:31:21: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "86") (damage_armor "18") (health "12") (armor "80")
+L 03/23/2015 - 12:31:21: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/23/2015 - 12:31:22: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-9") (armor "75")
+L 03/23/2015 - 12:31:22: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" killed "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:31:22: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/23/2015 - 12:31:27: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/23/2015 - 12:31:27: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/23/2015 - 12:31:27: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 03/23/2015 - 12:31:27: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "100") (damage_armor "0") (health "0") (armor "0")
+L 03/23/2015 - 12:31:27: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" killed "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy"
+L 03/23/2015 - 12:31:40: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-27") (armor "0")
+L 03/23/2015 - 12:31:40: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" killed "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:31:40: Team "CT" triggered "CTs_Win" (CT "2") (T "7")
+L 03/23/2015 - 12:31:40: World triggered "Round_End"
+L 03/23/2015 - 12:31:45: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:31:50: World triggered "Round_Start"
+L 03/23/2015 - 12:31:51: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb3957ad8
+L 03/23/2015 - 12:31:51: "[Hard_Skill]_Extazy<19><STEAM_0:1:113150434><>" connected, address "10.19.7.134:27005"
+L 03/23/2015 - 12:31:51: [VTC] Player 5 silk
+L 03/23/2015 - 12:32:03: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "32") (armor "72")
+L 03/23/2015 - 12:32:03: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-8") (armor "84")
+L 03/23/2015 - 12:32:03: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47"
+L 03/23/2015 - 12:32:05: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/23/2015 - 12:32:05: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "89") (damage_armor "20") (health "-57") (armor "52")
+L 03/23/2015 - 12:32:05: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" killed "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:32:11: "[Hard_Skill]_Extazy<19><STEAM_0:1:113150434><>" entered the game
+L 03/23/2015 - 12:32:17: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:32:27: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "60") (armor "96")
+L 03/23/2015 - 12:32:27: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "47") (armor "96")
+L 03/23/2015 - 12:32:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "34") (armor "96")
+L 03/23/2015 - 12:32:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "21") (armor "96")
+L 03/23/2015 - 12:32:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "12") (armor "91")
+L 03/23/2015 - 12:32:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "9") (damage_armor "4") (health "3") (armor "87")
+L 03/23/2015 - 12:32:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "-10") (armor "87")
+L 03/23/2015 - 12:32:28: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" killed "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "mp5navy"
+L 03/23/2015 - 12:32:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 03/23/2015 - 12:32:28: World triggered "Round_End"
+L 03/23/2015 - 12:32:33: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:32:38: World triggered "Round_Start"
+L 03/23/2015 - 12:33:04: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/23/2015 - 12:33:06: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/23/2015 - 12:33:06: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 03/23/2015 - 12:33:06: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "40") (armor "86")
+L 03/23/2015 - 12:33:07: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "105") (damage_armor "16") (health "-5") (armor "84")
+L 03/23/2015 - 12:33:07: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" killed "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47"
+L 03/23/2015 - 12:33:13: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/23/2015 - 12:33:13: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "81") (damage_armor "18") (health "19") (armor "82")
+L 03/23/2015 - 12:33:13: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/23/2015 - 12:33:13: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47" (damage "42") (damage_armor "0") (health "-10") (armor "0")
+L 03/23/2015 - 12:33:13: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" killed "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" with "ak47"
+L 03/23/2015 - 12:33:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "9")
+L 03/23/2015 - 12:33:13: World triggered "Round_End"
+L 03/23/2015 - 12:33:17: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" triggered "weaponstats" (weapon "m4a1") (shots "52") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "266") (deaths "5")
+L 03/23/2015 - 12:33:17: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:33:17: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" triggered "time" (time "5:05")
+L 03/23/2015 - 12:33:17: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "54")
+L 03/23/2015 - 12:33:17: "*_*Daha*_*<14><STEAM_0:0:1771118830><CT>" disconnected
+L 03/23/2015 - 12:33:18: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/23/2015 - 12:33:23: World triggered "Round_Start"
+L 03/23/2015 - 12:33:40: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb394dcf0
+L 03/23/2015 - 12:33:40: "*_*Daha*_*<20><STEAM_0:0:1771118830><>" connected, address "37.212.90.94:44471"
+L 03/23/2015 - 12:33:40: [VTC] Player 3 speex
+L 03/23/2015 - 12:33:48: "*_*Daha*_*<20><STEAM_0:0:1771118830><>" entered the game
+L 03/23/2015 - 12:33:48: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" attacked "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/23/2015 - 12:33:49: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "100")
+L 03/23/2015 - 12:33:49: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "100")
+L 03/23/2015 - 12:33:49: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "100")
+L 03/23/2015 - 12:33:49: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" attacked "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-50") (armor "82")
+L 03/23/2015 - 12:33:49: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" killed "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 03/23/2015 - 12:33:51: "*_*Daha*_*<20><STEAM_0:0:1771118830><>" joined team "CT"
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "116") (deaths "0")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "m4a1") (shots "88") (hits "22") (kills "6") (headshots "2") (tks "0") (damage "752") (deaths "3")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "3") (stomach "1") (leftarm "8") (rightarm "2") (leftleg "3") (rightleg "2")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "time" (time "19:57")
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" triggered "latency" (ping "19")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "208") (deaths "0")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "117") (hits "21") (kills "5") (headshots "1") (tks "0") (damage "697") (deaths "4")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "4") (stomach "2") (leftarm "5") (rightarm "0") (leftleg "5") (rightleg "3")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "11") (kills "1") (headshots "0") (tks "0") (damage "165") (deaths "0")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "4") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "6")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "10:31")
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "29")
+L 03/23/2015 - 12:34:12: "*_*Daha*_*<20><STEAM_0:0:1771118830><CT>" triggered "time" (time "0:24")
+L 03/23/2015 - 12:34:12: "*_*Daha*_*<20><STEAM_0:0:1771118830><CT>" triggered "latency" (ping "88")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "34") (hits "8") (kills "2") (headshots "1") (tks "0") (damage "183") (deaths "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "5")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "45") (hits "10") (kills "3") (headshots "2") (tks "0") (damage "499") (deaths "2")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "2") (stomach "1") (leftarm "4") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "time" (time "5:48")
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" triggered "latency" (ping "43")
+L 03/23/2015 - 12:34:12: "[Hard_Skill]_Extazy<19><STEAM_0:1:113150434><UNASSIGNED>" triggered "time" (time "2:00")
+L 03/23/2015 - 12:34:12: "[Hard_Skill]_Extazy<19><STEAM_0:1:113150434><UNASSIGNED>" triggered "latency" (ping "3")
+L 03/23/2015 - 12:34:12: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/23/2015 - 12:34:12: [META] ini: Read plugin config for: AMX Mod X
+L 03/23/2015 - 12:34:12: [META] ini: Read plugin config for: dproto_EF
+L 03/23/2015 - 12:34:12: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/23/2015 - 12:34:12: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/23/2015 - 12:34:12: [META] dll: Updating plugins...
+L 03/23/2015 - 12:34:12: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/23/2015 - 12:34:12: "[Easy_Skill]_Faza#1<8><STEAM_0:0:969824236><CT>" disconnected
+L 03/23/2015 - 12:34:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "10")
+L 03/23/2015 - 12:34:12: World triggered "Round_End"
+L 03/23/2015 - 12:34:12: "Lerochka<10><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/23/2015 - 12:34:12: "*_*Daha*_*<20><STEAM_0:0:1771118830><CT>" disconnected
+L 03/23/2015 - 12:34:12: "Nastenbka :*<15><STEAM_0:4:696196046><TERRORIST>" disconnected
+L 03/23/2015 - 12:34:12: "[Hard_Skill]_Extazy<19><STEAM_0:1:113150434><>" disconnected
+L 03/23/2015 - 12:34:12: Log file closed

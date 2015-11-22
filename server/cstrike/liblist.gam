@@ -12,5 +12,17 @@ nomodels "1"
 nohimodel "1"
 mpentity "info_player_start"
 gamedll "dlls\mp.dll"
-gamedll_linux "addons/metamod/metamod_i386.so"
+
+//original
+//gamedll_linux "dlls/cs_i386.so"
+
+//metamod
+gamedll_linux "addons/metamod/dlls/metamod_i386.so"
+
+//cheating-death
+//cdmod_chain     "addons/metamod/dlls/metamod_i386.so"
+//gamedll_linux "addons/cdeath/cdmod_p4.so"
+
+
+
 trainmap "tr_1"

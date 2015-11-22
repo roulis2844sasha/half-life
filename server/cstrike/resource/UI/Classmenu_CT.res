@@ -101,7 +101,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 1;nst_choose_player urban"
+		"command"		"joinclass 1"
 	}
 	
 	"gsg9"
@@ -121,7 +121,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 2;nst_choose_player gsg9"
+		"command"		"joinclass 2"
 		"labelText"		"#Cstrike_GSG9"
 	}	
 	
@@ -142,7 +142,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 3;nst_choose_player sas"
+		"command"		"joinclass 3"
 		"labelText"		"#Cstrike_SAS"	
 	}	
 	
@@ -163,7 +163,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 4;nst_choose_player gign"
+		"command"		"joinclass 4"
 		"labelText"		"#Cstrike_GIGN"
 	}
 	
@@ -184,7 +184,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 5;nst_choose_player spetnaz"
+		"command"		"joinclass 5"
 		"labelText"		"#Cstrike_Spetsnaz"
 	}
 

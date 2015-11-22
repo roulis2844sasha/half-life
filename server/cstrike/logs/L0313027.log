@@ -1,0 +1,297 @@
+L 03/13/2015 - 20:28:16: Log file started (file "logs/L0313027.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/13/2015 - 20:28:16: Loading map "aim_awp"
+L 03/13/2015 - 20:28:16: Server cvars start
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_debug_level" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_examine_time" = "0.5"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_look_angle" = "10"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_look_distance" = "200"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_message_repeats" = "5"
+L 03/13/2015 - 20:28:16: Server cvar "_tutor_view_distance" = "1000"
+L 03/13/2015 - 20:28:16: Server cvar "aesp_version" = "1.5b_mini"
+L 03/13/2015 - 20:28:16: Server cvar "allow_spectators" = "2"
+L 03/13/2015 - 20:28:16: Server cvar "amx_client_languages" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/13/2015 - 20:28:16: Server cvar "amx_language" = "ru"
+L 03/13/2015 - 20:28:16: Server cvar "amx_nextmap" = "aim_awp"
+L 03/13/2015 - 20:28:16: Server cvar "amx_timeleft" = "00:00"
+L 03/13/2015 - 20:28:16: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/13/2015 - 20:28:16: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/13/2015 - 20:28:16: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Config" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Status" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/13/2015 - 20:28:16: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/13/2015 - 20:28:16: Server cvar "coop" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "deathmatch" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "decalfrequency" = "9"
+L 03/13/2015 - 20:28:16: Server cvar "dp_version" = "0.9.391"
+L 03/13/2015 - 20:28:16: Server cvar "edgefriction" = "2"
+L 03/13/2015 - 20:28:16: Server cvar "hostage_debug" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "hostage_stop" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "humans_join_team" = "any"
+L 03/13/2015 - 20:28:16: Server cvar "jtp10181" = "chute"
+L 03/13/2015 - 20:28:16: Server cvar "max_queries_sec" = "3.0"
+L 03/13/2015 - 20:28:16: Server cvar "max_queries_sec_global" = "30"
+L 03/13/2015 - 20:28:16: Server cvar "max_queries_window" = "60"
+L 03/13/2015 - 20:28:16: Server cvar "metamod_version" = "1.19p32"
+L 03/13/2015 - 20:28:16: Server cvar "mp_allowmonsters" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_autokick" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_autoteambalance" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_buytime" = "1.5"
+L 03/13/2015 - 20:28:16: Server cvar "mp_c4timer" = "35"
+L 03/13/2015 - 20:28:16: Server cvar "mp_chattime" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_consistency" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_fadetoblack" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_flashlight" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_footsteps" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_forcecamera" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_forcechasecam" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_fragsleft" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_freezetime" = "5"
+L 03/13/2015 - 20:28:16: Server cvar "mp_friendlyfire" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_hostagepenalty" = "2"
+L 03/13/2015 - 20:28:16: Server cvar "mp_kickpercent" = "0.66"
+L 03/13/2015 - 20:28:16: Server cvar "mp_limitteams" = "2"
+L 03/13/2015 - 20:28:16: Server cvar "mp_logdetail" = "3"
+L 03/13/2015 - 20:28:16: Server cvar "mp_logfile" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_logmessages" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/13/2015 - 20:28:16: Server cvar "mp_maxrounds" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_mirrordamage" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_playerid" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_roundtime" = "2.57"
+L 03/13/2015 - 20:28:16: Server cvar "mp_startmoney" = "800"
+L 03/13/2015 - 20:28:16: Server cvar "mp_timeleft" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "mp_timelimit" = "30"
+L 03/13/2015 - 20:28:16: Server cvar "mp_tkpunish" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_windifference" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "mp_winlimit" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "pausable" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "sv_accelerate" = "5"
+L 03/13/2015 - 20:28:16: Server cvar "sv_aim" = "off"
+L 03/13/2015 - 20:28:16: Server cvar "sv_airaccelerate" = "10"
+L 03/13/2015 - 20:28:16: Server cvar "sv_airmove" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "sv_allowupload" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "sv_alltalk" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "sv_bounce" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "sv_cheats" = "off"
+L 03/13/2015 - 20:28:16: Server cvar "sv_clienttrace" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "sv_clipmode" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "sv_contact" = ""
+L 03/13/2015 - 20:28:16: Server cvar "sv_friction" = "4"
+L 03/13/2015 - 20:28:16: Server cvar "sv_gravity" = "800"
+L 03/13/2015 - 20:28:16: Server cvar "sv_logblocks" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "sv_maxrate" = "50000"
+L 03/13/2015 - 20:28:16: Server cvar "sv_maxspeed" = "900"
+L 03/13/2015 - 20:28:16: Server cvar "sv_minrate" = "100000"
+L 03/13/2015 - 20:28:16: Server cvar "sv_password" = ""
+L 03/13/2015 - 20:28:16: Server cvar "sv_proxies" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "sv_region" = "3"
+L 03/13/2015 - 20:28:16: Server cvar "sv_restart" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "sv_restartround" = "0"
+L 03/13/2015 - 20:28:16: Server cvar "sv_stepsize" = "18"
+L 03/13/2015 - 20:28:16: Server cvar "sv_stopspeed" = "75"
+L 03/13/2015 - 20:28:16: Server cvar "sv_uploadmax" = "0.5"
+L 03/13/2015 - 20:28:16: Server cvar "sv_voiceenable" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "sv_wateraccelerate" = "10"
+L 03/13/2015 - 20:28:16: Server cvar "sv_waterfriction" = "1"
+L 03/13/2015 - 20:28:16: Server cvar "ultimate_sounds" = "1.7"
+L 03/13/2015 - 20:28:16: Server cvar "vtc_version" = "80"
+L 03/13/2015 - 20:28:16: Server cvars end
+L 03/13/2015 - 20:28:16: Server cvar "amx_nextmap" = "fy_pool_day"
+L 03/13/2015 - 20:28:17: Started map "aim_awp" (CRC "313702955")
+L 03/13/2015 - 20:28:17: [VTC] Player 8 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 5 silk
+L 03/13/2015 - 20:28:17: [VTC] Player 10 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 2 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 7 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 9 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 6 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 3 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 4 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 11 speex
+L 03/13/2015 - 20:28:17: [VTC] Player 1 speex
+L 03/13/2015 - 20:28:18: [DPROTO]: Client 6 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39088c0
+L 03/13/2015 - 20:28:18: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><>" connected, address "37.215.28.140:44423"
+L 03/13/2015 - 20:28:18: [VTC] Player 7 speex
+L 03/13/2015 - 20:28:18: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39126a8
+L 03/13/2015 - 20:28:18: "[Butcher's] Player<91><STEAM_0:0:171386719><>" connected, address "37.215.138.102:60623"
+L 03/13/2015 - 20:28:19: [VTC] Player 9 speex
+L 03/13/2015 - 20:28:19: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb38fead8
+L 03/13/2015 - 20:28:19: "~!~Норм~!~<92><STEAM_0:1:87987826><>" connected, address "178.125.210.238:12205"
+L 03/13/2015 - 20:28:19: [VTC] Player 5 silk
+L 03/13/2015 - 20:28:20: "~!~~!~<92><STEAM_0:1:87987826><>" STEAM USERID validated
+L 03/13/2015 - 20:28:20: "KvAS:D<54><STEAM_0:0:268083854><>" entered the game
+L 03/13/2015 - 20:28:20: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><>" entered the game
+L 03/13/2015 - 20:28:20: "q<83><STEAM_0:0:221934365><>" entered the game
+L 03/13/2015 - 20:28:21: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><>" entered the game
+L 03/13/2015 - 20:28:21: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><>" entered the game
+L 03/13/2015 - 20:28:22: World triggered "Round_Start"
+L 03/13/2015 - 20:28:23: "~!~~!~<92><STEAM_0:1:87987826><>" entered the game
+L 03/13/2015 - 20:28:23: "Devoshka Bomba<82><STEAM_0:0:687417991><>" entered the game
+L 03/13/2015 - 20:28:24: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><>" joined team "CT"
+L 03/13/2015 - 20:28:25: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38efdfc
+L 03/13/2015 - 20:28:25: "[Hard_Skill]_Extazy<93><STEAM_0:0:1814174262><>" connected, address "10.19.7.134:27005"
+L 03/13/2015 - 20:28:25: [VTC] Player 2 speex
+L 03/13/2015 - 20:28:26: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/13/2015 - 20:28:26: "KvAS:D<54><STEAM_0:0:268083854><>" joined team "CT"
+L 03/13/2015 - 20:28:26: "~!~~!~<92><STEAM_0:1:87987826><>" joined team "TERRORIST"
+L 03/13/2015 - 20:28:26: World triggered "Game_Commencing"
+L 03/13/2015 - 20:28:26: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/13/2015 - 20:28:26: World triggered "Round_End"
+L 03/13/2015 - 20:28:26: "[Butcher's] Player<91><STEAM_0:0:171386719><>" entered the game
+L 03/13/2015 - 20:28:27: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><>" entered the game
+L 03/13/2015 - 20:28:28: "q<83><STEAM_0:0:221934365><>" joined team "CT"
+L 03/13/2015 - 20:28:28: "Devoshka Bomba<82><STEAM_0:0:687417991><>" joined team "TERRORIST"
+L 03/13/2015 - 20:28:28: "[Hard_Skill]_Extazy<93><STEAM_0:0:1814174262><>" entered the game
+L 03/13/2015 - 20:28:32: "[Hard_Skill]_Extazy<93><STEAM_0:0:1814174262><>" joined team "SPECTATOR"
+L 03/13/2015 - 20:28:34: World triggered "Round_Start"
+L 03/13/2015 - 20:28:34: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" attacked "KvAS:D<54><STEAM_0:0:268083854><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/13/2015 - 20:28:34: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" killed "KvAS:D<54><STEAM_0:0:268083854><CT>" with "awp"
+L 03/13/2015 - 20:28:35: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><>" joined team "TERRORIST"
+L 03/13/2015 - 20:28:35: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><>" joined team "TERRORIST"
+L 03/13/2015 - 20:28:37: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb38eaf08
+L 03/13/2015 - 20:28:37: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><>" connected, address "178.120.125.247:54575"
+L 03/13/2015 - 20:28:37: [VTC] Player 1 speex
+L 03/13/2015 - 20:28:38: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/13/2015 - 20:28:38: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" with "awp"
+L 03/13/2015 - 20:28:40: "[Butcher's] Player<91><STEAM_0:0:171386719><>" joined team "CT"
+L 03/13/2015 - 20:28:41: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><>" entered the game
+L 03/13/2015 - 20:28:42: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/13/2015 - 20:28:43: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" attacked "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/13/2015 - 20:28:43: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" killed "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" with "awp"
+L 03/13/2015 - 20:28:45: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-35") (armor "0")
+L 03/13/2015 - 20:28:45: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" killed "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "awp"
+L 03/13/2015 - 20:28:45: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><>" joined team "CT"
+L 03/13/2015 - 20:28:53: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/13/2015 - 20:28:53: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" killed "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:00: "q<83><STEAM_0:0:221934365><CT>" committed suicide with "worldspawn" (world)
+L 03/13/2015 - 20:29:00: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "9") (armor "0")
+L 03/13/2015 - 20:29:01: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "-21") (armor "0")
+L 03/13/2015 - 20:29:01: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" killed "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "usp"
+L 03/13/2015 - 20:29:01: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/13/2015 - 20:29:01: World triggered "Round_End"
+L 03/13/2015 - 20:29:05: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "1")
+L 03/13/2015 - 20:29:05: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:29:05: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "0:44")
+L 03/13/2015 - 20:29:05: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "41")
+L 03/13/2015 - 20:29:05: "[Hard_Skill]_Lexa Kosmonaft<41><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/13/2015 - 20:29:11: World triggered "Round_Start"
+L 03/13/2015 - 20:29:11: "q<83><STEAM_0:0:221934365><CT>" attacked "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "awp" (damage "444") (damage_armor "0") (health "-344") (armor "0")
+L 03/13/2015 - 20:29:11: "q<83><STEAM_0:0:221934365><CT>" killed "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:12: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" attacked "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/13/2015 - 20:29:12: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" killed "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:15: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" attacked "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 03/13/2015 - 20:29:15: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" killed "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:19: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" attacked "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/13/2015 - 20:29:19: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" killed "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:19: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/13/2015 - 20:29:19: World triggered "Round_End"
+L 03/13/2015 - 20:29:23: "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/13/2015 - 20:29:23: "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:29:23: "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" triggered "time" (time "1:00")
+L 03/13/2015 - 20:29:23: "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" triggered "latency" (ping "75")
+L 03/13/2015 - 20:29:23: "Devoshka Bomba<82><STEAM_0:0:687417991><TERRORIST>" disconnected
+L 03/13/2015 - 20:29:29: World triggered "Round_Start"
+L 03/13/2015 - 20:29:29: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" attacked "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "awp" (damage "444") (damage_armor "0") (health "-344") (armor "0")
+L 03/13/2015 - 20:29:29: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" killed "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:29: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" attacked "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" with "awp" (damage "138") (damage_armor "0") (health "-38") (armor "0")
+L 03/13/2015 - 20:29:29: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" killed "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" with "awp"
+L 03/13/2015 - 20:29:33: "KvAS:D<54><STEAM_0:0:268083854><CT>" attacked "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/13/2015 - 20:29:33: "KvAS:D<54><STEAM_0:0:268083854><CT>" killed "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:39: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" attacked "KvAS:D<54><STEAM_0:0:268083854><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/13/2015 - 20:29:41: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" committed suicide with "worldspawn" (world)
+L 03/13/2015 - 20:29:42: "q<83><STEAM_0:0:221934365><CT>" attacked "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp" (damage "54") (damage_armor "0") (health "46") (armor "0")
+L 03/13/2015 - 20:29:43: "KvAS:D<54><STEAM_0:0:268083854><CT>" attacked "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "usp" (damage "32") (damage_armor "0") (health "14") (armor "0")
+L 03/13/2015 - 20:29:43: "KvAS:D<54><STEAM_0:0:268083854><CT>" attacked "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "-19") (armor "0")
+L 03/13/2015 - 20:29:43: "KvAS:D<54><STEAM_0:0:268083854><CT>" killed "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "usp"
+L 03/13/2015 - 20:29:43: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/13/2015 - 20:29:43: World triggered "Round_End"
+L 03/13/2015 - 20:29:48: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><CT>" joined team "TERRORIST" (auto)
+L 03/13/2015 - 20:29:53: World triggered "Round_Start"
+L 03/13/2015 - 20:29:53: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" attacked "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" with "awp" (damage "440") (damage_armor "0") (health "-340") (armor "0")
+L 03/13/2015 - 20:29:53: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" killed "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" with "awp"
+L 03/13/2015 - 20:29:53: "KvAS:D<54><STEAM_0:0:268083854><CT>" attacked "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/13/2015 - 20:29:53: "KvAS:D<54><STEAM_0:0:268083854><CT>" killed "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" with "awp"
+L 03/13/2015 - 20:29:56: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" attacked "KvAS:D<54><STEAM_0:0:268083854><CT>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/13/2015 - 20:29:56: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" killed "KvAS:D<54><STEAM_0:0:268083854><CT>" with "awp"
+L 03/13/2015 - 20:29:58: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" attacked "q<83><STEAM_0:0:221934365><CT>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 03/13/2015 - 20:29:58: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" killed "q<83><STEAM_0:0:221934365><CT>" with "awp"
+L 03/13/2015 - 20:30:04: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "8") (hits "5") (kills "5") (headshots "3") (tks "0") (damage "1554") (deaths "0")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" triggered "time" (time "1:24")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" triggered "latency" (ping "72")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Extazy<93><STEAM_0:0:1814174262><SPECTATOR>" triggered "time" (time "1:36")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Extazy<93><STEAM_0:0:1814174262><SPECTATOR>" triggered "latency" (ping "3")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "222") (deaths "3")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" triggered "time" (time "1:43")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" triggered "latency" (ping "76")
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" triggered "weaponstats" (weapon "usp") (shots "7") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "0")
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "221") (deaths "2")
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" triggered "time" (time "1:44")
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" triggered "latency" (ping "22")
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "8") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "111") (deaths "2")
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" triggered "time" (time "1:42")
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" triggered "latency" (ping "21")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" triggered "weaponstats" (weapon "usp") (shots "8") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "83") (deaths "0")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" triggered "weaponstats" (weapon "awp") (shots "11") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "447") (deaths "1")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" triggered "time" (time "1:43")
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" triggered "latency" (ping "40")
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "17") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" triggered "time" (time "1:37")
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" triggered "latency" (ping "31")
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" triggered "weaponstats" (weapon "usp") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "0")
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" triggered "time" (time "1:38")
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" triggered "latency" (ping "37")
+L 03/13/2015 - 20:30:05: "q<83><STEAM_0:0:221934365><CT>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "498") (deaths "1")
+L 03/13/2015 - 20:30:05: "q<83><STEAM_0:0:221934365><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/13/2015 - 20:30:05: "q<83><STEAM_0:0:221934365><CT>" triggered "time" (time "1:44")
+L 03/13/2015 - 20:30:05: "q<83><STEAM_0:0:221934365><CT>" triggered "latency" (ping "66")
+L 03/13/2015 - 20:30:05: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/13/2015 - 20:30:05: [META] ini: Read plugin config for: AMX Mod X
+L 03/13/2015 - 20:30:05: [META] ini: Read plugin config for: dproto_EF
+L 03/13/2015 - 20:30:05: [META] ini: Read plugin config for: mmtimer
+L 03/13/2015 - 20:30:05: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/13/2015 - 20:30:05: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/13/2015 - 20:30:05: [META] dll: Updating plugins...
+L 03/13/2015 - 20:30:05: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/13/2015 - 20:30:05: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/13/2015 - 20:30:05: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Angel_Smerti_<94><STEAM_0:0:1079844652><TERRORIST>" disconnected
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Extazy<93><STEAM_0:0:1814174262><SPECTATOR>" disconnected
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Gerard1985<86><STEAM_0:0:1822351417><TERRORIST>" disconnected
+L 03/13/2015 - 20:30:05: "KvAS:D<54><STEAM_0:0:268083854><CT>" disconnected
+L 03/13/2015 - 20:30:05: "~!~~!~<92><STEAM_0:1:87987826><TERRORIST>" disconnected
+L 03/13/2015 - 20:30:05: "[Hard_Skill]_Leks<33><STEAM_0:0:2116245732><CT>" disconnected
+L 03/13/2015 - 20:30:05: "{The/W/is/A/us}To)(@<90><STEAM_0:0:1675108352><TERRORIST>" disconnected
+L 03/13/2015 - 20:30:05: "[Butcher's] Player<91><STEAM_0:0:171386719><CT>" disconnected
+L 03/13/2015 - 20:30:05: World triggered "Round_Draw" (CT "3") (T "0")
+L 03/13/2015 - 20:30:05: World triggered "Round_End"
+L 03/13/2015 - 20:30:05: "q<83><STEAM_0:0:221934365><CT>" disconnected
+L 03/13/2015 - 20:30:05: World triggered "Round_Draw" (CT "3") (T "0")
+L 03/13/2015 - 20:30:05: World triggered "Round_End"
+L 03/13/2015 - 20:30:05: Log file closed

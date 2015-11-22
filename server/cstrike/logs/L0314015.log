@@ -1,0 +1,818 @@
+L 03/14/2015 - 10:20:40: Log file started (file "logs/L0314015.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/14/2015 - 10:20:40: Loading map "de_dust2_2x2"
+L 03/14/2015 - 10:20:40: Server cvars start
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_debug_level" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_examine_time" = "0.5"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_look_angle" = "10"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_look_distance" = "200"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_message_repeats" = "5"
+L 03/14/2015 - 10:20:40: Server cvar "_tutor_view_distance" = "1000"
+L 03/14/2015 - 10:20:40: Server cvar "aesp_version" = "1.5b_mini"
+L 03/14/2015 - 10:20:40: Server cvar "allow_spectators" = "2"
+L 03/14/2015 - 10:20:40: Server cvar "amx_client_languages" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/14/2015 - 10:20:40: Server cvar "amx_language" = "ru"
+L 03/14/2015 - 10:20:40: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 03/14/2015 - 10:20:40: Server cvar "amx_timeleft" = "00:00"
+L 03/14/2015 - 10:20:40: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/14/2015 - 10:20:40: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/14/2015 - 10:20:40: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Config" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Status" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/14/2015 - 10:20:40: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/14/2015 - 10:20:40: Server cvar "coop" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "deathmatch" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "decalfrequency" = "9"
+L 03/14/2015 - 10:20:40: Server cvar "dp_version" = "0.9.391"
+L 03/14/2015 - 10:20:40: Server cvar "edgefriction" = "2"
+L 03/14/2015 - 10:20:40: Server cvar "hostage_debug" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "hostage_stop" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "humans_join_team" = "any"
+L 03/14/2015 - 10:20:40: Server cvar "jtp10181" = "chute"
+L 03/14/2015 - 10:20:40: Server cvar "max_queries_sec" = "3.0"
+L 03/14/2015 - 10:20:40: Server cvar "max_queries_sec_global" = "30"
+L 03/14/2015 - 10:20:40: Server cvar "max_queries_window" = "60"
+L 03/14/2015 - 10:20:40: Server cvar "metamod_version" = "1.19p32"
+L 03/14/2015 - 10:20:40: Server cvar "mp_allowmonsters" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_autokick" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_autoteambalance" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_buytime" = "1.5"
+L 03/14/2015 - 10:20:40: Server cvar "mp_c4timer" = "35"
+L 03/14/2015 - 10:20:40: Server cvar "mp_chattime" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_consistency" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_fadetoblack" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_flashlight" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_footsteps" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_forcecamera" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_forcechasecam" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_fragsleft" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_freezetime" = "5"
+L 03/14/2015 - 10:20:40: Server cvar "mp_friendlyfire" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_hostagepenalty" = "2"
+L 03/14/2015 - 10:20:40: Server cvar "mp_kickpercent" = "0.66"
+L 03/14/2015 - 10:20:40: Server cvar "mp_limitteams" = "2"
+L 03/14/2015 - 10:20:40: Server cvar "mp_logdetail" = "3"
+L 03/14/2015 - 10:20:40: Server cvar "mp_logfile" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_logmessages" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/14/2015 - 10:20:40: Server cvar "mp_maxrounds" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_mirrordamage" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_playerid" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_roundtime" = "2.57"
+L 03/14/2015 - 10:20:40: Server cvar "mp_startmoney" = "800"
+L 03/14/2015 - 10:20:40: Server cvar "mp_timeleft" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "mp_timelimit" = "30"
+L 03/14/2015 - 10:20:40: Server cvar "mp_tkpunish" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_windifference" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "mp_winlimit" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "pausable" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "sv_accelerate" = "5"
+L 03/14/2015 - 10:20:40: Server cvar "sv_aim" = "off"
+L 03/14/2015 - 10:20:40: Server cvar "sv_airaccelerate" = "10"
+L 03/14/2015 - 10:20:40: Server cvar "sv_airmove" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "sv_allowupload" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "sv_alltalk" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "sv_bounce" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "sv_cheats" = "off"
+L 03/14/2015 - 10:20:40: Server cvar "sv_clienttrace" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "sv_clipmode" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "sv_contact" = ""
+L 03/14/2015 - 10:20:40: Server cvar "sv_friction" = "4"
+L 03/14/2015 - 10:20:40: Server cvar "sv_gravity" = "800"
+L 03/14/2015 - 10:20:40: Server cvar "sv_logblocks" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "sv_maxrate" = "50000"
+L 03/14/2015 - 10:20:40: Server cvar "sv_maxspeed" = "900"
+L 03/14/2015 - 10:20:40: Server cvar "sv_minrate" = "100000"
+L 03/14/2015 - 10:20:40: Server cvar "sv_password" = ""
+L 03/14/2015 - 10:20:40: Server cvar "sv_proxies" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "sv_region" = "3"
+L 03/14/2015 - 10:20:40: Server cvar "sv_restart" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "sv_restartround" = "0"
+L 03/14/2015 - 10:20:40: Server cvar "sv_stepsize" = "18"
+L 03/14/2015 - 10:20:40: Server cvar "sv_stopspeed" = "75"
+L 03/14/2015 - 10:20:40: Server cvar "sv_uploadmax" = "0.5"
+L 03/14/2015 - 10:20:40: Server cvar "sv_voiceenable" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "sv_wateraccelerate" = "10"
+L 03/14/2015 - 10:20:40: Server cvar "sv_waterfriction" = "1"
+L 03/14/2015 - 10:20:40: Server cvar "vtc_version" = "80"
+L 03/14/2015 - 10:20:40: Server cvars end
+L 03/14/2015 - 10:20:43: Started map "de_dust2_2x2" (CRC "1607683513")
+L 03/14/2015 - 10:20:43: [VTC] Player 7 speex
+L 03/14/2015 - 10:20:43: [VTC] Player 5 speex
+L 03/14/2015 - 10:20:43: [VTC] Player 4 speex
+L 03/14/2015 - 10:20:43: [VTC] Player 1 speex
+L 03/14/2015 - 10:20:43: [VTC] Player 3 speex
+L 03/14/2015 - 10:20:45: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><>" entered the game
+L 03/14/2015 - 10:20:45: [VTC] Player 2 speex
+L 03/14/2015 - 10:20:45: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><>" entered the game
+L 03/14/2015 - 10:20:45: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><>" entered the game
+L 03/14/2015 - 10:20:47: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><>" entered the game
+L 03/14/2015 - 10:20:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><>" joined team "TERRORIST"
+L 03/14/2015 - 10:20:48: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:20:48: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><>" joined team "TERRORIST"
+L 03/14/2015 - 10:20:48: World triggered "Round_Start"
+L 03/14/2015 - 10:20:49: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><>" joined team "CT"
+L 03/14/2015 - 10:20:49: World triggered "Game_Commencing"
+L 03/14/2015 - 10:20:49: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/14/2015 - 10:20:49: World triggered "Round_End"
+L 03/14/2015 - 10:20:50: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><>" joined team "CT"
+L 03/14/2015 - 10:20:50: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><>" entered the game
+L 03/14/2015 - 10:20:51: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><>" entered the game
+L 03/14/2015 - 10:20:52: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:20:55: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><>" joined team "SPECTATOR"
+L 03/14/2015 - 10:20:57: World triggered "Round_Start"
+L 03/14/2015 - 10:21:12: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "deagle" (damage "51") (damage_armor "0") (health "49") (armor "0")
+L 03/14/2015 - 10:21:12: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "deagle" (damage "38") (damage_armor "0") (health "62") (armor "100")
+L 03/14/2015 - 10:21:12: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "deagle" (damage "51") (damage_armor "0") (health "-2") (armor "0")
+L 03/14/2015 - 10:21:12: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "deagle"
+L 03/14/2015 - 10:21:14: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "deagle" (damage "188") (damage_armor "0") (health "-88") (armor "0")
+L 03/14/2015 - 10:21:14: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "deagle"
+L 03/14/2015 - 10:21:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/14/2015 - 10:21:14: World triggered "Round_End"
+L 03/14/2015 - 10:21:19: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:21:24: World triggered "Round_Start"
+L 03/14/2015 - 10:21:25: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d19cc
+L 03/14/2015 - 10:21:25: "[Hard_Skill]_4ANHNK<75><STEAM_0:0:61868154><>" connected, address "178.120.0.46:28856"
+L 03/14/2015 - 10:21:27: Kick: "[Hard_Skill]_4ANHNK<75><STEAM_0:0:61868154><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/14/2015 - 10:21:40: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:21:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "18") (damage_armor "9") (health "40") (armor "69")
+L 03/14/2015 - 10:21:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "18") (armor "69")
+L 03/14/2015 - 10:21:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "18") (damage_armor "10") (health "0") (armor "59")
+L 03/14/2015 - 10:21:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp"
+L 03/14/2015 - 10:21:59: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:22:00: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/14/2015 - 10:22:00: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/14/2015 - 10:22:00: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" killed "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" with "ak47"
+L 03/14/2015 - 10:22:04: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "64") (damage_armor "0") (health "1") (armor "0")
+L 03/14/2015 - 10:22:04: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-15") (armor "0")
+L 03/14/2015 - 10:22:04: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:22:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/14/2015 - 10:22:04: World triggered "Round_End"
+L 03/14/2015 - 10:22:07: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><CT>" joined team "SPECTATOR"
+L 03/14/2015 - 10:22:09: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:22:09: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><>" joined team "CT"
+L 03/14/2015 - 10:22:14: World triggered "Round_Start"
+L 03/14/2015 - 10:22:29: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "deagle" (damage "114") (damage_armor "19") (health "-14") (armor "81")
+L 03/14/2015 - 10:22:29: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "deagle"
+L 03/14/2015 - 10:22:32: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/14/2015 - 10:22:32: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:22:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "12") (damage_armor "2") (health "78") (armor "92")
+L 03/14/2015 - 10:22:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "52") (armor "88")
+L 03/14/2015 - 10:22:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "12") (damage_armor "1") (health "40") (armor "87")
+L 03/14/2015 - 10:22:58: Kick: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><>" was kicked by "Console"
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "deagle") (shots "8") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "38") (deaths "2")
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" triggered "time" (time "2:12")
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" triggered "latency" (ping "40")
+L 03/14/2015 - 10:22:58: "|Xyligans|_Zl@9|_P@nD@<74><STEAM_0:0:967170807><SPECTATOR>" disconnected
+L 03/14/2015 - 10:23:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "51") (armor "84")
+L 03/14/2015 - 10:23:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "25") (armor "80")
+L 03/14/2015 - 10:23:06: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "32") (damage_armor "5") (health "8") (armor "82")
+L 03/14/2015 - 10:23:19: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "deagle" (damage "36") (damage_armor "6") (health "-28") (armor "76")
+L 03/14/2015 - 10:23:19: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "deagle"
+L 03/14/2015 - 10:23:19: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 03/14/2015 - 10:23:19: World triggered "Round_End"
+L 03/14/2015 - 10:23:24: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:23:29: World triggered "Round_Start"
+L 03/14/2015 - 10:23:45: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 03/14/2015 - 10:23:46: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "m4a1" (damage "27") (damage_armor "5") (health "64") (armor "92")
+L 03/14/2015 - 10:23:46: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "41") (armor "92")
+L 03/14/2015 - 10:23:46: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "20") (armor "87")
+L 03/14/2015 - 10:23:46: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "56") (armor "0")
+L 03/14/2015 - 10:23:47: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-1") (armor "82")
+L 03/14/2015 - 10:23:47: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:23:47: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:23:54: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "33") (damage_armor "5") (health "67") (armor "95")
+L 03/14/2015 - 10:23:54: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "40") (armor "91")
+L 03/14/2015 - 10:23:54: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "13") (armor "87")
+L 03/14/2015 - 10:23:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-95") (armor "71")
+L 03/14/2015 - 10:23:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:24:12: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/14/2015 - 10:24:12: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 03/14/2015 - 10:24:13: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c7be4
+L 03/14/2015 - 10:24:13: "n1ce<76><STEAM_0:0:1538856917><>" connected, address "178.120.10.46:6165"
+L 03/14/2015 - 10:24:13: [VTC] Player 4 speex
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "188") (deaths "0")
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "23") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "220") (deaths "2")
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "1") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "time" (time "3:30")
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" triggered "latency" (ping "34")
+L 03/14/2015 - 10:24:17: "[Hard_Skill]_Mu$TePu0<70><STEAM_0:0:2034752545><TERRORIST>" disconnected
+L 03/14/2015 - 10:24:18: "n1ce<76><STEAM_0:0:1538856917><>" entered the game
+L 03/14/2015 - 10:24:22: "n1ce<76><STEAM_0:0:1538856917><>" joined team "TERRORIST"
+L 03/14/2015 - 10:24:22: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "34") (damage_armor "0") (health "14") (armor "0")
+L 03/14/2015 - 10:24:30: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "38") (armor "86")
+L 03/14/2015 - 10:24:30: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "16") (armor "81")
+L 03/14/2015 - 10:24:30: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "-6") (armor "76")
+L 03/14/2015 - 10:24:30: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:24:30: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 03/14/2015 - 10:24:30: World triggered "Round_End"
+L 03/14/2015 - 10:24:35: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:24:40: World triggered "Round_Start"
+L 03/14/2015 - 10:24:50: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39ccad8
+L 03/14/2015 - 10:24:50: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><>" connected, address "178.125.154.247:27005"
+L 03/14/2015 - 10:24:50: [VTC] Player 5 speex
+L 03/14/2015 - 10:24:53: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><>" entered the game
+L 03/14/2015 - 10:24:55: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><>" joined team "TERRORIST"
+L 03/14/2015 - 10:25:01: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/14/2015 - 10:25:01: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "deagle" (damage "23") (damage_armor "4") (health "77") (armor "96")
+L 03/14/2015 - 10:25:04: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 03/14/2015 - 10:25:04: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 03/14/2015 - 10:25:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "4") (health "51") (armor "92")
+L 03/14/2015 - 10:25:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "4") (health "25") (armor "88")
+L 03/14/2015 - 10:25:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "25") (damage_armor "0") (health "0") (armor "88")
+L 03/14/2015 - 10:25:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:25:19: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 03/14/2015 - 10:25:20: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:25:20: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/14/2015 - 10:25:20: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 03/14/2015 - 10:25:20: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 03/14/2015 - 10:25:20: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:25:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/14/2015 - 10:25:20: World triggered "Round_End"
+L 03/14/2015 - 10:25:25: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:25:30: World triggered "Round_Start"
+L 03/14/2015 - 10:25:32: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39d19cc
+L 03/14/2015 - 10:25:32: "[Hard_Skill]_4ANHNK<78><STEAM_0:0:61868154><>" connected, address "178.120.0.46:28856"
+L 03/14/2015 - 10:25:33: Kick: "[Hard_Skill]_4ANHNK<78><STEAM_0:0:61868154><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/14/2015 - 10:25:40: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 03/14/2015 - 10:25:47: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "deagle" (damage "12") (damage_armor "0") (health "-3") (armor "0")
+L 03/14/2015 - 10:25:47: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "deagle"
+L 03/14/2015 - 10:25:48: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "42") (damage_armor "0") (health "42") (armor "0")
+L 03/14/2015 - 10:25:48: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "34") (damage_armor "0") (health "8") (armor "0")
+L 03/14/2015 - 10:25:50: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-26") (armor "0")
+L 03/14/2015 - 10:25:50: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:25:53: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "62") (armor "91")
+L 03/14/2015 - 10:25:53: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "41") (armor "87")
+L 03/14/2015 - 10:25:53: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "20") (armor "82")
+L 03/14/2015 - 10:25:53: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-1") (armor "77")
+L 03/14/2015 - 10:25:53: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:26:00: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:26:00: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-35") (armor "80")
+L 03/14/2015 - 10:26:00: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:26:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 03/14/2015 - 10:26:00: World triggered "Round_End"
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "8") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "23") (deaths "0")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "20") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "126") (deaths "1")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "3") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "time" (time "1:10")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" triggered "latency" (ping "36")
+L 03/14/2015 - 10:26:03: "[Hard_Skill]_Mu$TePu0<77><STEAM_0:0:893342954><TERRORIST>" disconnected
+L 03/14/2015 - 10:26:05: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:26:10: World triggered "Round_Start"
+L 03/14/2015 - 10:26:25: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/14/2015 - 10:26:25: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/14/2015 - 10:26:25: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-86") (armor "0")
+L 03/14/2015 - 10:26:25: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:26:25: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:26:34: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/14/2015 - 10:26:34: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/14/2015 - 10:26:35: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "0") (armor "0")
+L 03/14/2015 - 10:26:35: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1"
+L 03/14/2015 - 10:26:44: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:26:46: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:26:46: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 03/14/2015 - 10:26:46: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "37") (armor "86")
+L 03/14/2015 - 10:26:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "95")
+L 03/14/2015 - 10:26:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "35") (armor "95")
+L 03/14/2015 - 10:26:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "14") (armor "91")
+L 03/14/2015 - 10:26:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-8") (armor "91")
+L 03/14/2015 - 10:26:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1"
+L 03/14/2015 - 10:26:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 03/14/2015 - 10:26:47: World triggered "Round_End"
+L 03/14/2015 - 10:26:52: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:26:57: World triggered "Round_Start"
+L 03/14/2015 - 10:27:17: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/14/2015 - 10:27:17: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "39") (armor "0")
+L 03/14/2015 - 10:27:17: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-85") (armor "0")
+L 03/14/2015 - 10:27:17: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:27:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/14/2015 - 10:27:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "81") (damage_armor "17") (health "-1") (armor "78")
+L 03/14/2015 - 10:27:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1"
+L 03/14/2015 - 10:27:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/14/2015 - 10:27:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "41") (armor "0")
+L 03/14/2015 - 10:27:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "19") (armor "0")
+L 03/14/2015 - 10:27:37: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "11") (damage_armor "6") (health "89") (armor "94")
+L 03/14/2015 - 10:27:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-11") (armor "0")
+L 03/14/2015 - 10:27:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1"
+L 03/14/2015 - 10:27:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 03/14/2015 - 10:27:37: World triggered "Round_End"
+L 03/14/2015 - 10:27:42: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:27:47: World triggered "Round_Start"
+L 03/14/2015 - 10:28:02: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "deagle" (damage "58") (damage_armor "0") (health "0") (armor "0")
+L 03/14/2015 - 10:28:02: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "deagle"
+L 03/14/2015 - 10:28:02: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:28:02: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/14/2015 - 10:28:02: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/14/2015 - 10:28:03: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "-7") (armor "0")
+L 03/14/2015 - 10:28:03: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1"
+L 03/14/2015 - 10:28:04: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "39") (armor "75")
+L 03/14/2015 - 10:28:04: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "18") (armor "70")
+L 03/14/2015 - 10:28:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:28:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 03/14/2015 - 10:28:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "86") (damage_armor "18") (health "-28") (armor "72")
+L 03/14/2015 - 10:28:05: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1"
+L 03/14/2015 - 10:28:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 03/14/2015 - 10:28:05: World triggered "Round_End"
+L 03/14/2015 - 10:28:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Got_The_Bomb"
+L 03/14/2015 - 10:28:10: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:28:15: World triggered "Round_Start"
+L 03/14/2015 - 10:28:28: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:28:28: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/14/2015 - 10:28:29: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "33") (damage_armor "5") (health "13") (armor "87")
+L 03/14/2015 - 10:28:29: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-14") (armor "83")
+L 03/14/2015 - 10:28:29: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:28:33: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39ccad8
+L 03/14/2015 - 10:28:33: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><>" connected, address "178.125.154.247:27005"
+L 03/14/2015 - 10:28:33: [VTC] Player 5 speex
+L 03/14/2015 - 10:28:36: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><>" entered the game
+L 03/14/2015 - 10:28:39: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><>" joined team "TERRORIST"
+L 03/14/2015 - 10:28:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:28:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "34") (armor "0")
+L 03/14/2015 - 10:28:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "3") (armor "0")
+L 03/14/2015 - 10:28:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-28") (armor "0")
+L 03/14/2015 - 10:28:40: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:28:54: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/14/2015 - 10:28:54: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 03/14/2015 - 10:28:54: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1"
+L 03/14/2015 - 10:28:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 03/14/2015 - 10:28:54: World triggered "Round_End"
+L 03/14/2015 - 10:28:59: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:29:04: World triggered "Round_Start"
+L 03/14/2015 - 10:29:21: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "78") (armor "95")
+L 03/14/2015 - 10:29:21: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "89") (damage_armor "19") (health "-11") (armor "76")
+L 03/14/2015 - 10:29:21: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:29:21: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:29:23: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/14/2015 - 10:29:23: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "46") (armor "0")
+L 03/14/2015 - 10:29:23: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-78") (armor "0")
+L 03/14/2015 - 10:29:23: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:29:26: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ump45" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/14/2015 - 10:29:26: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ump45" (damage "27") (damage_armor "0") (health "47") (armor "0")
+L 03/14/2015 - 10:29:26: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "51") (armor "84")
+L 03/14/2015 - 10:29:26: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ump45" (damage "33") (damage_armor "0") (health "14") (armor "0")
+L 03/14/2015 - 10:29:26: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ump45" (damage "27") (damage_armor "0") (health "-13") (armor "0")
+L 03/14/2015 - 10:29:26: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ump45"
+L 03/14/2015 - 10:29:27: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ump45" (damage "54") (damage_armor "27") (health "46") (armor "73")
+L 03/14/2015 - 10:29:27: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ump45" (damage "54") (damage_armor "27") (health "-8") (armor "46")
+L 03/14/2015 - 10:29:27: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ump45"
+L 03/14/2015 - 10:29:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "9")
+L 03/14/2015 - 10:29:27: World triggered "Round_End"
+L 03/14/2015 - 10:29:32: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:29:37: World triggered "Round_Start"
+L 03/14/2015 - 10:30:00: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:30:01: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/14/2015 - 10:30:01: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "32") (damage_armor "5") (health "42") (armor "91")
+L 03/14/2015 - 10:30:01: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/14/2015 - 10:30:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "ump45" (damage "9") (damage_armor "4") (health "91") (armor "80")
+L 03/14/2015 - 10:30:11: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "ump45" (damage "9") (damage_armor "5") (health "82") (armor "75")
+L 03/14/2015 - 10:30:11: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "34") (damage_armor "0") (health "48") (armor "0")
+L 03/14/2015 - 10:30:14: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "57") (armor "90")
+L 03/14/2015 - 10:30:14: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "15") (armor "87")
+L 03/14/2015 - 10:30:14: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "35") (armor "85")
+L 03/14/2015 - 10:30:14: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-93") (armor "71")
+L 03/14/2015 - 10:30:14: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:30:15: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "20") (damage_armor "0") (health "-4") (armor "0")
+L 03/14/2015 - 10:30:15: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:30:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "10")
+L 03/14/2015 - 10:30:15: World triggered "Round_End"
+L 03/14/2015 - 10:30:20: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:30:25: World triggered "Round_Start"
+L 03/14/2015 - 10:30:36: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "famas" (damage "23") (damage_armor "5") (health "77") (armor "70")
+L 03/14/2015 - 10:30:36: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "famas" (damage "20") (damage_armor "4") (health "57") (armor "66")
+L 03/14/2015 - 10:30:36: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/14/2015 - 10:30:37: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 03/14/2015 - 10:30:37: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "famas" (damage "9") (damage_armor "2") (health "32") (armor "55")
+L 03/14/2015 - 10:30:38: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "23") (armor "53")
+L 03/14/2015 - 10:30:38: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "famas" (damage "10") (damage_armor "2") (health "13") (armor "51")
+L 03/14/2015 - 10:30:39: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "-10") (armor "51")
+L 03/14/2015 - 10:30:39: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:30:39: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:30:48: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "12") (damage_armor "0") (health "9") (armor "0")
+L 03/14/2015 - 10:30:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "53") (armor "82")
+L 03/14/2015 - 10:30:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "32") (armor "77")
+L 03/14/2015 - 10:30:56: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "85") (armor "95")
+L 03/14/2015 - 10:30:56: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "10") (damage_armor "2") (health "22") (armor "75")
+L 03/14/2015 - 10:30:56: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "11") (damage_armor "0") (health "11") (armor "75")
+L 03/14/2015 - 10:30:56: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "0") (health "-15") (armor "75")
+L 03/14/2015 - 10:30:56: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:31:02: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Got_The_Bomb"
+L 03/14/2015 - 10:31:02: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:31:02: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/14/2015 - 10:31:06: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-106") (armor "0")
+L 03/14/2015 - 10:31:06: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" with "ak47"
+L 03/14/2015 - 10:31:06: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:31:06: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "58") (armor "91")
+L 03/14/2015 - 10:31:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-21") (armor "0")
+L 03/14/2015 - 10:31:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1"
+L 03/14/2015 - 10:31:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "11")
+L 03/14/2015 - 10:31:06: World triggered "Round_End"
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "98") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "152") (deaths "5")
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "time" (time "6:53")
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" triggered "latency" (ping "77")
+L 03/14/2015 - 10:31:11: "n1ce<76><STEAM_0:0:1538856917><TERRORIST>" disconnected
+L 03/14/2015 - 10:31:11: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:31:16: World triggered "Round_Start"
+L 03/14/2015 - 10:31:35: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1" (damage "10") (damage_armor "3") (health "90") (armor "97")
+L 03/14/2015 - 10:31:35: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1" (damage "60") (damage_armor "0") (health "30") (armor "97")
+L 03/14/2015 - 10:31:36: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 03/14/2015 - 10:31:36: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "21") (armor "95")
+L 03/14/2015 - 10:31:37: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-35") (armor "95")
+L 03/14/2015 - 10:31:37: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:31:37: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:31:51: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 03/14/2015 - 10:31:51: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "53") (armor "89")
+L 03/14/2015 - 10:31:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "32") (armor "85")
+L 03/14/2015 - 10:31:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "11") (armor "80")
+L 03/14/2015 - 10:31:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "26") (damage_armor "5") (health "-15") (armor "75")
+L 03/14/2015 - 10:31:52: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:31:52: Team "CT" triggered "CTs_Win" (CT "3") (T "11")
+L 03/14/2015 - 10:31:52: World triggered "Round_End"
+L 03/14/2015 - 10:31:57: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:32:02: World triggered "Round_Start"
+L 03/14/2015 - 10:32:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:32:13: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/14/2015 - 10:32:14: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "0")
+L 03/14/2015 - 10:32:14: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "0") (health "22") (armor "0")
+L 03/14/2015 - 10:32:14: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-67") (armor "96")
+L 03/14/2015 - 10:32:14: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" with "ak47"
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "96") (deaths "0")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats" (weapon "ump45") (shots "15") (hits "6") (kills "2") (headshots "1") (tks "0") (damage "221") (deaths "0")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats2" (weapon "ump45") (head "2") (chest "1") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "68") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "160") (deaths "3")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "2") (rightleg "1")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "time" (time "3:45")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" triggered "latency" (ping "32")
+L 03/14/2015 - 10:32:22: "[Hard_Skill]_Mu$TePu0<79><STEAM_0:0:891002699><TERRORIST>" disconnected
+L 03/14/2015 - 10:32:27: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/14/2015 - 10:32:28: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "48") (armor "92")
+L 03/14/2015 - 10:32:28: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-3") (armor "0")
+L 03/14/2015 - 10:32:28: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:32:30: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-36") (armor "74")
+L 03/14/2015 - 10:32:30: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:32:30: Team "CT" triggered "CTs_Win" (CT "4") (T "11")
+L 03/14/2015 - 10:32:30: World triggered "Round_End"
+L 03/14/2015 - 10:32:35: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:32:40: World triggered "Round_Start"
+L 03/14/2015 - 10:32:57: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-8") (armor "84")
+L 03/14/2015 - 10:32:57: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:32:58: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/14/2015 - 10:32:58: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:32:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "12")
+L 03/14/2015 - 10:32:58: World triggered "Round_End"
+L 03/14/2015 - 10:33:03: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:33:08: World triggered "Round_Start"
+L 03/14/2015 - 10:33:45: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/14/2015 - 10:33:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "34") (damage_armor "0") (health "41") (armor "0")
+L 03/14/2015 - 10:33:46: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:33:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 03/14/2015 - 10:33:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "49") (armor "96")
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "25") (damage_armor "0") (health "16") (armor "0")
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "25") (damage_armor "0") (health "24") (armor "96")
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "32") (armor "85")
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-2") (armor "92")
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:33:47: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "famas" (damage "21") (damage_armor "5") (health "11") (armor "80")
+L 03/14/2015 - 10:33:48: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "0") (armor "0")
+L 03/14/2015 - 10:33:48: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:33:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "13")
+L 03/14/2015 - 10:33:48: World triggered "Round_End"
+L 03/14/2015 - 10:33:53: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:33:58: World triggered "Round_Start"
+L 03/14/2015 - 10:34:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/14/2015 - 10:34:14: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-60") (armor "0")
+L 03/14/2015 - 10:34:14: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:34:22: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:34:39: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:34:39: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 03/14/2015 - 10:34:40: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "57") (armor "90")
+L 03/14/2015 - 10:34:40: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "86") (damage_armor "18") (health "-28") (armor "72")
+L 03/14/2015 - 10:34:40: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:34:40: Team "CT" triggered "CTs_Win" (CT "5") (T "13")
+L 03/14/2015 - 10:34:40: World triggered "Round_End"
+L 03/14/2015 - 10:34:45: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:34:50: World triggered "Round_Start"
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100")
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "24") (damage_armor "4") (health "50") (armor "96")
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "23") (armor "92")
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-4") (armor "88")
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/14/2015 - 10:35:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "0")
+L 03/14/2015 - 10:35:17: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "13") (armor "0")
+L 03/14/2015 - 10:35:17: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-22") (armor "0")
+L 03/14/2015 - 10:35:17: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:35:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "14")
+L 03/14/2015 - 10:35:17: World triggered "Round_End"
+L 03/14/2015 - 10:35:22: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:35:27: World triggered "Round_Start"
+L 03/14/2015 - 10:35:41: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c7be4
+L 03/14/2015 - 10:35:41: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><>" connected, address "178.120.180.68:22216"
+L 03/14/2015 - 10:35:41: [VTC] Player 4 speex
+L 03/14/2015 - 10:35:45: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><>" entered the game
+L 03/14/2015 - 10:35:50: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><>" joined team "TERRORIST"
+L 03/14/2015 - 10:36:00: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/14/2015 - 10:36:03: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100")
+L 03/14/2015 - 10:36:03: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 03/14/2015 - 10:36:04: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "13") (damage_armor "7") (health "61") (armor "87")
+L 03/14/2015 - 10:36:04: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "48") (armor "81")
+L 03/14/2015 - 10:36:04: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "27") (armor "76")
+L 03/14/2015 - 10:36:04: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp" (damage "52") (damage_armor "26") (health "-25") (armor "50")
+L 03/14/2015 - 10:36:04: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "usp"
+L 03/14/2015 - 10:36:09: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:09: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:09: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:09: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:10: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:36:20: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "Defused_The_Bomb"
+L 03/14/2015 - 10:36:20: Team "CT" triggered "Bomb_Defused" (CT "6") (T "14")
+L 03/14/2015 - 10:36:20: World triggered "Round_End"
+L 03/14/2015 - 10:36:25: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:36:30: World triggered "Round_Start"
+L 03/14/2015 - 10:36:42: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:36:43: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/14/2015 - 10:36:43: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-62") (armor "76")
+L 03/14/2015 - 10:36:43: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:37:08: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "52") (armor "81")
+L 03/14/2015 - 10:37:08: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "30") (armor "81")
+L 03/14/2015 - 10:37:08: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/14/2015 - 10:37:08: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "9") (armor "77")
+L 03/14/2015 - 10:37:09: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "96")
+L 03/14/2015 - 10:37:09: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-12") (armor "72")
+L 03/14/2015 - 10:37:09: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:37:09: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:37:14: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "25") (damage_armor "0") (health "24") (armor "96")
+L 03/14/2015 - 10:37:14: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-1") (armor "96")
+L 03/14/2015 - 10:37:14: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:37:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "15")
+L 03/14/2015 - 10:37:14: World triggered "Round_End"
+L 03/14/2015 - 10:37:19: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:37:24: World triggered "Round_Start"
+L 03/14/2015 - 10:37:31: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><SPECTATOR>" triggered "Game_idle_kick" (auto)
+L 03/14/2015 - 10:37:31: Kick: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><>" was kicked by "Console"
+L 03/14/2015 - 10:37:31: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><SPECTATOR>" triggered "time" (time "16:40")
+L 03/14/2015 - 10:37:31: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><SPECTATOR>" triggered "latency" (ping "2")
+L 03/14/2015 - 10:37:31: "[Hard_Skill]_Extazy<53><STEAM_0:0:1814174262><SPECTATOR>" disconnected
+L 03/14/2015 - 10:37:36: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "72") (armor "94")
+L 03/14/2015 - 10:37:36: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "50") (armor "89")
+L 03/14/2015 - 10:37:37: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "28") (armor "84")
+L 03/14/2015 - 10:37:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/14/2015 - 10:37:37: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:37:40: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/14/2015 - 10:37:40: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 03/14/2015 - 10:37:40: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "19") (armor "82")
+L 03/14/2015 - 10:37:41: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "81") (damage_armor "18") (health "-21") (armor "73")
+L 03/14/2015 - 10:37:41: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1"
+L 03/14/2015 - 10:37:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "16")
+L 03/14/2015 - 10:37:41: World triggered "Round_End"
+L 03/14/2015 - 10:37:46: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:37:51: World triggered "Round_Start"
+L 03/14/2015 - 10:38:06: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 03/14/2015 - 10:38:06: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 03/14/2015 - 10:38:12: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c2cf0
+L 03/14/2015 - 10:38:12: "[Hard_Skill]_Extazy<81><STEAM_0:0:1814174262><>" connected, address "10.19.7.134:27005"
+L 03/14/2015 - 10:38:12: [VTC] Player 3 speex
+L 03/14/2015 - 10:38:13: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "33") (armor "0")
+L 03/14/2015 - 10:38:14: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "awp" (damage "54") (damage_armor "0") (health "28") (armor "90")
+L 03/14/2015 - 10:38:14: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "20") (damage_armor "0") (health "13") (armor "0")
+L 03/14/2015 - 10:38:14: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-3") (armor "0")
+L 03/14/2015 - 10:38:14: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:38:15: "[Hard_Skill]_Extazy<81><STEAM_0:0:1814174262><>" entered the game
+L 03/14/2015 - 10:38:15: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:38:15: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "7") (armor "85")
+L 03/14/2015 - 10:38:15: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "-20") (armor "79")
+L 03/14/2015 - 10:38:15: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:38:21: "[Hard_Skill]_Extazy<81><STEAM_0:0:1814174262><>" joined team "SPECTATOR"
+L 03/14/2015 - 10:38:26: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "51") (armor "91")
+L 03/14/2015 - 10:38:26: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "29") (armor "86")
+L 03/14/2015 - 10:38:26: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "7") (armor "81")
+L 03/14/2015 - 10:38:26: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:38:26: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1" (damage "89") (damage_armor "19") (health "-82") (armor "62")
+L 03/14/2015 - 10:38:26: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "m4a1"
+L 03/14/2015 - 10:38:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "17")
+L 03/14/2015 - 10:38:26: World triggered "Round_End"
+L 03/14/2015 - 10:38:31: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:38:36: World triggered "Round_Start"
+L 03/14/2015 - 10:38:51: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/14/2015 - 10:38:51: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/14/2015 - 10:38:52: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 03/14/2015 - 10:38:52: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "-124") (armor "0")
+L 03/14/2015 - 10:38:52: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "m4a1"
+L 03/14/2015 - 10:39:12: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "64") (armor "81")
+L 03/14/2015 - 10:39:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "52") (armor "75")
+L 03/14/2015 - 10:39:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "40") (armor "69")
+L 03/14/2015 - 10:39:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "mp5navy" (damage "48") (damage_armor "24") (health "-8") (armor "45")
+L 03/14/2015 - 10:39:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "mp5navy"
+L 03/14/2015 - 10:39:15: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/14/2015 - 10:39:18: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/14/2015 - 10:39:20: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "86") (armor "95")
+L 03/14/2015 - 10:39:20: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "39") (damage_armor "9") (health "47") (armor "86")
+L 03/14/2015 - 10:39:22: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "26") (armor "82")
+L 03/14/2015 - 10:39:22: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "32") (damage_armor "5") (health "42") (armor "91")
+L 03/14/2015 - 10:39:23: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle" (damage "13") (damage_armor "2") (health "13") (armor "80")
+L 03/14/2015 - 10:39:25: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle" (damage "27") (damage_armor "5") (health "-14") (armor "75")
+L 03/14/2015 - 10:39:25: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle"
+L 03/14/2015 - 10:39:32: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/14/2015 - 10:39:42: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "Defused_The_Bomb"
+L 03/14/2015 - 10:39:42: Team "CT" triggered "Bomb_Defused" (CT "7") (T "17")
+L 03/14/2015 - 10:39:42: World triggered "Round_End"
+L 03/14/2015 - 10:39:47: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:39:52: World triggered "Round_Start"
+L 03/14/2015 - 10:40:14: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/14/2015 - 10:40:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "32") (damage_armor "5") (health "42") (armor "91")
+L 03/14/2015 - 10:40:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "16") (armor "87")
+L 03/14/2015 - 10:40:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-10") (armor "83")
+L 03/14/2015 - 10:40:16: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:40:24: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/14/2015 - 10:40:25: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m249" (damage "10") (damage_armor "0") (health "90") (armor "100")
+L 03/14/2015 - 10:40:25: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "m249" (damage "22") (damage_armor "0") (health "68") (armor "100")
+L 03/14/2015 - 10:40:26: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/14/2015 - 10:40:28: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle" (damage "26") (damage_armor "5") (health "42") (armor "95")
+L 03/14/2015 - 10:40:29: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "34") (damage_armor "0") (health "46") (armor "0")
+L 03/14/2015 - 10:40:33: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "16") (damage_armor "0") (health "4") (armor "0")
+L 03/14/2015 - 10:40:43: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle" (damage "23") (damage_armor "0") (health "19") (armor "95")
+L 03/14/2015 - 10:40:43: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle" (damage "23") (damage_armor "0") (health "-4") (armor "95")
+L 03/14/2015 - 10:40:43: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" killed "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" with "deagle"
+L 03/14/2015 - 10:40:53: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><TERRORIST>" joined team "SPECTATOR"
+L 03/14/2015 - 10:40:59: Team "TERRORIST" triggered "Target_Bombed" (CT "7") (T "18")
+L 03/14/2015 - 10:40:59: World triggered "Round_End"
+L 03/14/2015 - 10:41:02: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-31") (armor "0")
+L 03/14/2015 - 10:41:02: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:41:04: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:41:09: World triggered "Round_Start"
+L 03/14/2015 - 10:41:23: Kick: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><>" was kicked by "Console"
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "19") (deaths "0")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "ak47") (shots "92") (hits "12") (kills "2") (headshots "0") (tks "0") (damage "292") (deaths "3")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "2") (stomach "3") (leftarm "2") (rightarm "3") (leftleg "2") (rightleg "0")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "time" (time "5:38")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" triggered "latency" (ping "31")
+L 03/14/2015 - 10:41:23: "|Xyligans|_Zl@9|_P@nD@<80><STEAM_0:0:967170807><SPECTATOR>" disconnected
+L 03/14/2015 - 10:41:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:41:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/14/2015 - 10:41:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/14/2015 - 10:41:27: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:41:29: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:41:30: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "86") (damage_armor "19") (health "-7") (armor "76")
+L 03/14/2015 - 10:41:30: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:41:30: Team "CT" triggered "CTs_Win" (CT "8") (T "18")
+L 03/14/2015 - 10:41:30: World triggered "Round_End"
+L 03/14/2015 - 10:41:35: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:41:40: World triggered "Round_Start"
+L 03/14/2015 - 10:41:48: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39c7be4
+L 03/14/2015 - 10:41:48: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><>" connected, address "178.120.180.68:22216"
+L 03/14/2015 - 10:41:48: [VTC] Player 4 speex
+L 03/14/2015 - 10:41:50: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><>" entered the game
+L 03/14/2015 - 10:41:51: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><>" joined team "TERRORIST"
+L 03/14/2015 - 10:41:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:41:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "43") (damage_armor "0") (health "22") (armor "0")
+L 03/14/2015 - 10:41:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-118") (armor "0")
+L 03/14/2015 - 10:41:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:41:55: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:41:56: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 03/14/2015 - 10:41:56: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:41:56: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 03/14/2015 - 10:41:56: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "37") (armor "86")
+L 03/14/2015 - 10:41:57: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "16") (armor "81")
+L 03/14/2015 - 10:41:57: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 03/14/2015 - 10:41:57: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-5") (armor "76")
+L 03/14/2015 - 10:41:57: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:41:57: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:42:01: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/14/2015 - 10:42:01: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/14/2015 - 10:42:01: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/14/2015 - 10:42:07: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "deagle" (damage "24") (damage_armor "0") (health "-5") (armor "88")
+L 03/14/2015 - 10:42:07: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "deagle"
+L 03/14/2015 - 10:42:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "19")
+L 03/14/2015 - 10:42:07: World triggered "Round_End"
+L 03/14/2015 - 10:42:12: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:42:17: World triggered "Round_Start"
+L 03/14/2015 - 10:42:30: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 03/14/2015 - 10:42:30: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:42:34: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 03/14/2015 - 10:42:34: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 03/14/2015 - 10:42:34: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-35") (armor "80")
+L 03/14/2015 - 10:42:34: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47"
+L 03/14/2015 - 10:42:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "20")
+L 03/14/2015 - 10:42:34: World triggered "Round_End"
+L 03/14/2015 - 10:42:39: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 10:42:44: World triggered "Round_Start"
+L 03/14/2015 - 10:43:05: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "33") (damage_armor "5") (health "67") (armor "95")
+L 03/14/2015 - 10:43:05: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" with "ak47" (damage "27") (damage_armor "4") (health "40") (armor "91")
+L 03/14/2015 - 10:43:05: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "86") (damage_armor "19") (health "14") (armor "81")
+L 03/14/2015 - 10:43:06: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-7") (armor "76")
+L 03/14/2015 - 10:43:06: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" killed "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" with "m4a1"
+L 03/14/2015 - 10:43:06: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 10:43:06: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" attacked "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" with "deagle" (damage "38") (damage_armor "7") (health "62") (armor "93")
+L 03/14/2015 - 10:43:06: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/14/2015 - 10:43:07: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/14/2015 - 10:43:07: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" attacked "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/14/2015 - 10:43:07: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" killed "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" with "ak47"
+L 03/14/2015 - 10:43:10: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><TERRORIST>" joined team "SPECTATOR"
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "scout") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "scout") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "grenade") (shots "16") (hits "10") (kills "0") (headshots "0") (tks "0") (damage "250") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "ump45") (shots "22") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "18") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "ump45") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "famas") (shots "63") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "83") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "famas") (head "0") (chest "1") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "usp") (shots "51") (hits "7") (kills "2") (headshots "1") (tks "0") (damage "147") (deaths "4")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "2") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "54") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "m249") (shots "11") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "32") (deaths "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "m4a1") (shots "116") (hits "22") (kills "4") (headshots "1") (tks "0") (damage "607") (deaths "6")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "6") (stomach "2") (leftarm "5") (rightarm "5") (leftleg "1") (rightleg "1")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "deagle") (shots "19") (hits "6") (kills "3") (headshots "0") (tks "0") (damage "180") (deaths "4")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "2")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats" (weapon "ak47") (shots "56") (hits "11") (kills "2") (headshots "2") (tks "0") (damage "518") (deaths "4")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "0") (stomach "0") (leftarm "7") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "time" (time "22:27")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" triggered "latency" (ping "15")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "grenade") (shots "18") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "112") (deaths "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "17") (hits "4") (kills "1") (headshots "1") (tks "0") (damage "84") (deaths "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "m4a1") (shots "335") (hits "64") (kills "14") (headshots "7") (tks "0") (damage "2076") (deaths "15")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "m4a1") (head "10") (chest "12") (stomach "5") (leftarm "24") (rightarm "10") (leftleg "1") (rightleg "2")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "4") (kills "3") (headshots "1") (tks "0") (damage "190") (deaths "2")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats" (weapon "ak47") (shots "28") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "109") (deaths "2")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "4") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "time" (time "22:21")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" triggered "latency" (ping "42")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Extazy<81><STEAM_0:0:1814174262><SPECTATOR>" triggered "time" (time "4:58")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Extazy<81><STEAM_0:0:1814174262><SPECTATOR>" triggered "latency" (ping "2")
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "deagle") (shots "10") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "24") (deaths "0")
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats" (weapon "ak47") (shots "12") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "60") (deaths "1")
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" triggered "time" (time "1:22")
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" triggered "latency" (ping "31")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "5") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "114") (deaths "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "267") (hits "41") (kills "11") (headshots "6") (tks "0") (damage "1478") (deaths "4")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "6") (chest "4") (stomach "4") (leftarm "18") (rightarm "3") (leftleg "3") (rightleg "3")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "12") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "102") (deaths "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "353") (hits "71") (kills "23") (headshots "12") (tks "0") (damage "3172") (deaths "8")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "12") (chest "7") (stomach "5") (leftarm "27") (rightarm "8") (leftleg "5") (rightleg "7")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "time" (time "22:27")
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" triggered "latency" (ping "12")
+L 03/14/2015 - 10:43:13: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/14/2015 - 10:43:13: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2015 - 10:43:13: [META] ini: Read plugin config for: dproto_EF
+L 03/14/2015 - 10:43:13: [META] ini: Read plugin config for: mmtimer
+L 03/14/2015 - 10:43:13: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/14/2015 - 10:43:13: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/14/2015 - 10:43:13: [META] dll: Updating plugins...
+L 03/14/2015 - 10:43:13: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/14/2015 - 10:43:13: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/14/2015 - 10:43:13: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Funny*Apple<58><STEAM_0:0:706679030><CT>" disconnected
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Mi{x}eR<59><STEAM_0:0:898503398><CT>" disconnected
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_Extazy<81><STEAM_0:0:1814174262><SPECTATOR>" disconnected
+L 03/14/2015 - 10:43:13: "|Xyligans|_Zl@9|_P@nD@<82><STEAM_0:0:967170807><SPECTATOR>" disconnected
+L 03/14/2015 - 10:43:13: "[Hard_Skill]_4IKIST<71><STEAM_0:0:2025036726><TERRORIST>" disconnected
+L 03/14/2015 - 10:43:13: World triggered "Round_Draw" (CT "8") (T "20")
+L 03/14/2015 - 10:43:13: World triggered "Round_End"
+L 03/14/2015 - 10:43:13: Log file closed

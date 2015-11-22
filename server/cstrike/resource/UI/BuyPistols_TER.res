@@ -1,9 +1,9 @@
-"Resource/UI/BuyPistols_TER.res"
+"Resource/UI/BuyPistols_CT.res"
 {
-	"BuyPistols_TER"
+	"BuyPistols_CT"
 	{
 		"ControlName"		"WizardSubPanel"
-		"fieldName"		"BuyPistols_TER"
+		"fieldName"		"BuyPistols_CT"
 		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"552"
@@ -51,10 +51,10 @@
 		"tabPosition"		"0"
 	}
 
-	"P228"
+	"Glock18"
 	{
 		"ControlName"		"MouseOverPanelButton"
-		"fieldName"		"P228"
+		"fieldName"		"Glock18"
 		"xpos"		"76"
 		"ypos"		"116"
 		"wide"		"148"
@@ -64,11 +64,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"#Cstrike_P228"
+		"labelText"		"#Cstrike_Glock18"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"nst_buy_mywpn p228"
+		"command"		"glock"
 		"cost"			"400"
 	}
 
@@ -88,14 +88,14 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"nst_buy_mywpn usp"
+		"command"		"usp"
 		"cost"			"500"
 	}
 
-	"Glock18"
+	"P228"
 	{
 		"ControlName"		"MouseOverPanelButton"
-		"fieldName"		"Glock18"
+		"fieldName"		"P228"
 		"xpos"		"76"
 		"ypos"		"180"
 		"wide"		"148"
@@ -105,33 +105,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"#Cstrike_Glock18"
+		"labelText"		"#Cstrike_P228"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"nst_buy_mywpn glock18"
+		"command"		"p228"
 		"cost"			"600"
-	}
-
-	"FiveSeven"
-	{
-		"ControlName"		"MouseOverPanelButton"
-		"fieldName"		"FiveSeven"
-		"xpos"		"76"
-		"ypos"		"212"
-		"wide"		"148"
-		"tall"		"20"
-		"autoResize"		"0"
-		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"#Cstrike_FiveSeven"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"command"		"nst_buy_mywpn fiveseven"
-		"cost"			"650"
 	}
 
 	"DesertEagle"
@@ -139,7 +118,7 @@
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"DesertEagle"
 		"xpos"		"76"
-		"ypos"		"244"
+		"ypos"		"212"
 		"wide"		"148"
 		"tall"		"20"
 		"autoResize"		"0"
@@ -151,8 +130,8 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"nst_buy_mywpn deagle"
-		"cost"			"800"
+		"command"		"deagle"
+		"cost"			"650"
 	}
 
 	"Elites"
@@ -160,7 +139,7 @@
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"Elites"
 		"xpos"		"76"
-		"ypos"		"276"
+		"ypos"		"244"
 		"wide"		"148"
 		"tall"		"20"
 		"autoResize"		"0"
@@ -172,10 +151,9 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"nst_buy_mywpn elite"
+		"command"		"elites"
 		"cost"			"800"
 	}
-
 
 	"CancelButton"
 	{

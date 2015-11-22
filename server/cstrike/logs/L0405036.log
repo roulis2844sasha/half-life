@@ -1,0 +1,875 @@
+L 04/05/2015 - 10:36:45: Log file started (file "logs/L0405036.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/05/2015 - 10:36:45: Loading map "$9000$"
+L 04/05/2015 - 10:36:45: Server cvars start
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_debug_level" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_examine_time" = "0.5"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_look_angle" = "10"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_look_distance" = "200"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_message_repeats" = "5"
+L 04/05/2015 - 10:36:45: Server cvar "_tutor_view_distance" = "1000"
+L 04/05/2015 - 10:36:45: Server cvar "aesp_version" = "1.5b_mini"
+L 04/05/2015 - 10:36:45: Server cvar "allow_spectators" = "4"
+L 04/05/2015 - 10:36:45: Server cvar "amx_client_languages" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/05/2015 - 10:36:45: Server cvar "amx_language" = "ru"
+L 04/05/2015 - 10:36:45: Server cvar "amx_nextmap" = "$9000$"
+L 04/05/2015 - 10:36:45: Server cvar "amx_timeleft" = "00:00"
+L 04/05/2015 - 10:36:45: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/05/2015 - 10:36:45: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/05/2015 - 10:36:45: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Config" = "Loaded"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Replace" = "Failed"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Status" = "Loaded"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/05/2015 - 10:36:45: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/05/2015 - 10:36:45: Server cvar "coop" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "deathmatch" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "decalfrequency" = "9"
+L 04/05/2015 - 10:36:45: Server cvar "dp_version" = "0.9.391"
+L 04/05/2015 - 10:36:45: Server cvar "edgefriction" = "2"
+L 04/05/2015 - 10:36:45: Server cvar "hostage_debug" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "hostage_stop" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "humans_join_team" = "any"
+L 04/05/2015 - 10:36:45: Server cvar "jtp10181" = "chute,gore"
+L 04/05/2015 - 10:36:45: Server cvar "max_queries_sec" = "3.0"
+L 04/05/2015 - 10:36:45: Server cvar "max_queries_sec_global" = "30"
+L 04/05/2015 - 10:36:45: Server cvar "max_queries_window" = "60"
+L 04/05/2015 - 10:36:45: Server cvar "metamod_version" = "1.19"
+L 04/05/2015 - 10:36:45: Server cvar "mp_allowmonsters" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_autokick" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_autoteambalance" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_buytime" = "1.5"
+L 04/05/2015 - 10:36:45: Server cvar "mp_c4timer" = "35"
+L 04/05/2015 - 10:36:45: Server cvar "mp_chattime" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_consistency" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_fadetoblack" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_flashlight" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_footsteps" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_forcecamera" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_forcechasecam" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_fragsleft" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_freezetime" = "5"
+L 04/05/2015 - 10:36:45: Server cvar "mp_friendlyfire" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_hostagepenalty" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_kickpercent" = "0.66"
+L 04/05/2015 - 10:36:45: Server cvar "mp_limitteams" = "5"
+L 04/05/2015 - 10:36:45: Server cvar "mp_logdetail" = "3"
+L 04/05/2015 - 10:36:45: Server cvar "mp_logfile" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_logmessages" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/05/2015 - 10:36:45: Server cvar "mp_maxrounds" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_mirrordamage" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_playerid" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_roundtime" = "2.57"
+L 04/05/2015 - 10:36:45: Server cvar "mp_startmoney" = "800"
+L 04/05/2015 - 10:36:45: Server cvar "mp_timeleft" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "mp_timelimit" = "30.000000"
+L 04/05/2015 - 10:36:45: Server cvar "mp_tkpunish" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_windifference" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "mp_winlimit" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "pausable" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_accelerate" = "5"
+L 04/05/2015 - 10:36:45: Server cvar "sv_aim" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_airaccelerate" = "10"
+L 04/05/2015 - 10:36:45: Server cvar "sv_airmove" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "sv_allowupload" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "sv_alltalk" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_bounce" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "sv_cheats" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_clienttrace" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "sv_clipmode" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_contact" = ""
+L 04/05/2015 - 10:36:45: Server cvar "sv_friction" = "4"
+L 04/05/2015 - 10:36:45: Server cvar "sv_gravity" = "800"
+L 04/05/2015 - 10:36:45: Server cvar "sv_logblocks" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_maxrate" = "25000"
+L 04/05/2015 - 10:36:45: Server cvar "sv_maxspeed" = "900"
+L 04/05/2015 - 10:36:45: Server cvar "sv_minrate" = "100000"
+L 04/05/2015 - 10:36:45: Server cvar "sv_password" = ""
+L 04/05/2015 - 10:36:45: Server cvar "sv_proxies" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_region" = "3"
+L 04/05/2015 - 10:36:45: Server cvar "sv_restart" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_restartround" = "0"
+L 04/05/2015 - 10:36:45: Server cvar "sv_stepsize" = "18"
+L 04/05/2015 - 10:36:45: Server cvar "sv_stopspeed" = "75"
+L 04/05/2015 - 10:36:45: Server cvar "sv_uploadmax" = "0.5"
+L 04/05/2015 - 10:36:45: Server cvar "sv_voiceenable" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "sv_wateraccelerate" = "10"
+L 04/05/2015 - 10:36:45: Server cvar "sv_waterfriction" = "1"
+L 04/05/2015 - 10:36:45: Server cvar "travo_statmarquee" = "v1.2"
+L 04/05/2015 - 10:36:45: Server cvar "vtc_version" = "80"
+L 04/05/2015 - 10:36:45: Server cvar "wallblocker_version" = "1.0"
+L 04/05/2015 - 10:36:45: Server cvars end
+L 04/05/2015 - 10:36:45: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 04/05/2015 - 10:36:45: Server cvar "sv_restart" = "1"
+L 04/05/2015 - 10:36:45: World triggered "Restart_Round_(1_second)"
+L 04/05/2015 - 10:36:45: Team "CT" scored "0" with "0" players
+L 04/05/2015 - 10:36:45: Team "TERRORIST" scored "0" with "0" players
+L 04/05/2015 - 10:36:45: Server cvar "sv_restart" = "0"
+L 04/05/2015 - 10:36:46: Started map "$9000$" (CRC "-1018314417")
+L 04/05/2015 - 10:36:46: [VTC] Player 1 silk
+L 04/05/2015 - 10:36:46: [VTC] Player 2 speex
+L 04/05/2015 - 10:36:46: [VTC] Player 7 speex
+L 04/05/2015 - 10:36:46: [VTC] Player 5 silk
+L 04/05/2015 - 10:36:46: [VTC] Player 6 speex
+L 04/05/2015 - 10:36:46: [VTC] Player 4 speex
+L 04/05/2015 - 10:36:48: [VTC] Player 3 speex
+L 04/05/2015 - 10:36:48: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><>" entered the game
+L 04/05/2015 - 10:36:49: "A State of Transe<14><STEAM_0:4:1038161258><>" entered the game
+L 04/05/2015 - 10:36:50: "Extazy<2><STEAM_0:1:113150434><>" entered the game
+L 04/05/2015 - 10:36:50: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39b6ad8
+L 04/05/2015 - 10:36:50: "Veronika love you<21><STEAM_0:0:6919603><>" connected, address "194.135.16.114:27005"
+L 04/05/2015 - 10:36:50: [VTC] Player 5 silk
+L 04/05/2015 - 10:36:50: "Veronika love you<21><STEAM_0:0:6919603><>" STEAM USERID validated
+L 04/05/2015 - 10:36:51: World triggered "Round_Start"
+L 04/05/2015 - 10:36:51: "Novi4ek<12><STEAM_0:4:1906504192><>" entered the game
+L 04/05/2015 - 10:36:53: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c08c0
+L 04/05/2015 - 10:36:53: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><>" connected, address "178.123.83.42:27005"
+L 04/05/2015 - 10:36:53: [VTC] Player 7 speex
+L 04/05/2015 - 10:36:54: "A State of Transe<14><STEAM_0:4:1038161258><>" joined team "TERRORIST"
+L 04/05/2015 - 10:36:54: "Veronika love you<21><STEAM_0:0:6919603><>" entered the game
+L 04/05/2015 - 10:36:55: "Novi4ek<12><STEAM_0:4:1906504192><>" joined team "CT"
+L 04/05/2015 - 10:36:55: World triggered "Game_Commencing"
+L 04/05/2015 - 10:36:55: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/05/2015 - 10:36:55: World triggered "Round_End"
+L 04/05/2015 - 10:36:56: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><>" entered the game
+L 04/05/2015 - 10:36:56: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:36:56: "MAGZHAN4COREJZ<23><STEAM_0:4:1983278195><>" connected, address "95.58.48.69:27005"
+L 04/05/2015 - 10:36:57: "Veronika love you<21><STEAM_0:0:6919603><>" joined team "TERRORIST"
+L 04/05/2015 - 10:36:57: [VTC] Player 3 speex
+L 04/05/2015 - 10:36:58: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><>" joined team "CT"
+L 04/05/2015 - 10:36:59: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><>" joined team "CT"
+L 04/05/2015 - 10:37:03: World triggered "Round_Start"
+L 04/05/2015 - 10:37:06: "MAGZHAN4COREJZ<23><STEAM_0:4:1983278195><>" entered the game
+L 04/05/2015 - 10:37:08: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout" (damage "59") (damage_armor "6") (health "41") (armor "94")
+L 04/05/2015 - 10:37:08: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/05/2015 - 10:37:08: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "108") (damage_armor "0") (health "-35") (armor "0")
+L 04/05/2015 - 10:37:08: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:37:12: "MAGZHAN4COREJZ<23><STEAM_0:4:1983278195><UNASSIGNED>" triggered "time" (time "0:06")
+L 04/05/2015 - 10:37:12: "MAGZHAN4COREJZ<23><STEAM_0:4:1983278195><UNASSIGNED>" triggered "latency" (ping "0")
+L 04/05/2015 - 10:37:12: "MAGZHAN4COREJZ<23><STEAM_0:4:1983278195><>" disconnected
+L 04/05/2015 - 10:37:12: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/05/2015 - 10:37:13: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/05/2015 - 10:37:14: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "33") (armor "0")
+L 04/05/2015 - 10:37:14: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m249" (damage "23") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:37:15: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "-17") (armor "0")
+L 04/05/2015 - 10:37:15: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:37:15: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/05/2015 - 10:37:15: World triggered "Round_End"
+L 04/05/2015 - 10:37:25: World triggered "Round_Start"
+L 04/05/2015 - 10:37:25: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 10:37:25: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:37:31: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/05/2015 - 10:37:31: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:37:32: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 04/05/2015 - 10:37:32: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "25") (damage_armor "0") (health "0") (armor "0")
+L 04/05/2015 - 10:37:32: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47"
+L 04/05/2015 - 10:37:42: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 04/05/2015 - 10:37:42: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 10:37:42: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 04/05/2015 - 10:37:42: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:37:42: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/05/2015 - 10:37:42: World triggered "Round_End"
+L 04/05/2015 - 10:37:52: World triggered "Round_Start"
+L 04/05/2015 - 10:37:55: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:37:55: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/05/2015 - 10:37:55: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:37:57: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "3") (armor "0")
+L 04/05/2015 - 10:37:58: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/05/2015 - 10:37:58: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 10:37:59: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:37:59: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 04/05/2015 - 10:37:59: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:38:01: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "-24") (armor "0")
+L 04/05/2015 - 10:38:01: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:38:06: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "86") (damage_armor "19") (health "14") (armor "81")
+L 04/05/2015 - 10:38:06: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-7") (armor "76")
+L 04/05/2015 - 10:38:06: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1"
+L 04/05/2015 - 10:38:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 04/05/2015 - 10:38:06: World triggered "Round_End"
+L 04/05/2015 - 10:38:16: World triggered "Round_Start"
+L 04/05/2015 - 10:38:19: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 10:38:19: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 10:38:19: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "35") (armor "0")
+L 04/05/2015 - 10:38:19: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "6") (armor "0")
+L 04/05/2015 - 10:38:19: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "-30") (armor "0")
+L 04/05/2015 - 10:38:19: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:38:20: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:38:20: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/05/2015 - 10:38:20: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "28") (armor "0")
+L 04/05/2015 - 10:38:20: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 10:38:20: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:38:24: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "grenade"
+L 04/05/2015 - 10:38:30: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 10:38:31: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-52") (armor "0")
+L 04/05/2015 - 10:38:31: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:38:31: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 04/05/2015 - 10:38:31: World triggered "Round_End"
+L 04/05/2015 - 10:38:41: World triggered "Round_Start"
+L 04/05/2015 - 10:38:45: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 10:38:45: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "25") (damage_armor "0") (health "41") (armor "0")
+L 04/05/2015 - 10:38:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "34") (damage_armor "0") (health "7") (armor "0")
+L 04/05/2015 - 10:38:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-27") (armor "0")
+L 04/05/2015 - 10:38:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47"
+L 04/05/2015 - 10:38:52: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 10:38:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "42") (armor "0")
+L 04/05/2015 - 10:38:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "21") (armor "0")
+L 04/05/2015 - 10:38:53: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/05/2015 - 10:38:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "0") (armor "0")
+L 04/05/2015 - 10:38:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:39:02: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 04/05/2015 - 10:39:03: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 04/05/2015 - 10:39:03: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "54") (armor "0")
+L 04/05/2015 - 10:39:03: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "43") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 10:39:03: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 10:39:03: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-4") (armor "0")
+L 04/05/2015 - 10:39:03: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47"
+L 04/05/2015 - 10:39:04: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:39:04: "[Tyrbo]<24><STEAM_0:4:1474161157><>" connected, address "178.54.231.6:27005"
+L 04/05/2015 - 10:39:04: [VTC] Player 3 speex
+L 04/05/2015 - 10:39:05: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" say "ULT CERF FDTGLFE" (dead)
+L 04/05/2015 - 10:39:07: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:39:07: "[Tyrbo]<25><STEAM_0:4:1474161157><>" connected, address "178.54.231.6:27005"
+L 04/05/2015 - 10:39:07: [VTC] Player 3 speex
+L 04/05/2015 - 10:39:12: "[Tyrbo]<25><STEAM_0:4:1474161157><>" entered the game
+L 04/05/2015 - 10:39:14: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "32") (damage_armor "5") (health "42") (armor "91")
+L 04/05/2015 - 10:39:14: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "32") (damage_armor "5") (health "10") (armor "86")
+L 04/05/2015 - 10:39:14: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "2") (armor "0")
+L 04/05/2015 - 10:39:15: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 10:39:15: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:39:15: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 04/05/2015 - 10:39:15: World triggered "Round_End"
+L 04/05/2015 - 10:39:19: "[Tyrbo]<25><STEAM_0:4:1474161157><>" joined team "CT"
+L 04/05/2015 - 10:39:25: World triggered "Round_Start"
+L 04/05/2015 - 10:39:25: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "[Tyrbo]<25><STEAM_0:4:1474161157><CT>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 10:39:25: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "[Tyrbo]<25><STEAM_0:4:1474161157><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 10:39:27: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 10:39:29: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "16") (damage_armor "0") (health "36") (armor "0")
+L 04/05/2015 - 10:39:29: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "9") (damage_armor "0") (health "27") (armor "0")
+L 04/05/2015 - 10:39:30: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "100")
+L 04/05/2015 - 10:39:31: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "6") (armor "0")
+L 04/05/2015 - 10:39:31: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "80") (armor "100")
+L 04/05/2015 - 10:39:32: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "63") (armor "0")
+L 04/05/2015 - 10:39:32: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "scout" (damage "284") (damage_armor "0") (health "-254") (armor "0")
+L 04/05/2015 - 10:39:32: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "scout"
+L 04/05/2015 - 10:39:34: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "34") (armor "0")
+L 04/05/2015 - 10:39:40: "[Tyrbo]<25><STEAM_0:4:1474161157><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 10:39:40: "[Tyrbo]<25><STEAM_0:4:1474161157><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:39:40: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 04/05/2015 - 10:39:40: World triggered "Round_End"
+L 04/05/2015 - 10:39:45: "[Tyrbo]<25><STEAM_0:4:1474161157><CT>" joined team "TERRORIST" (auto)
+L 04/05/2015 - 10:39:50: World triggered "Round_Start"
+L 04/05/2015 - 10:39:51: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" with "m4a1" (damage "48") (damage_armor "0") (health "52") (armor "0")
+L 04/05/2015 - 10:39:52: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" with "m4a1" (damage "108") (damage_armor "0") (health "-56") (armor "0")
+L 04/05/2015 - 10:39:52: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:39:53: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/05/2015 - 10:39:53: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 10:39:53: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:39:54: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "14") (armor "0")
+L 04/05/2015 - 10:39:55: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "100")
+L 04/05/2015 - 10:39:56: "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" joined team "TERRORIST"
+L 04/05/2015 - 10:39:57: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "57") (armor "95")
+L 04/05/2015 - 10:39:58: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "27") (damage_armor "6") (health "30") (armor "89")
+L 04/05/2015 - 10:39:58: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "9") (armor "84")
+L 04/05/2015 - 10:39:58: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "27") (damage_armor "5") (health "-18") (armor "79")
+L 04/05/2015 - 10:39:58: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:39:59: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/05/2015 - 10:40:00: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "0") (armor "0")
+L 04/05/2015 - 10:40:00: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:40:01: "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "9") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "32") (deaths "1")
+L 04/05/2015 - 10:40:01: "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:40:01: "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" triggered "time" (time "0:49")
+L 04/05/2015 - 10:40:01: "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" triggered "latency" (ping "71")
+L 04/05/2015 - 10:40:01: "[Tyrbo]<25><STEAM_0:4:1474161157><TERRORIST>" disconnected
+L 04/05/2015 - 10:40:01: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:40:01: "[Tyrbo]<26><STEAM_0:4:1474161157><>" connected, address "178.54.231.6:27005"
+L 04/05/2015 - 10:40:01: Kick: "[Tyrbo]<26><STEAM_0:4:1474161157><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 19 секунд"")
+L 04/05/2015 - 10:40:04: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "awp" (damage "84") (damage_armor "0") (health "-3") (armor "95")
+L 04/05/2015 - 10:40:04: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "awp"
+L 04/05/2015 - 10:40:07: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:40:07: "[Tyrbo]<27><STEAM_0:4:1474161157><>" connected, address "178.54.231.6:27005"
+L 04/05/2015 - 10:40:07: Kick: "[Tyrbo]<27><STEAM_0:4:1474161157><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 13 секунд"")
+L 04/05/2015 - 10:40:14: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "awp" (damage "111") (damage_armor "0") (health "-33") (armor "0")
+L 04/05/2015 - 10:40:14: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "awp"
+L 04/05/2015 - 10:40:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 04/05/2015 - 10:40:14: World triggered "Round_End"
+L 04/05/2015 - 10:40:21: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:40:21: "[Tyrbo]<28><STEAM_0:4:1474161157><>" connected, address "178.54.231.6:27005"
+L 04/05/2015 - 10:40:21: [VTC] Player 3 speex
+L 04/05/2015 - 10:40:24: World triggered "Round_Start"
+L 04/05/2015 - 10:40:25: "[Tyrbo]<28><STEAM_0:4:1474161157><>" entered the game
+L 04/05/2015 - 10:40:27: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 10:40:27: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 10:40:28: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-10") (armor "0")
+L 04/05/2015 - 10:40:28: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47"
+L 04/05/2015 - 10:40:28: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 10:40:28: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "20") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 10:40:29: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "16") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 10:40:29: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "16") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 10:40:29: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "17") (damage_armor "0") (health "15") (armor "0")
+L 04/05/2015 - 10:40:30: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "20") (damage_armor "0") (health "-5") (armor "0")
+L 04/05/2015 - 10:40:30: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90"
+L 04/05/2015 - 10:40:30: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 04/05/2015 - 10:40:30: World triggered "Round_End"
+L 04/05/2015 - 10:40:36: "[Tyrbo]<28><STEAM_0:4:1474161157><>" joined team "CT"
+L 04/05/2015 - 10:40:40: World triggered "Round_Start"
+L 04/05/2015 - 10:40:46: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/05/2015 - 10:40:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/05/2015 - 10:40:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "41") (armor "0")
+L 04/05/2015 - 10:40:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "19") (armor "0")
+L 04/05/2015 - 10:40:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-3") (armor "0")
+L 04/05/2015 - 10:40:46: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:40:48: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "19") (damage_armor "0") (health "51") (armor "0")
+L 04/05/2015 - 10:40:48: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 04/05/2015 - 10:40:48: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "19") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 10:40:49: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 10:40:49: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:40:49: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "26") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 10:40:49: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "14") (damage_armor "0") (health "18") (armor "0")
+L 04/05/2015 - 10:40:49: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "19") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 10:40:49: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90"
+L 04/05/2015 - 10:40:49: Team "CT" triggered "CTs_Win" (CT "7") (T "2")
+L 04/05/2015 - 10:40:49: World triggered "Round_End"
+L 04/05/2015 - 10:40:59: World triggered "Round_Start"
+L 04/05/2015 - 10:41:03: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/05/2015 - 10:41:03: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47"
+L 04/05/2015 - 10:41:10: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/05/2015 - 10:41:11: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "41") (armor "0")
+L 04/05/2015 - 10:41:11: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "2") (armor "0")
+L 04/05/2015 - 10:41:11: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-134") (armor "0")
+L 04/05/2015 - 10:41:11: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47"
+L 04/05/2015 - 10:41:12: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "19") (armor "0")
+L 04/05/2015 - 10:41:12: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-3") (armor "0")
+L 04/05/2015 - 10:41:12: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:41:14: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><CT>" with "glock18" (damage "44") (damage_armor "20") (health "56") (armor "80")
+L 04/05/2015 - 10:41:15: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><CT>" with "glock18" (damage "42") (damage_armor "19") (health "14") (armor "61")
+L 04/05/2015 - 10:41:15: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><CT>" with "glock18" (damage "42") (damage_armor "19") (health "-28") (armor "42")
+L 04/05/2015 - 10:41:15: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "[Tyrbo]<28><STEAM_0:4:1474161157><CT>" with "glock18"
+L 04/05/2015 - 10:41:20: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:41:20: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "20") (damage_armor "0") (health "80") (armor "100")
+L 04/05/2015 - 10:41:20: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "23") (damage_armor "6") (health "57") (armor "94")
+L 04/05/2015 - 10:41:21: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "20") (damage_armor "0") (health "37") (armor "94")
+L 04/05/2015 - 10:41:21: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 10:41:21: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:41:21: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "-17") (armor "0")
+L 04/05/2015 - 10:41:21: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:41:21: Team "CT" triggered "CTs_Win" (CT "8") (T "2")
+L 04/05/2015 - 10:41:21: World triggered "Round_End"
+L 04/05/2015 - 10:41:26: "[Tyrbo]<28><STEAM_0:4:1474161157><CT>" joined team "TERRORIST" (auto)
+L 04/05/2015 - 10:41:31: World triggered "Round_Start"
+L 04/05/2015 - 10:41:33: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/05/2015 - 10:41:34: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/05/2015 - 10:41:34: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:41:34: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "12") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:41:34: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 10:41:34: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "18") (armor "0")
+L 04/05/2015 - 10:41:34: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-102") (armor "0")
+L 04/05/2015 - 10:41:34: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:41:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:41:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "14") (armor "0")
+L 04/05/2015 - 10:41:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-15") (armor "0")
+L 04/05/2015 - 10:41:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:41:36: "Extazy<2><STEAM_0:1:113150434><>" joined team "SPECTATOR"
+L 04/05/2015 - 10:41:45: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 10:41:45: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "9") (armor "0")
+L 04/05/2015 - 10:41:45: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "-14") (armor "0")
+L 04/05/2015 - 10:41:45: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:41:48: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/05/2015 - 10:41:48: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 10:41:48: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:41:48: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 04/05/2015 - 10:41:48: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:41:52: "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/05/2015 - 10:41:52: "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:41:52: "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" triggered "time" (time "1:27")
+L 04/05/2015 - 10:41:52: "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" triggered "latency" (ping "72")
+L 04/05/2015 - 10:41:52: "[Tyrbo]<28><STEAM_0:4:1474161157><TERRORIST>" disconnected
+L 04/05/2015 - 10:41:54: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 10:41:54: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/05/2015 - 10:41:54: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/05/2015 - 10:41:55: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 04/05/2015 - 10:41:55: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "58") (armor "90")
+L 04/05/2015 - 10:41:55: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "86") (damage_armor "18") (health "-28") (armor "72")
+L 04/05/2015 - 10:41:55: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1"
+L 04/05/2015 - 10:41:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "3")
+L 04/05/2015 - 10:41:55: World triggered "Round_End"
+L 04/05/2015 - 10:42:05: "Extazy<2><STEAM_0:1:113150434><SPECTATOR>" joined team "TERRORIST"
+L 04/05/2015 - 10:42:05: World triggered "Round_Start"
+L 04/05/2015 - 10:42:11: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 10:42:12: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/05/2015 - 10:42:12: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/05/2015 - 10:42:12: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 04/05/2015 - 10:42:12: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:42:12: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 10:42:15: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "scout" (damage "69") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:42:15: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "awp" (damage "54") (damage_armor "0") (health "46") (armor "0")
+L 04/05/2015 - 10:42:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 10:42:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "awp"
+L 04/05/2015 - 10:42:24: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "scout" (damage "71") (damage_armor "0") (health "-61") (armor "0")
+L 04/05/2015 - 10:42:24: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "scout"
+L 04/05/2015 - 10:42:24: Team "CT" triggered "CTs_Win" (CT "9") (T "3")
+L 04/05/2015 - 10:42:24: World triggered "Round_End"
+L 04/05/2015 - 10:42:34: World triggered "Round_Start"
+L 04/05/2015 - 10:42:34: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 10:42:34: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 10:42:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 10:42:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 10:42:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "56") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 10:42:35: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "2") (armor "0")
+L 04/05/2015 - 10:42:36: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/05/2015 - 10:42:37: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "grenade"
+L 04/05/2015 - 10:42:40: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "22") (armor "0")
+L 04/05/2015 - 10:42:40: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "5") (armor "0")
+L 04/05/2015 - 10:42:40: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "-9") (armor "0")
+L 04/05/2015 - 10:42:40: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:42:47: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-32") (armor "0")
+L 04/05/2015 - 10:42:47: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47"
+L 04/05/2015 - 10:42:48: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "scout" (damage "52") (damage_armor "0") (health "48") (armor "100")
+L 04/05/2015 - 10:42:52: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "25") (damage_armor "6") (health "23") (armor "94")
+L 04/05/2015 - 10:42:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "3") (armor "90")
+L 04/05/2015 - 10:42:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "-17") (armor "85")
+L 04/05/2015 - 10:42:53: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:42:53: Team "CT" triggered "CTs_Win" (CT "10") (T "3")
+L 04/05/2015 - 10:42:53: World triggered "Round_End"
+L 04/05/2015 - 10:43:03: World triggered "Round_Start"
+L 04/05/2015 - 10:43:03: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "18") (damage_armor "5") (health "82") (armor "95")
+L 04/05/2015 - 10:43:03: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/05/2015 - 10:43:03: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "64") (armor "91")
+L 04/05/2015 - 10:43:03: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 04/05/2015 - 10:43:05: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "53") (armor "89")
+L 04/05/2015 - 10:43:05: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "32") (armor "89")
+L 04/05/2015 - 10:43:06: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "11") (armor "89")
+L 04/05/2015 - 10:43:06: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-10") (armor "89")
+L 04/05/2015 - 10:43:06: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1"
+L 04/05/2015 - 10:43:08: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:43:08: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:43:08: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "21") (armor "0")
+L 04/05/2015 - 10:43:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "0") (armor "0")
+L 04/05/2015 - 10:43:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:43:10: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/05/2015 - 10:43:11: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 10:43:11: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "32") (damage_armor "4") (health "32") (armor "87")
+L 04/05/2015 - 10:43:13: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "6") (armor "83")
+L 04/05/2015 - 10:43:14: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "26") (damage_armor "4") (health "-20") (armor "79")
+L 04/05/2015 - 10:43:14: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "ak47"
+L 04/05/2015 - 10:43:17: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "4") (armor "0")
+L 04/05/2015 - 10:43:17: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-17") (armor "0")
+L 04/05/2015 - 10:43:17: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:43:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "4")
+L 04/05/2015 - 10:43:17: World triggered "Round_End"
+L 04/05/2015 - 10:43:27: World triggered "Round_Start"
+L 04/05/2015 - 10:43:28: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:43:29: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/05/2015 - 10:43:29: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "3") (health "74") (armor "97")
+L 04/05/2015 - 10:43:29: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "2") (health "60") (armor "95")
+L 04/05/2015 - 10:43:29: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "11") (damage_armor "2") (health "49") (armor "93")
+L 04/05/2015 - 10:43:29: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "11") (damage_armor "2") (health "38") (armor "91")
+L 04/05/2015 - 10:43:29: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "49") (armor "0")
+L 04/05/2015 - 10:43:32: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "19") (armor "0")
+L 04/05/2015 - 10:43:32: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-3") (armor "0")
+L 04/05/2015 - 10:43:32: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:43:36: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 10:43:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout" (damage "238") (damage_armor "21") (health "-138") (armor "79")
+L 04/05/2015 - 10:43:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout"
+L 04/05/2015 - 10:43:41: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 10:43:42: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "scout" (damage "74") (damage_armor "0") (health "26") (armor "0")
+L 04/05/2015 - 10:43:42: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "41") (armor "0")
+L 04/05/2015 - 10:43:43: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "7") (armor "0")
+L 04/05/2015 - 10:43:43: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-27") (armor "0")
+L 04/05/2015 - 10:43:43: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47"
+L 04/05/2015 - 10:43:44: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "37") (armor "0")
+L 04/05/2015 - 10:43:44: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "knife" (damage "65") (damage_armor "0") (health "-39") (armor "0")
+L 04/05/2015 - 10:43:44: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "knife"
+L 04/05/2015 - 10:43:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "5")
+L 04/05/2015 - 10:43:44: World triggered "Round_End"
+L 04/05/2015 - 10:43:54: World triggered "Round_Start"
+L 04/05/2015 - 10:43:58: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout" (damage "119") (damage_armor "10") (health "-21") (armor "88")
+L 04/05/2015 - 10:43:58: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout"
+L 04/05/2015 - 10:44:02: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 04/05/2015 - 10:44:02: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "43") (damage_armor "0") (health "14") (armor "0")
+L 04/05/2015 - 10:44:02: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "64") (damage_armor "0") (health "-50") (armor "0")
+L 04/05/2015 - 10:44:02: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47"
+L 04/05/2015 - 10:44:03: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/05/2015 - 10:44:03: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "73") (armor "0")
+L 04/05/2015 - 10:44:03: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 10:44:03: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "39") (armor "0")
+L 04/05/2015 - 10:44:04: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "8") (armor "0")
+L 04/05/2015 - 10:44:04: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 04/05/2015 - 10:44:04: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "26") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 10:44:04: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-4") (armor "0")
+L 04/05/2015 - 10:44:04: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47"
+L 04/05/2015 - 10:44:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "6")
+L 04/05/2015 - 10:44:04: World triggered "Round_End"
+L 04/05/2015 - 10:44:14: World triggered "Round_Start"
+L 04/05/2015 - 10:44:15: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 10:44:15: "T.N.L. Leks<29><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:6297"
+L 04/05/2015 - 10:44:15: [VTC] Player 3 speex
+L 04/05/2015 - 10:44:17: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/05/2015 - 10:44:17: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 04/05/2015 - 10:44:20: "T.N.L. Leks<29><STEAM_0:4:2079542533><>" entered the game
+L 04/05/2015 - 10:44:22: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "2") (health "48") (armor "89")
+L 04/05/2015 - 10:44:22: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "3") (health "34") (armor "86")
+L 04/05/2015 - 10:44:22: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "2") (health "20") (armor "84")
+L 04/05/2015 - 10:44:22: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "2") (health "6") (armor "82")
+L 04/05/2015 - 10:44:23: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90" (damage "14") (damage_armor "3") (health "-8") (armor "79")
+L 04/05/2015 - 10:44:23: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "p90"
+L 04/05/2015 - 10:44:23: "T.N.L. Leks<29><STEAM_0:4:2079542533><>" joined team "TERRORIST"
+L 04/05/2015 - 10:44:23: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 04/05/2015 - 10:44:23: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 04/05/2015 - 10:44:24: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 04/05/2015 - 10:44:24: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "20") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 10:44:24: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 04/05/2015 - 10:44:24: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "20") (damage_armor "0") (health "20") (armor "0")
+L 04/05/2015 - 10:44:24: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "p90" (damage "20") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 10:44:24: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "20") (damage_armor "0") (health "0") (armor "0")
+L 04/05/2015 - 10:44:24: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90"
+L 04/05/2015 - 10:44:24: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 10:44:25: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/05/2015 - 10:44:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 10:44:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "79") (armor "94")
+L 04/05/2015 - 10:44:25: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/05/2015 - 10:44:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 04/05/2015 - 10:44:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:44:27: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:44:27: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 04/05/2015 - 10:44:27: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:44:27: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "59") (armor "89")
+L 04/05/2015 - 10:44:27: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "81") (damage_armor "17") (health "-22") (armor "72")
+L 04/05/2015 - 10:44:27: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1"
+L 04/05/2015 - 10:44:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "7")
+L 04/05/2015 - 10:44:27: World triggered "Round_End"
+L 04/05/2015 - 10:44:37: World triggered "Round_Start"
+L 04/05/2015 - 10:44:38: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "p90" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 10:44:38: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "p90" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 10:44:38: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "p90" (damage "56") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 10:44:38: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "p90" (damage "10") (damage_armor "0") (health "6") (armor "0")
+L 04/05/2015 - 10:44:38: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "p90" (damage "10") (damage_armor "0") (health "-4") (armor "0")
+L 04/05/2015 - 10:44:38: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "p90"
+L 04/05/2015 - 10:44:39: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout" (damage "59") (damage_armor "6") (health "41") (armor "94")
+L 04/05/2015 - 10:44:44: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m249" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 10:44:45: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m249" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/05/2015 - 10:44:45: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m249" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/05/2015 - 10:44:45: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m249" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 04/05/2015 - 10:44:45: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m249"
+L 04/05/2015 - 10:44:45: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m3" (damage "33") (damage_armor "0") (health "8") (armor "94")
+L 04/05/2015 - 10:44:45: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "scout" (damage "90") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 10:44:47: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m3" (damage "8") (damage_armor "4") (health "0") (armor "90")
+L 04/05/2015 - 10:44:47: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m3"
+L 04/05/2015 - 10:44:47: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90" (damage "14") (damage_armor "0") (health "-4") (armor "0")
+L 04/05/2015 - 10:44:47: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "p90"
+L 04/05/2015 - 10:44:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "8")
+L 04/05/2015 - 10:44:47: World triggered "Round_End"
+L 04/05/2015 - 10:44:57: World triggered "Round_Start"
+L 04/05/2015 - 10:44:57: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 10:44:57: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:44:57: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "21") (armor "0")
+L 04/05/2015 - 10:44:58: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 10:44:58: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "13") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 10:45:00: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 04/05/2015 - 10:45:00: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/05/2015 - 10:45:00: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "26") (damage_armor "5") (health "66") (armor "90")
+L 04/05/2015 - 10:45:00: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 10:45:00: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "9") (armor "0")
+L 04/05/2015 - 10:45:00: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "94")
+L 04/05/2015 - 10:45:01: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-20") (armor "0")
+L 04/05/2015 - 10:45:01: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "m4a1"
+L 04/05/2015 - 10:45:03: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "28") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 10:45:03: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:45:05: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m249" (damage "22") (damage_armor "4") (health "44") (armor "86")
+L 04/05/2015 - 10:45:05: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m249" (damage "22") (damage_armor "4") (health "22") (armor "82")
+L 04/05/2015 - 10:45:05: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 10:45:05: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m249" (damage "22") (damage_armor "4") (health "0") (armor "78")
+L 04/05/2015 - 10:45:05: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m249"
+L 04/05/2015 - 10:45:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "9")
+L 04/05/2015 - 10:45:05: World triggered "Round_End"
+L 04/05/2015 - 10:45:15: World triggered "Round_Start"
+L 04/05/2015 - 10:45:15: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "41") (damage_armor "0") (health "59") (armor "0")
+L 04/05/2015 - 10:45:15: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "41") (damage_armor "0") (health "18") (armor "0")
+L 04/05/2015 - 10:45:15: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47" (damage "33") (damage_armor "0") (health "-15") (armor "0")
+L 04/05/2015 - 10:45:15: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" with "ak47"
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "scout") (shots "9") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "192") (deaths "0")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "scout") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "m249") (shots "9") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "23") (deaths "0")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "m4a1") (shots "68") (hits "13") (kills "3") (headshots "2") (tks "0") (damage "556") (deaths "7")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "1") (stomach "2") (leftarm "6") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "ak47") (shots "30") (hits "8") (kills "2") (headshots "1") (tks "0") (damage "357") (deaths "5")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "1") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "2") (rightleg "0")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "p90") (shots "10") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "33") (deaths "2")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "p90") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "time" (time "8:19")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" triggered "latency" (ping "39")
+L 04/05/2015 - 10:45:16: "Mr.DJaGerNayT228<22><STEAM_0:4:1099418757><CT>" disconnected
+L 04/05/2015 - 10:45:16: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/05/2015 - 10:45:17: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "28") (damage_armor "0") (health "37") (armor "0")
+L 04/05/2015 - 10:45:17: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "24") (damage_armor "6") (health "76") (armor "94")
+L 04/05/2015 - 10:45:17: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "35") (damage_armor "0") (health "2") (armor "0")
+L 04/05/2015 - 10:45:18: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-19") (armor "0")
+L 04/05/2015 - 10:45:18: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:45:19: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "39") (armor "0")
+L 04/05/2015 - 10:45:21: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "55") (armor "90")
+L 04/05/2015 - 10:45:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "25") (damage_armor "0") (health "30") (armor "90")
+L 04/05/2015 - 10:45:22: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/05/2015 - 10:45:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "25") (damage_armor "0") (health "5") (armor "90")
+L 04/05/2015 - 10:45:22: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/05/2015 - 10:45:22: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" with "ak47" (damage "18") (damage_armor "0") (health "57") (armor "100")
+L 04/05/2015 - 10:45:22: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-16") (armor "90")
+L 04/05/2015 - 10:45:22: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1"
+L 04/05/2015 - 10:45:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "10")
+L 04/05/2015 - 10:45:22: World triggered "Round_End"
+L 04/05/2015 - 10:45:32: World triggered "Round_Start"
+L 04/05/2015 - 10:45:36: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 10:45:36: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 10:45:36: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "58") (armor "0")
+L 04/05/2015 - 10:45:37: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "35") (damage_armor "0") (health "23") (armor "0")
+L 04/05/2015 - 10:45:38: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "80") (armor "100")
+L 04/05/2015 - 10:45:38: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-8") (armor "0")
+L 04/05/2015 - 10:45:38: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:45:39: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/05/2015 - 10:45:39: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "23") (damage_armor "3") (health "57") (armor "92")
+L 04/05/2015 - 10:45:40: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "36") (armor "87")
+L 04/05/2015 - 10:45:41: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "15") (armor "82")
+L 04/05/2015 - 10:45:41: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1" (damage "20") (damage_armor "4") (health "-5") (armor "78")
+L 04/05/2015 - 10:45:41: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "m4a1"
+L 04/05/2015 - 10:45:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "11")
+L 04/05/2015 - 10:45:41: World triggered "Round_End"
+L 04/05/2015 - 10:45:46: "T.N.L. Leks<29><STEAM_0:4:2079542533><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 10:45:51: World triggered "Round_Start"
+L 04/05/2015 - 10:45:54: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/05/2015 - 10:45:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 10:45:54: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "59") (armor "95")
+L 04/05/2015 - 10:45:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 10:45:55: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "38") (armor "95")
+L 04/05/2015 - 10:45:55: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "17") (armor "95")
+L 04/05/2015 - 10:45:55: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "-3") (armor "91")
+L 04/05/2015 - 10:45:55: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:45:56: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "scout" (damage "59") (damage_armor "6") (health "41") (armor "94")
+L 04/05/2015 - 10:45:56: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 10:45:56: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "37") (armor "0")
+L 04/05/2015 - 10:45:58: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "9") (armor "0")
+L 04/05/2015 - 10:45:59: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 10:45:59: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:45:59: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/05/2015 - 10:45:59: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/05/2015 - 10:45:59: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 10:46:00: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-14") (armor "0")
+L 04/05/2015 - 10:46:00: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:46:00: Team "CT" triggered "CTs_Win" (CT "11") (T "11")
+L 04/05/2015 - 10:46:00: World triggered "Round_End"
+L 04/05/2015 - 10:46:10: World triggered "Round_Start"
+L 04/05/2015 - 10:46:14: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:46:14: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "12") (armor "0")
+L 04/05/2015 - 10:46:15: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/05/2015 - 10:46:15: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-19") (armor "0")
+L 04/05/2015 - 10:46:15: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" killed "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:46:15: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "ak47" (damage "32") (damage_armor "5") (health "45") (armor "95")
+L 04/05/2015 - 10:46:15: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "ak47" (damage "26") (damage_armor "4") (health "19") (armor "91")
+L 04/05/2015 - 10:46:16: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-7") (armor "87")
+L 04/05/2015 - 10:46:16: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "ak47"
+L 04/05/2015 - 10:46:17: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "33") (damage_armor "5") (health "67") (armor "95")
+L 04/05/2015 - 10:46:17: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-41") (armor "79")
+L 04/05/2015 - 10:46:17: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "ak47"
+L 04/05/2015 - 10:46:19: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 10:46:19: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "37") (armor "0")
+L 04/05/2015 - 10:46:19: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "5") (armor "0")
+L 04/05/2015 - 10:46:19: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-27") (armor "0")
+L 04/05/2015 - 10:46:19: "Novi4ek<12><STEAM_0:4:1906504192><CT>" killed "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats" (weapon "scout") (shots "7") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "208") (deaths "1")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats2" (weapon "scout") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "4") (kills "3") (headshots "0") (tks "0") (damage "361") (deaths "3")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "7") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "66") (deaths "0")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "2") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "188") (hits "36") (kills "7") (headshots "1") (tks "0") (damage "1048") (deaths "5")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "4") (chest "3") (stomach "4") (leftarm "14") (rightarm "5") (leftleg "2") (rightleg "4")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "46") (hits "9") (kills "3") (headshots "2") (tks "0") (damage "437") (deaths "2")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "2") (stomach "2") (leftarm "0") (rightarm "1") (leftleg "2") (rightleg "0")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats" (weapon "p90") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "weaponstats2" (weapon "p90") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "time" (time "9:28")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" triggered "latency" (ping "82")
+L 04/05/2015 - 10:46:22: "Veronika love you<21><STEAM_0:0:6919603><TERRORIST>" disconnected
+L 04/05/2015 - 10:46:26: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/05/2015 - 10:46:35: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/05/2015 - 10:46:35: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 04/05/2015 - 10:46:35: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "25") (damage_armor "0") (health "49") (armor "96")
+L 04/05/2015 - 10:46:35: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "24") (damage_armor "5") (health "38") (armor "86")
+L 04/05/2015 - 10:46:35: "Novi4ek<12><STEAM_0:4:1906504192><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "19") (armor "82")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "scout") (shots "14") (hits "4") (kills "2") (headshots "2") (tks "0") (damage "490") (deaths "3")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "scout") (head "2") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "18") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "128") (deaths "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "3") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "m3") (shots "2") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "41") (deaths "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "267") (hits "37") (kills "7") (headshots "1") (tks "0") (damage "1007") (deaths "8")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "1") (stomach "11") (leftarm "8") (rightarm "1") (leftleg "7") (rightleg "8")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "65") (hits "16") (kills "3") (headshots "0") (tks "0") (damage "459") (deaths "4")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "3") (leftarm "4") (rightarm "0") (leftleg "3") (rightleg "5")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "p90") (shots "52") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "129") (deaths "1")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "p90") (head "0") (chest "1") (stomach "0") (leftarm "5") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "time" (time "9:47")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" triggered "latency" (ping "79")
+L 04/05/2015 - 10:46:37: "A State of Transe<14><STEAM_0:4:1038161258><TERRORIST>" disconnected
+L 04/05/2015 - 10:47:08: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "32") (damage_armor "5") (health "6") (armor "85")
+L 04/05/2015 - 10:47:08: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-19") (armor "85")
+L 04/05/2015 - 10:47:08: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "Novi4ek<12><STEAM_0:4:1906504192><CT>" with "ak47"
+L 04/05/2015 - 10:47:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "12")
+L 04/05/2015 - 10:47:08: World triggered "Round_End"
+L 04/05/2015 - 10:47:11: "Novi4ek<12><STEAM_0:4:1906504192><CT>" joined team "TERRORIST"
+L 04/05/2015 - 10:47:18: World triggered "Round_Start"
+L 04/05/2015 - 10:47:24: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 04/05/2015 - 10:47:24: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "47") (armor "88")
+L 04/05/2015 - 10:47:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "24") (armor "88")
+L 04/05/2015 - 10:47:25: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "deagle" (damage "30") (damage_armor "0") (health "2") (armor "0")
+L 04/05/2015 - 10:47:26: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "3") (armor "83")
+L 04/05/2015 - 10:47:26: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "-18") (armor "79")
+L 04/05/2015 - 10:47:26: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" killed "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:47:34: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/05/2015 - 10:47:34: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-28") (armor "0")
+L 04/05/2015 - 10:47:34: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" killed "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1"
+L 04/05/2015 - 10:47:40: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 04/05/2015 - 10:47:40: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:47:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "13")
+L 04/05/2015 - 10:47:40: World triggered "Round_End"
+L 04/05/2015 - 10:47:50: World triggered "Round_Start"
+L 04/05/2015 - 10:47:53: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "9") (damage_armor "5") (health "91") (armor "95")
+L 04/05/2015 - 10:47:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 10:47:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 10:47:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "29") (armor "0")
+L 04/05/2015 - 10:47:54: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "13") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 10:47:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-13") (armor "0")
+L 04/05/2015 - 10:47:54: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1"
+L 04/05/2015 - 10:47:58: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/05/2015 - 10:47:58: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 10:47:58: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 04/05/2015 - 10:47:58: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "4") (armor "0")
+L 04/05/2015 - 10:47:58: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 10:47:58: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:47:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "14")
+L 04/05/2015 - 10:47:58: World triggered "Round_End"
+L 04/05/2015 - 10:48:08: World triggered "Round_Start"
+L 04/05/2015 - 10:48:15: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 10:48:15: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "76") (armor "0")
+L 04/05/2015 - 10:48:15: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 10:48:21: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "100")
+L 04/05/2015 - 10:48:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "54") (armor "100")
+L 04/05/2015 - 10:48:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "32") (armor "95")
+L 04/05/2015 - 10:48:25: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "22") (damage_armor "5") (health "10") (armor "90")
+L 04/05/2015 - 10:48:25: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 10:48:25: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "12") (armor "0")
+L 04/05/2015 - 10:48:25: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "40") (damage_armor "0") (health "-28") (armor "0")
+L 04/05/2015 - 10:48:25: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1"
+L 04/05/2015 - 10:48:28: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "47") (armor "0")
+L 04/05/2015 - 10:48:28: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "35") (damage_armor "0") (health "12") (armor "0")
+L 04/05/2015 - 10:48:29: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-108") (armor "0")
+L 04/05/2015 - 10:48:29: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:48:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "15")
+L 04/05/2015 - 10:48:29: World triggered "Round_End"
+L 04/05/2015 - 10:48:39: World triggered "Round_Start"
+L 04/05/2015 - 10:48:40: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/05/2015 - 10:48:40: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "25") (damage_armor "6") (health "75") (armor "94")
+L 04/05/2015 - 10:48:40: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "54") (armor "94")
+L 04/05/2015 - 10:48:40: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "33") (armor "94")
+L 04/05/2015 - 10:48:40: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "12") (armor "94")
+L 04/05/2015 - 10:48:40: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-9") (armor "94")
+L 04/05/2015 - 10:48:40: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" killed "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" with "m4a1"
+L 04/05/2015 - 10:48:49: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "35") (damage_armor "0") (health "36") (armor "0")
+L 04/05/2015 - 10:48:49: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "15") (armor "0")
+L 04/05/2015 - 10:48:53: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/05/2015 - 10:48:53: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 04/05/2015 - 10:48:53: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "40") (armor "86")
+L 04/05/2015 - 10:48:53: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-14") (armor "0")
+L 04/05/2015 - 10:48:53: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" killed "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" with "m4a1"
+L 04/05/2015 - 10:48:56: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 04/05/2015 - 10:48:56: Server cvar "mp_timelimit" = "0.000000"
+L 04/05/2015 - 10:48:56: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/05/2015 - 10:48:56: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" attacked "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 10:48:57: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "27") (armor "80")
+L 04/05/2015 - 10:48:57: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "16") (damage_armor "9") (health "11") (armor "71")
+L 04/05/2015 - 10:48:58: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" attacked "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "-9") (armor "71")
+L 04/05/2015 - 10:48:58: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" killed "Extazy<2><STEAM_0:1:113150434><TERRORIST>" with "usp"
+L 04/05/2015 - 10:48:58: Team "CT" triggered "CTs_Win" (CT "12") (T "15")
+L 04/05/2015 - 10:48:58: World triggered "Round_End"
+L 04/05/2015 - 10:49:08: Server cvar "mp_timelimit" = "0.010000"
+L 04/05/2015 - 10:49:08: World triggered "Round_Start"
+L 04/05/2015 - 10:49:08: Team "CT" scored "12" with "2" players
+L 04/05/2015 - 10:49:08: Team "TERRORIST" scored "15" with "2" players
+L 04/05/2015 - 10:49:08: Server cvar "mp_chattime" = "3"
+L 04/05/2015 - 10:49:09: Server cvar "mp_chattime" = "1"
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "10") (hits "8") (kills "0") (headshots "0") (tks "0") (damage "215") (deaths "0")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "121") (hits "27") (kills "7") (headshots "1") (tks "0") (damage "807") (deaths "0")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "2") (stomach "4") (leftarm "9") (rightarm "2") (leftleg "9") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "30") (deaths "3")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "104") (hits "18") (kills "5") (headshots "1") (tks "0") (damage "637") (deaths "3")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "2") (stomach "7") (leftarm "4") (rightarm "1") (leftleg "2") (rightleg "1")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats" (weapon "p90") (shots "18") (hits "6") (kills "2") (headshots "0") (tks "0") (damage "118") (deaths "0")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "weaponstats2" (weapon "p90") (head "1") (chest "2") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "1")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "time" (time "12:19")
+L 04/05/2015 - 10:49:09: "Extazy<2><STEAM_0:1:113150434><TERRORIST>" triggered "latency" (ping "14")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "scout") (shots "2") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "284") (deaths "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "scout") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "101") (deaths "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "usp") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "20") (deaths "1")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "m249") (shots "24") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "124") (deaths "1")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "2") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "m4a1") (shots "252") (hits "37") (kills "4") (headshots "0") (tks "0") (damage "875") (deaths "14")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "2") (stomach "4") (leftarm "12") (rightarm "4") (leftleg "7") (rightleg "8")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "ak47") (shots "37") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "84") (deaths "3")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats" (weapon "p90") (shots "93") (hits "21") (kills "3") (headshots "0") (tks "0") (damage "335") (deaths "3")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "weaponstats2" (weapon "p90") (head "0") (chest "8") (stomach "4") (leftarm "7") (rightarm "0") (leftleg "2") (rightleg "0")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "time" (time "12:20")
+L 04/05/2015 - 10:49:09: "|Xyligans|kpy}I{ka<17><STEAM_0:4:1659129093><CT>" triggered "latency" (ping "35")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "scout") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "scout") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "4") (deaths "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "usp") (shots "15") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "58") (deaths "1")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "m4a1") (shots "171") (hits "30") (kills "8") (headshots "2") (tks "0") (damage "868") (deaths "4")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "2") (stomach "6") (leftarm "12") (rightarm "1") (leftleg "3") (rightleg "4")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "ak47") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "time" (time "4:49")
+L 04/05/2015 - 10:49:09: "T.N.L. Leks<29><STEAM_0:4:2079542533><CT>" triggered "latency" (ping "56")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats" (weapon "scout") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats2" (weapon "scout") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "15") (hits "11") (kills "2") (headshots "0") (tks "0") (damage "411") (deaths "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "565") (hits "74") (kills "19") (headshots "6") (tks "0") (damage "2376") (deaths "10")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "7") (chest "13") (stomach "10") (leftarm "22") (rightarm "9") (leftleg "3") (rightleg "10")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "19") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "202") (deaths "2")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "3")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "time" (time "12:18")
+L 04/05/2015 - 10:49:09: "Novi4ek<12><STEAM_0:4:1906504192><TERRORIST>" triggered "latency" (ping "82")
+L 04/05/2015 - 10:49:09: Server cvar "mp_timelimit" = "30.000000"
+L 04/05/2015 - 10:49:09: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/05/2015 - 10:49:09: [META] ini: Read plugin config for: AMX Mod X
+L 04/05/2015 - 10:49:09: [META] ini: Read plugin config for: dproto_EF
+L 04/05/2015 - 10:49:09: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/05/2015 - 10:49:09: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/05/2015 - 10:49:09: [META] dll: Updating plugins...
+L 04/05/2015 - 10:49:09: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/05/2015 - 10:49:09: Log file closed

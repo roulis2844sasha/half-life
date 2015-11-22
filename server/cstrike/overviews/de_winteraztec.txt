@@ -1,0 +1,14 @@
+// overview description file for de_winteraztec.bsp
+
+global 
+{
+	ZOOM	1.13
+	ORIGIN	736 152 80
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_winteraztec.bmp"
+	HEIGHT	80
+}

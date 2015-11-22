@@ -1,0 +1,14 @@
+// overview description file for de_ngl_breakpoint by mcc
+
+global 
+{
+	ZOOM	1.70
+	ORIGIN	354.09	-1252.92	296
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_ngl_breakpoint_b1.bmp"
+	HEIGHT	-16
+}

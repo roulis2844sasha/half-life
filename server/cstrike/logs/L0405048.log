@@ -1,0 +1,1348 @@
+L 04/05/2015 - 14:39:31: Log file started (file "logs/L0405048.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/05/2015 - 14:39:31: Loading map "he_tennis"
+L 04/05/2015 - 14:39:31: Server cvars start
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_debug_level" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_examine_time" = "0.5"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_look_angle" = "10"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_look_distance" = "200"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_message_repeats" = "5"
+L 04/05/2015 - 14:39:31: Server cvar "_tutor_view_distance" = "1000"
+L 04/05/2015 - 14:39:31: Server cvar "aesp_version" = "1.5b_mini"
+L 04/05/2015 - 14:39:31: Server cvar "allow_spectators" = "4"
+L 04/05/2015 - 14:39:31: Server cvar "amx_client_languages" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/05/2015 - 14:39:31: Server cvar "amx_language" = "ru"
+L 04/05/2015 - 14:39:31: Server cvar "amx_nextmap" = "he_tennis"
+L 04/05/2015 - 14:39:31: Server cvar "amx_timeleft" = "00:00"
+L 04/05/2015 - 14:39:31: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/05/2015 - 14:39:31: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/05/2015 - 14:39:31: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Config" = "Loaded"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Replace" = "Failed"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Status" = "Loaded"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/05/2015 - 14:39:31: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/05/2015 - 14:39:31: Server cvar "coop" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "deathmatch" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "decalfrequency" = "9"
+L 04/05/2015 - 14:39:31: Server cvar "dp_version" = "0.9.391"
+L 04/05/2015 - 14:39:31: Server cvar "edgefriction" = "2"
+L 04/05/2015 - 14:39:31: Server cvar "hostage_debug" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "hostage_stop" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "humans_join_team" = "any"
+L 04/05/2015 - 14:39:31: Server cvar "jtp10181" = "chute,gore"
+L 04/05/2015 - 14:39:31: Server cvar "max_queries_sec" = "3.0"
+L 04/05/2015 - 14:39:31: Server cvar "max_queries_sec_global" = "30"
+L 04/05/2015 - 14:39:31: Server cvar "max_queries_window" = "60"
+L 04/05/2015 - 14:39:31: Server cvar "metamod_version" = "1.19"
+L 04/05/2015 - 14:39:31: Server cvar "mp_allowmonsters" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_autokick" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_autoteambalance" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_buytime" = "1.5"
+L 04/05/2015 - 14:39:31: Server cvar "mp_c4timer" = "35"
+L 04/05/2015 - 14:39:31: Server cvar "mp_chattime" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_consistency" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_fadetoblack" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_flashlight" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_footsteps" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_forcecamera" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_forcechasecam" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_fragsleft" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_freezetime" = "5"
+L 04/05/2015 - 14:39:31: Server cvar "mp_friendlyfire" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_hostagepenalty" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_kickpercent" = "0.66"
+L 04/05/2015 - 14:39:31: Server cvar "mp_limitteams" = "5"
+L 04/05/2015 - 14:39:31: Server cvar "mp_logdetail" = "3"
+L 04/05/2015 - 14:39:31: Server cvar "mp_logfile" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_logmessages" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/05/2015 - 14:39:31: Server cvar "mp_maxrounds" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_mirrordamage" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_playerid" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_roundtime" = "2.57"
+L 04/05/2015 - 14:39:31: Server cvar "mp_startmoney" = "800"
+L 04/05/2015 - 14:39:31: Server cvar "mp_timeleft" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "mp_timelimit" = "30.000000"
+L 04/05/2015 - 14:39:31: Server cvar "mp_tkpunish" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_windifference" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "mp_winlimit" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "pausable" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_accelerate" = "5"
+L 04/05/2015 - 14:39:31: Server cvar "sv_aim" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_airaccelerate" = "10"
+L 04/05/2015 - 14:39:31: Server cvar "sv_airmove" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "sv_allowupload" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "sv_alltalk" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_bounce" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "sv_cheats" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_clienttrace" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "sv_clipmode" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_contact" = ""
+L 04/05/2015 - 14:39:31: Server cvar "sv_friction" = "4"
+L 04/05/2015 - 14:39:31: Server cvar "sv_gravity" = "800"
+L 04/05/2015 - 14:39:31: Server cvar "sv_logblocks" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_maxrate" = "25000"
+L 04/05/2015 - 14:39:31: Server cvar "sv_maxspeed" = "900"
+L 04/05/2015 - 14:39:31: Server cvar "sv_minrate" = "100000"
+L 04/05/2015 - 14:39:31: Server cvar "sv_password" = ""
+L 04/05/2015 - 14:39:31: Server cvar "sv_proxies" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_region" = "3"
+L 04/05/2015 - 14:39:31: Server cvar "sv_restart" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_restartround" = "0"
+L 04/05/2015 - 14:39:31: Server cvar "sv_stepsize" = "18"
+L 04/05/2015 - 14:39:31: Server cvar "sv_stopspeed" = "75"
+L 04/05/2015 - 14:39:31: Server cvar "sv_uploadmax" = "0.5"
+L 04/05/2015 - 14:39:31: Server cvar "sv_voiceenable" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "sv_wateraccelerate" = "10"
+L 04/05/2015 - 14:39:31: Server cvar "sv_waterfriction" = "1"
+L 04/05/2015 - 14:39:31: Server cvar "travo_statmarquee" = "v1.2"
+L 04/05/2015 - 14:39:31: Server cvar "vtc_version" = "80"
+L 04/05/2015 - 14:39:31: Server cvar "wallblocker_version" = "1.0"
+L 04/05/2015 - 14:39:31: Server cvars end
+L 04/05/2015 - 14:39:31: Server cvar "amx_nextmap" = "fy_snow"
+L 04/05/2015 - 14:39:31: Server cvar "sv_restart" = "1"
+L 04/05/2015 - 14:39:31: World triggered "Restart_Round_(1_second)"
+L 04/05/2015 - 14:39:31: Team "CT" scored "0" with "0" players
+L 04/05/2015 - 14:39:31: Team "TERRORIST" scored "0" with "0" players
+L 04/05/2015 - 14:39:31: Server cvar "sv_restart" = "0"
+L 04/05/2015 - 14:39:31: Started map "he_tennis" (CRC "981402838")
+L 04/05/2015 - 14:39:32: [VTC] Player 5 speex
+L 04/05/2015 - 14:39:32: [VTC] Player 2 speex
+L 04/05/2015 - 14:39:32: [VTC] Player 1 speex
+L 04/05/2015 - 14:39:32: [VTC] Player 3 speex
+L 04/05/2015 - 14:39:32: [VTC] Player 7 speex
+L 04/05/2015 - 14:39:33: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a2f08
+L 04/05/2015 - 14:39:33: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><>" connected, address "178.123.83.42:27005"
+L 04/05/2015 - 14:39:33: [VTC] Player 1 speex
+L 04/05/2015 - 14:39:34: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><>" entered the game
+L 04/05/2015 - 14:39:34: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 14:39:34: "T.N.L. Leks<279><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:22765"
+L 04/05/2015 - 14:39:34: [VTC] Player 3 speex
+L 04/05/2015 - 14:39:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><>" entered the game
+L 04/05/2015 - 14:39:36: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><>" entered the game
+L 04/05/2015 - 14:39:36: "T.N.L. N!keL<276><STEAM_0:4:1029491717><>" joined team "CT"
+L 04/05/2015 - 14:39:37: World triggered "Round_Start"
+L 04/05/2015 - 14:39:37: "masha<266><STEAM_0:4:278716253><>" entered the game
+L 04/05/2015 - 14:39:38: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><>" joined team "TERRORIST"
+L 04/05/2015 - 14:39:38: World triggered "Game_Commencing"
+L 04/05/2015 - 14:39:38: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/05/2015 - 14:39:38: World triggered "Round_End"
+L 04/05/2015 - 14:39:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><>" entered the game
+L 04/05/2015 - 14:39:40: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><>" joined team "CT"
+L 04/05/2015 - 14:39:41: "masha<266><STEAM_0:4:278716253><>" joined team "TERRORIST"
+L 04/05/2015 - 14:39:42: "T.N.L. Leks<279><STEAM_0:4:2079542533><>" joined team "CT"
+L 04/05/2015 - 14:39:45: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bb9cc
+L 04/05/2015 - 14:39:45: "dima piy piy<280><STEAM_0:4:1040456270><>" connected, address "37.214.84.213:63011"
+L 04/05/2015 - 14:39:45: [VTC] Player 6 speex
+L 04/05/2015 - 14:39:46: World triggered "Round_Start"
+L 04/05/2015 - 14:39:46: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle" (damage "72") (damage_armor "0") (health "28") (armor "0")
+L 04/05/2015 - 14:39:47: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bb9cc
+L 04/05/2015 - 14:39:47: "dima piy piy<281><STEAM_0:4:1040456270><>" connected, address "37.214.84.213:63011"
+L 04/05/2015 - 14:39:47: [VTC] Player 6 speex
+L 04/05/2015 - 14:39:51: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:39:56: "dima piy piy<281><STEAM_0:4:1040456270><>" entered the game
+L 04/05/2015 - 14:40:03: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:40:03: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/05/2015 - 14:40:03: World triggered "Round_End"
+L 04/05/2015 - 14:40:07: "dima piy piy<281><STEAM_0:4:1040456270><>" joined team "SPECTATOR"
+L 04/05/2015 - 14:40:13: World triggered "Round_Start"
+L 04/05/2015 - 14:40:13: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 14:40:13: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 14:40:13: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 14:40:13: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:40:17: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "deagle" (damage "21") (damage_armor "0") (health "-8") (armor "0")
+L 04/05/2015 - 14:40:17: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "deagle"
+L 04/05/2015 - 14:40:17: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/05/2015 - 14:40:17: World triggered "Round_End"
+L 04/05/2015 - 14:40:27: World triggered "Round_Start"
+L 04/05/2015 - 14:40:27: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "deagle" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 04/05/2015 - 14:40:28: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "deagle" (damage "19") (damage_armor "0") (health "5") (armor "0")
+L 04/05/2015 - 14:40:28: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-51") (armor "0")
+L 04/05/2015 - 14:40:28: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:40:29: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 14:40:29: "*MaLiK*<282><STEAM_0:4:1424005710><>" connected, address "37.214.157.0:31237"
+L 04/05/2015 - 14:40:29: [VTC] Player 4 speex
+L 04/05/2015 - 14:40:31: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 14:40:31: "*MaLiK*<283><STEAM_0:4:1424005710><>" connected, address "37.214.157.0:31237"
+L 04/05/2015 - 14:40:32: [VTC] Player 4 speex
+L 04/05/2015 - 14:40:36: "*MaLiK*<283><STEAM_0:4:1424005710><>" entered the game
+L 04/05/2015 - 14:40:38: "*MaLiK*<283><STEAM_0:4:1424005710><>" joined team "CT"
+L 04/05/2015 - 14:40:40: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:40:40: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/05/2015 - 14:40:40: World triggered "Round_End"
+L 04/05/2015 - 14:40:50: World triggered "Round_Start"
+L 04/05/2015 - 14:40:58: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "9") (damage_armor "0") (health "91") (armor "0")
+L 04/05/2015 - 14:40:58: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "galil" (damage "10") (damage_armor "2") (health "90") (armor "98")
+L 04/05/2015 - 14:40:59: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "13") (damage_armor "0") (health "78") (armor "0")
+L 04/05/2015 - 14:41:01: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "13") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 14:41:01: "dima piy piy<281><STEAM_0:4:1040456270><SPECTATOR>" joined team "TERRORIST"
+L 04/05/2015 - 14:41:03: "masha<266><STEAM_0:4:278716253><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "glock18" (damage "9") (damage_armor "0") (health "62") (armor "85")
+L 04/05/2015 - 14:41:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "deagle" (damage "15") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 14:41:10: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><CT>" with "galil" (damage "9") (damage_armor "0") (health "47") (armor "0")
+L 04/05/2015 - 14:41:11: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "galil" (damage "9") (damage_armor "0") (health "81") (armor "98")
+L 04/05/2015 - 14:41:11: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><CT>" with "galil" (damage "9") (damage_armor "0") (health "38") (armor "0")
+L 04/05/2015 - 14:41:11: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "galil" (damage "9") (damage_armor "0") (health "72") (armor "98")
+L 04/05/2015 - 14:41:12: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle" (damage "24") (damage_armor "0") (health "-17") (armor "0")
+L 04/05/2015 - 14:41:12: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle"
+L 04/05/2015 - 14:41:19: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:41:19: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 04/05/2015 - 14:41:19: World triggered "Round_End"
+L 04/05/2015 - 14:41:29: World triggered "Round_Start"
+L 04/05/2015 - 14:41:35: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/05/2015 - 14:41:35: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "galil" (damage "12") (damage_armor "2") (health "88") (armor "96")
+L 04/05/2015 - 14:41:35: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "galil" (damage "10") (damage_armor "1") (health "78") (armor "95")
+L 04/05/2015 - 14:41:35: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "14") (damage_armor "0") (health "76") (armor "0")
+L 04/05/2015 - 14:41:36: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m249" (damage "10") (damage_armor "0") (health "90") (armor "100")
+L 04/05/2015 - 14:41:36: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "56") (damage_armor "0") (health "20") (armor "0")
+L 04/05/2015 - 14:41:37: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m249" (damage "42") (damage_armor "7") (health "48") (armor "93")
+L 04/05/2015 - 14:41:37: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "14") (damage_armor "0") (health "6") (armor "0")
+L 04/05/2015 - 14:41:37: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "14") (damage_armor "0") (health "-8") (armor "0")
+L 04/05/2015 - 14:41:37: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249"
+L 04/05/2015 - 14:41:38: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m249" (damage "10") (damage_armor "2") (health "38") (armor "91")
+L 04/05/2015 - 14:41:38: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m249" (damage "10") (damage_armor "2") (health "28") (armor "89")
+L 04/05/2015 - 14:41:39: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m249" (damage "42") (damage_armor "7") (health "-14") (armor "82")
+L 04/05/2015 - 14:41:39: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m249"
+L 04/05/2015 - 14:41:43: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "m249" (damage "14") (damage_armor "0") (health "39") (armor "0")
+L 04/05/2015 - 14:41:48: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "sg550" (damage "61") (damage_armor "0") (health "-25") (armor "0")
+L 04/05/2015 - 14:41:48: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "sg550"
+L 04/05/2015 - 14:41:48: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 04/05/2015 - 14:41:48: World triggered "Round_End"
+L 04/05/2015 - 14:41:58: World triggered "Round_Start"
+L 04/05/2015 - 14:42:02: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "sg550" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/05/2015 - 14:42:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 14:42:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249" (damage "56") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 14:42:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m249"
+L 04/05/2015 - 14:42:21: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" killed "*MaLiK*<283><STEAM_0:4:1424005710><CT>" with "grenade"
+L 04/05/2015 - 14:42:23: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "76")
+L 04/05/2015 - 14:42:25: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "ak47" (damage "12") (damage_armor "2") (health "76") (armor "74")
+L 04/05/2015 - 14:42:25: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "ak47" (damage "12") (damage_armor "2") (health "64") (armor "72")
+L 04/05/2015 - 14:42:25: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "ak47" (damage "49") (damage_armor "7") (health "15") (armor "65")
+L 04/05/2015 - 14:42:30: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" killed "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "grenade"
+L 04/05/2015 - 14:42:30: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "m249" (damage "17") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 14:42:32: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:42:32: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" killed "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:42:32: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 04/05/2015 - 14:42:32: World triggered "Round_End"
+L 04/05/2015 - 14:42:42: World triggered "Round_Start"
+L 04/05/2015 - 14:42:43: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 14:42:49: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "68")
+L 04/05/2015 - 14:42:52: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "6") (armor "0")
+L 04/05/2015 - 14:42:52: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "-9") (armor "0")
+L 04/05/2015 - 14:42:52: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "masha<266><STEAM_0:4:278716253><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:42:55: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle" (damage "13") (damage_armor "2") (health "63") (armor "85")
+L 04/05/2015 - 14:42:57: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" killed "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "7") (hits "11") (kills "2") (headshots "0") (tks "0") (damage "165") (deaths "1")
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" triggered "time" (time "3:02")
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" triggered "latency" (ping "60")
+L 04/05/2015 - 14:42:59: "dima piy piy<281><STEAM_0:4:1040456270><TERRORIST>" disconnected
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "9") (hits "6") (kills "0") (headshots "0") (tks "0") (damage "102") (deaths "2")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "21") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "9") (deaths "4")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "time" (time "3:22")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" triggered "latency" (ping "71")
+L 04/05/2015 - 14:43:00: "masha<266><STEAM_0:4:278716253><TERRORIST>" disconnected
+L 04/05/2015 - 14:43:00: "*MaLiK*<283><STEAM_0:4:1424005710><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:43:00: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 04/05/2015 - 14:43:00: World triggered "Round_End"
+L 04/05/2015 - 14:43:10: World triggered "Round_Start"
+L 04/05/2015 - 14:43:18: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "10") (damage_armor "3") (health "90") (armor "97")
+L 04/05/2015 - 14:43:35: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "glock18" (damage "15") (damage_armor "0") (health "14") (armor "70")
+L 04/05/2015 - 14:43:35: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "glock18" (damage "11") (damage_armor "5") (health "3") (armor "65")
+L 04/05/2015 - 14:43:36: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "glock18" (damage "11") (damage_armor "5") (health "-8") (armor "60")
+L 04/05/2015 - 14:43:36: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" killed "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "glock18"
+L 04/05/2015 - 14:43:40: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "glock18" (damage "9") (damage_armor "0") (health "56") (armor "63")
+L 04/05/2015 - 14:43:43: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "glock18" (damage "7") (damage_armor "4") (health "49") (armor "59")
+L 04/05/2015 - 14:43:51: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle" (damage "17") (damage_armor "3") (health "-6") (armor "54")
+L 04/05/2015 - 14:43:51: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle"
+L 04/05/2015 - 14:43:51: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 04/05/2015 - 14:43:51: World triggered "Round_End"
+L 04/05/2015 - 14:43:56: "*MaLiK*<283><STEAM_0:4:1424005710><CT>" joined team "TERRORIST" (auto)
+L 04/05/2015 - 14:44:01: World triggered "Round_Start"
+L 04/05/2015 - 14:44:01: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "awp" (damage "55") (damage_armor "0") (health "45") (armor "0")
+L 04/05/2015 - 14:44:02: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 14:44:02: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "14") (armor "0")
+L 04/05/2015 - 14:44:03: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "-8") (armor "0")
+L 04/05/2015 - 14:44:03: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:44:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "deagle" (damage "76") (damage_armor "0") (health "-52") (armor "0")
+L 04/05/2015 - 14:44:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "deagle"
+L 04/05/2015 - 14:44:04: Team "CT" triggered "CTs_Win" (CT "9") (T "0")
+L 04/05/2015 - 14:44:04: World triggered "Round_End"
+L 04/05/2015 - 14:44:09: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" committed suicide with "world"
+L 04/05/2015 - 14:44:09: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" joined team "CT"
+L 04/05/2015 - 14:44:14: World triggered "Round_Start"
+L 04/05/2015 - 14:44:15: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 14:44:15: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 14:44:18: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "58") (armor "0")
+L 04/05/2015 - 14:44:20: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/05/2015 - 14:44:26: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "100")
+L 04/05/2015 - 14:44:32: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "-6") (armor "0")
+L 04/05/2015 - 14:44:32: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:44:37: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 14:44:41: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:44:41: Team "CT" triggered "CTs_Win" (CT "10") (T "0")
+L 04/05/2015 - 14:44:41: World triggered "Round_End"
+L 04/05/2015 - 14:44:51: World triggered "Round_Start"
+L 04/05/2015 - 14:44:53: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "10") (damage_armor "0") (health "90") (armor "24")
+L 04/05/2015 - 14:44:54: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "10") (damage_armor "0") (health "80") (armor "24")
+L 04/05/2015 - 14:44:54: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "10") (damage_armor "0") (health "70") (armor "24")
+L 04/05/2015 - 14:44:54: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "10") (damage_armor "0") (health "60") (armor "24")
+L 04/05/2015 - 14:44:54: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "10") (damage_armor "2") (health "50") (armor "22")
+L 04/05/2015 - 14:44:55: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "10") (damage_armor "0") (health "40") (armor "22")
+L 04/05/2015 - 14:44:56: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "42") (damage_armor "7") (health "58") (armor "93")
+L 04/05/2015 - 14:44:58: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "21") (armor "0")
+L 04/05/2015 - 14:44:58: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "7") (armor "0")
+L 04/05/2015 - 14:45:06: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" killed "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "grenade"
+L 04/05/2015 - 14:45:07: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "10") (damage_armor "0") (health "84") (armor "95")
+L 04/05/2015 - 14:45:08: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "10") (damage_armor "2") (health "13") (armor "73")
+L 04/05/2015 - 14:45:10: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "25") (damage_armor "0") (health "59") (armor "95")
+L 04/05/2015 - 14:45:13: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bb9cc
+L 04/05/2015 - 14:45:13: "DikaR_k0IIIkA<284><STEAM_0:4:1841797508><>" connected, address "176.209.211.114:27005"
+L 04/05/2015 - 14:45:14: [VTC] Player 6 speex
+L 04/05/2015 - 14:45:18: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:45:22: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bb9cc
+L 04/05/2015 - 14:45:22: "DikaR_k0IIIkA<285><STEAM_0:4:1841797508><>" connected, address "176.209.211.114:27005"
+L 04/05/2015 - 14:45:22: [VTC] Player 6 speex
+L 04/05/2015 - 14:45:23: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "ak47" (damage "49") (damage_armor "7") (health "-48") (armor "59")
+L 04/05/2015 - 14:45:23: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" killed "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "ak47"
+L 04/05/2015 - 14:45:27: "DikaR_k0IIIkA<285><STEAM_0:4:1841797508><>" entered the game
+L 04/05/2015 - 14:45:35: "DikaR_k0IIIkA<285><STEAM_0:4:1841797508><>" joined team "SPECTATOR"
+L 04/05/2015 - 14:45:39: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "-15") (armor "67")
+L 04/05/2015 - 14:45:39: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "awp"
+L 04/05/2015 - 14:45:39: Team "CT" triggered "CTs_Win" (CT "11") (T "0")
+L 04/05/2015 - 14:45:39: World triggered "Round_End"
+L 04/05/2015 - 14:45:49: World triggered "Round_Start"
+L 04/05/2015 - 14:45:56: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" killed "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "grenade"
+L 04/05/2015 - 14:45:56: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 14:45:56: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "21") (damage_armor "0") (health "68") (armor "89")
+L 04/05/2015 - 14:45:58: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "81") (armor "97")
+L 04/05/2015 - 14:45:58: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "72") (armor "95")
+L 04/05/2015 - 14:45:59: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "63") (armor "93")
+L 04/05/2015 - 14:45:59: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "53") (armor "93")
+L 04/05/2015 - 14:46:01: "DikaR_k0IIIkA<285><STEAM_0:4:1841797508><SPECTATOR>" triggered "time" (time "0:34")
+L 04/05/2015 - 14:46:01: "DikaR_k0IIIkA<285><STEAM_0:4:1841797508><SPECTATOR>" triggered "latency" (ping "98")
+L 04/05/2015 - 14:46:01: "DikaR_k0IIIkA<285><STEAM_0:4:1841797508><SPECTATOR>" disconnected
+L 04/05/2015 - 14:46:21: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "glock18" (damage "8") (damage_armor "4") (health "6") (armor "59")
+L 04/05/2015 - 14:46:21: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "glock18" (damage "11") (damage_armor "5") (health "-5") (armor "54")
+L 04/05/2015 - 14:46:21: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "glock18"
+L 04/05/2015 - 14:46:32: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "34") (armor "71")
+L 04/05/2015 - 14:46:32: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "10") (damage_armor "0") (health "80") (armor "94")
+L 04/05/2015 - 14:46:32: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "42") (damage_armor "7") (health "38") (armor "87")
+L 04/05/2015 - 14:46:32: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "25") (armor "69")
+L 04/05/2015 - 14:46:48: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "16") (armor "67")
+L 04/05/2015 - 14:46:48: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "m4a1" (damage "12") (damage_armor "3") (health "4") (armor "64")
+L 04/05/2015 - 14:46:54: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle" (damage "13") (damage_armor "2") (health "-9") (armor "62")
+L 04/05/2015 - 14:46:54: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "deagle"
+L 04/05/2015 - 14:47:18: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "13") (damage_armor "2") (health "25") (armor "85")
+L 04/05/2015 - 14:47:18: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "13") (damage_armor "2") (health "12") (armor "83")
+L 04/05/2015 - 14:47:22: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" with "m249" (damage "10") (damage_armor "0") (health "2") (armor "83")
+L 04/05/2015 - 14:47:32: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:47:32: Team "CT" triggered "CTs_Win" (CT "12") (T "0")
+L 04/05/2015 - 14:47:32: World triggered "Round_End"
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "grenade") (shots "28") (hits "11") (kills "3") (headshots "0") (tks "0") (damage "308") (deaths "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "sg550") (shots "84") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "85") (deaths "1")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "sg550") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "usp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "m4a1") (shots "362") (hits "26") (kills "5") (headshots "2") (tks "0") (damage "490") (deaths "1")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "m4a1") (head "4") (chest "5") (stomach "2") (leftarm "7") (rightarm "4") (leftleg "1") (rightleg "3")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "deagle") (shots "55") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "98") (deaths "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "time" (time "7:59")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" triggered "latency" (ping "57")
+L 04/05/2015 - 14:47:38: "T.N.L. Leks<279><STEAM_0:4:2079542533><CT>" disconnected
+L 04/05/2015 - 14:47:40: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 14:47:40: "T.N.L. Leks<286><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:22765"
+L 04/05/2015 - 14:47:40: Kick: "T.N.L. Leks<286><STEAM_0:4:2079542533><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 17 секунд"")
+L 04/05/2015 - 14:47:42: World triggered "Round_Start"
+L 04/05/2015 - 14:47:55: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "grenade"
+L 04/05/2015 - 14:48:00: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39accf0
+L 04/05/2015 - 14:48:00: "T.N.L. Leks<287><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:22765"
+L 04/05/2015 - 14:48:00: [VTC] Player 3 speex
+L 04/05/2015 - 14:48:03: "T.N.L. Leks<287><STEAM_0:4:2079542533><>" entered the game
+L 04/05/2015 - 14:48:06: "T.N.L. Leks<287><STEAM_0:4:2079542533><>" joined team "CT"
+L 04/05/2015 - 14:48:14: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "17") (damage_armor "0") (health "82") (armor "0")
+L 04/05/2015 - 14:48:15: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 14:48:16: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "54") (armor "0")
+L 04/05/2015 - 14:48:17: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 14:48:17: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "26") (armor "0")
+L 04/05/2015 - 14:48:17: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "12") (armor "0")
+L 04/05/2015 - 14:48:18: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "-2") (armor "0")
+L 04/05/2015 - 14:48:18: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" killed "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249"
+L 04/05/2015 - 14:48:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "1")
+L 04/05/2015 - 14:48:18: World triggered "Round_End"
+L 04/05/2015 - 14:48:28: World triggered "Round_Start"
+L 04/05/2015 - 14:48:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "famas" (damage "9") (damage_armor "2") (health "91") (armor "98")
+L 04/05/2015 - 14:48:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "famas" (damage "9") (damage_armor "2") (health "82") (armor "96")
+L 04/05/2015 - 14:48:35: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 14:48:35: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 14:48:38: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 14:48:38: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "17") (damage_armor "0") (health "55") (armor "0")
+L 04/05/2015 - 14:48:40: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "14") (damage_armor "0") (health "9") (armor "0")
+L 04/05/2015 - 14:48:41: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "m249" (damage "14") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 14:48:41: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249" (damage "10") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 14:48:41: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m249"
+L 04/05/2015 - 14:48:53: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "awp" (damage "67") (damage_armor "1") (health "15") (armor "95")
+L 04/05/2015 - 14:49:00: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" killed "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "39") (hits "23") (kills "1") (headshots "0") (tks "0") (damage "524") (deaths "4")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "galil") (shots "105") (hits "10") (kills "0") (headshots "0") (tks "0") (damage "103") (deaths "2")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "galil") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "3") (leftleg "0") (rightleg "5")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "75") (hits "7") (kills "2") (headshots "0") (tks "0") (damage "72") (deaths "2")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "1") (stomach "2") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "2")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "259") (hits "14") (kills "2") (headshots "0") (tks "0") (damage "198") (deaths "1")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "8") (stomach "2") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "159") (hits "9") (kills "1") (headshots "1") (tks "0") (damage "209") (deaths "3")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "3")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "time" (time "9:28")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" triggered "latency" (ping "33")
+L 04/05/2015 - 14:49:02: "[TOP-MS] FANAT CAXAPA<237><STEAM_0:4:1659129093><TERRORIST>" disconnected
+L 04/05/2015 - 14:49:03: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-37") (armor "83")
+L 04/05/2015 - 14:49:03: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "awp"
+L 04/05/2015 - 14:49:03: Team "CT" triggered "CTs_Win" (CT "13") (T "1")
+L 04/05/2015 - 14:49:03: World triggered "Round_End"
+L 04/05/2015 - 14:49:13: World triggered "Round_Start"
+L 04/05/2015 - 14:49:14: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 14:49:14: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 14:49:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "17") (armor "0")
+L 04/05/2015 - 14:49:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "4") (armor "0")
+L 04/05/2015 - 14:49:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "-9") (armor "0")
+L 04/05/2015 - 14:49:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:49:15: Team "CT" triggered "CTs_Win" (CT "14") (T "1")
+L 04/05/2015 - 14:49:15: World triggered "Round_End"
+L 04/05/2015 - 14:49:20: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" joined team "TERRORIST" (auto)
+L 04/05/2015 - 14:49:25: World triggered "Round_Start"
+L 04/05/2015 - 14:49:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/05/2015 - 14:49:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "59") (armor "95")
+L 04/05/2015 - 14:49:41: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "44") (armor "92")
+L 04/05/2015 - 14:49:42: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "39") (damage_armor "9") (health "5") (armor "83")
+L 04/05/2015 - 14:49:42: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "70") (armor "0")
+L 04/05/2015 - 14:49:42: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "39") (damage_armor "8") (health "-34") (armor "75")
+L 04/05/2015 - 14:49:42: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1"
+L 04/05/2015 - 14:49:51: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" killed "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "grenade"
+L 04/05/2015 - 14:49:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "2")
+L 04/05/2015 - 14:49:51: World triggered "Round_End"
+L 04/05/2015 - 14:50:01: World triggered "Round_Start"
+L 04/05/2015 - 14:50:01: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "100")
+L 04/05/2015 - 14:50:02: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-12") (armor "100")
+L 04/05/2015 - 14:50:02: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:50:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "91") (armor "83")
+L 04/05/2015 - 14:50:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "81")
+L 04/05/2015 - 14:50:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "73") (armor "79")
+L 04/05/2015 - 14:50:03: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 14:50:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "64") (armor "77")
+L 04/05/2015 - 14:50:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "9") (armor "52")
+L 04/05/2015 - 14:50:16: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "72") (armor "90")
+L 04/05/2015 - 14:50:16: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "12") (damage_armor "2") (health "60") (armor "88")
+L 04/05/2015 - 14:50:16: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "50") (armor "88")
+L 04/05/2015 - 14:50:18: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "-1") (armor "50")
+L 04/05/2015 - 14:50:18: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:50:18: Team "CT" triggered "CTs_Win" (CT "15") (T "2")
+L 04/05/2015 - 14:50:18: World triggered "Round_End"
+L 04/05/2015 - 14:50:28: World triggered "Round_Start"
+L 04/05/2015 - 14:50:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 14:50:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 14:50:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "20") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 14:50:41: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "42") (damage_armor "9") (health "44") (armor "83")
+L 04/05/2015 - 14:50:42: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "34") (armor "81")
+L 04/05/2015 - 14:50:45: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" killed "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "grenade"
+L 04/05/2015 - 14:50:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "24") (armor "79")
+L 04/05/2015 - 14:50:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "14") (armor "77")
+L 04/05/2015 - 14:50:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "3") (health "4") (armor "74")
+L 04/05/2015 - 14:51:00: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:51:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:51:04: Team "CT" triggered "CTs_Win" (CT "16") (T "2")
+L 04/05/2015 - 14:51:04: World triggered "Round_End"
+L 04/05/2015 - 14:51:14: World triggered "Round_Start"
+L 04/05/2015 - 14:51:14: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 04/05/2015 - 14:51:14: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "15") (damage_armor "3") (health "73") (armor "95")
+L 04/05/2015 - 14:51:18: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 14:51:26: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "56") (armor "83")
+L 04/05/2015 - 14:51:26: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "44") (armor "81")
+L 04/05/2015 - 14:51:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "1") (health "36") (armor "81")
+L 04/05/2015 - 14:51:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "0") (health "24") (armor "81")
+L 04/05/2015 - 14:51:30: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "0") (health "12") (armor "81")
+L 04/05/2015 - 14:51:32: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" killed "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "grenade"
+L 04/05/2015 - 14:51:46: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "15") (damage_armor "3") (health "-6") (armor "61")
+L 04/05/2015 - 14:51:46: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47"
+L 04/05/2015 - 14:51:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "3")
+L 04/05/2015 - 14:51:46: World triggered "Round_End"
+L 04/05/2015 - 14:51:56: World triggered "Round_Start"
+L 04/05/2015 - 14:51:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "100")
+L 04/05/2015 - 14:51:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-12") (armor "100")
+L 04/05/2015 - 14:51:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:51:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "15") (damage_armor "3") (health "85") (armor "97")
+L 04/05/2015 - 14:51:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "73") (armor "95")
+L 04/05/2015 - 14:51:57: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 14:51:57: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "95")
+L 04/05/2015 - 14:51:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "1") (health "61") (armor "94")
+L 04/05/2015 - 14:51:57: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "39") (damage_armor "8") (health "43") (armor "87")
+L 04/05/2015 - 14:51:57: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "34") (armor "85")
+L 04/05/2015 - 14:51:59: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "49") (armor "94")
+L 04/05/2015 - 14:51:59: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "15") (damage_armor "3") (health "34") (armor "91")
+L 04/05/2015 - 14:51:59: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "22") (armor "91")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "68") (hits "44") (kills "6") (headshots "0") (tks "0") (damage "894") (deaths "2")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "sg550") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "sg550") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "441") (hits "15") (kills "0") (headshots "0") (tks "0") (damage "231") (deaths "3")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "2") (chest "1") (stomach "2") (leftarm "0") (rightarm "1") (leftleg "4") (rightleg "5")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "sg552") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "sg552") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "49") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "15") (deaths "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "time" (time "11:24")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" triggered "latency" (ping "47")
+L 04/05/2015 - 14:52:00: "*MaLiK*<283><STEAM_0:4:1424005710><TERRORIST>" disconnected
+L 04/05/2015 - 14:52:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 14:52:05: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:52:05: Team "CT" triggered "CTs_Win" (CT "17") (T "3")
+L 04/05/2015 - 14:52:05: World triggered "Round_End"
+L 04/05/2015 - 14:52:15: World triggered "Round_Start"
+L 04/05/2015 - 14:52:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 14:52:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 14:52:17: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb39a7dfc
+L 04/05/2015 - 14:52:17: "unamed<288><STEAM_0:0:391403><>" connected, address "188.163.94.233:48945"
+L 04/05/2015 - 14:52:17: [VTC] Player 2 silk
+L 04/05/2015 - 14:52:17: "unamed<288><STEAM_0:0:391403><>" STEAM USERID validated
+L 04/05/2015 - 14:52:20: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb39a7dfc
+L 04/05/2015 - 14:52:20: "unamed<289><STEAM_0:0:391403><>" connected, address "188.163.94.233:48945"
+L 04/05/2015 - 14:52:21: [VTC] Player 2 silk
+L 04/05/2015 - 14:52:21: "unamed<289><STEAM_0:0:391403><>" STEAM USERID validated
+L 04/05/2015 - 14:52:25: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:52:25: Team "CT" triggered "CTs_Win" (CT "18") (T "3")
+L 04/05/2015 - 14:52:25: World triggered "Round_End"
+L 04/05/2015 - 14:52:26: "unamed<289><STEAM_0:0:391403><>" entered the game
+L 04/05/2015 - 14:52:27: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" joined team "CT"
+L 04/05/2015 - 14:52:33: "unamed<289><STEAM_0:0:391403><>" joined team "CT"
+L 04/05/2015 - 14:52:35: World triggered "Round_Start"
+L 04/05/2015 - 14:52:57: "unamed<289><STEAM_0:0:391403><CT>" committed suicide with "world"
+L 04/05/2015 - 14:52:57: "unamed<289><STEAM_0:0:391403><CT>" joined team "TERRORIST"
+L 04/05/2015 - 14:52:58: World triggered "Game_Commencing"
+L 04/05/2015 - 14:52:58: World triggered "Game_Commencing" (CT "18") (T "3")
+L 04/05/2015 - 14:52:58: World triggered "Round_End"
+L 04/05/2015 - 14:53:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" joined team "TERRORIST" (auto)
+L 04/05/2015 - 14:53:02: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 14:53:02: "ZKD<290><STEAM_0:4:208018126><>" connected, address "37.215.144.177:53679"
+L 04/05/2015 - 14:53:02: [VTC] Player 4 speex
+L 04/05/2015 - 14:53:06: World triggered "Round_Start"
+L 04/05/2015 - 14:53:07: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "deagle" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/05/2015 - 14:53:07: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "deagle" (damage "17") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 14:53:09: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "deagle" (damage "12") (damage_armor "0") (health "54") (armor "0")
+L 04/05/2015 - 14:53:19: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "52") (armor "0")
+L 04/05/2015 - 14:53:30: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-396") (armor "0")
+L 04/05/2015 - 14:53:30: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "awp"
+L 04/05/2015 - 14:53:36: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" killed "unamed<289><STEAM_0:0:391403><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:53:36: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/05/2015 - 14:53:36: World triggered "Round_End"
+L 04/05/2015 - 14:53:42: "unamed<289><STEAM_0:0:391403><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 14:53:42: "unamed<289><STEAM_0:0:391403><TERRORIST>" joined team "CT"
+L 04/05/2015 - 14:53:46: World triggered "Round_Start"
+L 04/05/2015 - 14:53:50: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "deagle" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 04/05/2015 - 14:53:50: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "deagle" (damage "25") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 14:53:56: Kick: "unamed<289><STEAM_0:0:391403><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "weaponstats" (weapon "glock18") (shots "20") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "time" (time "1:30")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" triggered "latency" (ping "109")
+L 04/05/2015 - 14:53:56: "unamed<289><STEAM_0:0:391403><CT>" disconnected
+L 04/05/2015 - 14:54:07: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "grenade"
+L 04/05/2015 - 14:54:18: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug" (damage "10") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 14:54:37: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug" (damage "14") (damage_armor "0") (health "42") (armor "0")
+L 04/05/2015 - 14:54:50: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug" (damage "56") (damage_armor "0") (health "-30") (armor "0")
+L 04/05/2015 - 14:54:50: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug"
+L 04/05/2015 - 14:54:50: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/05/2015 - 14:54:50: World triggered "Round_End"
+L 04/05/2015 - 14:55:00: World triggered "Round_Start"
+L 04/05/2015 - 14:55:03: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "9") (damage_armor "0") (health "91") (armor "100")
+L 04/05/2015 - 14:55:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 14:55:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "10") (damage_armor "2") (health "81") (armor "98")
+L 04/05/2015 - 14:55:16: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug" (damage "14") (damage_armor "0") (health "1") (armor "0")
+L 04/05/2015 - 14:55:16: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "12") (damage_armor "2") (health "69") (armor "96")
+L 04/05/2015 - 14:55:16: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug" (damage "14") (damage_armor "0") (health "-13") (armor "0")
+L 04/05/2015 - 14:55:16: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "aug"
+L 04/05/2015 - 14:55:16: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/05/2015 - 14:55:16: World triggered "Round_End"
+L 04/05/2015 - 14:55:26: World triggered "Round_Start"
+L 04/05/2015 - 14:55:26: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 14:55:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/05/2015 - 14:55:30: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "30") (armor "0")
+L 04/05/2015 - 14:55:30: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "2") (health "76") (armor "98")
+L 04/05/2015 - 14:55:31: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" with "ak47" (damage "12") (damage_armor "2") (health "64") (armor "96")
+L 04/05/2015 - 14:55:31: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 14:55:31: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:55:31: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 04/05/2015 - 14:55:31: World triggered "Round_End"
+L 04/05/2015 - 14:55:33: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" joined team "CT"
+L 04/05/2015 - 14:55:41: World triggered "Round_Start"
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "grenade") (shots "58") (hits "26") (kills "4") (headshots "0") (tks "0") (damage "770") (deaths "1")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "aug") (shots "236") (hits "5") (kills "2") (headshots "1") (tks "0") (damage "108") (deaths "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "sg550") (shots "61") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "sg550") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "usp") (shots "124") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "15") (deaths "3")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "m249") (shots "101") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "m4a1") (shots "67") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "deagle") (shots "22") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "time" (time "16:05")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" triggered "latency" (ping "34")
+L 04/05/2015 - 14:55:41: "Mr.DJaGerNayT228<278><STEAM_0:4:1099418757><CT>" disconnected
+L 04/05/2015 - 14:55:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" committed suicide with "world"
+L 04/05/2015 - 14:55:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" joined team "TERRORIST"
+L 04/05/2015 - 14:55:57: World triggered "Game_Commencing"
+L 04/05/2015 - 14:55:57: World triggered "Game_Commencing" (CT "4") (T "0")
+L 04/05/2015 - 14:55:57: World triggered "Round_End"
+L 04/05/2015 - 14:56:05: World triggered "Round_Start"
+L 04/05/2015 - 14:56:05: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "deagle" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 04/05/2015 - 14:56:22: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "grenade"
+L 04/05/2015 - 14:56:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/05/2015 - 14:56:22: World triggered "Round_End"
+L 04/05/2015 - 14:56:25: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" joined team "TERRORIST"
+L 04/05/2015 - 14:56:25: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" committed suicide with "worldspawn" (world)
+L 04/05/2015 - 14:56:31: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 14:56:31: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" joined team "CT"
+L 04/05/2015 - 14:56:31: World triggered "Game_Commencing"
+L 04/05/2015 - 14:56:31: World triggered "Game_Commencing" (CT "0") (T "1")
+L 04/05/2015 - 14:56:31: World triggered "Round_End"
+L 04/05/2015 - 14:56:34: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 14:56:34: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" joined team "CT"
+L 04/05/2015 - 14:56:34: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" joined team "TERRORIST" (auto)
+L 04/05/2015 - 14:56:39: World triggered "Round_Start"
+L 04/05/2015 - 14:56:41: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "deagle" (damage "68") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 14:57:03: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "grenade"
+L 04/05/2015 - 14:57:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/05/2015 - 14:57:03: World triggered "Round_End"
+L 04/05/2015 - 14:57:13: World triggered "Round_Start"
+L 04/05/2015 - 14:57:31: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 14:57:31: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "0")
+L 04/05/2015 - 14:57:40: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:57:40: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/05/2015 - 14:57:40: World triggered "Round_End"
+L 04/05/2015 - 14:57:50: World triggered "Round_Start"
+L 04/05/2015 - 14:57:50: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 14:57:50: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 14:57:50: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 14:57:53: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "deagle" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 04/05/2015 - 14:58:00: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 14:58:00: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:58:00: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 04/05/2015 - 14:58:00: World triggered "Round_End"
+L 04/05/2015 - 14:58:10: World triggered "Round_Start"
+L 04/05/2015 - 14:58:13: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 14:58:23: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-99") (armor "0")
+L 04/05/2015 - 14:58:23: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 14:58:23: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 04/05/2015 - 14:58:23: World triggered "Round_End"
+L 04/05/2015 - 14:58:33: World triggered "Round_Start"
+L 04/05/2015 - 14:58:50: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:58:50: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 04/05/2015 - 14:58:50: World triggered "Round_End"
+L 04/05/2015 - 14:59:00: World triggered "Round_Start"
+L 04/05/2015 - 14:59:13: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 14:59:13: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 04/05/2015 - 14:59:13: World triggered "Round_End"
+L 04/05/2015 - 14:59:23: World triggered "Round_Start"
+L 04/05/2015 - 14:59:30: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 04/05/2015 - 14:59:33: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m3" (damage "42") (damage_armor "22") (health "58") (armor "78")
+L 04/05/2015 - 14:59:35: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m3" (damage "9") (damage_armor "4") (health "49") (armor "74")
+L 04/05/2015 - 14:59:37: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m3" (damage "81") (damage_armor "41") (health "-32") (armor "33")
+L 04/05/2015 - 14:59:37: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m3"
+L 04/05/2015 - 14:59:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 04/05/2015 - 14:59:37: World triggered "Round_End"
+L 04/05/2015 - 14:59:47: World triggered "Round_Start"
+L 04/05/2015 - 14:59:52: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 14:59:52: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "95")
+L 04/05/2015 - 14:59:53: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "12") (damage_armor "2") (health "70") (armor "93")
+L 04/05/2015 - 14:59:54: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "9") (damage_armor "2") (health "61") (armor "91")
+L 04/05/2015 - 14:59:57: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "39") (damage_armor "8") (health "37") (armor "61")
+L 04/05/2015 - 15:00:04: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "m4a1" (damage "12") (damage_armor "3") (health "49") (armor "88")
+L 04/05/2015 - 15:00:06: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:00:06: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 04/05/2015 - 15:00:06: World triggered "Round_End"
+L 04/05/2015 - 15:00:09: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" joined team "CT"
+L 04/05/2015 - 15:00:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" committed suicide with "world"
+L 04/05/2015 - 15:00:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:00:16: World triggered "Game_Commencing"
+L 04/05/2015 - 15:00:16: World triggered "Game_Commencing" (CT "6") (T "2")
+L 04/05/2015 - 15:00:16: World triggered "Round_End"
+L 04/05/2015 - 15:00:24: World triggered "Round_Start"
+L 04/05/2015 - 15:00:34: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "deagle" (damage "41") (damage_armor "0") (health "59") (armor "0")
+L 04/05/2015 - 15:00:37: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "deagle" (damage "50") (damage_armor "0") (health "38") (armor "0")
+L 04/05/2015 - 15:00:38: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "deagle" (damage "200") (damage_armor "0") (health "-162") (armor "0")
+L 04/05/2015 - 15:00:38: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "deagle"
+L 04/05/2015 - 15:00:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/05/2015 - 15:00:38: World triggered "Round_End"
+L 04/05/2015 - 15:00:48: World triggered "Round_Start"
+L 04/05/2015 - 15:00:48: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "ak47" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 04/05/2015 - 15:00:48: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "ak47" (damage "16") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 15:00:48: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "ak47" (damage "16") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 15:00:48: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "ak47" (damage "64") (damage_armor "0") (health "-16") (armor "0")
+L 04/05/2015 - 15:00:48: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" with "ak47"
+L 04/05/2015 - 15:00:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/05/2015 - 15:00:48: World triggered "Round_End"
+L 04/05/2015 - 15:00:51: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:00:58: World triggered "Round_Start"
+L 04/05/2015 - 15:01:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 15:01:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" joined team "CT"
+L 04/05/2015 - 15:01:04: World triggered "Game_Commencing"
+L 04/05/2015 - 15:01:04: World triggered "Game_Commencing" (CT "0") (T "2")
+L 04/05/2015 - 15:01:04: World triggered "Round_End"
+L 04/05/2015 - 15:01:12: World triggered "Round_Start"
+L 04/05/2015 - 15:01:24: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "deagle" (damage "16") (damage_armor "0") (health "-8") (armor "0")
+L 04/05/2015 - 15:01:24: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "deagle"
+L 04/05/2015 - 15:01:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/05/2015 - 15:01:24: World triggered "Round_End"
+L 04/05/2015 - 15:01:34: World triggered "Round_Start"
+L 04/05/2015 - 15:01:35: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 04/05/2015 - 15:01:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "6") (armor "60")
+L 04/05/2015 - 15:01:58: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "0") (health "-6") (armor "60")
+L 04/05/2015 - 15:01:58: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47"
+L 04/05/2015 - 15:01:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/05/2015 - 15:01:58: World triggered "Round_End"
+L 04/05/2015 - 15:02:08: World triggered "Round_Start"
+L 04/05/2015 - 15:02:09: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "deagle" (damage "12") (damage_armor "3") (health "88") (armor "97")
+L 04/05/2015 - 15:02:09: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "deagle" (damage "12") (damage_armor "2") (health "76") (armor "95")
+L 04/05/2015 - 15:02:18: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "64") (damage_armor "0") (health "-25") (armor "0")
+L 04/05/2015 - 15:02:18: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47"
+L 04/05/2015 - 15:02:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 04/05/2015 - 15:02:18: World triggered "Round_End"
+L 04/05/2015 - 15:02:28: World triggered "Round_Start"
+L 04/05/2015 - 15:02:29: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 15:02:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 15:02:30: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 15:02:30: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "95")
+L 04/05/2015 - 15:02:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:02:54: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 04/05/2015 - 15:02:54: World triggered "Round_End"
+L 04/05/2015 - 15:03:04: World triggered "Round_Start"
+L 04/05/2015 - 15:03:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 15:03:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 15:03:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "58") (armor "0")
+L 04/05/2015 - 15:03:18: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:03:18: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 04/05/2015 - 15:03:18: World triggered "Round_End"
+L 04/05/2015 - 15:03:28: World triggered "Round_Start"
+L 04/05/2015 - 15:03:28: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 15:03:28: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 15:03:28: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "58") (armor "0")
+L 04/05/2015 - 15:03:29: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 15:03:35: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "29") (armor "0")
+L 04/05/2015 - 15:03:36: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "14") (armor "0")
+L 04/05/2015 - 15:03:36: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 15:03:36: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:03:36: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 04/05/2015 - 15:03:36: World triggered "Round_End"
+L 04/05/2015 - 15:03:46: World triggered "Round_Start"
+L 04/05/2015 - 15:03:57: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 15:03:58: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 15:03:58: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 15:04:05: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:04:05: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 04/05/2015 - 15:04:05: World triggered "Round_End"
+L 04/05/2015 - 15:04:15: World triggered "Round_Start"
+L 04/05/2015 - 15:04:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 15:04:32: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "60") (damage_armor "0") (health "10") (armor "84")
+L 04/05/2015 - 15:04:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "60") (damage_armor "0") (health "-50") (armor "84")
+L 04/05/2015 - 15:04:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:04:34: Team "CT" triggered "CTs_Win" (CT "5") (T "3")
+L 04/05/2015 - 15:04:34: World triggered "Round_End"
+L 04/05/2015 - 15:04:34: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "grenade"
+L 04/05/2015 - 15:04:44: World triggered "Round_Start"
+L 04/05/2015 - 15:04:44: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/05/2015 - 15:04:44: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 15:04:44: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "55") (armor "0")
+L 04/05/2015 - 15:04:44: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "41") (armor "0")
+L 04/05/2015 - 15:04:55: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:04:55: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 04/05/2015 - 15:04:55: World triggered "Round_End"
+L 04/05/2015 - 15:05:05: World triggered "Round_Start"
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "1") (health "88") (armor "89")
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "76") (armor "87")
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "64") (armor "85")
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "52") (armor "83")
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "40") (armor "81")
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "13") (damage_armor "2") (health "27") (armor "79")
+L 04/05/2015 - 15:05:10: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 04/05/2015 - 15:05:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "1") (health "15") (armor "78")
+L 04/05/2015 - 15:05:11: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "3") (armor "76")
+L 04/05/2015 - 15:05:11: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "-9") (armor "74")
+L 04/05/2015 - 15:05:11: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47"
+L 04/05/2015 - 15:05:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 04/05/2015 - 15:05:11: World triggered "Round_End"
+L 04/05/2015 - 15:05:21: World triggered "Round_Start"
+L 04/05/2015 - 15:05:22: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 15:05:22: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "95")
+L 04/05/2015 - 15:05:22: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "73") (armor "93")
+L 04/05/2015 - 15:05:23: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "39") (damage_armor "8") (health "34") (armor "85")
+L 04/05/2015 - 15:05:23: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "25") (armor "83")
+L 04/05/2015 - 15:05:29: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:05:29: Team "CT" triggered "CTs_Win" (CT "7") (T "4")
+L 04/05/2015 - 15:05:29: World triggered "Round_End"
+L 04/05/2015 - 15:05:39: World triggered "Round_Start"
+L 04/05/2015 - 15:05:44: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "39") (damage_armor "9") (health "61") (armor "91")
+L 04/05/2015 - 15:06:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "30") (armor "77")
+L 04/05/2015 - 15:06:04: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "21") (armor "75")
+L 04/05/2015 - 15:06:06: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "-3") (armor "52")
+L 04/05/2015 - 15:06:06: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47"
+L 04/05/2015 - 15:06:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "5")
+L 04/05/2015 - 15:06:06: World triggered "Round_End"
+L 04/05/2015 - 15:06:16: World triggered "Round_Start"
+L 04/05/2015 - 15:06:24: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "ak47" (damage "12") (damage_armor "2") (health "83") (armor "95")
+L 04/05/2015 - 15:06:28: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a2f08
+L 04/05/2015 - 15:06:28: "adamas<291><STEAM_0:4:443597682><>" connected, address "93.100.189.157:27005"
+L 04/05/2015 - 15:06:29: [VTC] Player 1 speex
+L 04/05/2015 - 15:06:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a2f08
+L 04/05/2015 - 15:06:31: "adamas<292><STEAM_0:4:443597682><>" connected, address "93.100.189.157:27005"
+L 04/05/2015 - 15:06:31: [VTC] Player 1 speex
+L 04/05/2015 - 15:06:34: "adamas<292><STEAM_0:4:443597682><>" entered the game
+L 04/05/2015 - 15:06:38: "adamas<292><STEAM_0:4:443597682><>" joined team "CT"
+L 04/05/2015 - 15:06:47: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "39") (damage_armor "8") (health "16") (armor "68")
+L 04/05/2015 - 15:06:49: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "39") (damage_armor "9") (health "-23") (armor "59")
+L 04/05/2015 - 15:06:49: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:06:49: Team "CT" triggered "CTs_Win" (CT "8") (T "5")
+L 04/05/2015 - 15:06:49: World triggered "Round_End"
+L 04/05/2015 - 15:06:59: World triggered "Round_Start"
+L 04/05/2015 - 15:07:14: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:07:14: Team "CT" triggered "CTs_Win" (CT "9") (T "5")
+L 04/05/2015 - 15:07:14: World triggered "Round_End"
+L 04/05/2015 - 15:07:24: World triggered "Round_Start"
+L 04/05/2015 - 15:07:26: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "9") (damage_armor "0") (health "91") (armor "65")
+L 04/05/2015 - 15:07:27: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "10") (damage_armor "1") (health "81") (armor "64")
+L 04/05/2015 - 15:07:37: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a7dfc
+L 04/05/2015 - 15:07:37: "[Hard_Skill]_Dasha<293><STEAM_0:4:1068366041><>" connected, address "10.19.7.214:27005"
+L 04/05/2015 - 15:07:38: [VTC] Player 2 speex
+L 04/05/2015 - 15:07:42: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:07:42: Team "CT" triggered "CTs_Win" (CT "10") (T "5")
+L 04/05/2015 - 15:07:42: World triggered "Round_End"
+L 04/05/2015 - 15:07:52: World triggered "Round_Start"
+L 04/05/2015 - 15:07:55: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 15:07:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 15:07:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "58") (armor "0")
+L 04/05/2015 - 15:07:56: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "2") (armor "0")
+L 04/05/2015 - 15:07:56: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "galil" (damage "40") (damage_armor "6") (health "60") (armor "58")
+L 04/05/2015 - 15:07:56: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a7dfc
+L 04/05/2015 - 15:07:56: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><>" connected, address "10.19.7.214:27005"
+L 04/05/2015 - 15:07:57: [VTC] Player 2 speex
+L 04/05/2015 - 15:08:01: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:08:01: Team "CT" triggered "CTs_Win" (CT "11") (T "5")
+L 04/05/2015 - 15:08:01: World triggered "Round_End"
+L 04/05/2015 - 15:08:09: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:08:09: "HavA<295><STEAM_0:4:962206670><>" connected, address "37.213.232.219:27005"
+L 04/05/2015 - 15:08:09: [VTC] Player 4 speex
+L 04/05/2015 - 15:08:11: World triggered "Round_Start"
+L 04/05/2015 - 15:08:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/05/2015 - 15:08:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "80") (armor "0")
+L 04/05/2015 - 15:08:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "66") (armor "0")
+L 04/05/2015 - 15:08:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "10") (armor "0")
+L 04/05/2015 - 15:08:18: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><>" entered the game
+L 04/05/2015 - 15:08:23: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" committed suicide with "grenade"
+L 04/05/2015 - 15:08:23: Team "CT" triggered "CTs_Win" (CT "12") (T "5")
+L 04/05/2015 - 15:08:23: World triggered "Round_End"
+L 04/05/2015 - 15:08:28: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" committed suicide with "world"
+L 04/05/2015 - 15:08:28: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:08:29: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:08:29: "HavA<296><STEAM_0:4:962206670><>" connected, address "37.213.232.219:27005"
+L 04/05/2015 - 15:08:30: [VTC] Player 4 speex
+L 04/05/2015 - 15:08:33: World triggered "Round_Start"
+L 04/05/2015 - 15:08:38: "HavA<296><STEAM_0:4:962206670><>" entered the game
+L 04/05/2015 - 15:08:44: "HavA<296><STEAM_0:4:962206670><>" joined team "CT"
+L 04/05/2015 - 15:08:47: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "ump45" (damage "14") (damage_armor "7") (health "52") (armor "86")
+L 04/05/2015 - 15:08:47: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "ump45" (damage "14") (damage_armor "7") (health "38") (armor "79")
+L 04/05/2015 - 15:08:47: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "ump45" (damage "14") (damage_armor "7") (health "24") (armor "72")
+L 04/05/2015 - 15:08:47: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "ump45" (damage "13") (damage_armor "7") (health "11") (armor "65")
+L 04/05/2015 - 15:08:48: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "ump45" (damage "13") (damage_armor "6") (health "-2") (armor "59")
+L 04/05/2015 - 15:08:48: "adamas<292><STEAM_0:4:443597682><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "ump45"
+L 04/05/2015 - 15:08:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-7") (armor "0")
+L 04/05/2015 - 15:08:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "ak47"
+L 04/05/2015 - 15:08:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "50") (armor "0")
+L 04/05/2015 - 15:08:56: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><>" joined team "TERRORIST"
+L 04/05/2015 - 15:09:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "grenade"
+L 04/05/2015 - 15:09:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "6")
+L 04/05/2015 - 15:09:03: World triggered "Round_End"
+L 04/05/2015 - 15:09:13: World triggered "Round_Start"
+L 04/05/2015 - 15:09:13: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 15:09:13: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "20") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 15:09:13: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:09:13: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 15:09:13: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "20") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 15:09:13: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "20") (damage_armor "0") (health "48") (armor "0")
+L 04/05/2015 - 15:09:17: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "grenade"
+L 04/05/2015 - 15:09:21: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "grenade"
+L 04/05/2015 - 15:09:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "7")
+L 04/05/2015 - 15:09:21: World triggered "Round_End"
+L 04/05/2015 - 15:09:31: World triggered "Round_Start"
+L 04/05/2015 - 15:09:39: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "38") (armor "0")
+L 04/05/2015 - 15:09:39: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "64") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 15:09:39: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "ak47"
+L 04/05/2015 - 15:09:44: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "34") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 15:09:45: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-105") (armor "0")
+L 04/05/2015 - 15:09:45: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "ak47"
+L 04/05/2015 - 15:09:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "8")
+L 04/05/2015 - 15:09:45: World triggered "Round_End"
+L 04/05/2015 - 15:09:55: World triggered "Round_Start"
+L 04/05/2015 - 15:10:00: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:10:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "20") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 15:10:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "12") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 15:10:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "40") (armor "0")
+L 04/05/2015 - 15:10:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "20") (damage_armor "0") (health "34") (armor "0")
+L 04/05/2015 - 15:10:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "knife" (damage "65") (damage_armor "0") (health "-31") (armor "0")
+L 04/05/2015 - 15:10:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "knife"
+L 04/05/2015 - 15:10:14: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp" (damage "15") (damage_armor "7") (health "83") (armor "91")
+L 04/05/2015 - 15:10:14: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp" (damage "15") (damage_armor "8") (health "68") (armor "83")
+L 04/05/2015 - 15:10:14: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp" (damage "19") (damage_armor "10") (health "49") (armor "73")
+L 04/05/2015 - 15:10:14: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp" (damage "15") (damage_armor "7") (health "34") (armor "66")
+L 04/05/2015 - 15:10:14: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp" (damage "19") (damage_armor "10") (health "15") (armor "56")
+L 04/05/2015 - 15:10:15: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp" (damage "15") (damage_armor "8") (health "0") (armor "48")
+L 04/05/2015 - 15:10:15: "HavA<296><STEAM_0:4:962206670><CT>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "usp"
+L 04/05/2015 - 15:10:19: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bb9cc
+L 04/05/2015 - 15:10:19: "NO HARD<297><STEAM_0:4:194353742><>" connected, address "37.214.119.190:9731"
+L 04/05/2015 - 15:10:19: [VTC] Player 6 speex
+L 04/05/2015 - 15:10:21: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bb9cc
+L 04/05/2015 - 15:10:21: "NO HARD<298><STEAM_0:4:194353742><>" connected, address "37.214.119.190:9731"
+L 04/05/2015 - 15:10:22: [VTC] Player 6 speex
+L 04/05/2015 - 15:10:28: "NO HARD<298><STEAM_0:4:194353742><>" entered the game
+L 04/05/2015 - 15:10:31: "NO HARD<298><STEAM_0:4:194353742><>" joined team "CT"
+L 04/05/2015 - 15:10:35: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-6") (armor "0")
+L 04/05/2015 - 15:10:35: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "ak47"
+L 04/05/2015 - 15:10:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "9")
+L 04/05/2015 - 15:10:35: World triggered "Round_End"
+L 04/05/2015 - 15:10:45: World triggered "Round_Start"
+L 04/05/2015 - 15:10:46: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:10:46: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:10:46: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:10:46: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 15:10:46: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "72") (armor "0")
+L 04/05/2015 - 15:10:47: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "56") (armor "0")
+L 04/05/2015 - 15:10:51: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "12") (damage_armor "0") (health "-2") (armor "0")
+L 04/05/2015 - 15:10:51: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "ak47"
+L 04/05/2015 - 15:10:59: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" killed "NO HARD<298><STEAM_0:4:194353742><CT>" with "grenade"
+L 04/05/2015 - 15:11:02: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "knife" (damage "65") (damage_armor "0") (health "-11") (armor "0")
+L 04/05/2015 - 15:11:02: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "knife"
+L 04/05/2015 - 15:11:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "10")
+L 04/05/2015 - 15:11:02: World triggered "Round_End"
+L 04/05/2015 - 15:11:12: World triggered "Round_Start"
+L 04/05/2015 - 15:11:19: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "5") (armor "0")
+L 04/05/2015 - 15:11:20: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "grenade"
+L 04/05/2015 - 15:11:20: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "11") (damage_armor "0") (health "49") (armor "79")
+L 04/05/2015 - 15:11:21: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "27") (armor "0")
+L 04/05/2015 - 15:11:25: "NO HARD<298><STEAM_0:4:194353742><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-32") (armor "0")
+L 04/05/2015 - 15:11:25: "NO HARD<298><STEAM_0:4:194353742><CT>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:11:32: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "deagle" (damage "17") (damage_armor "0") (health "27") (armor "0")
+L 04/05/2015 - 15:11:37: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "grenade"
+L 04/05/2015 - 15:11:37: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "NO HARD<298><STEAM_0:4:194353742><CT>" with "grenade"
+L 04/05/2015 - 15:11:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "11")
+L 04/05/2015 - 15:11:37: World triggered "Round_End"
+L 04/05/2015 - 15:11:47: World triggered "Round_Start"
+L 04/05/2015 - 15:11:53: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m249" (damage "42") (damage_armor "7") (health "58") (armor "72")
+L 04/05/2015 - 15:11:57: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "48") (armor "72")
+L 04/05/2015 - 15:12:01: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m249" (damage "13") (damage_armor "2") (health "35") (armor "70")
+L 04/05/2015 - 15:12:05: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "NO HARD<298><STEAM_0:4:194353742><CT>" with "grenade"
+L 04/05/2015 - 15:12:09: "adamas<292><STEAM_0:4:443597682><CT>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" with "m4a1" (damage "11") (damage_armor "0") (health "58") (armor "40")
+L 04/05/2015 - 15:12:11: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "15") (armor "62")
+L 04/05/2015 - 15:12:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-12") (armor "0")
+L 04/05/2015 - 15:12:15: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "ak47"
+L 04/05/2015 - 15:12:17: "HavA<296><STEAM_0:4:962206670><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m249" (damage "10") (damage_armor "2") (health "52") (armor "98")
+L 04/05/2015 - 15:12:19: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "20") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 15:12:25: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "16") (damage_armor "0") (health "8") (armor "0")
+L 04/05/2015 - 15:12:25: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "HavA<296><STEAM_0:4:962206670><CT>" with "ak47" (damage "64") (damage_armor "0") (health "-56") (armor "0")
+L 04/05/2015 - 15:12:25: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "HavA<296><STEAM_0:4:962206670><CT>" with "ak47"
+L 04/05/2015 - 15:12:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "12")
+L 04/05/2015 - 15:12:25: World triggered "Round_End"
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats" (weapon "grenade") (shots "9") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "38") (deaths "2")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats" (weapon "ump45") (shots "24") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats2" (weapon "ump45") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats" (weapon "usp") (shots "50") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "98") (deaths "2")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "2") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats" (weapon "m249") (shots "231") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "65") (deaths "2")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "weaponstats2" (weapon "m249") (head "1") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "time" (time "3:52")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" triggered "latency" (ping "43")
+L 04/05/2015 - 15:12:30: "HavA<296><STEAM_0:4:962206670><CT>" disconnected
+L 04/05/2015 - 15:12:35: World triggered "Round_Start"
+L 04/05/2015 - 15:12:47: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47" (damage "16") (damage_armor "0") (health "-6") (armor "0")
+L 04/05/2015 - 15:12:47: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47"
+L 04/05/2015 - 15:12:49: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "deagle" (damage "17") (damage_armor "0") (health "49") (armor "0")
+L 04/05/2015 - 15:12:50: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "deagle" (damage "17") (damage_armor "0") (health "32") (armor "0")
+L 04/05/2015 - 15:12:53: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:12:53: "HavA<299><STEAM_0:4:962206670><>" connected, address "37.213.232.219:27005"
+L 04/05/2015 - 15:12:53: [VTC] Player 4 speex
+L 04/05/2015 - 15:12:57: "HavA<299><STEAM_0:4:962206670><>" entered the game
+L 04/05/2015 - 15:12:59: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "59") (armor "80")
+L 04/05/2015 - 15:12:59: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 15:13:00: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "grenade"
+L 04/05/2015 - 15:13:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "13")
+L 04/05/2015 - 15:13:00: World triggered "Round_End"
+L 04/05/2015 - 15:13:06: "HavA<299><STEAM_0:4:962206670><UNASSIGNED>" triggered "time" (time "0:08")
+L 04/05/2015 - 15:13:06: "HavA<299><STEAM_0:4:962206670><UNASSIGNED>" triggered "latency" (ping "0")
+L 04/05/2015 - 15:13:06: "HavA<299><STEAM_0:4:962206670><>" disconnected
+L 04/05/2015 - 15:13:10: World triggered "Round_Start"
+L 04/05/2015 - 15:13:10: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:13:10: "HavA<300><STEAM_0:4:962206670><>" connected, address "37.213.232.219:27005"
+L 04/05/2015 - 15:13:10: Kick: "HavA<300><STEAM_0:4:962206670><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 16 секунд"")
+L 04/05/2015 - 15:13:18: "NO HARD<298><STEAM_0:4:194353742><CT>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" with "famas" (damage "9") (damage_armor "2") (health "82") (armor "29")
+L 04/05/2015 - 15:13:18: "NO HARD<298><STEAM_0:4:194353742><CT>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" with "famas" (damage "9") (damage_armor "2") (health "73") (armor "27")
+L 04/05/2015 - 15:13:22: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 15:13:22: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 15:13:23: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 04/05/2015 - 15:13:25: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:13:25: "ANGELuHA<301><STEAM_0:4:1512754949><>" connected, address "178.124.9.29:27005"
+L 04/05/2015 - 15:13:25: [VTC] Player 4 speex
+L 04/05/2015 - 15:13:30: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "9") (armor "39")
+L 04/05/2015 - 15:13:32: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "NO HARD<298><STEAM_0:4:194353742><CT>" with "ak47" (damage "16") (damage_armor "0") (health "18") (armor "0")
+L 04/05/2015 - 15:13:33: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" killed "NO HARD<298><STEAM_0:4:194353742><CT>" with "grenade"
+L 04/05/2015 - 15:13:33: "adamas<292><STEAM_0:4:443597682><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "89") (damage_armor "19") (health "-80") (armor "20")
+L 04/05/2015 - 15:13:33: "adamas<292><STEAM_0:4:443597682><CT>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats" (weapon "grenade") (shots "15") (hits "14") (kills "0") (headshots "0") (tks "0") (damage "194") (deaths "2")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats" (weapon "famas") (shots "37") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "18") (deaths "2")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats2" (weapon "famas") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats" (weapon "m4a1") (shots "12") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "120") (deaths "1")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "time" (time "3:09")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" triggered "latency" (ping "41")
+L 04/05/2015 - 15:13:38: "NO HARD<298><STEAM_0:4:194353742><CT>" disconnected
+L 04/05/2015 - 15:13:47: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "deagle" (damage "56") (damage_armor "0") (health "20") (armor "0")
+L 04/05/2015 - 15:13:47: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "deagle" (damage "46") (damage_armor "0") (health "-26") (armor "0")
+L 04/05/2015 - 15:13:47: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "deagle"
+L 04/05/2015 - 15:13:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "14")
+L 04/05/2015 - 15:13:47: World triggered "Round_End"
+L 04/05/2015 - 15:13:57: World triggered "Round_Start"
+L 04/05/2015 - 15:13:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 15:13:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 04/05/2015 - 15:13:57: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "64") (damage_armor "0") (health "4") (armor "0")
+L 04/05/2015 - 15:13:58: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "20") (damage_armor "0") (health "-16") (armor "0")
+L 04/05/2015 - 15:13:58: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "ak47"
+L 04/05/2015 - 15:13:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "15")
+L 04/05/2015 - 15:13:58: World triggered "Round_End"
+L 04/05/2015 - 15:14:03: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 15:14:06: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:14:06: "ANGELuHA<302><STEAM_0:4:1512754949><>" connected, address "178.124.9.29:27005"
+L 04/05/2015 - 15:14:06: [VTC] Player 4 speex
+L 04/05/2015 - 15:14:08: World triggered "Round_Start"
+L 04/05/2015 - 15:14:09: "ANGELuHA<302><STEAM_0:4:1512754949><>" entered the game
+L 04/05/2015 - 15:14:09: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "18")
+L 04/05/2015 - 15:14:10: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "adamas<292><STEAM_0:4:443597682><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:14:13: "ANGELuHA<302><STEAM_0:4:1512754949><>" joined team "TERRORIST"
+L 04/05/2015 - 15:14:32: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "deagle" (damage "12") (damage_armor "2") (health "76") (armor "16")
+L 04/05/2015 - 15:14:35: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "grenade"
+L 04/05/2015 - 15:14:38: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "-23") (armor "0")
+L 04/05/2015 - 15:14:38: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "ak47"
+L 04/05/2015 - 15:15:17: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "1") (health "50") (armor "6")
+L 04/05/2015 - 15:15:18: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "51") (damage_armor "7") (health "-1") (armor "0")
+L 04/05/2015 - 15:15:18: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47"
+L 04/05/2015 - 15:15:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "16")
+L 04/05/2015 - 15:15:18: World triggered "Round_End"
+L 04/05/2015 - 15:15:28: World triggered "Round_Start"
+L 04/05/2015 - 15:15:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 04/05/2015 - 15:15:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 04/05/2015 - 15:15:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "16") (damage_armor "0") (health "44") (armor "0")
+L 04/05/2015 - 15:15:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "16") (damage_armor "0") (health "28") (armor "0")
+L 04/05/2015 - 15:15:29: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "16") (armor "0")
+L 04/05/2015 - 15:15:36: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "grenade"
+L 04/05/2015 - 15:15:55: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "adamas<292><STEAM_0:4:443597682><CT>" with "grenade"
+L 04/05/2015 - 15:15:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "17")
+L 04/05/2015 - 15:15:55: World triggered "Round_End"
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats" (weapon "grenade") (shots "39") (hits "30") (kills "0") (headshots "0") (tks "0") (damage "655") (deaths "3")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats" (weapon "ump45") (shots "25") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "68") (deaths "2")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats2" (weapon "ump45") (head "0") (chest "2") (stomach "0") (leftarm "1") (rightarm "2") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats" (weapon "m4a1") (shots "150") (hits "7") (kills "1") (headshots "1") (tks "0") (damage "161") (deaths "6")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "2")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "time" (time "9:26")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" triggered "latency" (ping "51")
+L 04/05/2015 - 15:16:00: "adamas<292><STEAM_0:4:443597682><CT>" disconnected
+L 04/05/2015 - 15:16:05: World triggered "Round_Start"
+L 04/05/2015 - 15:16:21: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "2") (health "4") (armor "55")
+L 04/05/2015 - 15:16:23: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "2") (health "-8") (armor "53")
+L 04/05/2015 - 15:16:23: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47"
+L 04/05/2015 - 15:16:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "18")
+L 04/05/2015 - 15:16:23: World triggered "Round_End"
+L 04/05/2015 - 15:16:33: World triggered "Round_Start"
+L 04/05/2015 - 15:16:33: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "3") (health "91") (armor "97")
+L 04/05/2015 - 15:16:33: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "95")
+L 04/05/2015 - 15:16:33: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "73") (armor "93")
+L 04/05/2015 - 15:16:33: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "64") (armor "91")
+L 04/05/2015 - 15:16:34: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "54") (armor "91")
+L 04/05/2015 - 15:16:34: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "45") (armor "89")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "8") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "89") (deaths "0")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "35") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "12") (deaths "0")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "60") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "time" (time "2:33")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" triggered "latency" (ping "55")
+L 04/05/2015 - 15:16:42: "ANGELuHA<302><STEAM_0:4:1512754949><TERRORIST>" disconnected
+L 04/05/2015 - 15:16:50: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:16:50: "13<303><STEAM_0:4:1512754949><>" connected, address "178.124.9.29:27005"
+L 04/05/2015 - 15:16:50: [VTC] Player 4 speex
+L 04/05/2015 - 15:16:54: "13<303><STEAM_0:4:1512754949><>" entered the game
+L 04/05/2015 - 15:16:56: "13<303><STEAM_0:4:1512754949><>" joined team "TERRORIST"
+L 04/05/2015 - 15:17:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "2") (health "74") (armor "90")
+L 04/05/2015 - 15:17:03: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "1") (health "62") (armor "89")
+L 04/05/2015 - 15:17:06: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "65")
+L 04/05/2015 - 15:17:08: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "45") (armor "71")
+L 04/05/2015 - 15:17:08: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "24") (armor "67")
+L 04/05/2015 - 15:17:08: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "3") (armor "62")
+L 04/05/2015 - 15:17:08: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "27") (damage_armor "4") (health "35") (armor "85")
+L 04/05/2015 - 15:17:08: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "-81") (armor "44")
+L 04/05/2015 - 15:17:08: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" killed "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:17:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "2") (health "23") (armor "83")
+L 04/05/2015 - 15:17:11: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "grenade"
+L 04/05/2015 - 15:17:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "19")
+L 04/05/2015 - 15:17:11: World triggered "Round_End"
+L 04/05/2015 - 15:17:16: "13<303><STEAM_0:4:1512754949><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 15:17:21: World triggered "Round_Start"
+L 04/05/2015 - 15:17:22: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/05/2015 - 15:17:22: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "100")
+L 04/05/2015 - 15:17:24: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "64") (armor "100")
+L 04/05/2015 - 15:17:49: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "36") (armor "74")
+L 04/05/2015 - 15:17:49: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "26") (damage_armor "0") (health "38") (armor "100")
+L 04/05/2015 - 15:17:49: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "26") (damage_armor "0") (health "12") (armor "100")
+L 04/05/2015 - 15:17:50: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "15") (armor "70")
+L 04/05/2015 - 15:17:50: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "33") (damage_armor "5") (health "-21") (armor "95")
+L 04/05/2015 - 15:17:50: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47"
+L 04/05/2015 - 15:17:55: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "13<303><STEAM_0:4:1512754949><CT>" with "knife" (damage "65") (damage_armor "0") (health "13") (armor "0")
+L 04/05/2015 - 15:17:55: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "13<303><STEAM_0:4:1512754949><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-22") (armor "0")
+L 04/05/2015 - 15:17:55: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "13<303><STEAM_0:4:1512754949><CT>" with "ak47"
+L 04/05/2015 - 15:17:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "20")
+L 04/05/2015 - 15:17:55: World triggered "Round_End"
+L 04/05/2015 - 15:17:59: "13<303><STEAM_0:4:1512754949><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:18:00: "13<303><STEAM_0:4:1512754949><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 15:18:05: World triggered "Round_Start"
+L 04/05/2015 - 15:18:06: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 04/05/2015 - 15:18:14: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "deagle" (damage "14") (damage_armor "2") (health "52") (armor "84")
+L 04/05/2015 - 15:18:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "deagle" (damage "13") (damage_armor "3") (health "39") (armor "81")
+L 04/05/2015 - 15:18:15: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "deagle" (damage "13") (damage_armor "2") (health "26") (armor "79")
+L 04/05/2015 - 15:18:23: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "grenade"
+L 04/05/2015 - 15:18:24: Kick: "13<303><STEAM_0:4:1512754949><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "weaponstats" (weapon "usp") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "weaponstats" (weapon "m4a1") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "time" (time "1:30")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" triggered "latency" (ping "101")
+L 04/05/2015 - 15:18:24: "13<303><STEAM_0:4:1512754949><CT>" disconnected
+L 04/05/2015 - 15:18:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "21")
+L 04/05/2015 - 15:18:24: World triggered "Round_End"
+L 04/05/2015 - 15:18:34: World triggered "Round_Start"
+L 04/05/2015 - 15:18:37: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:18:37: "13<304><STEAM_0:4:1512754949><>" connected, address "178.124.9.29:27005"
+L 04/05/2015 - 15:18:37: Kick: "13<304><STEAM_0:4:1512754949><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 6 секунд"")
+L 04/05/2015 - 15:18:40: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "63")
+L 04/05/2015 - 15:18:47: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b1be4
+L 04/05/2015 - 15:18:47: "13<305><STEAM_0:4:1512754949><>" connected, address "178.124.9.29:27005"
+L 04/05/2015 - 15:18:48: [VTC] Player 4 speex
+L 04/05/2015 - 15:18:51: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "81") (armor "61")
+L 04/05/2015 - 15:18:52: "13<305><STEAM_0:4:1512754949><>" entered the game
+L 04/05/2015 - 15:18:52: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "80") (armor "26")
+L 04/05/2015 - 15:18:52: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "12") (damage_armor "3") (health "68") (armor "23")
+L 04/05/2015 - 15:18:53: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "59") (armor "21")
+L 04/05/2015 - 15:18:54: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "39") (damage_armor "8") (health "20") (armor "13")
+L 04/05/2015 - 15:18:54: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "11") (armor "11")
+L 04/05/2015 - 15:18:54: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1" (damage "39") (damage_armor "9") (health "-28") (armor "2")
+L 04/05/2015 - 15:18:54: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" killed "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" with "m4a1"
+L 04/05/2015 - 15:18:54: "13<305><STEAM_0:4:1512754949><>" joined team "TERRORIST"
+L 04/05/2015 - 15:19:04: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "54") (armor "55")
+L 04/05/2015 - 15:19:05: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "31") (armor "55")
+L 04/05/2015 - 15:19:05: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "8") (armor "55")
+L 04/05/2015 - 15:19:06: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "33") (damage_armor "5") (health "-10") (armor "54")
+L 04/05/2015 - 15:19:06: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47"
+L 04/05/2015 - 15:19:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "22")
+L 04/05/2015 - 15:19:06: World triggered "Round_End"
+L 04/05/2015 - 15:19:16: World triggered "Round_Start"
+L 04/05/2015 - 15:19:17: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "13<305><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/05/2015 - 15:19:17: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "13<305><STEAM_0:4:1512754949><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "69") (armor "0")
+L 04/05/2015 - 15:19:18: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 04/05/2015 - 15:19:18: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "100")
+L 04/05/2015 - 15:19:19: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "64") (armor "100")
+L 04/05/2015 - 15:19:26: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" attacked "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "91") (armor "53")
+L 04/05/2015 - 15:19:42: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "knife" (damage "55") (damage_armor "5") (health "9") (armor "95")
+L 04/05/2015 - 15:19:43: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "knife" (damage "55") (damage_armor "5") (health "-46") (armor "90")
+L 04/05/2015 - 15:19:43: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "knife"
+L 04/05/2015 - 15:19:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "23")
+L 04/05/2015 - 15:19:43: World triggered "Round_End"
+L 04/05/2015 - 15:19:48: "13<305><STEAM_0:4:1512754949><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 15:19:53: World triggered "Round_Start"
+L 04/05/2015 - 15:19:53: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/05/2015 - 15:19:53: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "12") (damage_armor "0") (health "74") (armor "0")
+L 04/05/2015 - 15:19:53: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "60") (armor "0")
+L 04/05/2015 - 15:19:53: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "m4a1" (damage "17") (damage_armor "0") (health "43") (armor "0")
+L 04/05/2015 - 15:19:53: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "29") (armor "0")
+L 04/05/2015 - 15:19:54: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "ak47" (damage "16") (damage_armor "0") (health "13") (armor "0")
+L 04/05/2015 - 15:19:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 15:19:54: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" killed "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" with "m4a1"
+L 04/05/2015 - 15:19:54: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/05/2015 - 15:19:55: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "0")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "grenade") (shots "56") (hits "44") (kills "3") (headshots "0") (tks "0") (damage "922") (deaths "1")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "m4a1") (shots "200") (hits "27") (kills "2") (headshots "2") (tks "0") (damage "510") (deaths "7")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "5") (stomach "4") (leftarm "8") (rightarm "1") (leftleg "3") (rightleg "3")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "ak47") (shots "164") (hits "4") (kills "2") (headshots "0") (tks "0") (damage "70") (deaths "0")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "1")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "time" (time "11:39")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" triggered "latency" (ping "9")
+L 04/05/2015 - 15:19:57: "[Hard_Skill]_Dasha<294><STEAM_0:4:1068366041><CT>" disconnected
+L 04/05/2015 - 15:19:59: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "62") (armor "0")
+L 04/05/2015 - 15:19:59: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "m4a1" (damage "17") (damage_armor "0") (health "45") (armor "0")
+L 04/05/2015 - 15:19:59: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "31") (armor "0")
+L 04/05/2015 - 15:20:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "ak47" (damage "12") (damage_armor "0") (health "19") (armor "0")
+L 04/05/2015 - 15:20:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "ak47" (damage "20") (damage_armor "0") (health "-1") (armor "0")
+L 04/05/2015 - 15:20:01: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "13<305><STEAM_0:4:1512754949><CT>" with "ak47"
+L 04/05/2015 - 15:20:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "24")
+L 04/05/2015 - 15:20:01: World triggered "Round_End"
+L 04/05/2015 - 15:20:04: "13<305><STEAM_0:4:1512754949><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:20:06: "13<305><STEAM_0:4:1512754949><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 15:20:11: World triggered "Round_Start"
+L 04/05/2015 - 15:20:16: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "13<305><STEAM_0:4:1512754949><CT>" with "grenade"
+L 04/05/2015 - 15:20:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "25")
+L 04/05/2015 - 15:20:16: World triggered "Round_End"
+L 04/05/2015 - 15:20:19: "13<305><STEAM_0:4:1512754949><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:20:21: "13<305><STEAM_0:4:1512754949><TERRORIST>" joined team "CT" (auto)
+L 04/05/2015 - 15:20:26: World triggered "Round_Start"
+L 04/05/2015 - 15:20:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" attacked "13<305><STEAM_0:4:1512754949><CT>" with "ak47" (damage "64") (damage_armor "0") (health "36") (armor "0")
+L 04/05/2015 - 15:20:33: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" killed "13<305><STEAM_0:4:1512754949><CT>" with "grenade"
+L 04/05/2015 - 15:20:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "26")
+L 04/05/2015 - 15:20:33: World triggered "Round_End"
+L 04/05/2015 - 15:20:38: "13<305><STEAM_0:4:1512754949><CT>" committed suicide with "world"
+L 04/05/2015 - 15:20:38: "13<305><STEAM_0:4:1512754949><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:20:43: World triggered "Round_Start"
+L 04/05/2015 - 15:20:51: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 15:20:51: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" joined team "CT"
+L 04/05/2015 - 15:20:52: World triggered "Game_Commencing"
+L 04/05/2015 - 15:20:52: World triggered "Game_Commencing" (CT "12") (T "26")
+L 04/05/2015 - 15:20:52: World triggered "Round_End"
+L 04/05/2015 - 15:20:53: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 15:20:53: "T.N.L. Leks<287><STEAM_0:4:2079542533><TERRORIST>" joined team "CT"
+L 04/05/2015 - 15:21:00: World triggered "Round_Start"
+L 04/05/2015 - 15:21:08: "13<305><STEAM_0:4:1512754949><TERRORIST>" attacked "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" with "glock18" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/05/2015 - 15:21:08: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" attacked "13<305><STEAM_0:4:1512754949><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "21") (armor "0")
+L 04/05/2015 - 15:21:09: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" killed "13<305><STEAM_0:4:1512754949><TERRORIST>" with "grenade"
+L 04/05/2015 - 15:21:09: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/05/2015 - 15:21:09: World triggered "Round_End"
+L 04/05/2015 - 15:21:18: "13<305><STEAM_0:4:1512754949><TERRORIST>" committed suicide with "world"
+L 04/05/2015 - 15:21:18: "13<305><STEAM_0:4:1512754949><TERRORIST>" joined team "CT"
+L 04/05/2015 - 15:21:19: World triggered "Round_Start"
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "weaponstats" (weapon "usp") (shots "19") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "weaponstats" (weapon "glock18") (shots "51") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "16") (deaths "1")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "time" (time "4:11")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" triggered "latency" (ping "64")
+L 04/05/2015 - 15:23:04: "13<305><STEAM_0:4:1512754949><CT>" disconnected
+L 04/05/2015 - 15:23:09: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" committed suicide with "grenade"
+L 04/05/2015 - 15:23:25: "T.N.L. N!keL<276><STEAM_0:4:1029491717><CT>" joined team "TERRORIST"
+L 04/05/2015 - 15:23:26: World triggered "Game_Commencing"
+L 04/05/2015 - 15:23:26: World triggered "Game_Commencing" (CT "1") (T "0")
+L 04/05/2015 - 15:23:26: World triggered "Round_End"
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "grenade") (shots "183") (hits "86") (kills "13") (headshots "0") (tks "0") (damage "2294") (deaths "8")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "galil") (shots "174") (hits "6") (kills "0") (headshots "0") (tks "0") (damage "90") (deaths "2")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "galil") (head "1") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "2") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "famas") (shots "18") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "18") (deaths "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "famas") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "usp") (shots "14") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "glock18") (shots "16") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "175") (deaths "1")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "m3") (shots "7") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "132") (deaths "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "m4a1") (shots "166") (hits "19") (kills "2") (headshots "1") (tks "0") (damage "329") (deaths "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "2") (stomach "3") (leftarm "6") (rightarm "2") (leftleg "1") (rightleg "2")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "g3sg1") (shots "20") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "g3sg1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "deagle") (shots "181") (hits "17") (kills "2") (headshots "0") (tks "0") (damage "451") (deaths "2")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "3") (stomach "2") (leftarm "5") (rightarm "4") (leftleg "1") (rightleg "1")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "ak47") (shots "1285") (hits "97") (kills "14") (headshots "3") (tks "0") (damage "1685") (deaths "11")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "ak47") (head "5") (chest "9") (stomach "14") (leftarm "28") (rightarm "10") (leftleg "15") (rightleg "16")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "knife") (shots "17") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "110") (deaths "3")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "time" (time "35:24")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" triggered "latency" (ping "58")
+L 04/05/2015 - 15:23:28: "T.N.L. Leks<287><STEAM_0:4:2079542533><CT>" disconnected
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "166") (hits "85") (kills "26") (headshots "0") (tks "0") (damage "2808") (deaths "5")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "95") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "31") (deaths "3")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "3") (kills "2") (headshots "1") (tks "0") (damage "556") (deaths "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "218") (hits "14") (kills "3") (headshots "2") (tks "0") (damage "365") (deaths "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "5") (chest "0") (stomach "1") (leftarm "5") (rightarm "1") (leftleg "1") (rightleg "1")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "946") (hits "84") (kills "10") (headshots "6") (tks "0") (damage "2069") (deaths "4")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "24") (chest "12") (stomach "3") (leftarm "38") (rightarm "5") (leftleg "2") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "tmp") (shots "60") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "tmp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "120") (hits "12") (kills "5") (headshots "2") (tks "0") (damage "540") (deaths "2")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "3") (chest "4") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "224") (hits "19") (kills "5") (headshots "3") (tks "0") (damage "538") (deaths "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "4") (stomach "3") (leftarm "8") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "30") (hits "3") (kills "2") (headshots "0") (tks "0") (damage "195") (deaths "4")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "time" (time "43:59")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" triggered "latency" (ping "27")
+L 04/05/2015 - 15:23:34: "T.N.L. N!keL<276><STEAM_0:4:1029491717><TERRORIST>" disconnected
+L 04/05/2015 - 15:23:34: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/05/2015 - 15:23:34: World triggered "Round_End"
+L 04/05/2015 - 15:23:34: World triggered "Round_Start"
+L 04/05/2015 - 15:23:44: World triggered "Round_Start"
+L 04/05/2015 - 15:24:40: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/05/2015 - 15:24:40: [META] ini: Read plugin config for: AMX Mod X
+L 04/05/2015 - 15:24:40: [META] ini: Read plugin config for: dproto_EF
+L 04/05/2015 - 15:24:40: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/05/2015 - 15:24:40: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/05/2015 - 15:24:40: [META] dll: Updating plugins...
+L 04/05/2015 - 15:24:40: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/05/2015 - 15:24:40: Log file closed

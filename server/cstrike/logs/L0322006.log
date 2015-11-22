@@ -1,0 +1,1123 @@
+L 03/22/2015 - 02:24:24: Log file started (file "logs/L0322006.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/22/2015 - 02:24:24: Loading map "$2000$"
+L 03/22/2015 - 02:24:24: Server cvars start
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_debug_level" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_examine_time" = "0.5"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_look_angle" = "10"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_look_distance" = "200"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_message_repeats" = "5"
+L 03/22/2015 - 02:24:24: Server cvar "_tutor_view_distance" = "1000"
+L 03/22/2015 - 02:24:24: Server cvar "aesp_version" = "1.5b_mini"
+L 03/22/2015 - 02:24:24: Server cvar "allow_spectators" = "4"
+L 03/22/2015 - 02:24:24: Server cvar "amx_client_languages" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/22/2015 - 02:24:24: Server cvar "amx_language" = "ru"
+L 03/22/2015 - 02:24:24: Server cvar "amx_nextmap" = "aim_awp"
+L 03/22/2015 - 02:24:24: Server cvar "amx_timeleft" = "24:51"
+L 03/22/2015 - 02:24:24: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/22/2015 - 02:24:24: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/22/2015 - 02:24:24: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Config" = "Loaded"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Replace" = "Failed"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Status" = "Loaded"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/22/2015 - 02:24:24: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/22/2015 - 02:24:24: Server cvar "coop" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "deathmatch" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "decalfrequency" = "9"
+L 03/22/2015 - 02:24:24: Server cvar "dp_version" = "0.9.391"
+L 03/22/2015 - 02:24:24: Server cvar "edgefriction" = "2"
+L 03/22/2015 - 02:24:24: Server cvar "hostage_debug" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "hostage_stop" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "humans_join_team" = "any"
+L 03/22/2015 - 02:24:24: Server cvar "jtp10181" = "chute"
+L 03/22/2015 - 02:24:24: Server cvar "max_queries_sec" = "3.0"
+L 03/22/2015 - 02:24:24: Server cvar "max_queries_sec_global" = "30"
+L 03/22/2015 - 02:24:24: Server cvar "max_queries_window" = "60"
+L 03/22/2015 - 02:24:24: Server cvar "metamod_version" = "1.19"
+L 03/22/2015 - 02:24:24: Server cvar "mp_allowmonsters" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_autokick" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_autoteambalance" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_buytime" = "1.5"
+L 03/22/2015 - 02:24:24: Server cvar "mp_c4timer" = "35"
+L 03/22/2015 - 02:24:24: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_consistency" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_fadetoblack" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_flashlight" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_footsteps" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_forcecamera" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_forcechasecam" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_fragsleft" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_freezetime" = "5"
+L 03/22/2015 - 02:24:24: Server cvar "mp_friendlyfire" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_hostagepenalty" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_kickpercent" = "0.66"
+L 03/22/2015 - 02:24:24: Server cvar "mp_limitteams" = "5"
+L 03/22/2015 - 02:24:24: Server cvar "mp_logdetail" = "3"
+L 03/22/2015 - 02:24:24: Server cvar "mp_logfile" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_logmessages" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/22/2015 - 02:24:24: Server cvar "mp_maxrounds" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_mirrordamage" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_playerid" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_roundtime" = "2.57"
+L 03/22/2015 - 02:24:24: Server cvar "mp_startmoney" = "800"
+L 03/22/2015 - 02:24:24: Server cvar "mp_timeleft" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 02:24:24: Server cvar "mp_tkpunish" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_windifference" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "mp_winlimit" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "pausable" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_accelerate" = "5"
+L 03/22/2015 - 02:24:24: Server cvar "sv_aim" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_airaccelerate" = "10"
+L 03/22/2015 - 02:24:24: Server cvar "sv_airmove" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "sv_allowupload" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "sv_alltalk" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_bounce" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "sv_cheats" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_clienttrace" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "sv_clipmode" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_contact" = ""
+L 03/22/2015 - 02:24:24: Server cvar "sv_friction" = "4"
+L 03/22/2015 - 02:24:24: Server cvar "sv_gravity" = "800"
+L 03/22/2015 - 02:24:24: Server cvar "sv_logblocks" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_maxrate" = "50000"
+L 03/22/2015 - 02:24:24: Server cvar "sv_maxspeed" = "900"
+L 03/22/2015 - 02:24:24: Server cvar "sv_minrate" = "100000"
+L 03/22/2015 - 02:24:24: Server cvar "sv_password" = ""
+L 03/22/2015 - 02:24:24: Server cvar "sv_proxies" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_region" = "255"
+L 03/22/2015 - 02:24:24: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_restartround" = "0"
+L 03/22/2015 - 02:24:24: Server cvar "sv_stepsize" = "18"
+L 03/22/2015 - 02:24:24: Server cvar "sv_stopspeed" = "75"
+L 03/22/2015 - 02:24:24: Server cvar "sv_uploadmax" = "0.5"
+L 03/22/2015 - 02:24:24: Server cvar "sv_voiceenable" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "sv_wateraccelerate" = "10"
+L 03/22/2015 - 02:24:24: Server cvar "sv_waterfriction" = "1"
+L 03/22/2015 - 02:24:24: Server cvar "travo_statmarquee" = "v1.2"
+L 03/22/2015 - 02:24:24: Server cvar "vtc_version" = "80"
+L 03/22/2015 - 02:24:24: Server cvars end
+L 03/22/2015 - 02:24:24: Server cvar "amx_nextmap" = "35hp_2"
+L 03/22/2015 - 02:24:24: Server cvar "sv_restart" = "1"
+L 03/22/2015 - 02:24:24: World triggered "Restart_Round_(1_second)"
+L 03/22/2015 - 02:24:24: Team "CT" scored "0" with "0" players
+L 03/22/2015 - 02:24:24: Team "TERRORIST" scored "0" with "0" players
+L 03/22/2015 - 02:24:24: Server cvar "sv_restart" = "0"
+L 03/22/2015 - 02:24:25: Started map "$2000$" (CRC "-1688392397")
+L 03/22/2015 - 02:24:30: World triggered "Round_Start"
+L 03/22/2015 - 02:49:19: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39aff08
+L 03/22/2015 - 02:49:19: "Postoronniy<299><STEAM_0:4:1097453189><>" connected, address "178.127.143.43:27005"
+L 03/22/2015 - 02:49:19: [VTC] Player 1 speex
+L 03/22/2015 - 02:49:22: "Postoronniy<299><STEAM_0:4:1097453189><>" entered the game
+L 03/22/2015 - 02:49:24: "Postoronniy<299><STEAM_0:4:1097453189><>" joined team "CT"
+L 03/22/2015 - 02:49:47: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b4dfc
+L 03/22/2015 - 02:49:47: "Dibrand<300><STEAM_0:4:1097453189><>" connected, address "178.127.143.43:1040"
+L 03/22/2015 - 02:49:47: [VTC] Player 2 speex
+L 03/22/2015 - 02:49:48: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b9cf0
+L 03/22/2015 - 02:49:48: "[vipms-boost.ru] Player<301><STEAM_0:4:1097453189><>" connected, address "178.127.143.43:1041"
+L 03/22/2015 - 02:49:48: [VTC] Player 3 speex
+L 03/22/2015 - 02:49:50: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b4dfc
+L 03/22/2015 - 02:49:50: "Dibrand<302><STEAM_0:4:1097453189><>" connected, address "178.127.143.43:1040"
+L 03/22/2015 - 02:49:50: [VTC] Player 2 speex
+L 03/22/2015 - 02:49:52: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b9cf0
+L 03/22/2015 - 02:49:52: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><>" connected, address "178.127.143.43:1041"
+L 03/22/2015 - 02:49:52: [VTC] Player 3 speex
+L 03/22/2015 - 02:49:54: "Dibrand<302><STEAM_0:4:1097453189><>" entered the game
+L 03/22/2015 - 02:49:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><>" entered the game
+L 03/22/2015 - 02:49:58: "Dibrand<302><STEAM_0:4:1097453189><>" joined team "TERRORIST"
+L 03/22/2015 - 02:49:59: World triggered "Game_Commencing"
+L 03/22/2015 - 02:49:59: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/22/2015 - 02:49:59: World triggered "Round_End"
+L 03/22/2015 - 02:50:02: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><>" joined team "TERRORIST"
+L 03/22/2015 - 02:50:07: World triggered "Round_Start"
+L 03/22/2015 - 02:50:10: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/22/2015 - 02:50:13: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "41") (armor "0")
+L 03/22/2015 - 02:50:13: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "12") (armor "0")
+L 03/22/2015 - 02:50:13: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-104") (armor "0")
+L 03/22/2015 - 02:50:13: "Postoronniy<299><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:50:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 02:50:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/22/2015 - 02:50:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 02:50:16: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:50:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 03/22/2015 - 02:50:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:50:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/22/2015 - 02:50:16: World triggered "Round_End"
+L 03/22/2015 - 02:50:26: World triggered "Round_Start"
+L 03/22/2015 - 02:50:29: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 02:50:29: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 02:50:29: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 02:50:30: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-110") (armor "0")
+L 03/22/2015 - 02:50:30: "Postoronniy<299><STEAM_0:4:1097453189><CT>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:50:37: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 02:50:38: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 02:50:38: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 02:50:39: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 02:50:39: "Postoronniy<299><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:50:39: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/22/2015 - 02:50:39: World triggered "Round_End"
+L 03/22/2015 - 02:50:49: World triggered "Round_Start"
+L 03/22/2015 - 02:50:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 02:50:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 02:50:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-80") (armor "0")
+L 03/22/2015 - 02:50:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:50:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/22/2015 - 02:50:54: World triggered "Round_End"
+L 03/22/2015 - 02:51:04: World triggered "Round_Start"
+L 03/22/2015 - 02:51:07: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 02:51:07: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 02:51:07: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 03/22/2015 - 02:51:07: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-19") (armor "0")
+L 03/22/2015 - 02:51:07: "Postoronniy<299><STEAM_0:4:1097453189><CT>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:51:21: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "43") (armor "0")
+L 03/22/2015 - 02:51:21: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "12") (armor "0")
+L 03/22/2015 - 02:51:21: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:51:21: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-19") (armor "0")
+L 03/22/2015 - 02:51:21: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:51:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/22/2015 - 02:51:21: World triggered "Round_End"
+L 03/22/2015 - 02:51:31: World triggered "Round_Start"
+L 03/22/2015 - 02:51:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 02:51:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/22/2015 - 02:51:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 02:51:38: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:51:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "24") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 02:51:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:51:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/22/2015 - 02:51:38: World triggered "Round_End"
+L 03/22/2015 - 02:51:48: World triggered "Round_Start"
+L 03/22/2015 - 02:51:58: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:51:58: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 02:51:59: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:51:59: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 02:51:59: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 02:51:59: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 02:51:59: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:51:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 03/22/2015 - 02:51:59: World triggered "Round_End"
+L 03/22/2015 - 02:52:09: World triggered "Round_Start"
+L 03/22/2015 - 02:52:12: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 03/22/2015 - 02:52:13: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "73") (armor "0")
+L 03/22/2015 - 02:52:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "aug" (damage "30") (damage_armor "0") (health "39") (armor "0")
+L 03/22/2015 - 02:52:13: "Postoronniy<299><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "50") (armor "0")
+L 03/22/2015 - 02:52:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "aug" (damage "22") (damage_armor "0") (health "17") (armor "0")
+L 03/22/2015 - 02:52:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "aug" (damage "22") (damage_armor "0") (health "-5") (armor "0")
+L 03/22/2015 - 02:52:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Postoronniy<299><STEAM_0:4:1097453189><CT>" with "aug"
+L 03/22/2015 - 02:52:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 03/22/2015 - 02:52:13: World triggered "Round_End"
+L 03/22/2015 - 02:52:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" committed suicide with "world"
+L 03/22/2015 - 02:52:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" joined team "CT"
+L 03/22/2015 - 02:52:19: "Postoronniy<299><STEAM_0:4:1097453189><CT>" committed suicide with "world"
+L 03/22/2015 - 02:52:19: "Postoronniy<299><STEAM_0:4:1097453189><CT>" joined team "TERRORIST"
+L 03/22/2015 - 02:52:23: World triggered "Round_Start"
+L 03/22/2015 - 02:52:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 02:52:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/22/2015 - 02:52:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 02:52:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 03/22/2015 - 02:52:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:52:32: Team "CT" triggered "CTs_Win" (CT "2") (T "6")
+L 03/22/2015 - 02:52:32: World triggered "Round_End"
+L 03/22/2015 - 02:52:42: World triggered "Round_Start"
+L 03/22/2015 - 02:52:49: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 02:52:49: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:52:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 03/22/2015 - 02:52:49: World triggered "Round_End"
+L 03/22/2015 - 02:52:59: World triggered "Round_Start"
+L 03/22/2015 - 02:53:01: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 02:53:01: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "41") (armor "0")
+L 03/22/2015 - 02:53:01: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 03/22/2015 - 02:53:01: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 02:53:01: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:53:21: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 02:53:21: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:53:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 03/22/2015 - 02:53:21: World triggered "Round_End"
+L 03/22/2015 - 02:53:31: World triggered "Round_Start"
+L 03/22/2015 - 02:53:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:53:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 02:53:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 02:53:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 02:53:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:53:38: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 02:53:38: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "41") (armor "0")
+L 03/22/2015 - 02:53:38: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 03/22/2015 - 02:53:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 02:53:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "26") (armor "0")
+L 03/22/2015 - 02:53:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 02:53:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-18") (armor "0")
+L 03/22/2015 - 02:53:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:53:39: Team "CT" triggered "CTs_Win" (CT "3") (T "8")
+L 03/22/2015 - 02:53:39: World triggered "Round_End"
+L 03/22/2015 - 02:53:49: World triggered "Round_Start"
+L 03/22/2015 - 02:53:53: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:53:53: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 02:53:53: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "6") (armor "0")
+L 03/22/2015 - 02:53:53: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:53:53: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-32") (armor "0")
+L 03/22/2015 - 02:53:53: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:53:56: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-71") (armor "0")
+L 03/22/2015 - 02:53:56: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47"
+L 03/22/2015 - 02:53:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "9")
+L 03/22/2015 - 02:53:56: World triggered "Round_End"
+L 03/22/2015 - 02:54:06: World triggered "Round_Start"
+L 03/22/2015 - 02:54:09: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/22/2015 - 02:54:09: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 03/22/2015 - 02:54:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 02:54:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp"
+L 03/22/2015 - 02:54:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 02:54:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "ak47" (damage "64") (damage_armor "0") (health "-48") (armor "0")
+L 03/22/2015 - 02:54:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "ak47"
+L 03/22/2015 - 02:54:21: Team "CT" triggered "CTs_Win" (CT "4") (T "9")
+L 03/22/2015 - 02:54:21: World triggered "Round_End"
+L 03/22/2015 - 02:54:31: World triggered "Round_Start"
+L 03/22/2015 - 02:54:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 02:54:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 03/22/2015 - 02:54:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:54:39: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 02:54:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 02:54:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 02:54:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 02:54:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 02:54:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:54:40: Team "CT" triggered "CTs_Win" (CT "5") (T "9")
+L 03/22/2015 - 02:54:40: World triggered "Round_End"
+L 03/22/2015 - 02:54:50: World triggered "Round_Start"
+L 03/22/2015 - 02:54:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/22/2015 - 02:55:06: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "18") (armor "0")
+L 03/22/2015 - 02:55:07: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 03/22/2015 - 02:55:08: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "37") (damage_armor "0") (health "20") (armor "0")
+L 03/22/2015 - 02:55:09: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 02:55:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "grenade"
+L 03/22/2015 - 02:55:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "10")
+L 03/22/2015 - 02:55:12: World triggered "Round_End"
+L 03/22/2015 - 02:55:22: World triggered "Round_Start"
+L 03/22/2015 - 02:55:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 02:55:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/22/2015 - 02:55:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 03/22/2015 - 02:55:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "12") (armor "0")
+L 03/22/2015 - 02:55:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 02:55:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:55:43: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "65") (damage_armor "0") (health "23") (armor "0")
+L 03/22/2015 - 02:55:51: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "65") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 02:55:51: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife"
+L 03/22/2015 - 02:55:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "11")
+L 03/22/2015 - 02:55:51: World triggered "Round_End"
+L 03/22/2015 - 02:56:01: World triggered "Round_Start"
+L 03/22/2015 - 02:56:08: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:56:08: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:56:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 02:56:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife"
+L 03/22/2015 - 02:56:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "12")
+L 03/22/2015 - 02:56:11: World triggered "Round_End"
+L 03/22/2015 - 02:56:21: World triggered "Round_Start"
+L 03/22/2015 - 02:56:29: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/22/2015 - 02:56:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "100") (damage_armor "0") (health "-23") (armor "0")
+L 03/22/2015 - 02:56:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy"
+L 03/22/2015 - 02:56:34: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:56:34: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:56:41: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 02:56:41: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife"
+L 03/22/2015 - 02:56:41: Team "CT" triggered "CTs_Win" (CT "6") (T "12")
+L 03/22/2015 - 02:56:41: World triggered "Round_End"
+L 03/22/2015 - 02:56:51: World triggered "Round_Start"
+L 03/22/2015 - 02:56:55: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 02:56:55: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 02:56:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "13")
+L 03/22/2015 - 02:56:55: World triggered "Round_End"
+L 03/22/2015 - 02:57:05: World triggered "Round_Start"
+L 03/22/2015 - 02:57:12: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/22/2015 - 02:57:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/22/2015 - 02:57:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/22/2015 - 02:57:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 02:57:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:57:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 02:57:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 02:57:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 02:57:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 02:57:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:57:18: Team "CT" triggered "CTs_Win" (CT "7") (T "13")
+L 03/22/2015 - 02:57:18: World triggered "Round_End"
+L 03/22/2015 - 02:57:28: World triggered "Round_Start"
+L 03/22/2015 - 02:57:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 03/22/2015 - 02:57:39: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/22/2015 - 02:57:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "114") (damage_armor "0") (health "-90") (armor "0")
+L 03/22/2015 - 02:57:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014"
+L 03/22/2015 - 02:58:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:58:17: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "65") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 02:58:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 02:58:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "knife"
+L 03/22/2015 - 02:58:21: Team "CT" triggered "CTs_Win" (CT "8") (T "13")
+L 03/22/2015 - 02:58:21: World triggered "Round_End"
+L 03/22/2015 - 02:58:31: World triggered "Round_Start"
+L 03/22/2015 - 02:58:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 02:58:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/22/2015 - 02:58:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "2") (armor "0")
+L 03/22/2015 - 02:58:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "-27") (armor "0")
+L 03/22/2015 - 02:58:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 02:58:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 02:58:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp"
+L 03/22/2015 - 02:58:40: Team "CT" triggered "CTs_Win" (CT "9") (T "13")
+L 03/22/2015 - 02:58:40: World triggered "Round_End"
+L 03/22/2015 - 02:58:50: World triggered "Round_Start"
+L 03/22/2015 - 02:59:10: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 02:59:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 02:59:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/22/2015 - 02:59:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 02:59:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 03/22/2015 - 02:59:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 02:59:42: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:59:47: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "15") (damage_armor "0") (health "50") (armor "0")
+L 03/22/2015 - 02:59:54: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "15") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 02:59:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/22/2015 - 02:59:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "knife"
+L 03/22/2015 - 02:59:55: Team "CT" triggered "CTs_Win" (CT "10") (T "13")
+L 03/22/2015 - 02:59:55: World triggered "Round_End"
+L 03/22/2015 - 03:00:05: World triggered "Round_Start"
+L 03/22/2015 - 03:00:10: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 03/22/2015 - 03:00:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "34") (armor "0")
+L 03/22/2015 - 03:00:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 03:00:17: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "3") (armor "0")
+L 03/22/2015 - 03:00:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 03/22/2015 - 03:00:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-9") (armor "0")
+L 03/22/2015 - 03:00:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:00:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:00:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "39") (armor "0")
+L 03/22/2015 - 03:00:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "1") (armor "0")
+L 03/22/2015 - 03:00:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-37") (armor "0")
+L 03/22/2015 - 03:00:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:00:19: Team "CT" triggered "CTs_Win" (CT "11") (T "13")
+L 03/22/2015 - 03:00:19: World triggered "Round_End"
+L 03/22/2015 - 03:00:29: World triggered "Round_Start"
+L 03/22/2015 - 03:00:44: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 03:00:44: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-60") (armor "0")
+L 03/22/2015 - 03:00:44: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:00:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 03:00:58: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "40") (damage_armor "0") (health "28") (armor "0")
+L 03/22/2015 - 03:00:58: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-4") (armor "0")
+L 03/22/2015 - 03:00:58: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:00:58: Team "CT" triggered "CTs_Win" (CT "12") (T "13")
+L 03/22/2015 - 03:00:58: World triggered "Round_End"
+L 03/22/2015 - 03:01:08: World triggered "Round_Start"
+L 03/22/2015 - 03:01:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/22/2015 - 03:01:12: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:01:12: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:01:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "80") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 03:01:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "xm1014"
+L 03/22/2015 - 03:01:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:01:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "15") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 03:01:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "11") (damage_armor "0") (health "37") (armor "0")
+L 03/22/2015 - 03:01:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "14") (damage_armor "0") (health "23") (armor "0")
+L 03/22/2015 - 03:01:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "22") (damage_armor "0") (health "1") (armor "0")
+L 03/22/2015 - 03:01:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "27") (damage_armor "0") (health "-26") (armor "0")
+L 03/22/2015 - 03:01:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy"
+L 03/22/2015 - 03:01:31: Team "CT" triggered "CTs_Win" (CT "13") (T "13")
+L 03/22/2015 - 03:01:31: World triggered "Round_End"
+L 03/22/2015 - 03:01:41: World triggered "Round_Start"
+L 03/22/2015 - 03:01:44: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:01:44: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/22/2015 - 03:01:44: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "88") (damage_armor "0") (health "12") (armor "0")
+L 03/22/2015 - 03:01:45: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "22") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 03:01:45: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy"
+L 03/22/2015 - 03:02:06: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:02:06: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "2") (armor "0")
+L 03/22/2015 - 03:02:06: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "-21") (armor "0")
+L 03/22/2015 - 03:02:06: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:02:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "14")
+L 03/22/2015 - 03:02:06: World triggered "Round_End"
+L 03/22/2015 - 03:02:16: World triggered "Round_Start"
+L 03/22/2015 - 03:02:20: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:02:20: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:02:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:02:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 03:02:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "26") (armor "0")
+L 03/22/2015 - 03:02:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 03:02:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-33") (armor "0")
+L 03/22/2015 - 03:02:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:02:26: Team "CT" triggered "CTs_Win" (CT "14") (T "14")
+L 03/22/2015 - 03:02:26: World triggered "Round_End"
+L 03/22/2015 - 03:02:36: World triggered "Round_Start"
+L 03/22/2015 - 03:02:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/22/2015 - 03:02:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 03/22/2015 - 03:02:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "23") (armor "0")
+L 03/22/2015 - 03:02:38: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/22/2015 - 03:02:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/22/2015 - 03:02:38: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "72") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:02:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "43") (armor "0")
+L 03/22/2015 - 03:02:39: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "72") (damage_armor "0") (health "-62") (armor "0")
+L 03/22/2015 - 03:02:39: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "mp5navy"
+L 03/22/2015 - 03:02:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "15")
+L 03/22/2015 - 03:02:39: World triggered "Round_End"
+L 03/22/2015 - 03:02:49: World triggered "Round_Start"
+L 03/22/2015 - 03:03:03: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:03:03: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "awp"
+L 03/22/2015 - 03:03:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:03:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/22/2015 - 03:03:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "19") (armor "0")
+L 03/22/2015 - 03:03:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 03:03:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:03:12: Team "CT" triggered "CTs_Win" (CT "15") (T "15")
+L 03/22/2015 - 03:03:12: World triggered "Round_End"
+L 03/22/2015 - 03:03:22: World triggered "Round_Start"
+L 03/22/2015 - 03:03:38: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:03:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:03:40: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "47") (armor "0")
+L 03/22/2015 - 03:03:40: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "12") (damage_armor "0") (health "58") (armor "0")
+L 03/22/2015 - 03:03:41: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "16") (damage_armor "0") (health "42") (armor "0")
+L 03/22/2015 - 03:03:41: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "16") (damage_armor "0") (health "26") (armor "0")
+L 03/22/2015 - 03:03:41: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "37") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 03:03:41: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug"
+L 03/22/2015 - 03:03:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "16")
+L 03/22/2015 - 03:03:41: World triggered "Round_End"
+L 03/22/2015 - 03:03:51: World triggered "Round_Start"
+L 03/22/2015 - 03:04:06: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/22/2015 - 03:04:07: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/22/2015 - 03:04:07: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 03:04:07: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:04:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "17")
+L 03/22/2015 - 03:04:07: World triggered "Round_End"
+L 03/22/2015 - 03:04:17: World triggered "Round_Start"
+L 03/22/2015 - 03:04:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/22/2015 - 03:04:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:04:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "59") (armor "0")
+L 03/22/2015 - 03:04:28: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/22/2015 - 03:04:28: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:04:28: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "17") (armor "0")
+L 03/22/2015 - 03:04:29: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 03/22/2015 - 03:04:36: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "28") (armor "0")
+L 03/22/2015 - 03:04:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "88") (damage_armor "0") (health "-71") (armor "0")
+L 03/22/2015 - 03:04:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy"
+L 03/22/2015 - 03:04:42: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-1") (armor "0")
+L 03/22/2015 - 03:04:42: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:04:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "18")
+L 03/22/2015 - 03:04:42: World triggered "Round_End"
+L 03/22/2015 - 03:04:52: World triggered "Round_Start"
+L 03/22/2015 - 03:04:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:04:56: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 03:04:57: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/22/2015 - 03:05:02: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:05:02: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "37") (armor "0")
+L 03/22/2015 - 03:05:02: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "5") (armor "0")
+L 03/22/2015 - 03:05:02: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-27") (armor "0")
+L 03/22/2015 - 03:05:02: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:05:04: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "54") (armor "0")
+L 03/22/2015 - 03:05:10: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "19") (armor "0")
+L 03/22/2015 - 03:05:10: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "36") (damage_armor "0") (health "-17") (armor "0")
+L 03/22/2015 - 03:05:10: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:05:10: Team "CT" triggered "CTs_Win" (CT "16") (T "18")
+L 03/22/2015 - 03:05:10: World triggered "Round_End"
+L 03/22/2015 - 03:05:20: World triggered "Round_Start"
+L 03/22/2015 - 03:05:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:05:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:05:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "37") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:05:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:05:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "26") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:05:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 03/22/2015 - 03:05:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "-14") (armor "0")
+L 03/22/2015 - 03:05:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:05:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "-27") (armor "0")
+L 03/22/2015 - 03:05:27: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:05:27: Team "CT" triggered "CTs_Win" (CT "17") (T "18")
+L 03/22/2015 - 03:05:27: World triggered "Round_End"
+L 03/22/2015 - 03:05:37: World triggered "Round_Start"
+L 03/22/2015 - 03:05:45: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:05:45: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:05:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:05:57: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "60") (armor "0")
+L 03/22/2015 - 03:05:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 03/22/2015 - 03:05:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "-27") (armor "0")
+L 03/22/2015 - 03:05:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:05:57: Team "CT" triggered "CTs_Win" (CT "18") (T "18")
+L 03/22/2015 - 03:05:57: World triggered "Round_End"
+L 03/22/2015 - 03:06:07: World triggered "Round_Start"
+L 03/22/2015 - 03:06:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:06:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:06:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/22/2015 - 03:06:15: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:06:15: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "41") (armor "0")
+L 03/22/2015 - 03:06:15: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "57") (armor "0")
+L 03/22/2015 - 03:06:16: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "19") (armor "0")
+L 03/22/2015 - 03:06:21: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-3") (armor "0")
+L 03/22/2015 - 03:06:21: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:06:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "19")
+L 03/22/2015 - 03:06:21: World triggered "Round_End"
+L 03/22/2015 - 03:06:31: World triggered "Round_Start"
+L 03/22/2015 - 03:06:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/22/2015 - 03:06:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 03/22/2015 - 03:06:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 03:06:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/22/2015 - 03:06:33: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/22/2015 - 03:06:34: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 03/22/2015 - 03:06:34: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "21") (armor "0")
+L 03/22/2015 - 03:06:34: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-8") (armor "0")
+L 03/22/2015 - 03:06:34: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:06:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "20")
+L 03/22/2015 - 03:06:34: World triggered "Round_End"
+L 03/22/2015 - 03:06:44: World triggered "Round_Start"
+L 03/22/2015 - 03:06:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:06:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:06:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:06:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:06:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:06:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:06:55: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 03/22/2015 - 03:06:55: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:06:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "21")
+L 03/22/2015 - 03:06:55: World triggered "Round_End"
+L 03/22/2015 - 03:07:05: World triggered "Round_Start"
+L 03/22/2015 - 03:07:12: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:07:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:07:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:07:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:07:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:07:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:07:16: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:07:16: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "51") (armor "0")
+L 03/22/2015 - 03:07:16: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "37") (armor "0")
+L 03/22/2015 - 03:07:16: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "23") (armor "0")
+L 03/22/2015 - 03:07:17: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "9") (armor "0")
+L 03/22/2015 - 03:07:17: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "56") (damage_armor "0") (health "-47") (armor "0")
+L 03/22/2015 - 03:07:17: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:07:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "22")
+L 03/22/2015 - 03:07:17: World triggered "Round_End"
+L 03/22/2015 - 03:07:27: World triggered "Round_Start"
+L 03/22/2015 - 03:07:28: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:07:28: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 03:07:29: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:07:29: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "28") (armor "0")
+L 03/22/2015 - 03:07:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "18") (armor "0")
+L 03/22/2015 - 03:07:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "8") (armor "0")
+L 03/22/2015 - 03:07:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "-2") (armor "0")
+L 03/22/2015 - 03:07:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:07:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 03/22/2015 - 03:07:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "80") (armor "0")
+L 03/22/2015 - 03:07:36: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "66") (armor "0")
+L 03/22/2015 - 03:07:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "28") (armor "0")
+L 03/22/2015 - 03:07:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-10") (armor "0")
+L 03/22/2015 - 03:07:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:07:39: Team "CT" triggered "CTs_Win" (CT "19") (T "22")
+L 03/22/2015 - 03:07:39: World triggered "Round_End"
+L 03/22/2015 - 03:07:49: World triggered "Round_Start"
+L 03/22/2015 - 03:07:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/22/2015 - 03:07:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 03:07:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "usp"
+L 03/22/2015 - 03:07:55: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:07:56: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/22/2015 - 03:07:56: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 03/22/2015 - 03:07:56: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47"
+L 03/22/2015 - 03:07:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "23")
+L 03/22/2015 - 03:07:56: World triggered "Round_End"
+L 03/22/2015 - 03:08:06: World triggered "Round_Start"
+L 03/22/2015 - 03:08:09: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:08:09: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/22/2015 - 03:08:10: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "19") (armor "0")
+L 03/22/2015 - 03:08:10: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/22/2015 - 03:08:10: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "45") (armor "0")
+L 03/22/2015 - 03:08:10: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "15") (armor "0")
+L 03/22/2015 - 03:08:10: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "1") (armor "0")
+L 03/22/2015 - 03:08:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "17") (damage_armor "0") (health "-16") (armor "0")
+L 03/22/2015 - 03:08:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:08:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "24")
+L 03/22/2015 - 03:08:11: World triggered "Round_End"
+L 03/22/2015 - 03:08:21: World triggered "Round_Start"
+L 03/22/2015 - 03:08:21: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bebe4
+L 03/22/2015 - 03:08:21: "maga<304><STEAM_0:4:1371110320><>" connected, address "217.21.46.10:27005"
+L 03/22/2015 - 03:08:21: [VTC] Player 4 speex
+L 03/22/2015 - 03:08:24: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:08:24: "maga<304><STEAM_0:4:1371110320><>" entered the game
+L 03/22/2015 - 03:08:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:08:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/22/2015 - 03:08:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 03/22/2015 - 03:08:25: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-15") (armor "0")
+L 03/22/2015 - 03:08:25: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:08:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "25")
+L 03/22/2015 - 03:08:25: World triggered "Round_End"
+L 03/22/2015 - 03:08:29: "maga<304><STEAM_0:4:1371110320><>" joined team "CT"
+L 03/22/2015 - 03:08:35: World triggered "Round_Start"
+L 03/22/2015 - 03:08:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:08:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "47") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-15") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:08:39: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:08:39: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "34") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "-16") (armor "0")
+L 03/22/2015 - 03:08:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:08:39: Team "CT" triggered "CTs_Win" (CT "20") (T "25")
+L 03/22/2015 - 03:08:39: World triggered "Round_End"
+L 03/22/2015 - 03:08:49: World triggered "Round_Start"
+L 03/22/2015 - 03:08:53: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 03/22/2015 - 03:08:53: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "ak47"
+L 03/22/2015 - 03:08:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "6") (armor "0")
+L 03/22/2015 - 03:08:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:08:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:08:56: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "60") (armor "0")
+L 03/22/2015 - 03:08:56: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:08:56: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 03:08:56: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:08:57: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 03:08:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-6") (armor "0")
+L 03/22/2015 - 03:08:57: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:08:57: Team "CT" triggered "CTs_Win" (CT "21") (T "25")
+L 03/22/2015 - 03:08:57: World triggered "Round_End"
+L 03/22/2015 - 03:09:07: World triggered "Round_Start"
+L 03/22/2015 - 03:09:11: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/22/2015 - 03:09:11: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "112") (damage_armor "0") (health "-40") (armor "0")
+L 03/22/2015 - 03:09:11: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:09:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:09:13: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:09:14: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:09:14: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "18") (armor "0")
+L 03/22/2015 - 03:09:14: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-4") (armor "0")
+L 03/22/2015 - 03:09:14: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:09:14: Team "CT" triggered "CTs_Win" (CT "22") (T "25")
+L 03/22/2015 - 03:09:14: World triggered "Round_End"
+L 03/22/2015 - 03:09:24: World triggered "Round_Start"
+L 03/22/2015 - 03:09:28: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:09:28: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:09:28: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-80") (armor "0")
+L 03/22/2015 - 03:09:28: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:09:32: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:09:32: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:09:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "62") (armor "0")
+L 03/22/2015 - 03:09:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:09:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "4") (armor "0")
+L 03/22/2015 - 03:09:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "-25") (armor "0")
+L 03/22/2015 - 03:09:34: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:09:34: Team "CT" triggered "CTs_Win" (CT "23") (T "25")
+L 03/22/2015 - 03:09:34: World triggered "Round_End"
+L 03/22/2015 - 03:09:44: World triggered "Round_Start"
+L 03/22/2015 - 03:09:46: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:09:46: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:09:47: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/22/2015 - 03:09:52: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-2") (armor "0")
+L 03/22/2015 - 03:09:52: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47"
+L 03/22/2015 - 03:09:58: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "120") (damage_armor "0") (health "-82") (armor "0")
+L 03/22/2015 - 03:09:58: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:10:00: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/22/2015 - 03:10:00: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 03:10:01: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "6") (armor "0")
+L 03/22/2015 - 03:10:01: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-23") (armor "0")
+L 03/22/2015 - 03:10:01: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:10:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "26")
+L 03/22/2015 - 03:10:01: World triggered "Round_End"
+L 03/22/2015 - 03:10:11: World triggered "Round_Start"
+L 03/22/2015 - 03:10:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 03/22/2015 - 03:10:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "51") (armor "0")
+L 03/22/2015 - 03:10:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "88") (damage_armor "0") (health "-37") (armor "0")
+L 03/22/2015 - 03:10:18: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:10:31: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:10:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:10:32: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:10:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:10:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-31") (armor "0")
+L 03/22/2015 - 03:10:32: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:10:32: Team "CT" triggered "CTs_Win" (CT "24") (T "26")
+L 03/22/2015 - 03:10:32: World triggered "Round_End"
+L 03/22/2015 - 03:10:42: World triggered "Round_Start"
+L 03/22/2015 - 03:10:44: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/22/2015 - 03:10:44: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "25") (damage_armor "0") (health "55") (armor "0")
+L 03/22/2015 - 03:10:45: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:10:45: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "25") (damage_armor "0") (health "15") (armor "0")
+L 03/22/2015 - 03:10:45: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:10:45: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "20") (damage_armor "0") (health "-5") (armor "0")
+L 03/22/2015 - 03:10:45: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy"
+L 03/22/2015 - 03:10:47: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 03:10:47: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "5") (armor "0")
+L 03/22/2015 - 03:10:47: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-25") (armor "0")
+L 03/22/2015 - 03:10:47: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:10:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:10:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-75") (armor "0")
+L 03/22/2015 - 03:10:55: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "ak47"
+L 03/22/2015 - 03:10:55: Team "CT" triggered "CTs_Win" (CT "25") (T "26")
+L 03/22/2015 - 03:10:55: World triggered "Round_End"
+L 03/22/2015 - 03:11:05: World triggered "Round_Start"
+L 03/22/2015 - 03:11:07: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:11:07: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:11:09: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:11:10: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 03/22/2015 - 03:11:10: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:11:13: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:11:14: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:11:14: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:11:14: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:11:14: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:11:14: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:11:14: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:11:14: Team "CT" triggered "CTs_Win" (CT "26") (T "26")
+L 03/22/2015 - 03:11:14: World triggered "Round_End"
+L 03/22/2015 - 03:11:24: World triggered "Round_Start"
+L 03/22/2015 - 03:11:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:11:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:11:27: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-80") (armor "0")
+L 03/22/2015 - 03:11:27: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:11:34: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 03:11:34: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:11:34: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "38") (damage_armor "0") (health "31") (armor "0")
+L 03/22/2015 - 03:11:34: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "38") (damage_armor "0") (health "-7") (armor "0")
+L 03/22/2015 - 03:11:34: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug"
+L 03/22/2015 - 03:11:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "27")
+L 03/22/2015 - 03:11:34: World triggered "Round_End"
+L 03/22/2015 - 03:11:44: World triggered "Round_Start"
+L 03/22/2015 - 03:11:50: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/22/2015 - 03:11:50: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:11:51: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:11:51: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:11:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "39") (armor "0")
+L 03/22/2015 - 03:11:51: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:11:51: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:11:56: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:11:56: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "26") (armor "0")
+L 03/22/2015 - 03:11:57: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 03:11:57: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:12:05: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "8") (armor "0")
+L 03/22/2015 - 03:12:05: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-23") (armor "0")
+L 03/22/2015 - 03:12:05: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:12:05: Team "CT" triggered "CTs_Win" (CT "27") (T "27")
+L 03/22/2015 - 03:12:05: World triggered "Round_End"
+L 03/22/2015 - 03:12:15: World triggered "Round_Start"
+L 03/22/2015 - 03:12:18: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:12:18: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:12:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:12:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:12:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/22/2015 - 03:12:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:12:25: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:12:25: Team "CT" triggered "CTs_Win" (CT "28") (T "27")
+L 03/22/2015 - 03:12:25: World triggered "Round_End"
+L 03/22/2015 - 03:12:35: World triggered "Round_Start"
+L 03/22/2015 - 03:12:42: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "11") (damage_armor "0") (health "89") (armor "0")
+L 03/22/2015 - 03:12:42: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "11") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:12:43: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 03/22/2015 - 03:12:43: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/22/2015 - 03:12:43: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 03/22/2015 - 03:12:43: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-60") (armor "0")
+L 03/22/2015 - 03:12:43: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:12:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "64") (armor "0")
+L 03/22/2015 - 03:12:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "50") (armor "0")
+L 03/22/2015 - 03:12:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "36") (armor "0")
+L 03/22/2015 - 03:12:51: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "19") (armor "0")
+L 03/22/2015 - 03:12:52: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:12:52: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 03/22/2015 - 03:12:52: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:12:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-13") (armor "0")
+L 03/22/2015 - 03:12:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:12:54: Team "CT" triggered "CTs_Win" (CT "29") (T "27")
+L 03/22/2015 - 03:12:54: World triggered "Round_End"
+L 03/22/2015 - 03:13:04: World triggered "Round_Start"
+L 03/22/2015 - 03:13:07: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:13:07: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-118") (armor "0")
+L 03/22/2015 - 03:13:07: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:13:10: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/22/2015 - 03:13:10: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/22/2015 - 03:13:10: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:13:12: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "53") (armor "0")
+L 03/22/2015 - 03:13:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:13:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 03:13:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:13:12: Team "CT" triggered "CTs_Win" (CT "30") (T "27")
+L 03/22/2015 - 03:13:12: World triggered "Round_End"
+L 03/22/2015 - 03:13:22: World triggered "Round_Start"
+L 03/22/2015 - 03:13:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 03/22/2015 - 03:13:25: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:13:25: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:13:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:13:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:13:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:13:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:13:26: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:13:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "30") (T "28")
+L 03/22/2015 - 03:13:26: World triggered "Round_End"
+L 03/22/2015 - 03:13:36: World triggered "Round_Start"
+L 03/22/2015 - 03:13:43: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:13:43: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp"
+L 03/22/2015 - 03:13:52: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "142") (damage_armor "0") (health "-42") (armor "0")
+L 03/22/2015 - 03:13:52: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "awp"
+L 03/22/2015 - 03:13:52: Team "CT" triggered "CTs_Win" (CT "31") (T "28")
+L 03/22/2015 - 03:13:52: World triggered "Round_End"
+L 03/22/2015 - 03:14:02: World triggered "Round_Start"
+L 03/22/2015 - 03:14:04: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:14:04: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:14:04: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 03/22/2015 - 03:14:06: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "grenade"
+L 03/22/2015 - 03:14:06: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "grenade"
+L 03/22/2015 - 03:14:06: Team "CT" triggered "CTs_Win" (CT "32") (T "28")
+L 03/22/2015 - 03:14:06: World triggered "Round_End"
+L 03/22/2015 - 03:14:16: World triggered "Round_Start"
+L 03/22/2015 - 03:14:18: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:14:18: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:14:18: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:14:18: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/22/2015 - 03:14:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:14:19: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "awp"
+L 03/22/2015 - 03:14:19: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "aug" (damage "28") (damage_armor "0") (health "43") (armor "0")
+L 03/22/2015 - 03:14:26: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "aug" (damage "29") (damage_armor "0") (health "-19") (armor "0")
+L 03/22/2015 - 03:14:26: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "aug"
+L 03/22/2015 - 03:14:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "29") (armor "0")
+L 03/22/2015 - 03:14:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-1") (armor "0")
+L 03/22/2015 - 03:14:30: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:14:30: Team "CT" triggered "CTs_Win" (CT "33") (T "28")
+L 03/22/2015 - 03:14:30: World triggered "Round_End"
+L 03/22/2015 - 03:14:40: World triggered "Round_Start"
+L 03/22/2015 - 03:14:43: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "aug" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:14:43: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "aug"
+L 03/22/2015 - 03:14:43: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 03:14:44: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/22/2015 - 03:14:44: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 03/22/2015 - 03:14:44: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 03/22/2015 - 03:14:47: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "-8") (armor "0")
+L 03/22/2015 - 03:14:47: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "usp"
+L 03/22/2015 - 03:15:22: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "15") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:15:23: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife" (damage "15") (damage_armor "0") (health "-5") (armor "0")
+L 03/22/2015 - 03:15:23: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "knife"
+L 03/22/2015 - 03:15:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "29")
+L 03/22/2015 - 03:15:23: World triggered "Round_End"
+L 03/22/2015 - 03:15:33: World triggered "Round_Start"
+L 03/22/2015 - 03:15:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/22/2015 - 03:15:35: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 03/22/2015 - 03:15:36: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:15:36: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:15:36: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 03:15:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 03/22/2015 - 03:15:39: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:15:39: Team "CT" triggered "CTs_Win" (CT "34") (T "29")
+L 03/22/2015 - 03:15:39: World triggered "Round_End"
+L 03/22/2015 - 03:15:49: World triggered "Round_Start"
+L 03/22/2015 - 03:15:52: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:15:52: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "mp5navy" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/22/2015 - 03:15:52: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 03/22/2015 - 03:15:52: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/22/2015 - 03:15:52: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 03/22/2015 - 03:15:53: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 03/22/2015 - 03:15:53: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 03/22/2015 - 03:15:53: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:15:53: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "26") (armor "0")
+L 03/22/2015 - 03:15:54: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "16") (armor "0")
+L 03/22/2015 - 03:15:59: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014" (damage "66") (damage_armor "0") (health "-50") (armor "0")
+L 03/22/2015 - 03:15:59: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "xm1014"
+L 03/22/2015 - 03:15:59: Team "CT" triggered "CTs_Win" (CT "35") (T "29")
+L 03/22/2015 - 03:15:59: World triggered "Round_End"
+L 03/22/2015 - 03:16:09: World triggered "Round_Start"
+L 03/22/2015 - 03:16:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:16:11: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:16:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:16:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-4") (armor "0")
+L 03/22/2015 - 03:16:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:16:14: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "43") (armor "0")
+L 03/22/2015 - 03:16:14: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:16:14: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" with "ak47" (damage "35") (damage_armor "0") (health "8") (armor "0")
+L 03/22/2015 - 03:16:14: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "112") (damage_armor "0") (health "-43") (armor "0")
+L 03/22/2015 - 03:16:14: "maga<304><STEAM_0:4:1371110320><CT>" killed "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:16:14: Team "CT" triggered "CTs_Win" (CT "36") (T "29")
+L 03/22/2015 - 03:16:14: World triggered "Round_End"
+L 03/22/2015 - 03:16:23: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" committed suicide with "world"
+L 03/22/2015 - 03:16:23: "Dibrand<302><STEAM_0:4:1097453189><TERRORIST>" joined team "CT"
+L 03/22/2015 - 03:16:24: World triggered "Round_Start"
+L 03/22/2015 - 03:16:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" committed suicide with "world"
+L 03/22/2015 - 03:16:26: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><CT>" joined team "TERRORIST"
+L 03/22/2015 - 03:16:30: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/22/2015 - 03:16:30: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 03/22/2015 - 03:16:30: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 03/22/2015 - 03:16:30: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "35") (armor "0")
+L 03/22/2015 - 03:16:33: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "29") (armor "0")
+L 03/22/2015 - 03:16:33: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 03:16:33: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:16:33: Team "CT" triggered "CTs_Win" (CT "37") (T "29")
+L 03/22/2015 - 03:16:33: World triggered "Round_End"
+L 03/22/2015 - 03:16:43: World triggered "Round_Start"
+L 03/22/2015 - 03:16:45: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/22/2015 - 03:16:45: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 03/22/2015 - 03:16:45: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 03/22/2015 - 03:16:45: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:16:46: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 03/22/2015 - 03:16:46: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug"
+L 03/22/2015 - 03:16:46: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 03/22/2015 - 03:16:46: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 03/22/2015 - 03:16:46: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "11") (armor "0")
+L 03/22/2015 - 03:16:47: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-11") (armor "0")
+L 03/22/2015 - 03:16:47: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:16:59: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "56") (armor "0")
+L 03/22/2015 - 03:17:00: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "27") (armor "0")
+L 03/22/2015 - 03:17:00: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "64") (armor "0")
+L 03/22/2015 - 03:17:09: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "-101") (armor "0")
+L 03/22/2015 - 03:17:09: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:17:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "37") (T "30")
+L 03/22/2015 - 03:17:09: World triggered "Round_End"
+L 03/22/2015 - 03:17:19: World triggered "Round_Start"
+L 03/22/2015 - 03:17:21: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:17:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:17:21: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:17:22: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-110") (armor "0")
+L 03/22/2015 - 03:17:22: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:17:23: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:17:24: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:17:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:17:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "41") (armor "0")
+L 03/22/2015 - 03:17:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 03/22/2015 - 03:17:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-109") (armor "0")
+L 03/22/2015 - 03:17:24: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1"
+L 03/22/2015 - 03:17:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "37") (T "31")
+L 03/22/2015 - 03:17:24: World triggered "Round_End"
+L 03/22/2015 - 03:17:34: World triggered "Round_Start"
+L 03/22/2015 - 03:17:37: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:17:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:17:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:17:37: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:17:37: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "18") (armor "0")
+L 03/22/2015 - 03:17:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:17:38: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:17:42: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "17") (armor "0")
+L 03/22/2015 - 03:17:42: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "-6") (armor "0")
+L 03/22/2015 - 03:17:42: "Dibrand<302><STEAM_0:4:1097453189><CT>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:17:49: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 03/22/2015 - 03:17:49: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 03/22/2015 - 03:17:50: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 03:17:50: "Dibrand<302><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:17:50: Team "CT" triggered "CTs_Win" (CT "38") (T "31")
+L 03/22/2015 - 03:17:50: World triggered "Round_End"
+L 03/22/2015 - 03:18:00: World triggered "Round_Start"
+L 03/22/2015 - 03:18:10: Server cvar "amx_nextmap" = "aim_awp"
+L 03/22/2015 - 03:18:11: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:18:11: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/22/2015 - 03:18:11: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "31") (armor "0")
+L 03/22/2015 - 03:18:11: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 03/22/2015 - 03:18:11: "Dibrand<302><STEAM_0:4:1097453189><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:18:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "mp5navy" (damage "96") (damage_armor "0") (health "-27") (armor "0")
+L 03/22/2015 - 03:18:17: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "Dibrand<302><STEAM_0:4:1097453189><CT>" with "mp5navy"
+L 03/22/2015 - 03:18:21: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/22/2015 - 03:18:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 03/22/2015 - 03:18:21: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "ak47"
+L 03/22/2015 - 03:18:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "38") (T "32")
+L 03/22/2015 - 03:18:21: World triggered "Round_End"
+L 03/22/2015 - 03:18:31: World triggered "Round_Start"
+L 03/22/2015 - 03:18:33: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/22/2015 - 03:18:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/22/2015 - 03:18:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "20") (damage_armor "0") (health "57") (armor "0")
+L 03/22/2015 - 03:18:34: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/22/2015 - 03:18:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "19") (damage_armor "0") (health "38") (armor "0")
+L 03/22/2015 - 03:18:34: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy" (damage "76") (damage_armor "0") (health "-38") (armor "0")
+L 03/22/2015 - 03:18:34: "maga<304><STEAM_0:4:1371110320><CT>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "mp5navy"
+L 03/22/2015 - 03:18:34: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 03/22/2015 - 03:18:35: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/22/2015 - 03:18:35: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 03/22/2015 - 03:18:36: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "23") (armor "0")
+L 03/22/2015 - 03:18:37: "Dibrand<302><STEAM_0:4:1097453189><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "2") (armor "0")
+L 03/22/2015 - 03:18:41: Server cvar "mp_timelimit" = "0.000000"
+L 03/22/2015 - 03:18:42: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-92") (armor "0")
+L 03/22/2015 - 03:18:42: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "maga<304><STEAM_0:4:1371110320><CT>" with "m4a1"
+L 03/22/2015 - 03:18:43: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "grenade"
+L 03/22/2015 - 03:18:43: Team "CT" triggered "CTs_Win" (CT "39") (T "32")
+L 03/22/2015 - 03:18:43: World triggered "Round_End"
+L 03/22/2015 - 03:18:53: World triggered "Round_Start"
+L 03/22/2015 - 03:18:57: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" attacked "Dibrand<302><STEAM_0:4:1097453189><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/22/2015 - 03:18:57: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" killed "Dibrand<302><STEAM_0:4:1097453189><CT>" with "awp"
+L 03/22/2015 - 03:18:57: "maga<304><STEAM_0:4:1371110320><CT>" attacked "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 03/22/2015 - 03:18:57: "maga<304><STEAM_0:4:1371110320><CT>" killed "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:19:00: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/22/2015 - 03:19:01: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/22/2015 - 03:19:01: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/22/2015 - 03:19:01: "maga<304><STEAM_0:4:1371110320><CT>" attacked "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 03/22/2015 - 03:19:01: "maga<304><STEAM_0:4:1371110320><CT>" killed "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" with "m4a1"
+L 03/22/2015 - 03:19:01: Team "CT" triggered "CTs_Win" (CT "40") (T "32")
+L 03/22/2015 - 03:19:01: World triggered "Round_End"
+L 03/22/2015 - 03:19:11: Server cvar "mp_timelimit" = "0.010000"
+L 03/22/2015 - 03:19:11: World triggered "Round_Start"
+L 03/22/2015 - 03:19:11: Team "CT" scored "40" with "2" players
+L 03/22/2015 - 03:19:11: Team "TERRORIST" scored "32" with "2" players
+L 03/22/2015 - 03:19:11: Server cvar "mp_chattime" = "3"
+L 03/22/2015 - 03:19:12: Server cvar "mp_chattime" = "1"
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "31") (hits "12") (kills "1") (headshots "0") (tks "0") (damage "486") (deaths "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "78") (hits "6") (kills "2") (headshots "1") (tks "0") (damage "268") (deaths "1")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "1") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "5") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "44") (hits "6") (kills "1") (headshots "1") (tks "0") (damage "231") (deaths "2")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "2") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "691") (hits "95") (kills "19") (headshots "9") (tks "0") (damage "3446") (deaths "44")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "10") (chest "15") (stomach "10") (leftarm "43") (rightarm "10") (leftleg "1") (rightleg "6")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "10") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "35") (deaths "1")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "20") (hits "9") (kills "3") (headshots "0") (tks "0") (damage "385") (deaths "2")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "1") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "2")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "time" (time "29:49")
+L 03/22/2015 - 03:19:12: "Postoronniy<299><STEAM_0:4:1097453189><TERRORIST>" triggered "latency" (ping "21")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "grenade") (shots "8") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "103") (deaths "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "aug") (shots "51") (hits "9") (kills "2") (headshots "0") (tks "0") (damage "262") (deaths "3")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "1") (stomach "3") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "2")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "usp") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "glock18") (shots "9") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "6")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "11") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "12") (deaths "1")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "m4a1") (shots "328") (hits "44") (kills "12") (headshots "3") (tks "0") (damage "1550") (deaths "16")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "5") (stomach "3") (leftarm "22") (rightarm "1") (leftleg "2") (rightleg "8")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "ak47") (shots "271") (hits "23") (kills "4") (headshots "2") (tks "0") (damage "895") (deaths "18")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "4") (stomach "1") (leftarm "7") (rightarm "3") (leftleg "5") (rightleg "1")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "65") (deaths "2")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "time" (time "29:18")
+L 03/22/2015 - 03:19:12: "Dibrand<302><STEAM_0:4:1097453189><CT>" triggered "latency" (ping "18")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "34") (hits "15") (kills "0") (headshots "0") (tks "0") (damage "562") (deaths "3")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "xm1014") (shots "26") (hits "10") (kills "3") (headshots "0") (tks "0") (damage "457") (deaths "1")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "1") (stomach "0") (leftarm "5") (rightarm "0") (leftleg "3") (rightleg "1")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "102") (hits "33") (kills "9") (headshots "1") (tks "0") (damage "1058") (deaths "1")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "6") (stomach "7") (leftarm "15") (rightarm "1") (leftleg "3") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "12") (hits "3") (kills "2") (headshots "0") (tks "0") (damage "86") (deaths "2")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "19") (hits "8") (kills "6") (headshots "0") (tks "0") (damage "900") (deaths "1")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "2") (stomach "2") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "57") (hits "8") (kills "5") (headshots "3") (tks "0") (damage "466") (deaths "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "4") (chest "0") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "1004") (hits "196") (kills "44") (headshots "10") (tks "0") (damage "6212") (deaths "19")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "10") (chest "27") (stomach "29") (leftarm "64") (rightarm "12") (leftleg "23") (rightleg "31")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "47") (hits "6") (kills "3") (headshots "3") (tks "0") (damage "443") (deaths "1")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "16") (hits "7") (kills "3") (headshots "0") (tks "0") (damage "455") (deaths "3")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "time" (time "29:17")
+L 03/22/2015 - 03:19:12: "[vipms-boost.ru] Player<303><STEAM_0:4:1097453189><TERRORIST>" triggered "latency" (ping "13")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats" (weapon "grenade") (shots "16") (hits "9") (kills "3") (headshots "0") (tks "0") (damage "546") (deaths "5")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats" (weapon "aug") (shots "58") (hits "24") (kills "10") (headshots "6") (tks "0") (damage "1185") (deaths "2")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats2" (weapon "aug") (head "6") (chest "5") (stomach "0") (leftarm "11") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "25") (hits "9") (kills "2") (headshots "1") (tks "0") (damage "243") (deaths "1")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "1") (stomach "4") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats" (weapon "m4a1") (shots "75") (hits "20") (kills "7") (headshots "3") (tks "0") (damage "900") (deaths "5")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "1") (stomach "4") (leftarm "9") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "time" (time "10:48")
+L 03/22/2015 - 03:19:12: "maga<304><STEAM_0:4:1371110320><CT>" triggered "latency" (ping "10")
+L 03/22/2015 - 03:19:12: Server cvar "mp_timelimit" = "30.000000"
+L 03/22/2015 - 03:19:12: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/22/2015 - 03:19:12: [META] ini: Read plugin config for: AMX Mod X
+L 03/22/2015 - 03:19:12: [META] ini: Read plugin config for: dproto_EF
+L 03/22/2015 - 03:19:12: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/22/2015 - 03:19:12: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/22/2015 - 03:19:12: [META] dll: Updating plugins...
+L 03/22/2015 - 03:19:12: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/22/2015 - 03:19:12: Log file closed

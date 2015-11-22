@@ -1,0 +1,25 @@
+﻿[ru]
+IR_GOOD = Вы продвинулись вперёд на %i место(а)
+IR_BAD = Вы спустились по рангу на %i место(а) вниз
+IR_RANK = Вы занимаете %i-е место из %i игроков
+IR_ENABLE = Сообщения включены
+IR_DISABLE = Сообщения выключены
+[en]
+IR_GOOD = Вы продвинулись вперёд на %i место(а)
+IR_BAD = Вы спустились по рангу на %i место(а) вниз
+IR_RANK = Вы занимаете %i-е место из %i игроков
+IR_ENABLE = Сообщения включены
+IR_DISABLE = Сообщения выключены
+[fr]
+IR_GOOD = [Info rank] Bravo, tu as gagne %i place(s) !!
+IR_BAD = [Info rank] Noob, tu as perdu %i place(s) !!
+IR_RANK = [Info rank] Ton rang : %i sur %i joueurs
+IR_ENABLE = [Info rank] Messages actifs
+IR_DISABLE = [Info rank] Messages inactifs
+
+[nl]
+IR_GOOD = [Info rank] Gefeliciteerd, je bent %i plaats(en) vooruit gegaan!!
+IR_BAD = [Info rank] Noob, je bent %i plaats(en) achteruit gegaan!!
+IR_RANK = [Info rank] Je rank : %i van %i
+IR_ENABLE = [Info rank] Je hebt berichten ingeschakeld
+IR_DISABLE = [Info rank] Je hebt berichten uitgeschakeld

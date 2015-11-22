@@ -1,0 +1,414 @@
+L 04/04/2015 - 16:56:57: Log file started (file "logs/L0404036.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/04/2015 - 16:56:57: Loading map "35_hp_2011"
+L 04/04/2015 - 16:56:57: Server cvars start
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_debug_level" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_examine_time" = "0.5"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_look_angle" = "10"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_look_distance" = "200"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_message_repeats" = "5"
+L 04/04/2015 - 16:56:57: Server cvar "_tutor_view_distance" = "1000"
+L 04/04/2015 - 16:56:57: Server cvar "aesp_version" = "1.5b_mini"
+L 04/04/2015 - 16:56:57: Server cvar "allow_spectators" = "4"
+L 04/04/2015 - 16:56:57: Server cvar "amx_client_languages" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/04/2015 - 16:56:57: Server cvar "amx_language" = "ru"
+L 04/04/2015 - 16:56:57: Server cvar "amx_nextmap" = "35_hp_2011"
+L 04/04/2015 - 16:56:57: Server cvar "amx_timeleft" = "00:00"
+L 04/04/2015 - 16:56:57: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/04/2015 - 16:56:57: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/04/2015 - 16:56:57: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Config" = "Loaded"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Replace" = "Failed"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Status" = "Loaded"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/04/2015 - 16:56:57: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/04/2015 - 16:56:57: Server cvar "coop" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "deathmatch" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "decalfrequency" = "9"
+L 04/04/2015 - 16:56:57: Server cvar "dp_version" = "0.9.391"
+L 04/04/2015 - 16:56:57: Server cvar "edgefriction" = "2"
+L 04/04/2015 - 16:56:57: Server cvar "hostage_debug" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "hostage_stop" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "humans_join_team" = "any"
+L 04/04/2015 - 16:56:57: Server cvar "jtp10181" = "chute,gore"
+L 04/04/2015 - 16:56:57: Server cvar "max_queries_sec" = "3.0"
+L 04/04/2015 - 16:56:57: Server cvar "max_queries_sec_global" = "30"
+L 04/04/2015 - 16:56:57: Server cvar "max_queries_window" = "60"
+L 04/04/2015 - 16:56:57: Server cvar "metamod_version" = "1.19"
+L 04/04/2015 - 16:56:57: Server cvar "mp_allowmonsters" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_autokick" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_autoteambalance" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_buytime" = "1.5"
+L 04/04/2015 - 16:56:57: Server cvar "mp_c4timer" = "35"
+L 04/04/2015 - 16:56:57: Server cvar "mp_chattime" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_consistency" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_fadetoblack" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_flashlight" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_footsteps" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_forcecamera" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_forcechasecam" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_fragsleft" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_freezetime" = "5"
+L 04/04/2015 - 16:56:57: Server cvar "mp_friendlyfire" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_hostagepenalty" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_kickpercent" = "0.66"
+L 04/04/2015 - 16:56:57: Server cvar "mp_limitteams" = "5"
+L 04/04/2015 - 16:56:57: Server cvar "mp_logdetail" = "3"
+L 04/04/2015 - 16:56:57: Server cvar "mp_logfile" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_logmessages" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/04/2015 - 16:56:57: Server cvar "mp_maxrounds" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_mirrordamage" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_playerid" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_roundtime" = "2.57"
+L 04/04/2015 - 16:56:57: Server cvar "mp_startmoney" = "800"
+L 04/04/2015 - 16:56:57: Server cvar "mp_timeleft" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "mp_timelimit" = "30.000000"
+L 04/04/2015 - 16:56:57: Server cvar "mp_tkpunish" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_windifference" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "mp_winlimit" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "pausable" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "redirect_version" = "1.0.3"
+L 04/04/2015 - 16:56:57: Server cvar "sv_accelerate" = "5"
+L 04/04/2015 - 16:56:57: Server cvar "sv_aim" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_airaccelerate" = "10"
+L 04/04/2015 - 16:56:57: Server cvar "sv_airmove" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "sv_allowupload" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "sv_alltalk" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_bounce" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "sv_cheats" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_clienttrace" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "sv_clipmode" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_contact" = ""
+L 04/04/2015 - 16:56:57: Server cvar "sv_friction" = "4"
+L 04/04/2015 - 16:56:57: Server cvar "sv_gravity" = "800"
+L 04/04/2015 - 16:56:57: Server cvar "sv_logblocks" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_maxrate" = "25000"
+L 04/04/2015 - 16:56:57: Server cvar "sv_maxspeed" = "900"
+L 04/04/2015 - 16:56:57: Server cvar "sv_minrate" = "100000"
+L 04/04/2015 - 16:56:57: Server cvar "sv_password" = ""
+L 04/04/2015 - 16:56:57: Server cvar "sv_proxies" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_region" = "3"
+L 04/04/2015 - 16:56:57: Server cvar "sv_restart" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_restartround" = "0"
+L 04/04/2015 - 16:56:57: Server cvar "sv_stepsize" = "18"
+L 04/04/2015 - 16:56:57: Server cvar "sv_stopspeed" = "75"
+L 04/04/2015 - 16:56:57: Server cvar "sv_uploadmax" = "0.5"
+L 04/04/2015 - 16:56:57: Server cvar "sv_voiceenable" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "sv_wateraccelerate" = "10"
+L 04/04/2015 - 16:56:57: Server cvar "sv_waterfriction" = "1"
+L 04/04/2015 - 16:56:57: Server cvar "travo_statmarquee" = "v1.2"
+L 04/04/2015 - 16:56:57: Server cvar "vtc_version" = "80"
+L 04/04/2015 - 16:56:57: Server cvar "wallblocker_version" = "1.0"
+L 04/04/2015 - 16:56:57: Server cvars end
+L 04/04/2015 - 16:56:58: Server cvar "amx_nextmap" = "aim_map"
+L 04/04/2015 - 16:56:58: Server cvar "sv_restart" = "1"
+L 04/04/2015 - 16:56:58: World triggered "Restart_Round_(1_second)"
+L 04/04/2015 - 16:56:58: Team "CT" scored "0" with "0" players
+L 04/04/2015 - 16:56:58: Team "TERRORIST" scored "0" with "0" players
+L 04/04/2015 - 16:56:58: Server cvar "sv_restart" = "0"
+L 04/04/2015 - 16:56:58: Started map "35_hp_2011" (CRC "1681787481")
+L 04/04/2015 - 16:56:58: [VTC] Player 8 speex
+L 04/04/2015 - 16:56:58: [VTC] Player 1 speex
+L 04/04/2015 - 16:56:58: [VTC] Player 4 speex
+L 04/04/2015 - 16:56:58: [VTC] Player 6 speex
+L 04/04/2015 - 16:57:01: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><>" entered the game
+L 04/04/2015 - 16:57:01: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><>" entered the game
+L 04/04/2015 - 16:57:03: World triggered "Round_Start"
+L 04/04/2015 - 16:57:04: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><>" joined team "CT"
+L 04/04/2015 - 16:57:05: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 16:57:05: "[GS-M]   :D<403><STEAM_0:4:1003904645><>" connected, address "178.95.240.222:12177"
+L 04/04/2015 - 16:57:05: [VTC] Player 4 speex
+L 04/04/2015 - 16:57:05: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39f49cc
+L 04/04/2015 - 16:57:05: "MiJloTa<404><STEAM_0:4:1458977915><>" connected, address "78.154.176.4:27005"
+L 04/04/2015 - 16:57:05: [VTC] Player 6 speex
+L 04/04/2015 - 16:57:07: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><>" joined team "CT"
+L 04/04/2015 - 16:57:10: "MiJloTa<404><STEAM_0:4:1458977915><>" entered the game
+L 04/04/2015 - 16:57:11: "[GS-M]   :D<403><STEAM_0:4:1003904645><>" entered the game
+L 04/04/2015 - 16:57:15: "[GS-M]   :D<403><STEAM_0:4:1003904645><>" joined team "TERRORIST"
+L 04/04/2015 - 16:57:15: World triggered "Game_Commencing"
+L 04/04/2015 - 16:57:15: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/04/2015 - 16:57:15: World triggered "Round_End"
+L 04/04/2015 - 16:57:23: World triggered "Round_Start"
+L 04/04/2015 - 16:57:31: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:57:31: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 16:57:31: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/04/2015 - 16:57:31: World triggered "Round_End"
+L 04/04/2015 - 16:57:41: World triggered "Round_Start"
+L 04/04/2015 - 16:57:45: "MiJloTa<404><STEAM_0:4:1458977915><>" joined team "TERRORIST"
+L 04/04/2015 - 16:57:53: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:57:53: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 16:57:57: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:57:57: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 16:57:57: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/04/2015 - 16:57:57: World triggered "Round_End"
+L 04/04/2015 - 16:58:07: World triggered "Round_Start"
+L 04/04/2015 - 16:58:13: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:58:13: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 16:58:21: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:58:21: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 16:58:21: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/04/2015 - 16:58:21: World triggered "Round_End"
+L 04/04/2015 - 16:58:25: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 16:58:25: "VIKa:***<405><STEAM_0:0:1429534441><>" connected, address "37.214.126.58:42559"
+L 04/04/2015 - 16:58:25: [VTC] Player 2 speex
+L 04/04/2015 - 16:58:28: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" committed suicide with "game_player_hurt" (world)
+L 04/04/2015 - 16:58:30: "VIKa:***<405><STEAM_0:0:1429534441><>" entered the game
+L 04/04/2015 - 16:58:31: World triggered "Round_Start"
+L 04/04/2015 - 16:58:34: "VIKa:***<405><STEAM_0:0:1429534441><>" joined team "CT"
+L 04/04/2015 - 16:58:44: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" attacked "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:58:44: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" killed "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" with "knife"
+L 04/04/2015 - 16:58:46: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "195") (deaths "1")
+L 04/04/2015 - 16:58:46: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 16:58:46: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" triggered "time" (time "1:44")
+L 04/04/2015 - 16:58:46: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" triggered "latency" (ping "25")
+L 04/04/2015 - 16:58:46: "[Hard_Skill]_4IKIST<394><STEAM_0:4:2118919429><CT>" disconnected
+L 04/04/2015 - 16:58:48: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:58:48: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 16:58:48: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 04/04/2015 - 16:58:48: World triggered "Round_End"
+L 04/04/2015 - 16:58:58: World triggered "Round_Start"
+L 04/04/2015 - 16:59:08: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" attacked "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:59:08: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" killed "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife"
+L 04/04/2015 - 16:59:11: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 16:59:11: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 16:59:47: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-36") (armor "0")
+L 04/04/2015 - 16:59:47: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 16:59:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 04/04/2015 - 16:59:47: World triggered "Round_End"
+L 04/04/2015 - 16:59:57: World triggered "Round_Start"
+L 04/04/2015 - 17:00:00: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb39e5cf0
+L 04/04/2015 - 17:00:00: "wer<406><STEAM_0:0:104917211><>" connected, address "93.185.24.48:30687"
+L 04/04/2015 - 17:00:00: [VTC] Player 3 silk
+L 04/04/2015 - 17:00:01: "wer<406><STEAM_0:0:104917211><>" STEAM USERID validated
+L 04/04/2015 - 17:00:04: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb39e5cf0
+L 04/04/2015 - 17:00:04: "wer<407><STEAM_0:0:104917211><>" connected, address "93.185.24.48:30687"
+L 04/04/2015 - 17:00:04: [VTC] Player 3 silk
+L 04/04/2015 - 17:00:05: "wer<407><STEAM_0:0:104917211><>" STEAM USERID validated
+L 04/04/2015 - 17:00:08: "wer<407><STEAM_0:0:104917211><>" entered the game
+L 04/04/2015 - 17:00:10: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:00:10: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:00:10: "wer<407><STEAM_0:0:104917211><>" joined team "TERRORIST"
+L 04/04/2015 - 17:00:18: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:00:18: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:00:24: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:00:24: "O_ops<408><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:00:25: [VTC] Player 5 silk
+L 04/04/2015 - 17:00:25: "O_ops<408><STEAM_0:0:77274554><>" STEAM USERID validated
+L 04/04/2015 - 17:00:30: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:00:30: "O_ops<409><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:00:30: [VTC] Player 5 silk
+L 04/04/2015 - 17:00:30: "O_ops<409><STEAM_0:0:77274554><>" STEAM USERID validated
+L 04/04/2015 - 17:00:31: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:00:31: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife"
+L 04/04/2015 - 17:00:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 04/04/2015 - 17:00:31: World triggered "Round_End"
+L 04/04/2015 - 17:00:41: World triggered "Round_Start"
+L 04/04/2015 - 17:00:43: "O_ops<409><STEAM_0:0:77274554><>" entered the game
+L 04/04/2015 - 17:00:49: "O_ops<409><STEAM_0:0:77274554><>" joined team "CT"
+L 04/04/2015 - 17:00:49: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:00:49: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:00:52: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:00:52: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:01:14: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "O_ops<409><STEAM_0:0:77274554><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:01:14: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "O_ops<409><STEAM_0:0:77274554><CT>" with "knife"
+L 04/04/2015 - 17:01:17: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:01:17: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:01:17: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 04/04/2015 - 17:01:17: World triggered "Round_End"
+L 04/04/2015 - 17:01:25: "VIKa:***<405><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 04/04/2015 - 17:01:27: World triggered "Round_Start"
+L 04/04/2015 - 17:01:36: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "O_ops<409><STEAM_0:0:77274554><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:01:36: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "O_ops<409><STEAM_0:0:77274554><CT>" with "knife"
+L 04/04/2015 - 17:01:39: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:01:39: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:01:44: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:01:44: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:01:44: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-36") (armor "0")
+L 04/04/2015 - 17:01:44: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:01:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 04/04/2015 - 17:01:44: World triggered "Round_End"
+L 04/04/2015 - 17:01:54: World triggered "Round_Start"
+L 04/04/2015 - 17:02:02: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" attacked "O_ops<409><STEAM_0:0:77274554><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:02:02: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" killed "O_ops<409><STEAM_0:0:77274554><CT>" with "knife"
+L 04/04/2015 - 17:02:02: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:02:02: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:02:06: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:02:06: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:02:25: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:02:25: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:02:25: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 04/04/2015 - 17:02:25: World triggered "Round_End"
+L 04/04/2015 - 17:02:32: "MiJloTa<404><STEAM_0:4:1458977915><TERRORIST>" changed name to "ZloBnEgAmNo"
+L 04/04/2015 - 17:02:33: "O_ops<409><STEAM_0:0:77274554><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 04/04/2015 - 17:02:33: "O_ops<409><STEAM_0:0:77274554><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:02:33: "O_ops<409><STEAM_0:0:77274554><CT>" triggered "time" (time "1:50")
+L 04/04/2015 - 17:02:33: "O_ops<409><STEAM_0:0:77274554><CT>" triggered "latency" (ping "91")
+L 04/04/2015 - 17:02:33: "O_ops<409><STEAM_0:0:77274554><CT>" disconnected
+L 04/04/2015 - 17:02:35: World triggered "Round_Start"
+L 04/04/2015 - 17:02:38: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:02:38: "O_ops<410><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:02:38: Kick: "O_ops<410><STEAM_0:0:77274554><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 15 секунд"")
+L 04/04/2015 - 17:02:42: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:02:42: "O_ops<411><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:02:42: Kick: "O_ops<411><STEAM_0:0:77274554><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 11 секунд"")
+L 04/04/2015 - 17:02:43: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" attacked "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:02:43: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" killed "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife"
+L 04/04/2015 - 17:02:44: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:02:44: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:02:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 04/04/2015 - 17:02:44: World triggered "Round_End"
+L 04/04/2015 - 17:02:44: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:02:44: "O_ops<412><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:02:44: Kick: "O_ops<412><STEAM_0:0:77274554><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 8 секунд"")
+L 04/04/2015 - 17:02:48: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:02:48: "O_ops<413><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:02:48: Kick: "O_ops<413><STEAM_0:0:77274554><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 5 секунд"")
+L 04/04/2015 - 17:02:52: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:02:52: "O_ops<414><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:02:52: Kick: "O_ops<414><STEAM_0:0:77274554><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 1 секунд"")
+L 04/04/2015 - 17:02:54: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39efad8
+L 04/04/2015 - 17:02:54: "O_ops<415><STEAM_0:0:77274554><>" connected, address "93.185.24.234:7181"
+L 04/04/2015 - 17:02:54: World triggered "Round_Start"
+L 04/04/2015 - 17:02:54: [VTC] Player 5 silk
+L 04/04/2015 - 17:02:54: "O_ops<415><STEAM_0:0:77274554><>" STEAM USERID validated
+L 04/04/2015 - 17:02:58: "O_ops<415><STEAM_0:0:77274554><>" entered the game
+L 04/04/2015 - 17:03:03: "O_ops<415><STEAM_0:0:77274554><>" joined team "CT"
+L 04/04/2015 - 17:03:10: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:03:10: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:03:12: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:03:12: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:03:26: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:03:26: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:03:27: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "O_ops<415><STEAM_0:0:77274554><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:03:27: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "O_ops<415><STEAM_0:0:77274554><CT>" with "knife"
+L 04/04/2015 - 17:03:47: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:03:47: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife"
+L 04/04/2015 - 17:03:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "5")
+L 04/04/2015 - 17:03:47: World triggered "Round_End"
+L 04/04/2015 - 17:03:57: World triggered "Round_Start"
+L 04/04/2015 - 17:04:05: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:04:05: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:04:16: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "81") (damage_armor "0") (health "-46") (armor "0")
+L 04/04/2015 - 17:04:16: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:04:36: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:04:36: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:04:36: Team "CT" triggered "CTs_Win" (CT "7") (T "5")
+L 04/04/2015 - 17:04:36: World triggered "Round_End"
+L 04/04/2015 - 17:04:45: "VIKa:***<405><STEAM_0:0:1429534441><CT>" committed suicide with "game_player_hurt" (world)
+L 04/04/2015 - 17:04:46: World triggered "Round_Start"
+L 04/04/2015 - 17:04:55: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:04:55: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:05:09: "O_ops<415><STEAM_0:0:77274554><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:05:09: "O_ops<415><STEAM_0:0:77274554><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:05:23: "O_ops<415><STEAM_0:0:77274554><CT>" attacked "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-58") (armor "0")
+L 04/04/2015 - 17:05:23: "O_ops<415><STEAM_0:0:77274554><CT>" killed "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:05:38: "O_ops<415><STEAM_0:0:77274554><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:05:38: "O_ops<415><STEAM_0:0:77274554><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:05:38: Team "CT" triggered "CTs_Win" (CT "8") (T "5")
+L 04/04/2015 - 17:05:38: World triggered "Round_End"
+L 04/04/2015 - 17:05:48: World triggered "Round_Start"
+L 04/04/2015 - 17:06:02: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:06:02: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:06:02: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" attacked "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:06:02: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" killed "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife"
+L 04/04/2015 - 17:06:08: "O_ops<415><STEAM_0:0:77274554><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 04/04/2015 - 17:06:08: "O_ops<415><STEAM_0:0:77274554><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:06:18: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "O_ops<415><STEAM_0:0:77274554><CT>" with "knife" (damage "65") (damage_armor "0") (health "-32") (armor "0")
+L 04/04/2015 - 17:06:18: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "O_ops<415><STEAM_0:0:77274554><CT>" with "knife"
+L 04/04/2015 - 17:06:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "6")
+L 04/04/2015 - 17:06:18: World triggered "Round_End"
+L 04/04/2015 - 17:06:28: World triggered "Round_Start"
+L 04/04/2015 - 17:06:41: "O_ops<415><STEAM_0:0:77274554><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:06:41: "O_ops<415><STEAM_0:0:77274554><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:06:58: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" attacked "O_ops<415><STEAM_0:0:77274554><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:06:58: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" killed "O_ops<415><STEAM_0:0:77274554><CT>" with "knife"
+L 04/04/2015 - 17:07:01: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:01: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:07:02: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:02: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:07:04: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:04: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:07:04: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 04/04/2015 - 17:07:04: World triggered "Round_End"
+L 04/04/2015 - 17:07:14: World triggered "Round_Start"
+L 04/04/2015 - 17:07:14: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" say "rfr gblh))"
+L 04/04/2015 - 17:07:21: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:21: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" with "knife"
+L 04/04/2015 - 17:07:26: "VIKa:***<405><STEAM_0:0:1429534441><CT>" attacked "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:26: "VIKa:***<405><STEAM_0:0:1429534441><CT>" killed "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" with "knife"
+L 04/04/2015 - 17:07:33: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:33: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" with "knife"
+L 04/04/2015 - 17:07:37: "wer<407><STEAM_0:0:104917211><TERRORIST>" attacked "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:07:37: "wer<407><STEAM_0:0:104917211><TERRORIST>" killed "VIKa:***<405><STEAM_0:0:1429534441><CT>" with "knife"
+L 04/04/2015 - 17:07:37: Server cvar "amx_nextmap" = "aim_awp"
+L 04/04/2015 - 17:07:37: Server cvar "mp_timelimit" = "0.000000"
+L 04/04/2015 - 17:08:19: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 0xb39f98c0
+L 04/04/2015 - 17:08:19: "Llama<416><STEAM_0:0:12450090><>" connected, address "109.162.39.213:27005"
+L 04/04/2015 - 17:08:19: [VTC] Player 7 silk
+L 04/04/2015 - 17:08:19: "Llama<416><STEAM_0:0:12450090><>" STEAM USERID validated
+L 04/04/2015 - 17:08:28: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 0xb39f98c0
+L 04/04/2015 - 17:08:28: "Llama<417><STEAM_0:0:12450090><>" connected, address "109.162.39.213:27005"
+L 04/04/2015 - 17:08:28: [VTC] Player 7 silk
+L 04/04/2015 - 17:08:28: "Llama<417><STEAM_0:0:12450090><>" STEAM USERID validated
+L 04/04/2015 - 17:08:44: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 0xb39f98c0
+L 04/04/2015 - 17:08:44: "Llama<418><STEAM_0:0:12450090><>" connected, address "109.162.39.213:27005"
+L 04/04/2015 - 17:08:44: [VTC] Player 7 silk
+L 04/04/2015 - 17:08:44: "Llama<418><STEAM_0:0:12450090><>" STEAM USERID validated
+L 04/04/2015 - 17:08:46: Kick: "[GS-M]   :D<403><STEAM_0:4:1003904645><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 17:08:46: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "86") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "195") (deaths "12")
+L 04/04/2015 - 17:08:46: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:08:46: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" triggered "time" (time "11:35")
+L 04/04/2015 - 17:08:46: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" triggered "latency" (ping "103")
+L 04/04/2015 - 17:08:46: "[GS-M]   :D<403><STEAM_0:4:1003904645><TERRORIST>" disconnected
+L 04/04/2015 - 17:08:48: "Llama<418><STEAM_0:0:12450090><>" entered the game
+L 04/04/2015 - 17:08:55: "Llama<418><STEAM_0:0:12450090><>" joined team "CT"
+L 04/04/2015 - 17:09:30: "O_ops<415><STEAM_0:0:77274554><CT>" attacked "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 17:09:30: "O_ops<415><STEAM_0:0:77274554><CT>" killed "wer<407><STEAM_0:0:104917211><TERRORIST>" with "knife"
+L 04/04/2015 - 17:09:30: Team "CT" triggered "CTs_Win" (CT "10") (T "6")
+L 04/04/2015 - 17:09:30: World triggered "Round_End"
+L 04/04/2015 - 17:09:40: Server cvar "mp_timelimit" = "0.010000"
+L 04/04/2015 - 17:09:40: World triggered "Round_Start"
+L 04/04/2015 - 17:09:40: Team "CT" scored "10" with "4" players
+L 04/04/2015 - 17:09:40: Team "TERRORIST" scored "6" with "2" players
+L 04/04/2015 - 17:09:40: Server cvar "mp_chattime" = "3"
+L 04/04/2015 - 17:09:41: Server cvar "mp_chattime" = "1"
+L 04/04/2015 - 17:09:41: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" triggered "weaponstats" (weapon "knife") (shots "42") (hits "10") (kills "10") (headshots "0") (tks "0") (damage "666") (deaths "9")
+L 04/04/2015 - 17:09:41: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:09:41: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" triggered "time" (time "12:40")
+L 04/04/2015 - 17:09:41: "[TOP-MS] FANAT CAXAPA<387><STEAM_0:4:1122061573><CT>" triggered "latency" (ping "31")
+L 04/04/2015 - 17:09:41: "VIKa:***<405><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "knife") (shots "70") (hits "12") (kills "12") (headshots "0") (tks "0") (damage "780") (deaths "6")
+L 04/04/2015 - 17:09:41: "VIKa:***<405><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:09:41: "VIKa:***<405><STEAM_0:0:1429534441><CT>" triggered "time" (time "11:11")
+L 04/04/2015 - 17:09:41: "VIKa:***<405><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "35")
+L 04/04/2015 - 17:09:41: "wer<407><STEAM_0:0:104917211><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "23") (hits "10") (kills "10") (headshots "0") (tks "0") (damage "650") (deaths "7")
+L 04/04/2015 - 17:09:41: "wer<407><STEAM_0:0:104917211><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:09:41: "wer<407><STEAM_0:0:104917211><TERRORIST>" triggered "time" (time "9:33")
+L 04/04/2015 - 17:09:41: "wer<407><STEAM_0:0:104917211><TERRORIST>" triggered "latency" (ping "74")
+L 04/04/2015 - 17:09:41: "O_ops<415><STEAM_0:0:77274554><CT>" triggered "weaponstats" (weapon "knife") (shots "37") (hits "6") (kills "6") (headshots "1") (tks "0") (damage "585") (deaths "3")
+L 04/04/2015 - 17:09:41: "O_ops<415><STEAM_0:0:77274554><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:09:41: "O_ops<415><STEAM_0:0:77274554><CT>" triggered "time" (time "6:42")
+L 04/04/2015 - 17:09:41: "O_ops<415><STEAM_0:0:77274554><CT>" triggered "latency" (ping "77")
+L 04/04/2015 - 17:09:41: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "50") (hits "9") (kills "9") (headshots "0") (tks "0") (damage "585") (deaths "12")
+L 04/04/2015 - 17:09:41: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:09:41: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" triggered "time" (time "12:31")
+L 04/04/2015 - 17:09:41: "ZloBnEgAmNo<404><STEAM_0:4:1458977915><TERRORIST>" triggered "latency" (ping "91")
+L 04/04/2015 - 17:09:41: "Llama<418><STEAM_0:0:12450090><CT>" triggered "time" (time "0:52")
+L 04/04/2015 - 17:09:41: "Llama<418><STEAM_0:0:12450090><CT>" triggered "latency" (ping "73")
+L 04/04/2015 - 17:09:41: Server cvar "mp_timelimit" = "30.000000"
+L 04/04/2015 - 17:09:41: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/04/2015 - 17:09:41: [META] ini: Read plugin config for: AMX Mod X
+L 04/04/2015 - 17:09:41: [META] ini: Read plugin config for: dproto_EF
+L 04/04/2015 - 17:09:41: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/04/2015 - 17:09:41: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/04/2015 - 17:09:41: [META] dll: Updating plugins...
+L 04/04/2015 - 17:09:41: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/04/2015 - 17:09:41: Log file closed

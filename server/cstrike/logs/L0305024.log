@@ -1,0 +1,31 @@
+L 03/05/2015 - 15:25:07: Log file started (file "logs/L0305024.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/05/2015 - 15:25:07: Server cvar "mp_logdetail" = "3"
+L 03/05/2015 - 15:25:15: World triggered "Round_Start"
+L 03/05/2015 - 15:25:47: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3964f08
+L 03/05/2015 - 15:25:47: "Player<1><STEAM_0:0:112811475><>" connected, address "10.19.7.134:27005"
+L 03/05/2015 - 15:25:47: [VTC] Player 1 speex
+L 03/05/2015 - 15:25:55: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb3964f08
+L 03/05/2015 - 15:25:55: "Player<2><STEAM_0:0:112811475><>" connected, address "10.19.7.134:27005"
+L 03/05/2015 - 15:25:55: [VTC] Player 1 speex
+L 03/05/2015 - 15:26:06: "Player<2><STEAM_0:0:112811475><>" entered the game
+L 03/05/2015 - 15:26:10: "Player<2><STEAM_0:0:112811475><>" joined team "CT"
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" triggered "time" (time "0:55")
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" triggered "latency" (ping "4")
+L 03/05/2015 - 15:27:01: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/05/2015 - 15:27:01: [META] ini: Read plugin config for: AMX Mod X
+L 03/05/2015 - 15:27:01: [META] ini: Read plugin config for: dproto_EF
+L 03/05/2015 - 15:27:01: [META] ini: Read plugin config for: mmtimer
+L 03/05/2015 - 15:27:01: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/05/2015 - 15:27:01: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/05/2015 - 15:27:01: [META] dll: Updating plugins...
+L 03/05/2015 - 15:27:01: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/05/2015 - 15:27:01: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/05/2015 - 15:27:01: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/05/2015 - 15:27:01: "Player<2><STEAM_0:0:112811475><CT>" disconnected
+L 03/05/2015 - 15:27:01: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/05/2015 - 15:27:01: World triggered "Round_End"
+L 03/05/2015 - 15:27:01: Log file closed

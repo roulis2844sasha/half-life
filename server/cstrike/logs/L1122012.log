@@ -1,0 +1,92 @@
+L 11/22/2015 - 18:14:26: Log file started (file "logs/L1122012.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 11/22/2015 - 18:14:26: Server cvar "mp_logdetail" = "3"
+L 11/22/2015 - 18:14:26: Server cvar "mp_timelimit" = "30"
+L 11/22/2015 - 18:14:26: Server cvar "mp_c4timer" = "35"
+L 11/22/2015 - 18:14:26: Server cvar "mp_flashlight" = "1"
+L 11/22/2015 - 18:14:26: Server cvar "mp_freezetime" = "5"
+L 11/22/2015 - 18:14:26: Server cvar "mp_hostagepenalty" = "0"
+L 11/22/2015 - 18:14:26: Server cvar "mp_limitteams" = "5"
+L 11/22/2015 - 18:14:26: Server cvar "mp_roundtime" = "2.57"
+L 11/22/2015 - 18:14:26: Server cvar "mp_tkpunish" = "1"
+L 11/22/2015 - 18:14:26: Server cvar "sv_restartround" = "1"
+L 11/22/2015 - 18:14:26: Server cvar "sv_maxspeed" = "320"
+L 11/22/2015 - 18:14:26: Server cvar "sv_proxies" = "0"
+L 11/22/2015 - 18:14:26: Server cvar "allow_spectators" = "4"
+L 11/22/2015 - 18:14:26: Server cvar "mp_chattime" = "0"
+L 11/22/2015 - 18:14:26: Server cvar "decalfrequency" = "9"
+L 11/22/2015 - 18:14:26: Server cvar "sv_aim" = "0"
+L 11/22/2015 - 18:14:26: Server cvar "sv_minrate" = "100000"
+L 11/22/2015 - 18:14:26: Server cvar "sv_maxrate" = "25000"
+L 11/22/2015 - 18:14:26: Server cvar "sv_region" = "3"
+L 11/22/2015 - 18:14:26: World triggered "Restart_Round_(1_second)"
+L 11/22/2015 - 18:14:26: Team "CT" scored "0" with "0" players
+L 11/22/2015 - 18:14:26: Team "TERRORIST" scored "0" with "0" players
+L 11/22/2015 - 18:14:26: Server cvar "sv_restartround" = "0"
+L 11/22/2015 - 18:14:27: [DPROTO]: Client 0 - Set AuthIdType 10 [dproto]; pClient = 0xf391ef08
+L 11/22/2015 - 18:14:27: "DOG_RouL!$<1><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/22/2015 - 18:14:27: [VTC] Player 1 silk
+L 11/22/2015 - 18:14:30: "DOG_RouL!$<1><VALVE_ID_LAN><>" entered the game
+L 11/22/2015 - 18:14:30: "[POD]Robert_Deniro (100)<2><BOT><>" entered the game
+L 11/22/2015 - 18:14:30: "[POD]Robert_Deniro (100)<2><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:14:30: "[POD]Robert_Deniro (100)<2><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/22/2015 - 18:14:31: "[P0D]Stacy_Keech (100)<3><BOT><>" entered the game
+L 11/22/2015 - 18:14:31: "[P0D]Stacy_Keech (100)<3><BOT><>" joined team "CT"
+L 11/22/2015 - 18:14:31: World triggered "Game_Commencing"
+L 11/22/2015 - 18:14:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/22/2015 - 18:14:31: World triggered "Round_End"
+L 11/22/2015 - 18:14:31: "[POD]Joe_Pesci (100)<4><BOT><>" entered the game
+L 11/22/2015 - 18:14:31: "[POD]Joe_Pesci (100)<4><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:14:32: "[POD]Polymorph (100)<5><BOT><>" entered the game
+L 11/22/2015 - 18:14:32: "[POD]Polymorph (100)<5><BOT><>" joined team "CT"
+L 11/22/2015 - 18:14:32: "DOG_RouL!$<1><VALVE_ID_LAN><>" joined team "CT"
+L 11/22/2015 - 18:14:32: "[P*D]Tommy_Lee_Jones (100)<6><BOT><>" entered the game
+L 11/22/2015 - 18:14:32: "[P*D]Tommy_Lee_Jones (100)<6><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:14:33: "[P*D]Zap! (100)<7><BOT><>" entered the game
+L 11/22/2015 - 18:14:33: "[P*D]Zap! (100)<7><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:14:33: "[POD]Android (100)<8><BOT><>" entered the game
+L 11/22/2015 - 18:14:33: Kick: "[POD]Robert_Deniro (100)<2><BOT><>" was kicked by "Console"
+L 11/22/2015 - 18:14:33: "[POD]Robert_Deniro (100)<2><BOT><TERRORIST>" disconnected
+L 11/22/2015 - 18:14:33: "[POD]Android (100)<8><BOT><>" joined team "CT"
+L 11/22/2015 - 18:14:34: "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/22/2015 - 18:14:39: World triggered "Round_Start"
+L 11/22/2015 - 18:14:49: "[POD]Polymorph (100)<5><BOT><CT>" attacked "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 11/22/2015 - 18:14:49: "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" attacked "[POD]Polymorph (100)<5><BOT><CT>" with "deagle" (damage "53") (damage_armor "0") (health "47") (armor "0")
+L 11/22/2015 - 18:14:52: "[POD]Polymorph (100)<5><BOT><CT>" attacked "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" with "usp" (damage "32") (damage_armor "0") (health "42") (armor "0")
+L 11/22/2015 - 18:14:52: "[POD]Polymorph (100)<5><BOT><CT>" committed suicide with "grenade"
+L 11/22/2015 - 18:14:52: "[POD]Polymorph (100)<5><BOT><CT>" killed "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" with "grenade"
+L 11/22/2015 - 18:14:52: "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/22/2015 - 18:14:52: "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" say "WTF, I mean why not guys, vote me as Mayor, Jesse the Body Ventura did it..." (dead)
+L 11/22/2015 - 18:14:52: "[P*D]Zap! (100)<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 11/22/2015 - 18:14:59: "[POD]Polymorph (100)<5><BOT><CT>" say "DOG_RouL!$ You act like my sister...she's a Tomboy" (dead)
+L 11/22/2015 - 18:15:00: "DOG_RouL!$<1><VALVE_ID_LAN><CT>" triggered "time" (time "0:29")
+L 11/22/2015 - 18:15:00: "DOG_RouL!$<1><VALVE_ID_LAN><CT>" triggered "latency" (ping "2")
+L 11/22/2015 - 18:15:00: "DOG_RouL!$<1><VALVE_ID_LAN><CT>" disconnected
+L 11/22/2015 - 18:15:00: "[POD]U're Dead (100)<9><BOT><>" entered the game
+L 11/22/2015 - 18:15:00: "[POD]U're Dead (100)<9><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:15:03: "[P*D]Tommy_Lee_Jones (100)<6><BOT><TERRORIST>" say "acting is my life. my whole life is just an act. OMG IM SO DEPRESSED" (dead)
+L 11/22/2015 - 18:15:03: [DPROTO]: Client 1 - Set AuthIdType 10 [dproto]; pClient = 0xf3923dfc
+L 11/22/2015 - 18:15:03: "DOG_RouL!$<10><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/22/2015 - 18:15:03: [VTC] Player 2 silk
+L 11/22/2015 - 18:15:04: "[POD]Joe_Pesci (100)<4><BOT><TERRORIST>" attacked "[POD]Android (100)<8><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 11/22/2015 - 18:15:04: "[POD]Joe_Pesci (100)<4><BOT><TERRORIST>" attacked "[POD]Android (100)<8><BOT><CT>" with "glock18" (damage "19") (damage_armor "0") (health "62") (armor "0")
+L 11/22/2015 - 18:15:05: "[POD]Joe_Pesci (100)<4><BOT><TERRORIST>" attacked "[POD]Android (100)<8><BOT><CT>" with "glock18" (damage "20") (damage_armor "0") (health "42") (armor "0")
+L 11/22/2015 - 18:15:05: "[P0D]Stacy_Keech (100)<3><BOT><CT>" committed suicide with "world"
+L 11/22/2015 - 18:15:05: "[POD]Joe_Pesci (100)<4><BOT><TERRORIST>" committed suicide with "world"
+L 11/22/2015 - 18:15:05: "[P*D]Zap! (100)<7><BOT><TERRORIST>" committed suicide with "world"
+L 11/22/2015 - 18:15:05: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/22/2015 - 18:15:05: World triggered "Round_End"
+L 11/22/2015 - 18:15:05: "[POD]Android (100)<8><BOT><CT>" committed suicide with "world"
+L 11/22/2015 - 18:15:06: Kick: "[POD]U're Dead (100)<9><BOT><>" was kicked by "Console"
+L 11/22/2015 - 18:15:06: "[POD]U're Dead (100)<9><BOT><TERRORIST>" disconnected
+L 11/22/2015 - 18:15:06: "DOG_RouL!$<10><VALVE_ID_LAN><>" entered the game
+L 11/22/2015 - 18:15:07: "DOG_RouL!$<10><VALVE_ID_LAN><>" joined team "CT"
+L 11/22/2015 - 18:15:08: "[P*D]Zap! (100)<7><BOT><TERRORIST>" say "Find out yourself, Tommy_Lee_Jones !" (dead)
+L 11/22/2015 - 18:15:10: "[P*D]Zap! (100)<7><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/22/2015 - 18:15:15: World triggered "Round_Start"
+L 11/22/2015 - 18:15:26: "[P*D]Zap! (100)<7><BOT><TERRORIST>" attacked "[P0D]Stacy_Keech (100)<3><BOT><CT>" with "deagle" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 11/22/2015 - 18:15:31: "[P0D]Stacy_Keech (100)<3><BOT><CT>" attacked "[P*D]Zap! (100)<7><BOT><TERRORIST>" with "scout" (damage "73") (damage_armor "0") (health "-14") (armor "0")
+L 11/22/2015 - 18:15:31: "[P0D]Stacy_Keech (100)<3><BOT><CT>" killed "[P*D]Zap! (100)<7><BOT><TERRORIST>" with "scout"
+L 11/22/2015 - 18:15:31: "[P*D]Zap! (100)<7><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/22/2015 - 18:15:31: "[P0D]Stacy_Keech (100)<3><BOT><CT>" say "Zap!, ill use the rubber bullets next time !"
+L 11/22/2015 - 18:15:39: "[P*D]Zap! (100)<7><BOT><TERRORIST>" say "Stacy_Keech i need some more sugar with this coffee" (dead)
+L 11/22/2015 - 18:15:40: "[POD]Polymorph (100)<5><BOT><CT>" attacked "[POD]Joe_Pesci (100)<4

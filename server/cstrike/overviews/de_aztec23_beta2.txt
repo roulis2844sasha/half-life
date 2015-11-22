@@ -1,0 +1,14 @@
+// overview description file for de_aztec23_beta2.bsp (by -flashgott-)
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	990.31 	-321.44	-689.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aztec23_beta2.bmp"
+	HEIGHT	-689.00
+}

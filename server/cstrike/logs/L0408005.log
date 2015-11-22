@@ -1,0 +1,1152 @@
+L 04/08/2015 - 16:59:39: Log file started (file "logs/L0408005.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/08/2015 - 16:59:39: Loading map "$2000$"
+L 04/08/2015 - 16:59:39: Server cvars start
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_debug_level" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_examine_time" = "0.5"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_look_angle" = "10"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_look_distance" = "200"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_message_repeats" = "5"
+L 04/08/2015 - 16:59:39: Server cvar "_tutor_view_distance" = "1000"
+L 04/08/2015 - 16:59:39: Server cvar "aesp_version" = "1.5b_mini"
+L 04/08/2015 - 16:59:39: Server cvar "allow_spectators" = "4"
+L 04/08/2015 - 16:59:39: Server cvar "amx_client_languages" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/08/2015 - 16:59:39: Server cvar "amx_language" = "ru"
+L 04/08/2015 - 16:59:39: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 04/08/2015 - 16:59:39: Server cvar "amx_timeleft" = "23:50"
+L 04/08/2015 - 16:59:39: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/08/2015 - 16:59:39: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/08/2015 - 16:59:39: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Config" = "Loaded"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Replace" = "Failed"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Status" = "Loaded"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/08/2015 - 16:59:39: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/08/2015 - 16:59:39: Server cvar "coop" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "deathmatch" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "decalfrequency" = "9"
+L 04/08/2015 - 16:59:39: Server cvar "dp_version" = "0.9.391"
+L 04/08/2015 - 16:59:39: Server cvar "edgefriction" = "2"
+L 04/08/2015 - 16:59:39: Server cvar "hostage_debug" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "hostage_stop" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "humans_join_team" = "any"
+L 04/08/2015 - 16:59:39: Server cvar "jtp10181" = "chute,gore"
+L 04/08/2015 - 16:59:39: Server cvar "max_queries_sec" = "3.0"
+L 04/08/2015 - 16:59:39: Server cvar "max_queries_sec_global" = "30"
+L 04/08/2015 - 16:59:39: Server cvar "max_queries_window" = "60"
+L 04/08/2015 - 16:59:39: Server cvar "metamod_version" = "1.19"
+L 04/08/2015 - 16:59:39: Server cvar "mp_allowmonsters" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_autokick" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_autoteambalance" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_buytime" = "1.5"
+L 04/08/2015 - 16:59:39: Server cvar "mp_c4timer" = "35"
+L 04/08/2015 - 16:59:39: Server cvar "mp_chattime" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_consistency" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_fadetoblack" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_flashlight" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_footsteps" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_forcecamera" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_forcechasecam" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_fragsleft" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_freezetime" = "5"
+L 04/08/2015 - 16:59:39: Server cvar "mp_friendlyfire" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_hostagepenalty" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_kickpercent" = "0.66"
+L 04/08/2015 - 16:59:39: Server cvar "mp_limitteams" = "5"
+L 04/08/2015 - 16:59:39: Server cvar "mp_logdetail" = "3"
+L 04/08/2015 - 16:59:39: Server cvar "mp_logfile" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_logmessages" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/08/2015 - 16:59:39: Server cvar "mp_maxrounds" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_mirrordamage" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_playerid" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_roundtime" = "2.57"
+L 04/08/2015 - 16:59:39: Server cvar "mp_startmoney" = "800"
+L 04/08/2015 - 16:59:39: Server cvar "mp_timeleft" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "mp_timelimit" = "30"
+L 04/08/2015 - 16:59:39: Server cvar "mp_tkpunish" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_windifference" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "mp_winlimit" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "pausable" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_accelerate" = "5"
+L 04/08/2015 - 16:59:39: Server cvar "sv_aim" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_airaccelerate" = "10"
+L 04/08/2015 - 16:59:39: Server cvar "sv_airmove" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "sv_allowupload" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "sv_alltalk" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_bounce" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "sv_cheats" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_clienttrace" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "sv_clipmode" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_contact" = ""
+L 04/08/2015 - 16:59:39: Server cvar "sv_friction" = "4"
+L 04/08/2015 - 16:59:39: Server cvar "sv_gravity" = "800"
+L 04/08/2015 - 16:59:39: Server cvar "sv_logblocks" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_maxrate" = "25000"
+L 04/08/2015 - 16:59:39: Server cvar "sv_maxspeed" = "900"
+L 04/08/2015 - 16:59:39: Server cvar "sv_minrate" = "100000"
+L 04/08/2015 - 16:59:39: Server cvar "sv_password" = ""
+L 04/08/2015 - 16:59:39: Server cvar "sv_proxies" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_region" = "3"
+L 04/08/2015 - 16:59:39: Server cvar "sv_restart" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_restartround" = "0"
+L 04/08/2015 - 16:59:39: Server cvar "sv_stepsize" = "18"
+L 04/08/2015 - 16:59:39: Server cvar "sv_stopspeed" = "75"
+L 04/08/2015 - 16:59:39: Server cvar "sv_uploadmax" = "0.5"
+L 04/08/2015 - 16:59:39: Server cvar "sv_voiceenable" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "sv_wateraccelerate" = "10"
+L 04/08/2015 - 16:59:39: Server cvar "sv_waterfriction" = "1"
+L 04/08/2015 - 16:59:39: Server cvar "travo_statmarquee" = "v1.2"
+L 04/08/2015 - 16:59:39: Server cvar "vtc_version" = "80"
+L 04/08/2015 - 16:59:39: Server cvars end
+L 04/08/2015 - 16:59:39: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 04/08/2015 - 16:59:39: Server cvar "sv_restart" = "1"
+L 04/08/2015 - 16:59:39: World triggered "Restart_Round_(1_second)"
+L 04/08/2015 - 16:59:39: Team "CT" scored "0" with "0" players
+L 04/08/2015 - 16:59:39: Team "TERRORIST" scored "0" with "0" players
+L 04/08/2015 - 16:59:39: Server cvar "sv_restart" = "0"
+L 04/08/2015 - 16:59:39: Started map "$2000$" (CRC "-1688392397")
+L 04/08/2015 - 16:59:40: [VTC] Player 3 silk
+L 04/08/2015 - 16:59:40: [VTC] Player 4 speex
+L 04/08/2015 - 16:59:40: [VTC] Player 5 speex
+L 04/08/2015 - 16:59:41: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 16:59:41: "Ben_Laden<20><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 16:59:41: [VTC] Player 7 speex
+L 04/08/2015 - 16:59:42: "Extazy<7><STEAM_0:1:113150434><>" entered the game
+L 04/08/2015 - 16:59:43: "acoolfifa<11><STEAM_0:4:2074332421><>" entered the game
+L 04/08/2015 - 16:59:44: "ByBlikgood<10><STEAM_0:4:765185285><>" entered the game
+L 04/08/2015 - 16:59:44: "Ben_Laden<20><STEAM_0:4:1067433675><>" entered the game
+L 04/08/2015 - 16:59:44: World triggered "Round_Start"
+L 04/08/2015 - 16:59:45: "Extazy<7><STEAM_0:1:113150434><>" joined team "SPECTATOR"
+L 04/08/2015 - 16:59:45: "acoolfifa<11><STEAM_0:4:2074332421><>" joined team "TERRORIST"
+L 04/08/2015 - 16:59:46: "Ben_Laden<20><STEAM_0:4:1067433675><>" joined team "TERRORIST"
+L 04/08/2015 - 16:59:48: "ByBlikgood<10><STEAM_0:4:765185285><>" joined team "TERRORIST"
+L 04/08/2015 - 16:59:55: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39cb7b4
+L 04/08/2015 - 16:59:55: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><>" connected, address "178.120.70.130:4675"
+L 04/08/2015 - 16:59:55: [VTC] Player 8 speex
+L 04/08/2015 - 16:59:56: "acoolfifa<11><STEAM_0:4:2074332421><TERRORIST>" committed suicide with "world"
+L 04/08/2015 - 16:59:56: "acoolfifa<11><STEAM_0:4:2074332421><TERRORIST>" joined team "CT"
+L 04/08/2015 - 16:59:56: World triggered "Game_Commencing"
+L 04/08/2015 - 16:59:56: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/08/2015 - 16:59:56: World triggered "Round_End"
+L 04/08/2015 - 16:59:59: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><>" entered the game
+L 04/08/2015 - 17:00:01: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><>" joined team "CT"
+L 04/08/2015 - 17:00:04: World triggered "Round_Start"
+L 04/08/2015 - 17:00:10: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "ak47" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:00:11: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "ak47" (damage "34") (damage_armor "0") (health "24") (armor "0")
+L 04/08/2015 - 17:00:11: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-1") (armor "0")
+L 04/08/2015 - 17:00:11: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" killed "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "ak47"
+L 04/08/2015 - 17:00:15: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "acoolfifa<11><STEAM_0:4:2074332421><CT>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/08/2015 - 17:00:15: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "acoolfifa<11><STEAM_0:4:2074332421><CT>" with "ak47" (damage "16") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:00:15: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "acoolfifa<11><STEAM_0:4:2074332421><CT>" with "ak47" (damage "34") (damage_armor "0") (health "38") (armor "0")
+L 04/08/2015 - 17:00:16: "acoolfifa<11><STEAM_0:4:2074332421><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:00:16: "acoolfifa<11><STEAM_0:4:2074332421><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/08/2015 - 17:00:16: "acoolfifa<11><STEAM_0:4:2074332421><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 04/08/2015 - 17:00:16: "acoolfifa<11><STEAM_0:4:2074332421><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:00:25: "acoolfifa<11><STEAM_0:4:2074332421><CT>" attacked "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:00:25: "acoolfifa<11><STEAM_0:4:2074332421><CT>" attacked "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-70") (armor "0")
+L 04/08/2015 - 17:00:25: "acoolfifa<11><STEAM_0:4:2074332421><CT>" killed "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:00:25: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/08/2015 - 17:00:25: World triggered "Round_End"
+L 04/08/2015 - 17:00:26: "Extazy<7><STEAM_0:1:113150434><SPECTATOR>" triggered "amx_chat" (text "acoolfifa<STEAM_0:4:2074332421> был забанен НАВСЕГДА. Причина: Читер.")
+L 04/08/2015 - 17:00:35: World triggered "Round_Start"
+L 04/08/2015 - 17:00:36: Kick: "acoolfifa<11><STEAM_0:4:2074332421><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "weaponstats" (weapon "glock18") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "weaponstats" (weapon "ak47") (shots "15") (hits "5") (kills "2") (headshots "1") (tks "0") (damage "272") (deaths "0")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "4") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "time" (time "0:53")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" triggered "latency" (ping "60")
+L 04/08/2015 - 17:00:36: "acoolfifa<11><STEAM_0:4:2074332421><CT>" disconnected
+L 04/08/2015 - 17:00:41: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/08/2015 - 17:00:41: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/08/2015 - 17:00:42: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-86") (armor "0")
+L 04/08/2015 - 17:00:42: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" killed "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1"
+L 04/08/2015 - 17:00:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 04/08/2015 - 17:00:42: World triggered "Round_End"
+L 04/08/2015 - 17:00:46: "Extazy<7><STEAM_0:1:113150434><SPECTATOR>" joined team "CT"
+L 04/08/2015 - 17:00:52: World triggered "Round_Start"
+L 04/08/2015 - 17:00:55: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "mp5navy" (damage "64") (damage_armor "0") (health "36") (armor "0")
+L 04/08/2015 - 17:00:56: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "19") (armor "0")
+L 04/08/2015 - 17:00:57: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "-17") (armor "0")
+L 04/08/2015 - 17:00:57: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "40") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "81") (deaths "1")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "41") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "101") (deaths "1")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "time" (time "1:15")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" triggered "latency" (ping "81")
+L 04/08/2015 - 17:00:59: "ByBlikgood<10><STEAM_0:4:765185285><TERRORIST>" disconnected
+L 04/08/2015 - 17:01:00: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/08/2015 - 17:01:02: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "m4a1" (damage "84") (damage_armor "18") (health "-5") (armor "77")
+L 04/08/2015 - 17:01:02: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" killed "Extazy<7><STEAM_0:1:113150434><CT>" with "m4a1"
+L 04/08/2015 - 17:01:03: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/08/2015 - 17:01:03: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:01:03: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 04/08/2015 - 17:01:03: World triggered "Round_End"
+L 04/08/2015 - 17:01:13: World triggered "Round_Start"
+L 04/08/2015 - 17:01:19: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/08/2015 - 17:01:19: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/08/2015 - 17:01:19: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 04/08/2015 - 17:01:19: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/08/2015 - 17:01:20: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-66") (armor "0")
+L 04/08/2015 - 17:01:20: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:01:20: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 04/08/2015 - 17:01:20: World triggered "Round_End"
+L 04/08/2015 - 17:01:30: World triggered "Round_Start"
+L 04/08/2015 - 17:01:33: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:01:33: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:01:33: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-80") (armor "0")
+L 04/08/2015 - 17:01:33: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" killed "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1"
+L 04/08/2015 - 17:01:34: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "grenade"
+L 04/08/2015 - 17:01:34: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 04/08/2015 - 17:01:34: World triggered "Round_End"
+L 04/08/2015 - 17:01:44: World triggered "Round_Start"
+L 04/08/2015 - 17:01:47: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:01:47: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:01:47: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "11") (armor "0")
+L 04/08/2015 - 17:01:47: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:01:47: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/08/2015 - 17:01:48: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 04/08/2015 - 17:01:48: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:01:48: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 04/08/2015 - 17:01:48: World triggered "Round_End"
+L 04/08/2015 - 17:01:51: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8f08
+L 04/08/2015 - 17:01:51: "ANGEluHA<22><STEAM_0:4:262688517><>" connected, address "178.124.12.182:27005"
+L 04/08/2015 - 17:01:51: [VTC] Player 1 speex
+L 04/08/2015 - 17:01:58: World triggered "Round_Start"
+L 04/08/2015 - 17:02:06: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "aug" (damage "9") (damage_armor "0") (health "91") (armor "0")
+L 04/08/2015 - 17:02:10: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "aug" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/08/2015 - 17:02:10: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "aug" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 04/08/2015 - 17:02:11: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "aug" (damage "19") (damage_armor "4") (health "43") (armor "87")
+L 04/08/2015 - 17:02:11: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "aug" (damage "19") (damage_armor "4") (health "24") (armor "83")
+L 04/08/2015 - 17:02:11: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "aug" (damage "19") (damage_armor "4") (health "5") (armor "79")
+L 04/08/2015 - 17:02:11: "Extazy<7><STEAM_0:1:113150434><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:02:11: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:02:11: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "64") (damage_armor "0") (health "-14") (armor "0")
+L 04/08/2015 - 17:02:11: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:02:11: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 04/08/2015 - 17:02:11: World triggered "Round_End"
+L 04/08/2015 - 17:02:16: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8f08
+L 04/08/2015 - 17:02:16: "ANGEluHA<23><STEAM_0:4:262688517><>" connected, address "178.124.12.182:27005"
+L 04/08/2015 - 17:02:16: [VTC] Player 1 speex
+L 04/08/2015 - 17:02:21: World triggered "Round_Start"
+L 04/08/2015 - 17:02:28: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/08/2015 - 17:02:28: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" killed "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "ak47"
+L 04/08/2015 - 17:02:34: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/08/2015 - 17:02:35: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "ak47" (damage "32") (damage_armor "5") (health "42") (armor "91")
+L 04/08/2015 - 17:02:35: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "ak47" (damage "26") (damage_armor "4") (health "16") (armor "87")
+L 04/08/2015 - 17:02:35: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-10") (armor "83")
+L 04/08/2015 - 17:02:35: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" killed "Extazy<7><STEAM_0:1:113150434><CT>" with "ak47"
+L 04/08/2015 - 17:02:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "2")
+L 04/08/2015 - 17:02:35: World triggered "Round_End"
+L 04/08/2015 - 17:02:36: "ANGEluHA<23><STEAM_0:4:262688517><>" entered the game
+L 04/08/2015 - 17:02:40: "ANGEluHA<23><STEAM_0:4:262688517><>" joined team "CT"
+L 04/08/2015 - 17:02:45: World triggered "Round_Start"
+L 04/08/2015 - 17:02:56: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/08/2015 - 17:02:56: "Extazy<7><STEAM_0:1:113150434><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:02:58: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "59") (armor "95")
+L 04/08/2015 - 17:02:58: "Extazy<7><STEAM_0:1:113150434><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/08/2015 - 17:02:58: "Extazy<7><STEAM_0:1:113150434><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "7") (armor "0")
+L 04/08/2015 - 17:02:59: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "Extazy<7><STEAM_0:1:113150434><CT>" with "m4a1" (damage "20") (damage_armor "4") (health "39") (armor "91")
+L 04/08/2015 - 17:02:59: "Extazy<7><STEAM_0:1:113150434><CT>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-27") (armor "0")
+L 04/08/2015 - 17:02:59: "Extazy<7><STEAM_0:1:113150434><CT>" killed "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:02:59: Team "CT" triggered "CTs_Win" (CT "7") (T "2")
+L 04/08/2015 - 17:02:59: World triggered "Round_End"
+L 04/08/2015 - 17:03:04: "ANGEluHA<23><STEAM_0:4:262688517><CT>" joined team "TERRORIST" (auto)
+L 04/08/2015 - 17:03:09: World triggered "Round_Start"
+L 04/08/2015 - 17:03:17: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "69") (armor "0")
+L 04/08/2015 - 17:03:17: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "47") (armor "0")
+L 04/08/2015 - 17:03:17: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "10") (armor "0")
+L 04/08/2015 - 17:03:18: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "ak47" (damage "105") (damage_armor "15") (health "-46") (armor "64")
+L 04/08/2015 - 17:03:18: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" killed "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:03:21: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" attacked "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-21") (armor "0")
+L 04/08/2015 - 17:03:21: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" killed "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" with "m4a1"
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats" (weapon "grenade") (shots "11") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "242") (deaths "1")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats" (weapon "m4a1") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats" (weapon "ak47") (shots "52") (hits "10") (kills "6") (headshots "4") (tks "0") (damage "614") (deaths "3")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats2" (weapon "ak47") (head "4") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "1")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "time" (time "3:23")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" triggered "latency" (ping "58")
+L 04/08/2015 - 17:03:23: "[Chuck_Skull]_BaLLl_DeDyLLika)<21><STEAM_0:4:361581829><CT>" disconnected
+L 04/08/2015 - 17:03:23: "Extazy<7><STEAM_0:1:113150434><CT>" triggered "weaponstats" (weapon "ak47") (shots "21") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "161") (deaths "1")
+L 04/08/2015 - 17:03:23: "Extazy<7><STEAM_0:1:113150434><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/08/2015 - 17:03:23: "Extazy<7><STEAM_0:1:113150434><CT>" triggered "time" (time "3:41")
+L 04/08/2015 - 17:03:23: "Extazy<7><STEAM_0:1:113150434><CT>" triggered "latency" (ping "9")
+L 04/08/2015 - 17:03:23: "Extazy<7><STEAM_0:1:113150434><CT>" disconnected
+L 04/08/2015 - 17:03:37: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" committed suicide with "world"
+L 04/08/2015 - 17:03:37: World triggered "Round_Draw" (CT "7") (T "2")
+L 04/08/2015 - 17:03:37: World triggered "Round_End"
+L 04/08/2015 - 17:03:37: "Ben_Laden<20><STEAM_0:4:1067433675><TERRORIST>" joined team "CT"
+L 04/08/2015 - 17:03:38: World triggered "Game_Commencing"
+L 04/08/2015 - 17:03:38: World triggered "Game_Commencing" (CT "7") (T "2")
+L 04/08/2015 - 17:03:38: World triggered "Round_End"
+L 04/08/2015 - 17:03:46: World triggered "Round_Start"
+L 04/08/2015 - 17:04:07: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39addfc
+L 04/08/2015 - 17:04:07: "FANAT<24><STEAM_0:4:1995656581><>" connected, address "178.121.186.68:14089"
+L 04/08/2015 - 17:04:08: [VTC] Player 2 speex
+L 04/08/2015 - 17:04:10: "FANAT<24><STEAM_0:4:1995656581><>" entered the game
+L 04/08/2015 - 17:04:22: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/08/2015 - 17:04:24: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/08/2015 - 17:04:24: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "59") (armor "95")
+L 04/08/2015 - 17:04:25: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1" (damage "81") (damage_armor "17") (health "-22") (armor "78")
+L 04/08/2015 - 17:04:25: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" killed "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:04:25: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/08/2015 - 17:04:25: World triggered "Round_End"
+L 04/08/2015 - 17:04:25: "FANAT<24><STEAM_0:4:1995656581><>" joined team "CT"
+L 04/08/2015 - 17:04:35: World triggered "Round_Start"
+L 04/08/2015 - 17:04:49: "FANAT<24><STEAM_0:4:1995656581><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/08/2015 - 17:04:49: "FANAT<24><STEAM_0:4:1995656581><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "56") (armor "95")
+L 04/08/2015 - 17:04:49: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" attacked "FANAT<24><STEAM_0:4:1995656581><CT>" with "mp5navy" (damage "28") (damage_armor "0") (health "21") (armor "0")
+L 04/08/2015 - 17:04:50: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" attacked "FANAT<24><STEAM_0:4:1995656581><CT>" with "mp5navy" (damage "24") (damage_armor "0") (health "-3") (armor "0")
+L 04/08/2015 - 17:04:50: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" killed "FANAT<24><STEAM_0:4:1995656581><CT>" with "mp5navy"
+L 04/08/2015 - 17:04:55: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1" (damage "81") (damage_armor "18") (health "-25") (armor "77")
+L 04/08/2015 - 17:04:55: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" killed "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:04:55: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/08/2015 - 17:04:55: World triggered "Round_End"
+L 04/08/2015 - 17:04:58: "FANAT<24><STEAM_0:4:1995656581><CT>" joined team "TERRORIST"
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "19") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "52") (deaths "1")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "20") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "81") (deaths "1")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "0")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "15") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "25") (deaths "1")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "time" (time "2:26")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" triggered "latency" (ping "93")
+L 04/08/2015 - 17:05:03: "ANGEluHA<23><STEAM_0:4:262688517><TERRORIST>" disconnected
+L 04/08/2015 - 17:05:05: World triggered "Round_Start"
+L 04/08/2015 - 17:05:12: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:05:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "41") (armor "0")
+L 04/08/2015 - 17:05:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 04/08/2015 - 17:05:23: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" killed "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "grenade"
+L 04/08/2015 - 17:05:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 04/08/2015 - 17:05:23: World triggered "Round_End"
+L 04/08/2015 - 17:05:33: World triggered "Round_Start"
+L 04/08/2015 - 17:05:40: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 04/08/2015 - 17:05:41: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "54") (armor "0")
+L 04/08/2015 - 17:05:41: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-82") (armor "0")
+L 04/08/2015 - 17:05:41: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" killed "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:05:41: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 04/08/2015 - 17:05:41: World triggered "Round_End"
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "6") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "122") (deaths "1")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "5") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "44") (deaths "1")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "time" (time "1:31")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" triggered "latency" (ping "35")
+L 04/08/2015 - 17:05:42: "FANAT<24><STEAM_0:4:1995656581><TERRORIST>" disconnected
+L 04/08/2015 - 17:05:51: World triggered "Round_Start"
+L 04/08/2015 - 17:05:54: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39a8f08
+L 04/08/2015 - 17:05:54: "VIKa:***<25><STEAM_0:0:1429534441><>" connected, address "37.214.23.164:55709"
+L 04/08/2015 - 17:05:54: [VTC] Player 1 speex
+L 04/08/2015 - 17:06:00: "VIKa:***<25><STEAM_0:0:1429534441><>" entered the game
+L 04/08/2015 - 17:06:04: "VIKa:***<25><STEAM_0:0:1429534441><>" joined team "TERRORIST"
+L 04/08/2015 - 17:06:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:06:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/08/2015 - 17:06:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "16") (armor "0")
+L 04/08/2015 - 17:06:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:06:18: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" killed "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:06:18: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 04/08/2015 - 17:06:18: World triggered "Round_End"
+L 04/08/2015 - 17:06:28: World triggered "Round_Start"
+L 04/08/2015 - 17:06:31: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:06:31: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:06:32: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:06:32: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:06:32: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "11") (armor "0")
+L 04/08/2015 - 17:06:32: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 04/08/2015 - 17:06:32: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "8") (armor "0")
+L 04/08/2015 - 17:06:32: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-108") (armor "0")
+L 04/08/2015 - 17:06:32: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" killed "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1"
+L 04/08/2015 - 17:06:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 04/08/2015 - 17:06:32: World triggered "Round_End"
+L 04/08/2015 - 17:06:42: World triggered "Round_Start"
+L 04/08/2015 - 17:06:45: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/08/2015 - 17:06:45: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 04/08/2015 - 17:06:46: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "40") (armor "86")
+L 04/08/2015 - 17:06:46: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:06:46: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:06:46: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" attacked "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "20") (armor "82")
+L 04/08/2015 - 17:06:47: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "21") (armor "0")
+L 04/08/2015 - 17:06:48: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" attacked "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "0") (armor "0")
+L 04/08/2015 - 17:06:48: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" killed "Ben_Laden<20><STEAM_0:4:1067433675><CT>" with "m4a1"
+L 04/08/2015 - 17:06:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 04/08/2015 - 17:06:48: World triggered "Round_End"
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "weaponstats" (weapon "aug") (shots "20") (hits "6") (kills "0") (headshots "0") (tks "0") (damage "104") (deaths "1")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "0") (stomach "0") (leftarm "5") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "weaponstats" (weapon "m4a1") (shots "154") (hits "36") (kills "7") (headshots "5") (tks "0") (damage "1318") (deaths "8")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "weaponstats2" (weapon "m4a1") (head "5") (chest "5") (stomach "0") (leftarm "21") (rightarm "3") (leftleg "1") (rightleg "1")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "weaponstats" (weapon "ak47") (shots "26") (hits "11") (kills "3") (headshots "2") (tks "0") (damage "494") (deaths "1")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "2") (stomach "1") (leftarm "4") (rightarm "0") (leftleg "2") (rightleg "0")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "time" (time "7:11")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" triggered "latency" (ping "69")
+L 04/08/2015 - 17:06:56: "Ben_Laden<20><STEAM_0:4:1067433675><CT>" disconnected
+L 04/08/2015 - 17:06:58: World triggered "Round_Start"
+L 04/08/2015 - 17:09:35: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39addfc
+L 04/08/2015 - 17:09:35: "*FuCk!<26><STEAM_0:4:258950332><>" connected, address "193.107.130.183:51400"
+L 04/08/2015 - 17:09:35: [VTC] Player 2 speex
+L 04/08/2015 - 17:09:45: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" committed suicide with "world"
+L 04/08/2015 - 17:09:45: World triggered "Round_Draw" (CT "4") (T "3")
+L 04/08/2015 - 17:09:45: World triggered "Round_End"
+L 04/08/2015 - 17:09:45: "VIKa:***<25><STEAM_0:0:1429534441><TERRORIST>" joined team "CT"
+L 04/08/2015 - 17:09:45: World triggered "Round_Draw" (CT "4") (T "3")
+L 04/08/2015 - 17:09:45: World triggered "Round_End"
+L 04/08/2015 - 17:09:48: "*FuCk!<26><STEAM_0:4:258950332><>" entered the game
+L 04/08/2015 - 17:09:54: "*FuCk!<26><STEAM_0:4:258950332><>" joined team "TERRORIST"
+L 04/08/2015 - 17:09:54: World triggered "Game_Commencing"
+L 04/08/2015 - 17:09:54: World triggered "Game_Commencing" (CT "4") (T "3")
+L 04/08/2015 - 17:09:54: World triggered "Round_End"
+L 04/08/2015 - 17:09:57: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2cf0
+L 04/08/2015 - 17:09:57: "T-34<27><STEAM_0:4:1435684850><>" connected, address "93.125.121.2:27005"
+L 04/08/2015 - 17:09:57: [VTC] Player 3 speex
+L 04/08/2015 - 17:10:00: "T-34<27><STEAM_0:4:1435684850><>" entered the game
+L 04/08/2015 - 17:10:02: World triggered "Round_Start"
+L 04/08/2015 - 17:10:03: "T-34<27><STEAM_0:4:1435684850><>" joined team "CT"
+L 04/08/2015 - 17:10:09: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:10:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:10:10: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:10:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-66") (armor "0")
+L 04/08/2015 - 17:10:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:10:10: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/08/2015 - 17:10:10: World triggered "Round_End"
+L 04/08/2015 - 17:10:20: World triggered "Round_Start"
+L 04/08/2015 - 17:10:24: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/08/2015 - 17:10:24: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:10:24: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/08/2015 - 17:10:25: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 04/08/2015 - 17:10:25: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "12") (armor "0")
+L 04/08/2015 - 17:10:25: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-10") (armor "0")
+L 04/08/2015 - 17:10:25: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:10:25: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/08/2015 - 17:10:25: World triggered "Round_End"
+L 04/08/2015 - 17:10:35: World triggered "Round_Start"
+L 04/08/2015 - 17:10:35: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" say_team ",      "
+L 04/08/2015 - 17:10:40: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 04/08/2015 - 17:10:41: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:10:41: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-5") (armor "77")
+L 04/08/2015 - 17:10:41: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:10:48: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "52") (armor "0")
+L 04/08/2015 - 17:10:49: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "16") (armor "0")
+L 04/08/2015 - 17:10:49: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 04/08/2015 - 17:10:49: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:10:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 04/08/2015 - 17:10:49: World triggered "Round_End"
+L 04/08/2015 - 17:10:59: World triggered "Round_Start"
+L 04/08/2015 - 17:11:07: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b7be4
+L 04/08/2015 - 17:11:07: "bonny the bunny<28><STEAM_0:4:1633914096><>" connected, address "89.251.155.107:8331"
+L 04/08/2015 - 17:11:07: [VTC] Player 4 speex
+L 04/08/2015 - 17:11:10: "bonny the bunny<28><STEAM_0:4:1633914096><>" entered the game
+L 04/08/2015 - 17:11:12: "bonny the bunny<28><STEAM_0:4:1633914096><>" joined team "TERRORIST"
+L 04/08/2015 - 17:11:16: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 04/08/2015 - 17:11:16: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:11:16: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:11:17: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/08/2015 - 17:11:17: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 04/08/2015 - 17:11:17: "T-34<27><STEAM_0:4:1435684850><CT>" killed "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:11:20: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/08/2015 - 17:11:26: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "19") (armor "0")
+L 04/08/2015 - 17:11:26: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-11") (armor "0")
+L 04/08/2015 - 17:11:26: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:11:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 04/08/2015 - 17:11:26: World triggered "Round_End"
+L 04/08/2015 - 17:11:36: World triggered "Round_Start"
+L 04/08/2015 - 17:11:40: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:11:40: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/08/2015 - 17:11:40: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:11:41: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/08/2015 - 17:11:42: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/08/2015 - 17:11:42: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "-4") (armor "0")
+L 04/08/2015 - 17:11:42: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:11:47: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "4") (armor "0")
+L 04/08/2015 - 17:11:47: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-25") (armor "0")
+L 04/08/2015 - 17:11:47: "T-34<27><STEAM_0:4:1435684850><CT>" killed "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:11:52: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "22") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "104") (deaths "0")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" triggered "time" (time "0:42")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" triggered "latency" (ping "48")
+L 04/08/2015 - 17:11:53: "bonny the bunny<28><STEAM_0:4:1633914096><TERRORIST>" disconnected
+L 04/08/2015 - 17:12:01: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "grenade"
+L 04/08/2015 - 17:12:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 04/08/2015 - 17:12:01: World triggered "Round_End"
+L 04/08/2015 - 17:12:04: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b7be4
+L 04/08/2015 - 17:12:04: "BuLBa<29><STEAM_0:4:757111630><>" connected, address "37.212.29.243:2565"
+L 04/08/2015 - 17:12:04: [VTC] Player 4 speex
+L 04/08/2015 - 17:12:11: World triggered "Round_Start"
+L 04/08/2015 - 17:12:18: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/08/2015 - 17:12:18: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:12:18: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "21") (armor "0")
+L 04/08/2015 - 17:12:18: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-95") (armor "0")
+L 04/08/2015 - 17:12:18: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:12:18: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 04/08/2015 - 17:12:18: World triggered "Round_End"
+L 04/08/2015 - 17:12:28: World triggered "Round_Start"
+L 04/08/2015 - 17:12:42: "BuLBa<29><STEAM_0:4:757111630><>" entered the game
+L 04/08/2015 - 17:12:45: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "53") (armor "0")
+L 04/08/2015 - 17:12:45: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "24") (armor "0")
+L 04/08/2015 - 17:12:45: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-5") (armor "0")
+L 04/08/2015 - 17:12:45: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:12:51: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 17:12:51: "Ben_Laden<30><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 17:12:51: [VTC] Player 7 speex
+L 04/08/2015 - 17:12:52: "BuLBa<29><STEAM_0:4:757111630><>" joined team "TERRORIST"
+L 04/08/2015 - 17:12:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "mp5navy" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/08/2015 - 17:12:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "mp5navy" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 04/08/2015 - 17:12:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "mp5navy" (damage "24") (damage_armor "0") (health "28") (armor "0")
+L 04/08/2015 - 17:12:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "mp5navy" (damage "30") (damage_armor "0") (health "-2") (armor "0")
+L 04/08/2015 - 17:12:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "mp5navy"
+L 04/08/2015 - 17:12:54: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 04/08/2015 - 17:12:54: World triggered "Round_End"
+L 04/08/2015 - 17:12:55: "Ben_Laden<30><STEAM_0:4:1067433675><>" entered the game
+L 04/08/2015 - 17:12:57: "Ben_Laden<30><STEAM_0:4:1067433675><>" joined team "TERRORIST"
+L 04/08/2015 - 17:13:04: World triggered "Round_Start"
+L 04/08/2015 - 17:13:08: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:13:08: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:13:09: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "35") (armor "0")
+L 04/08/2015 - 17:13:09: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "6") (armor "0")
+L 04/08/2015 - 17:13:09: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" with "mp5navy" (damage "17") (damage_armor "0") (health "9") (armor "0")
+L 04/08/2015 - 17:13:09: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-23") (armor "0")
+L 04/08/2015 - 17:13:09: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:13:16: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "27") (damage_armor "6") (health "73") (armor "94")
+L 04/08/2015 - 17:13:16: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "mp5navy" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/08/2015 - 17:13:16: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "51") (armor "89")
+L 04/08/2015 - 17:13:16: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "29") (armor "89")
+L 04/08/2015 - 17:13:16: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "7") (armor "89")
+L 04/08/2015 - 17:13:16: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-15") (armor "89")
+L 04/08/2015 - 17:13:16: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:13:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 04/08/2015 - 17:13:16: World triggered "Round_End"
+L 04/08/2015 - 17:13:26: World triggered "Round_Start"
+L 04/08/2015 - 17:13:31: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:13:31: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:13:31: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:13:31: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "6") (armor "0")
+L 04/08/2015 - 17:13:32: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-23") (armor "0")
+L 04/08/2015 - 17:13:32: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:13:43: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:13:47: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "aug" (damage "30") (damage_armor "0") (health "41") (armor "0")
+L 04/08/2015 - 17:13:47: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "aug" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 04/08/2015 - 17:13:47: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "grenade"
+L 04/08/2015 - 17:13:56: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "35") (armor "0")
+L 04/08/2015 - 17:13:56: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "-1") (armor "0")
+L 04/08/2015 - 17:13:56: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:13:57: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:14:03: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "aug" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/08/2015 - 17:14:03: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "aug" (damage "112") (damage_armor "0") (health "-68") (armor "0")
+L 04/08/2015 - 17:14:03: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "aug"
+L 04/08/2015 - 17:14:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 04/08/2015 - 17:14:03: World triggered "Round_End"
+L 04/08/2015 - 17:14:13: World triggered "Round_Start"
+L 04/08/2015 - 17:14:28: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:14:28: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-70") (armor "0")
+L 04/08/2015 - 17:14:28: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47"
+L 04/08/2015 - 17:14:42: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/08/2015 - 17:14:42: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 04/08/2015 - 17:14:42: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "22") (armor "0")
+L 04/08/2015 - 17:14:43: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 04/08/2015 - 17:14:43: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:14:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 04/08/2015 - 17:14:43: World triggered "Round_End"
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "43") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "228") (deaths "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "2") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "47") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "155") (deaths "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "170") (deaths "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "time" (time "1:54")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" triggered "latency" (ping "82")
+L 04/08/2015 - 17:14:50: "Ben_Laden<30><STEAM_0:4:1067433675><TERRORIST>" disconnected
+L 04/08/2015 - 17:14:53: World triggered "Round_Start"
+L 04/08/2015 - 17:15:04: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:15:04: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:15:04: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-80") (armor "0")
+L 04/08/2015 - 17:15:04: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:15:06: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 17:15:06: "Ben_Laden<31><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 17:15:06: Kick: "Ben_Laden<31><STEAM_0:4:1067433675><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 3 секунд"")
+L 04/08/2015 - 17:15:07: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 04/08/2015 - 17:15:07: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:15:07: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:15:08: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 04/08/2015 - 17:15:08: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "22") (armor "0")
+L 04/08/2015 - 17:15:08: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-7") (armor "0")
+L 04/08/2015 - 17:15:08: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:15:17: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "26") (armor "0")
+L 04/08/2015 - 17:15:17: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "5") (armor "0")
+L 04/08/2015 - 17:15:18: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:15:18: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:15:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "7")
+L 04/08/2015 - 17:15:18: World triggered "Round_End"
+L 04/08/2015 - 17:15:28: World triggered "Round_Start"
+L 04/08/2015 - 17:15:39: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "90") (armor "89")
+L 04/08/2015 - 17:15:39: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "10") (damage_armor "2") (health "80") (armor "87")
+L 04/08/2015 - 17:15:39: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "60") (damage_armor "0") (health "20") (armor "87")
+L 04/08/2015 - 17:15:39: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "-1") (armor "82")
+L 04/08/2015 - 17:15:39: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:15:40: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:15:40: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:15:40: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/08/2015 - 17:15:41: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-8") (armor "0")
+L 04/08/2015 - 17:15:41: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:15:51: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:15:51: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "36") (armor "0")
+L 04/08/2015 - 17:15:51: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:15:51: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:15:52: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "-1") (armor "0")
+L 04/08/2015 - 17:15:52: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:15:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "8")
+L 04/08/2015 - 17:15:52: World triggered "Round_End"
+L 04/08/2015 - 17:16:00: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 17:16:00: "Ben_Laden<32><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 17:16:00: [VTC] Player 7 speex
+L 04/08/2015 - 17:16:02: World triggered "Round_Start"
+L 04/08/2015 - 17:16:03: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:16:03: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:16:04: "Ben_Laden<32><STEAM_0:4:1067433675><>" entered the game
+L 04/08/2015 - 17:16:05: "Ben_Laden<32><STEAM_0:4:1067433675><>" joined team "TERRORIST"
+L 04/08/2015 - 17:16:09: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/08/2015 - 17:16:10: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/08/2015 - 17:16:11: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-72") (armor "0")
+L 04/08/2015 - 17:16:11: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:16:11: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "10") (armor "0")
+L 04/08/2015 - 17:16:13: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "-13") (armor "0")
+L 04/08/2015 - 17:16:13: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:16:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "9")
+L 04/08/2015 - 17:16:13: World triggered "Round_End"
+L 04/08/2015 - 17:16:23: World triggered "Round_Start"
+L 04/08/2015 - 17:16:24: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bcad8
+L 04/08/2015 - 17:16:24: "Corvus<33><STEAM_0:4:247850611><>" connected, address "95.46.215.180:27005"
+L 04/08/2015 - 17:16:25: [VTC] Player 5 speex
+L 04/08/2015 - 17:16:25: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/08/2015 - 17:16:25: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "95")
+L 04/08/2015 - 17:16:25: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 04/08/2015 - 17:16:26: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:16:26: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:16:26: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-23") (armor "0")
+L 04/08/2015 - 17:16:26: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:16:30: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:16:30: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "41") (armor "0")
+L 04/08/2015 - 17:16:30: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 04/08/2015 - 17:16:31: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-19") (armor "0")
+L 04/08/2015 - 17:16:31: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:16:33: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/08/2015 - 17:16:33: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:16:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "10")
+L 04/08/2015 - 17:16:33: World triggered "Round_End"
+L 04/08/2015 - 17:16:43: World triggered "Round_Start"
+L 04/08/2015 - 17:16:47: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:16:48: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:16:48: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:16:48: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:16:48: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "45") (armor "0")
+L 04/08/2015 - 17:16:48: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "24") (armor "0")
+L 04/08/2015 - 17:16:48: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "-3") (armor "0")
+L 04/08/2015 - 17:16:48: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:16:55: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/08/2015 - 17:16:56: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:16:56: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "29") (armor "0")
+L 04/08/2015 - 17:16:57: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "-7") (armor "0")
+L 04/08/2015 - 17:16:57: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:17:02: "Corvus<33><STEAM_0:4:247850611><>" entered the game
+L 04/08/2015 - 17:17:09: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "grenade"
+L 04/08/2015 - 17:17:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "11")
+L 04/08/2015 - 17:17:09: World triggered "Round_End"
+L 04/08/2015 - 17:17:12: "Corvus<33><STEAM_0:4:247850611><>" joined team "CT"
+L 04/08/2015 - 17:17:19: World triggered "Round_Start"
+L 04/08/2015 - 17:17:24: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "awp" (damage "111") (damage_armor "0") (health "-11") (armor "0")
+L 04/08/2015 - 17:17:24: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "awp"
+L 04/08/2015 - 17:17:24: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:17:27: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/08/2015 - 17:17:27: "Corvus<33><STEAM_0:4:247850611><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:17:36: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "0")
+L 04/08/2015 - 17:17:36: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "35") (armor "0")
+L 04/08/2015 - 17:17:37: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "5") (armor "0")
+L 04/08/2015 - 17:17:37: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "95")
+L 04/08/2015 - 17:17:37: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:17:37: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:17:37: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/08/2015 - 17:17:38: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/08/2015 - 17:17:38: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/08/2015 - 17:17:38: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-64") (armor "0")
+L 04/08/2015 - 17:17:38: "Corvus<33><STEAM_0:4:247850611><CT>" killed "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:17:38: Team "CT" triggered "CTs_Win" (CT "5") (T "11")
+L 04/08/2015 - 17:17:38: World triggered "Round_End"
+L 04/08/2015 - 17:17:48: World triggered "Round_Start"
+L 04/08/2015 - 17:17:51: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "awp" (damage "138") (damage_armor "0") (health "-38") (armor "0")
+L 04/08/2015 - 17:17:51: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "awp"
+L 04/08/2015 - 17:17:52: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/08/2015 - 17:17:54: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "46") (armor "0")
+L 04/08/2015 - 17:17:54: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 04/08/2015 - 17:17:54: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "18") (armor "0")
+L 04/08/2015 - 17:17:54: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "-10") (armor "0")
+L 04/08/2015 - 17:17:54: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:17:56: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:17:56: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-54") (armor "0")
+L 04/08/2015 - 17:17:56: "Corvus<33><STEAM_0:4:247850611><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:17:58: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "xm1014" (damage "68") (damage_armor "0") (health "32") (armor "0")
+L 04/08/2015 - 17:17:58: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/08/2015 - 17:17:58: "Corvus<33><STEAM_0:4:247850611><CT>" killed "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:17:58: Team "CT" triggered "CTs_Win" (CT "6") (T "11")
+L 04/08/2015 - 17:17:58: World triggered "Round_End"
+L 04/08/2015 - 17:18:08: World triggered "Round_Start"
+L 04/08/2015 - 17:18:09: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:18:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/08/2015 - 17:18:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "26") (armor "0")
+L 04/08/2015 - 17:18:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-4") (armor "0")
+L 04/08/2015 - 17:18:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:18:11: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-50") (armor "0")
+L 04/08/2015 - 17:18:11: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:18:12: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/08/2015 - 17:18:12: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "35") (armor "0")
+L 04/08/2015 - 17:18:12: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "14") (armor "0")
+L 04/08/2015 - 17:18:13: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-7") (armor "0")
+L 04/08/2015 - 17:18:13: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1"
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "xm1014") (shots "1") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "68") (deaths "1")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "111") (deaths "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "19") (hits "8") (kills "2") (headshots "1") (tks "0") (damage "325") (deaths "2")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "2") (stomach "0") (leftarm "5") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "34") (deaths "1")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "time" (time "2:09")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" triggered "latency" (ping "68")
+L 04/08/2015 - 17:18:13: "Ben_Laden<32><STEAM_0:4:1067433675><TERRORIST>" disconnected
+L 04/08/2015 - 17:18:14: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "65") (armor "0")
+L 04/08/2015 - 17:18:14: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:18:15: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "28") (armor "0")
+L 04/08/2015 - 17:18:15: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-9") (armor "0")
+L 04/08/2015 - 17:18:15: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:18:18: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "34") (armor "0")
+L 04/08/2015 - 17:18:18: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "5") (armor "0")
+L 04/08/2015 - 17:18:18: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:18:18: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:18:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "12")
+L 04/08/2015 - 17:18:18: World triggered "Round_End"
+L 04/08/2015 - 17:18:28: World triggered "Round_Start"
+L 04/08/2015 - 17:18:31: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:18:31: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "awp"
+L 04/08/2015 - 17:18:36: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "45") (armor "0")
+L 04/08/2015 - 17:18:36: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "24") (armor "0")
+L 04/08/2015 - 17:18:37: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 04/08/2015 - 17:18:37: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "awp"
+L 04/08/2015 - 17:18:37: Team "CT" triggered "CTs_Win" (CT "7") (T "12")
+L 04/08/2015 - 17:18:37: World triggered "Round_End"
+L 04/08/2015 - 17:18:47: World triggered "Round_Start"
+L 04/08/2015 - 17:18:48: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:18:48: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "35") (armor "0")
+L 04/08/2015 - 17:18:48: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "14") (armor "0")
+L 04/08/2015 - 17:18:48: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-7") (armor "0")
+L 04/08/2015 - 17:18:48: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:18:51: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "25") (damage_armor "6") (health "75") (armor "94")
+L 04/08/2015 - 17:18:52: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-43") (armor "0")
+L 04/08/2015 - 17:18:52: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:18:52: Team "CT" triggered "CTs_Win" (CT "8") (T "12")
+L 04/08/2015 - 17:18:52: World triggered "Round_End"
+L 04/08/2015 - 17:18:54: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 17:18:54: "Ben_Laden<34><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 17:18:54: [VTC] Player 7 speex
+L 04/08/2015 - 17:18:58: "Ben_Laden<34><STEAM_0:4:1067433675><>" entered the game
+L 04/08/2015 - 17:18:59: "Ben_Laden<34><STEAM_0:4:1067433675><>" joined team "TERRORIST"
+L 04/08/2015 - 17:19:02: World triggered "Round_Start"
+L 04/08/2015 - 17:19:07: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/08/2015 - 17:19:07: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:19:07: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:19:08: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:19:08: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:19:08: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 04/08/2015 - 17:19:08: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "ak47" (damage "25") (damage_armor "0") (health "0") (armor "0")
+L 04/08/2015 - 17:19:08: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" killed "Corvus<33><STEAM_0:4:247850611><CT>" with "ak47"
+L 04/08/2015 - 17:19:08: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/08/2015 - 17:19:09: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "53") (armor "89")
+L 04/08/2015 - 17:19:09: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "35") (armor "0")
+L 04/08/2015 - 17:19:09: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "31") (armor "89")
+L 04/08/2015 - 17:19:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "10") (armor "85")
+L 04/08/2015 - 17:19:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-12") (armor "85")
+L 04/08/2015 - 17:19:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:19:15: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "-1") (armor "0")
+L 04/08/2015 - 17:19:15: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:19:23: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:19:23: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/08/2015 - 17:19:23: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:19:23: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47" (damage "25") (damage_armor "0") (health "7") (armor "0")
+L 04/08/2015 - 17:19:23: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "29") (armor "0")
+L 04/08/2015 - 17:19:23: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-18") (armor "0")
+L 04/08/2015 - 17:19:23: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "ak47"
+L 04/08/2015 - 17:19:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "13")
+L 04/08/2015 - 17:19:23: World triggered "Round_End"
+L 04/08/2015 - 17:19:24: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c19cc
+L 04/08/2015 - 17:19:24: "AKAI_mps4000<35><STEAM_0:4:1038161258><>" connected, address "109.200.158.210:52632"
+L 04/08/2015 - 17:19:24: [VTC] Player 6 speex
+L 04/08/2015 - 17:19:31: "AKAI_mps4000<35><STEAM_0:4:1038161258><>" entered the game
+L 04/08/2015 - 17:19:33: World triggered "Round_Start"
+L 04/08/2015 - 17:19:37: "AKAI_mps4000<35><STEAM_0:4:1038161258><>" joined team "CT"
+L 04/08/2015 - 17:19:38: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:19:38: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "awp"
+L 04/08/2015 - 17:19:43: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/08/2015 - 17:19:43: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1"
+L 04/08/2015 - 17:19:43: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:19:44: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:19:44: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 04/08/2015 - 17:19:45: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "ak47" (damage "25") (damage_armor "0") (health "54") (armor "0")
+L 04/08/2015 - 17:19:45: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "18") (armor "0")
+L 04/08/2015 - 17:19:45: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-4") (armor "0")
+L 04/08/2015 - 17:19:45: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:19:49: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:19:49: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/08/2015 - 17:19:52: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "33") (armor "0")
+L 04/08/2015 - 17:19:52: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "4") (armor "0")
+L 04/08/2015 - 17:19:52: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:19:52: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:19:52: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "-17") (armor "0")
+L 04/08/2015 - 17:19:52: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" killed "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1"
+L 04/08/2015 - 17:19:52: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:19:53: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "14") (armor "0")
+L 04/08/2015 - 17:19:54: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:19:54: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:19:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "14")
+L 04/08/2015 - 17:19:54: World triggered "Round_End"
+L 04/08/2015 - 17:20:04: World triggered "Round_Start"
+L 04/08/2015 - 17:20:07: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:20:07: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/08/2015 - 17:20:07: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" attacked "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 04/08/2015 - 17:20:07: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" killed "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" with "ak47"
+L 04/08/2015 - 17:20:09: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "12") (armor "0")
+L 04/08/2015 - 17:20:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "49") (armor "0")
+L 04/08/2015 - 17:20:10: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:20:10: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:20:11: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 04/08/2015 - 17:20:11: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "16") (armor "0")
+L 04/08/2015 - 17:20:11: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "28") (armor "0")
+L 04/08/2015 - 17:20:11: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 04/08/2015 - 17:20:11: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "0")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "16") (hits "5") (kills "2") (headshots "0") (tks "0") (damage "131") (deaths "0")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "2")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "22") (hits "8") (kills "2") (headshots "0") (tks "0") (damage "218") (deaths "1")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "4") (rightleg "2")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "time" (time "1:12")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" triggered "latency" (ping "105")
+L 04/08/2015 - 17:20:11: "Ben_Laden<34><STEAM_0:4:1067433675><TERRORIST>" disconnected
+L 04/08/2015 - 17:20:11: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "34") (armor "0")
+L 04/08/2015 - 17:20:12: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "4") (armor "0")
+L 04/08/2015 - 17:20:12: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-26") (armor "0")
+L 04/08/2015 - 17:20:12: "Corvus<33><STEAM_0:4:247850611><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:20:12: Team "CT" triggered "CTs_Win" (CT "9") (T "14")
+L 04/08/2015 - 17:20:12: World triggered "Round_End"
+L 04/08/2015 - 17:20:22: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" committed suicide with "world"
+L 04/08/2015 - 17:20:22: "AKAI_mps4000<35><STEAM_0:4:1038161258><CT>" joined team "TERRORIST"
+L 04/08/2015 - 17:20:22: World triggered "Round_Start"
+L 04/08/2015 - 17:20:27: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/08/2015 - 17:20:27: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "108") (damage_armor "0") (health "-35") (armor "0")
+L 04/08/2015 - 17:20:27: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:20:30: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/08/2015 - 17:20:33: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" say "               ?" (dead)
+L 04/08/2015 - 17:20:38: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/08/2015 - 17:20:38: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/08/2015 - 17:20:38: "Corvus<33><STEAM_0:4:247850611><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:20:38: Team "CT" triggered "CTs_Win" (CT "10") (T "14")
+L 04/08/2015 - 17:20:38: World triggered "Round_End"
+L 04/08/2015 - 17:20:44: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 17:20:44: "Ben_Laden<36><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 17:20:44: [VTC] Player 7 speex
+L 04/08/2015 - 17:20:48: "Ben_Laden<36><STEAM_0:4:1067433675><>" entered the game
+L 04/08/2015 - 17:20:48: World triggered "Round_Start"
+L 04/08/2015 - 17:20:50: "Ben_Laden<36><STEAM_0:4:1067433675><>" joined team "TERRORIST"
+L 04/08/2015 - 17:20:52: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:20:55: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:20:55: "T-34<27><STEAM_0:4:1435684850><CT>" killed "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:20:55: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "awp" (damage "112") (damage_armor "0") (health "-105") (armor "0")
+L 04/08/2015 - 17:20:55: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "awp"
+L 04/08/2015 - 17:20:55: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39cb7b4
+L 04/08/2015 - 17:20:55: "Kirusha<37><STEAM_0:4:1191812046><>" connected, address "37.213.79.39:12559"
+L 04/08/2015 - 17:20:55: [VTC] Player 8 speex
+L 04/08/2015 - 17:20:59: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "5") (armor "0")
+L 04/08/2015 - 17:20:59: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 04/08/2015 - 17:20:59: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1"
+L 04/08/2015 - 17:21:01: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-25") (armor "0")
+L 04/08/2015 - 17:21:01: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:21:02: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "grenade"
+L 04/08/2015 - 17:21:08: "Kirusha<37><STEAM_0:4:1191812046><>" entered the game
+L 04/08/2015 - 17:21:19: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "51") (armor "0")
+L 04/08/2015 - 17:21:20: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "37") (armor "0")
+L 04/08/2015 - 17:21:22: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "36") (armor "0")
+L 04/08/2015 - 17:21:26: "Kirusha<37><STEAM_0:4:1191812046><>" joined team "CT"
+L 04/08/2015 - 17:21:35: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "6") (armor "0")
+L 04/08/2015 - 17:21:35: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-24") (armor "0")
+L 04/08/2015 - 17:21:35: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:21:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "15")
+L 04/08/2015 - 17:21:35: World triggered "Round_End"
+L 04/08/2015 - 17:21:45: World triggered "Round_Start"
+L 04/08/2015 - 17:21:48: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:21:48: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "aug" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:21:48: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:21:48: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:21:49: "Corvus<33><STEAM_0:4:247850611><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "21") (armor "0")
+L 04/08/2015 - 17:21:49: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "aug" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 04/08/2015 - 17:21:49: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "aug" (damage "35") (damage_armor "0") (health "2") (armor "0")
+L 04/08/2015 - 17:21:49: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:21:49: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "ak47" (damage "33") (damage_armor "0") (health "33") (armor "0")
+L 04/08/2015 - 17:21:49: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "aug" (damage "35") (damage_armor "0") (health "-33") (armor "0")
+L 04/08/2015 - 17:21:49: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" killed "Corvus<33><STEAM_0:4:247850611><CT>" with "aug"
+L 04/08/2015 - 17:21:49: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "ak47" (damage "16") (damage_armor "0") (health "17") (armor "0")
+L 04/08/2015 - 17:21:50: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "aug" (damage "21") (damage_armor "0") (health "-4") (armor "0")
+L 04/08/2015 - 17:21:50: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "aug"
+L 04/08/2015 - 17:21:53: "Kirusha<37><STEAM_0:4:1191812046><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/08/2015 - 17:21:53: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:21:53: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "49") (armor "0")
+L 04/08/2015 - 17:21:56: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "20") (armor "0")
+L 04/08/2015 - 17:21:56: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-96") (armor "0")
+L 04/08/2015 - 17:21:56: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" killed "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1"
+L 04/08/2015 - 17:22:00: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "36") (armor "0")
+L 04/08/2015 - 17:22:00: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "6") (armor "0")
+L 04/08/2015 - 17:22:00: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-24") (armor "0")
+L 04/08/2015 - 17:22:00: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:22:00: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "aug" (damage "21") (damage_armor "0") (health "29") (armor "0")
+L 04/08/2015 - 17:22:00: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "aug" (damage "21") (damage_armor "0") (health "8") (armor "0")
+L 04/08/2015 - 17:22:01: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "grenade"
+L 04/08/2015 - 17:22:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "16")
+L 04/08/2015 - 17:22:01: World triggered "Round_End"
+L 04/08/2015 - 17:22:11: World triggered "Round_Start"
+L 04/08/2015 - 17:22:15: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:22:15: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "aug" (damage "112") (damage_armor "0") (health "-40") (armor "0")
+L 04/08/2015 - 17:22:15: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "aug"
+L 04/08/2015 - 17:22:15: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:22:15: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:22:16: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/08/2015 - 17:22:16: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:22:16: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" killed "Corvus<33><STEAM_0:4:247850611><CT>" with "m4a1"
+L 04/08/2015 - 17:22:17: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:22:18: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:22:18: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/08/2015 - 17:22:18: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:22:18: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" killed "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1"
+L 04/08/2015 - 17:22:18: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 04/08/2015 - 17:22:19: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:22:19: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:22:20: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 04/08/2015 - 17:22:20: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "58") (armor "0")
+L 04/08/2015 - 17:22:20: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "9") (armor "0")
+L 04/08/2015 - 17:22:20: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/08/2015 - 17:22:21: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:22:22: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/08/2015 - 17:22:22: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "-12") (armor "0")
+L 04/08/2015 - 17:22:22: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug"
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" triggered "weaponstats" (weapon "grenade") (shots "7") (hits "7") (kills "0") (headshots "0") (tks "0") (damage "278") (deaths "0")
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" triggered "weaponstats" (weapon "m4a1") (shots "85") (hits "16") (kills "6") (headshots "5") (tks "0") (damage "918") (deaths "6")
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" triggered "weaponstats2" (weapon "m4a1") (head "5") (chest "2") (stomach "1") (leftarm "4") (rightarm "1") (leftleg "2") (rightleg "1")
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" triggered "time" (time "5:20")
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" triggered "latency" (ping "28")
+L 04/08/2015 - 17:22:22: "Corvus<33><STEAM_0:4:247850611><CT>" disconnected
+L 04/08/2015 - 17:22:22: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "37") (armor "0")
+L 04/08/2015 - 17:22:22: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug" (damage "36") (damage_armor "0") (health "14") (armor "0")
+L 04/08/2015 - 17:22:22: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "16") (armor "0")
+L 04/08/2015 - 17:22:22: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "-15") (armor "0")
+L 04/08/2015 - 17:22:22: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "aug"
+L 04/08/2015 - 17:22:28: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "grenade"
+L 04/08/2015 - 17:22:34: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "59") (armor "0")
+L 04/08/2015 - 17:22:34: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug" (damage "13") (damage_armor "0") (health "46") (armor "0")
+L 04/08/2015 - 17:22:34: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug" (damage "13") (damage_armor "0") (health "33") (armor "0")
+L 04/08/2015 - 17:22:39: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "4") (armor "0")
+L 04/08/2015 - 17:22:40: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug" (damage "17") (damage_armor "0") (health "-13") (armor "0")
+L 04/08/2015 - 17:22:40: "T-34<27><STEAM_0:4:1435684850><CT>" killed "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "aug"
+L 04/08/2015 - 17:22:40: Team "CT" triggered "CTs_Win" (CT "11") (T "16")
+L 04/08/2015 - 17:22:40: World triggered "Round_End"
+L 04/08/2015 - 17:22:50: World triggered "Round_Start"
+L 04/08/2015 - 17:22:52: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/08/2015 - 17:22:52: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/08/2015 - 17:22:52: "Kirusha<37><STEAM_0:4:1191812046><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "mp5navy" (damage "72") (damage_armor "0") (health "28") (armor "0")
+L 04/08/2015 - 17:22:52: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "ak47" (damage "34") (damage_armor "0") (health "41") (armor "0")
+L 04/08/2015 - 17:22:53: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "ak47" (damage "34") (damage_armor "0") (health "41") (armor "0")
+L 04/08/2015 - 17:22:53: "Kirusha<37><STEAM_0:4:1191812046><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "10") (armor "0")
+L 04/08/2015 - 17:22:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 04/08/2015 - 17:22:54: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:22:56: "Kirusha<37><STEAM_0:4:1191812046><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "mp5navy" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/08/2015 - 17:22:56: "Kirusha<37><STEAM_0:4:1191812046><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "mp5navy" (damage "14") (damage_armor "0") (health "72") (armor "0")
+L 04/08/2015 - 17:22:57: "Kirusha<37><STEAM_0:4:1191812046><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "mp5navy" (damage "19") (damage_armor "0") (health "53") (armor "0")
+L 04/08/2015 - 17:22:57: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "24") (armor "0")
+L 04/08/2015 - 17:22:57: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-5") (armor "0")
+L 04/08/2015 - 17:22:57: "VIKa:***<25><STEAM_0:0:1429534441><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "m4a1"
+L 04/08/2015 - 17:22:59: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "12") (armor "0")
+L 04/08/2015 - 17:22:59: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-17") (armor "0")
+L 04/08/2015 - 17:22:59: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" killed "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1"
+L 04/08/2015 - 17:23:00: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:23:01: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:23:01: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "41") (armor "0")
+L 04/08/2015 - 17:23:01: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/08/2015 - 17:23:01: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/08/2015 - 17:23:02: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 04/08/2015 - 17:23:02: "T-34<27><STEAM_0:4:1435684850><CT>" killed "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" with "aug"
+L 04/08/2015 - 17:23:04: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "grenade"
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "38") (hits "15") (kills "4") (headshots "1") (tks "0") (damage "507") (deaths "2")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "1") (stomach "0") (leftarm "10") (rightarm "3") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "9") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "83") (deaths "1")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "time" (time "2:17")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" triggered "latency" (ping "64")
+L 04/08/2015 - 17:23:06: "Ben_Laden<36><STEAM_0:4:1067433675><TERRORIST>" disconnected
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "47") (hits "8") (kills "2") (headshots "0") (tks "0") (damage "196") (deaths "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "4")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "52") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "162") (deaths "2")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "2") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "2")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "26") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "220") (deaths "1")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "2") (leftleg "2") (rightleg "0")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "time" (time "3:34")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" triggered "latency" (ping "76")
+L 04/08/2015 - 17:23:06: "AKAI_mps4000<35><STEAM_0:4:1038161258><TERRORIST>" disconnected
+L 04/08/2015 - 17:23:17: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-79") (armor "0")
+L 04/08/2015 - 17:23:17: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:23:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "17")
+L 04/08/2015 - 17:23:17: World triggered "Round_End"
+L 04/08/2015 - 17:23:27: World triggered "Round_Start"
+L 04/08/2015 - 17:23:33: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/08/2015 - 17:23:36: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" attacked "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1" (damage "116") (damage_armor "0") (health "-45") (armor "0")
+L 04/08/2015 - 17:23:36: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" killed "Kirusha<37><STEAM_0:4:1191812046><CT>" with "m4a1"
+L 04/08/2015 - 17:23:37: "VIKa:***<25><STEAM_0:0:1429534441><CT>" attacked "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/08/2015 - 17:23:38: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bcad8
+L 04/08/2015 - 17:23:38: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><>" connected, address "176.212.150.194:27005"
+L 04/08/2015 - 17:23:38: [VTC] Player 5 speex
+L 04/08/2015 - 17:23:39: "T-34<27><STEAM_0:4:1435684850><CT>" attacked "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "awp" (damage "452") (damage_armor "0") (health "-352") (armor "0")
+L 04/08/2015 - 17:23:39: "T-34<27><STEAM_0:4:1435684850><CT>" killed "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" with "awp"
+L 04/08/2015 - 17:23:40: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c68c0
+L 04/08/2015 - 17:23:40: "Ben_Laden<39><STEAM_0:4:1067433675><>" connected, address "46.159.99.214:27005"
+L 04/08/2015 - 17:23:40: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/08/2015 - 17:23:40: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" killed "VIKa:***<25><STEAM_0:0:1429534441><CT>" with "m4a1"
+L 04/08/2015 - 17:23:41: [VTC] Player 7 speex
+L 04/08/2015 - 17:23:41: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><>" entered the game
+L 04/08/2015 - 17:23:44: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><>" joined team "TERRORIST"
+L 04/08/2015 - 17:23:44: "Ben_Laden<39><STEAM_0:4:1067433675><>" entered the game
+L 04/08/2015 - 17:23:46: "Ben_Laden<39><STEAM_0:4:1067433675><>" joined team "TERRORIST"
+L 04/08/2015 - 17:23:52: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/08/2015 - 17:23:58: Server cvar "amx_nextmap" = "$9000$"
+L 04/08/2015 - 17:23:58: Server cvar "mp_timelimit" = "0.000000"
+L 04/08/2015 - 17:24:00: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "56") (damage_armor "0") (health "27") (armor "0")
+L 04/08/2015 - 17:24:00: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "13") (armor "0")
+L 04/08/2015 - 17:24:00: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" attacked "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "-1") (armor "0")
+L 04/08/2015 - 17:24:00: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" killed "T-34<27><STEAM_0:4:1435684850><CT>" with "m4a1"
+L 04/08/2015 - 17:24:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "18")
+L 04/08/2015 - 17:24:00: World triggered "Round_End"
+L 04/08/2015 - 17:24:10: Server cvar "mp_timelimit" = "0.010000"
+L 04/08/2015 - 17:24:10: World triggered "Round_Start"
+L 04/08/2015 - 17:24:10: Team "CT" scored "11" with "3" players
+L 04/08/2015 - 17:24:10: Team "TERRORIST" scored "18" with "4" players
+L 04/08/2015 - 17:24:10: Server cvar "mp_chattime" = "2"
+L 04/08/2015 - 17:24:10: Server cvar "mp_chattime" = "3.000000"
+L 04/08/2015 - 17:24:10: Server cvar "mp_chattime" = "1"
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "grenade") (shots "7") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "153") (deaths "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "aug") (shots "32") (hits "10") (kills "2") (headshots "1") (tks "0") (damage "310") (deaths "2")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "1") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "4") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "usp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "awp") (shots "13") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "112") (deaths "1")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "44") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "144") (deaths "1")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "2") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "m4a1") (shots "200") (hits "37") (kills "10") (headshots "4") (tks "0") (damage "1389") (deaths "14")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "m4a1") (head "4") (chest "2") (stomach "3") (leftarm "18") (rightarm "3") (leftleg "2") (rightleg "5")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "deagle") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats" (weapon "ak47") (shots "14") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "78") (deaths "2")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "time" (time "18:09")
+L 04/08/2015 - 17:24:10: "VIKa:***<25><STEAM_0:0:1429534441><CT>" triggered "latency" (ping "37")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "25") (hits "14") (kills "5") (headshots "0") (tks "0") (damage "541") (deaths "1")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "222") (deaths "2")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "336") (hits "51") (kills "14") (headshots "5") (tks "0") (damage "1846") (deaths "14")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "6") (chest "6") (stomach "5") (leftarm "17") (rightarm "2") (leftleg "8") (rightleg "7")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "time" (time "14:22")
+L 04/08/2015 - 17:24:10: "*FuCk!<26><STEAM_0:4:258950332><TERRORIST>" triggered "latency" (ping "73")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats" (weapon "aug") (shots "45") (hits "13") (kills "3") (headshots "0") (tks "0") (damage "338") (deaths "1")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "2") (stomach "3") (leftarm "6") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "3") (kills "3") (headshots "2") (tks "0") (damage "1012") (deaths "0")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats2" (weapon "awp") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats" (weapon "m4a1") (shots "366") (hits "64") (kills "19") (headshots "7") (tks "0") (damage "2337") (deaths "19")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "weaponstats2" (weapon "m4a1") (head "8") (chest "5") (stomach "8") (leftarm "21") (rightarm "8") (leftleg "4") (rightleg "10")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "time" (time "14:10")
+L 04/08/2015 - 17:24:10: "T-34<27><STEAM_0:4:1435684850><CT>" triggered "latency" (ping "25")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "9") (hits "4") (kills "2") (headshots "0") (tks "0") (damage "198") (deaths "3")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "191") (hits "44") (kills "10") (headshots "3") (tks "0") (damage "1429") (deaths "10")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "3") (stomach "9") (leftarm "6") (rightarm "1") (leftleg "10") (rightleg "12")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "9") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "25") (deaths "1")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "time" (time "11:28")
+L 04/08/2015 - 17:24:10: "BuLBa<29><STEAM_0:4:757111630><TERRORIST>" triggered "latency" (ping "34")
+L 04/08/2015 - 17:24:10: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "20") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "84") (deaths "0")
+L 04/08/2015 - 17:24:10: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" triggered "time" (time "0:29")
+L 04/08/2015 - 17:24:10: "FALCAO k nam ne poedet<38><STEAM_0:4:904207108><TERRORIST>" triggered "latency" (ping "45")
+L 04/08/2015 - 17:24:10: "Ben_Laden<39><STEAM_0:4:1067433675><TERRORIST>" triggered "time" (time "0:26")
+L 04/08/2015 - 17:24:10: "Ben_Laden<39><STEAM_0:4:1067433675><TERRORIST>" triggered "latency" (ping "69")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "38") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "137") (deaths "1")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "1")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats" (weapon "m4a1") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats" (weapon "ak47") (shots "14") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "34") (deaths "1")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "time" (time "3:02")
+L 04/08/2015 - 17:24:10: "Kirusha<37><STEAM_0:4:1191812046><CT>" triggered "latency" (ping "47")
+L 04/08/2015 - 17:24:10: Server cvar "mp_timelimit" = "30.000000"
+L 04/08/2015 - 17:24:10: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/08/2015 - 17:24:10: [META] ini: Read plugin config for: AMX Mod X
+L 04/08/2015 - 17:24:10: [META] ini: Read plugin config for: dproto_EF
+L 04/08/2015 - 17:24:10: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/08/2015 - 17:24:10: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/08/2015 - 17:24:10: [META] dll: Updating plugins...
+L 04/08/2015 - 17:24:10: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/08/2015 - 17:24:10: Log file closed

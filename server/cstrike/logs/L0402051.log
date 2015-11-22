@@ -1,0 +1,1209 @@
+L 04/02/2015 - 14:37:46: Log file started (file "logs/L0402051.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/02/2015 - 14:37:46: Loading map "$2000$"
+L 04/02/2015 - 14:37:46: Server cvars start
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_debug_level" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_examine_time" = "0.5"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_look_angle" = "10"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_look_distance" = "200"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_message_repeats" = "5"
+L 04/02/2015 - 14:37:46: Server cvar "_tutor_view_distance" = "1000"
+L 04/02/2015 - 14:37:46: Server cvar "aesp_version" = "1.5b_mini"
+L 04/02/2015 - 14:37:46: Server cvar "allow_spectators" = "4"
+L 04/02/2015 - 14:37:46: Server cvar "amx_client_languages" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/02/2015 - 14:37:46: Server cvar "amx_language" = "ru"
+L 04/02/2015 - 14:37:46: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 04/02/2015 - 14:37:46: Server cvar "amx_timeleft" = "24:52"
+L 04/02/2015 - 14:37:46: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/02/2015 - 14:37:46: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/02/2015 - 14:37:46: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Config" = "Loaded"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Replace" = "Failed"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Status" = "Loaded"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/02/2015 - 14:37:46: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/02/2015 - 14:37:46: Server cvar "coop" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "deathmatch" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "decalfrequency" = "9"
+L 04/02/2015 - 14:37:46: Server cvar "dp_version" = "0.9.391"
+L 04/02/2015 - 14:37:46: Server cvar "edgefriction" = "2"
+L 04/02/2015 - 14:37:46: Server cvar "hostage_debug" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "hostage_stop" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "humans_join_team" = "any"
+L 04/02/2015 - 14:37:46: Server cvar "jtp10181" = "chute,gore"
+L 04/02/2015 - 14:37:46: Server cvar "max_queries_sec" = "3.0"
+L 04/02/2015 - 14:37:46: Server cvar "max_queries_sec_global" = "30"
+L 04/02/2015 - 14:37:46: Server cvar "max_queries_window" = "60"
+L 04/02/2015 - 14:37:46: Server cvar "metamod_version" = "1.19"
+L 04/02/2015 - 14:37:46: Server cvar "mp_allowmonsters" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_autokick" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_autoteambalance" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_buytime" = "1.5"
+L 04/02/2015 - 14:37:46: Server cvar "mp_c4timer" = "35"
+L 04/02/2015 - 14:37:46: Server cvar "mp_chattime" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_consistency" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_fadetoblack" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_flashlight" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_footsteps" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_forcecamera" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_forcechasecam" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_fragsleft" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_freezetime" = "5"
+L 04/02/2015 - 14:37:46: Server cvar "mp_friendlyfire" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_hostagepenalty" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_kickpercent" = "0.66"
+L 04/02/2015 - 14:37:46: Server cvar "mp_limitteams" = "5"
+L 04/02/2015 - 14:37:46: Server cvar "mp_logdetail" = "3"
+L 04/02/2015 - 14:37:46: Server cvar "mp_logfile" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_logmessages" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/02/2015 - 14:37:46: Server cvar "mp_maxrounds" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_mirrordamage" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_playerid" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_roundtime" = "2.57"
+L 04/02/2015 - 14:37:46: Server cvar "mp_startmoney" = "800"
+L 04/02/2015 - 14:37:46: Server cvar "mp_timeleft" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "mp_timelimit" = "30"
+L 04/02/2015 - 14:37:46: Server cvar "mp_tkpunish" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_windifference" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "mp_winlimit" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "pausable" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_accelerate" = "5"
+L 04/02/2015 - 14:37:46: Server cvar "sv_aim" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_airaccelerate" = "10"
+L 04/02/2015 - 14:37:46: Server cvar "sv_airmove" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "sv_allowupload" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "sv_alltalk" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_bounce" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "sv_cheats" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_clienttrace" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "sv_clipmode" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_contact" = ""
+L 04/02/2015 - 14:37:46: Server cvar "sv_friction" = "4"
+L 04/02/2015 - 14:37:46: Server cvar "sv_gravity" = "800"
+L 04/02/2015 - 14:37:46: Server cvar "sv_logblocks" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_maxrate" = "25000"
+L 04/02/2015 - 14:37:46: Server cvar "sv_maxspeed" = "320"
+L 04/02/2015 - 14:37:46: Server cvar "sv_minrate" = "100000"
+L 04/02/2015 - 14:37:46: Server cvar "sv_password" = ""
+L 04/02/2015 - 14:37:46: Server cvar "sv_proxies" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_region" = "3"
+L 04/02/2015 - 14:37:46: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_restartround" = "0"
+L 04/02/2015 - 14:37:46: Server cvar "sv_stepsize" = "18"
+L 04/02/2015 - 14:37:46: Server cvar "sv_stopspeed" = "75"
+L 04/02/2015 - 14:37:46: Server cvar "sv_uploadmax" = "0.5"
+L 04/02/2015 - 14:37:46: Server cvar "sv_voiceenable" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "sv_wateraccelerate" = "10"
+L 04/02/2015 - 14:37:46: Server cvar "sv_waterfriction" = "1"
+L 04/02/2015 - 14:37:46: Server cvar "travo_statmarquee" = "v1.2"
+L 04/02/2015 - 14:37:46: Server cvar "vtc_version" = "80"
+L 04/02/2015 - 14:37:46: Server cvar "wallblocker_version" = "1.0"
+L 04/02/2015 - 14:37:46: Server cvars end
+L 04/02/2015 - 14:37:47: Server cvar "sv_maxspeed" = "900"
+L 04/02/2015 - 14:37:47: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 04/02/2015 - 14:37:47: Server cvar "sv_restart" = "1"
+L 04/02/2015 - 14:37:47: World triggered "Restart_Round_(1_second)"
+L 04/02/2015 - 14:37:47: Team "CT" scored "0" with "0" players
+L 04/02/2015 - 14:37:47: Team "TERRORIST" scored "0" with "0" players
+L 04/02/2015 - 14:37:47: Server cvar "sv_restart" = "0"
+L 04/02/2015 - 14:37:47: Started map "$2000$" (CRC "-1688392397")
+L 04/02/2015 - 14:37:52: World triggered "Round_Start"
+L 04/02/2015 - 14:37:52: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 14:37:52: "KoMaRiDzE<1><STEAM_0:4:1062706379><>" connected, address "46.219.243.215:31408"
+L 04/02/2015 - 14:37:53: [VTC] Player 1 speex
+L 04/02/2015 - 14:37:59: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 14:37:59: "BANAN<2><STEAM_0:4:1399475461><>" connected, address "178.120.136.15:31521"
+L 04/02/2015 - 14:37:59: [VTC] Player 1 speex
+L 04/02/2015 - 14:41:14: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 14:41:14: "Extazy<3><STEAM_0:4:397277401><>" connected, address "10.19.7.134:27005"
+L 04/02/2015 - 14:41:14: [VTC] Player 1 speex
+L 04/02/2015 - 14:41:24: "Extazy<3><STEAM_0:4:397277401><>" entered the game
+L 04/02/2015 - 14:41:38: "Extazy<3><STEAM_0:4:397277401><>" joined team "CT"
+L 04/02/2015 - 14:45:59: "Extazy<3><STEAM_0:4:397277401><CT>" committed suicide with "world"
+L 04/02/2015 - 14:45:59: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/02/2015 - 14:45:59: World triggered "Round_End"
+L 04/02/2015 - 14:46:09: World triggered "Round_Start"
+L 04/02/2015 - 14:47:18: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu2013]; pClient = 0xb39a3dfc
+L 04/02/2015 - 14:47:18: "kefir<4><STEAM_0:4:1394659077><>" connected, address "178.124.29.15:27005"
+L 04/02/2015 - 14:47:18: [VTC] Player 2 silk
+L 04/02/2015 - 14:47:23: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 04/02/2015 - 14:47:23: "moraric<5><STEAM_0:4:108088325><>" connected, address "178.122.190.165:26642"
+L 04/02/2015 - 14:47:23: [VTC] Player 2 speex
+L 04/02/2015 - 14:47:31: "moraric<5><STEAM_0:4:108088325><>" entered the game
+L 04/02/2015 - 14:47:39: "moraric<5><STEAM_0:4:108088325><>" joined team "TERRORIST"
+L 04/02/2015 - 14:47:46: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu2013]; pClient = 0xb39a8cf0
+L 04/02/2015 - 14:47:46: "kefir<6><STEAM_0:4:1394659077><>" connected, address "178.124.29.15:27005"
+L 04/02/2015 - 14:47:46: [VTC] Player 3 silk
+L 04/02/2015 - 14:47:52: "kefir<6><STEAM_0:4:1394659077><>" entered the game
+L 04/02/2015 - 14:48:03: "kefir<6><STEAM_0:4:1394659077><>" joined team "CT"
+L 04/02/2015 - 14:48:05: World triggered "Game_Commencing"
+L 04/02/2015 - 14:48:05: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/02/2015 - 14:48:05: World triggered "Round_End"
+L 04/02/2015 - 14:48:13: World triggered "Round_Start"
+L 04/02/2015 - 14:48:19: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:48:19: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:48:20: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-87") (armor "0")
+L 04/02/2015 - 14:48:20: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:48:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/02/2015 - 14:48:20: World triggered "Round_End"
+L 04/02/2015 - 14:48:30: World triggered "Round_Start"
+L 04/02/2015 - 14:48:33: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:48:33: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:48:33: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "52") (armor "0")
+L 04/02/2015 - 14:48:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:48:34: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:48:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 14:48:34: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "14") (armor "0")
+L 04/02/2015 - 14:48:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 04/02/2015 - 14:48:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-3") (armor "0")
+L 04/02/2015 - 14:48:34: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:48:34: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/02/2015 - 14:48:34: World triggered "Round_End"
+L 04/02/2015 - 14:48:44: World triggered "Round_Start"
+L 04/02/2015 - 14:48:53: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 14:48:54: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 04/02/2015 - 14:48:56: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 14:48:57: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 14:48:57: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:48:57: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 04/02/2015 - 14:48:57: World triggered "Round_End"
+L 04/02/2015 - 14:49:07: World triggered "Round_Start"
+L 04/02/2015 - 14:49:24: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 14:49:24: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 14:49:24: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/02/2015 - 14:49:25: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 14:49:25: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "25") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 14:49:25: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 14:49:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 04/02/2015 - 14:49:25: World triggered "Round_End"
+L 04/02/2015 - 14:49:35: World triggered "Round_Start"
+L 04/02/2015 - 14:49:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:49:47: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 04/02/2015 - 14:49:48: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "80") (damage_armor "0") (health "-6") (armor "0")
+L 04/02/2015 - 14:49:48: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 14:49:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 04/02/2015 - 14:49:48: World triggered "Round_End"
+L 04/02/2015 - 14:49:58: World triggered "Round_Start"
+L 04/02/2015 - 14:50:02: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "41") (damage_armor "0") (health "59") (armor "0")
+L 04/02/2015 - 14:50:03: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "24") (damage_armor "0") (health "35") (armor "0")
+L 04/02/2015 - 14:50:03: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-97") (armor "0")
+L 04/02/2015 - 14:50:03: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47"
+L 04/02/2015 - 14:50:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 04/02/2015 - 14:50:03: World triggered "Round_End"
+L 04/02/2015 - 14:50:13: World triggered "Round_Start"
+L 04/02/2015 - 14:50:21: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "mp5navy" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/02/2015 - 14:50:21: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "mp5navy" (damage "23") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 14:50:21: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 14:50:21: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "38") (damage_armor "0") (health "22") (armor "0")
+L 04/02/2015 - 14:50:21: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "-1") (armor "0")
+L 04/02/2015 - 14:50:21: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:50:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 04/02/2015 - 14:50:21: World triggered "Round_End"
+L 04/02/2015 - 14:50:31: World triggered "Round_Start"
+L 04/02/2015 - 14:50:39: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:50:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:50:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 14:50:40: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 14:50:40: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "23") (armor "0")
+L 04/02/2015 - 14:50:40: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "2") (armor "0")
+L 04/02/2015 - 14:50:41: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-27") (armor "0")
+L 04/02/2015 - 14:50:41: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:50:41: Team "CT" triggered "CTs_Win" (CT "3") (T "5")
+L 04/02/2015 - 14:50:41: World triggered "Round_End"
+L 04/02/2015 - 14:50:51: World triggered "Round_Start"
+L 04/02/2015 - 14:50:55: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "87") (armor "100")
+L 04/02/2015 - 14:50:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 14:50:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "28") (armor "0")
+L 04/02/2015 - 14:50:56: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "73") (armor "100")
+L 04/02/2015 - 14:50:56: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 14:50:56: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:50:56: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 04/02/2015 - 14:50:56: World triggered "Round_End"
+L 04/02/2015 - 14:51:06: World triggered "Round_Start"
+L 04/02/2015 - 14:51:12: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "38") (damage_armor "19") (health "62") (armor "81")
+L 04/02/2015 - 14:51:13: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "53") (armor "76")
+L 04/02/2015 - 14:51:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 14:51:13: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:51:13: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 04/02/2015 - 14:51:13: World triggered "Round_End"
+L 04/02/2015 - 14:51:23: World triggered "Round_Start"
+L 04/02/2015 - 14:51:44: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "71")
+L 04/02/2015 - 14:51:45: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/02/2015 - 14:51:45: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "81") (damage_armor "17") (health "-1") (armor "54")
+L 04/02/2015 - 14:51:45: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:51:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 04/02/2015 - 14:51:45: World triggered "Round_End"
+L 04/02/2015 - 14:51:55: World triggered "Round_Start"
+L 04/02/2015 - 14:52:04: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 14:52:04: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "23") (damage_armor "0") (health "56") (armor "95")
+L 04/02/2015 - 14:52:04: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/02/2015 - 14:52:04: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "23") (damage_armor "0") (health "33") (armor "95")
+L 04/02/2015 - 14:52:05: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 14:52:05: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "27") (damage_armor "6") (health "6") (armor "89")
+L 04/02/2015 - 14:52:05: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "12") (armor "0")
+L 04/02/2015 - 14:52:05: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 14:52:05: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:52:05: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 04/02/2015 - 14:52:05: World triggered "Round_End"
+L 04/02/2015 - 14:52:15: World triggered "Round_Start"
+L 04/02/2015 - 14:52:23: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "20") (damage_armor "4") (health "80") (armor "85")
+L 04/02/2015 - 14:52:23: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:52:25: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "25") (damage_armor "6") (health "55") (armor "79")
+L 04/02/2015 - 14:52:25: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "25") (damage_armor "5") (health "30") (armor "74")
+L 04/02/2015 - 14:52:26: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "0") (health "9") (armor "74")
+L 04/02/2015 - 14:52:26: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "49") (armor "0")
+L 04/02/2015 - 14:52:26: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "19") (armor "0")
+L 04/02/2015 - 14:52:26: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-11") (armor "0")
+L 04/02/2015 - 14:52:26: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:52:26: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 04/02/2015 - 14:52:26: World triggered "Round_End"
+L 04/02/2015 - 14:52:36: World triggered "Round_Start"
+L 04/02/2015 - 14:52:39: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "87") (armor "100")
+L 04/02/2015 - 14:52:39: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 14:52:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "9") (damage_armor "5") (health "78") (armor "95")
+L 04/02/2015 - 14:52:40: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 14:52:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "9") (damage_armor "4") (health "69") (armor "91")
+L 04/02/2015 - 14:52:41: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "56") (armor "91")
+L 04/02/2015 - 14:52:41: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "38") (damage_armor "19") (health "18") (armor "72")
+L 04/02/2015 - 14:52:54: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "18") (armor "0")
+L 04/02/2015 - 14:52:54: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "14") (damage_armor "8") (health "4") (armor "64")
+L 04/02/2015 - 14:52:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "-6") (armor "0")
+L 04/02/2015 - 14:52:55: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:52:55: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 04/02/2015 - 14:52:55: World triggered "Round_End"
+L 04/02/2015 - 14:53:00: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 14:53:00: "Ksenia312<7><STEAM_0:4:862296654><>" connected, address "37.214.151.207:51201"
+L 04/02/2015 - 14:53:00: [VTC] Player 4 speex
+L 04/02/2015 - 14:53:05: World triggered "Round_Start"
+L 04/02/2015 - 14:53:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "86") (armor "100")
+L 04/02/2015 - 14:53:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "72") (armor "100")
+L 04/02/2015 - 14:53:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "61") (armor "94")
+L 04/02/2015 - 14:53:12: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "46") (armor "94")
+L 04/02/2015 - 14:53:12: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "10") (damage_armor "5") (health "36") (armor "89")
+L 04/02/2015 - 14:53:17: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:53:18: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "7") (health "23") (armor "82")
+L 04/02/2015 - 14:53:20: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "11") (damage_armor "0") (health "59") (armor "0")
+L 04/02/2015 - 14:53:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "45") (armor "0")
+L 04/02/2015 - 14:53:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "15") (armor "0")
+L 04/02/2015 - 14:53:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-15") (armor "0")
+L 04/02/2015 - 14:53:22: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:53:22: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 04/02/2015 - 14:53:22: World triggered "Round_End"
+L 04/02/2015 - 14:53:29: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 14:53:29: "Ksenia312<8><STEAM_0:4:862296654><>" connected, address "37.214.151.207:51201"
+L 04/02/2015 - 14:53:29: [VTC] Player 4 speex
+L 04/02/2015 - 14:53:32: World triggered "Round_Start"
+L 04/02/2015 - 14:53:33: "Ksenia312<8><STEAM_0:4:862296654><>" entered the game
+L 04/02/2015 - 14:53:43: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 14:53:43: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:53:43: Team "CT" triggered "CTs_Win" (CT "10") (T "6")
+L 04/02/2015 - 14:53:43: World triggered "Round_End"
+L 04/02/2015 - 14:53:53: World triggered "Round_Start"
+L 04/02/2015 - 14:53:54: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "glock18" (damage "6") (damage_armor "3") (health "94") (armor "79")
+L 04/02/2015 - 14:54:12: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 14:54:16: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "24") (armor "0")
+L 04/02/2015 - 14:54:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "2") (armor "0")
+L 04/02/2015 - 14:54:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 14:54:18: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:54:18: Team "CT" triggered "CTs_Win" (CT "11") (T "6")
+L 04/02/2015 - 14:54:18: World triggered "Round_End"
+L 04/02/2015 - 14:54:19: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 04/02/2015 - 14:54:19: "Dashka)<9><STEAM_0:4:1819685203><>" connected, address "31.128.176.113:27005"
+L 04/02/2015 - 14:54:19: [VTC] Player 5 speex
+L 04/02/2015 - 14:54:24: "Dashka)<9><STEAM_0:4:1819685203><>" entered the game
+L 04/02/2015 - 14:54:28: World triggered "Round_Start"
+L 04/02/2015 - 14:54:30: "Dashka)<9><STEAM_0:4:1819685203><>" joined team "TERRORIST"
+L 04/02/2015 - 14:54:34: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "85") (armor "100")
+L 04/02/2015 - 14:54:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 14:54:34: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "70") (armor "100")
+L 04/02/2015 - 14:54:34: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "55") (armor "100")
+L 04/02/2015 - 14:54:35: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "40") (armor "100")
+L 04/02/2015 - 14:54:35: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "25") (armor "100")
+L 04/02/2015 - 14:54:35: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "10") (armor "100")
+L 04/02/2015 - 14:54:35: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "36") (armor "0")
+L 04/02/2015 - 14:54:35: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "10") (damage_armor "5") (health "0") (armor "95")
+L 04/02/2015 - 14:54:35: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 14:54:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "7")
+L 04/02/2015 - 14:54:35: World triggered "Round_End"
+L 04/02/2015 - 14:54:45: World triggered "Round_Start"
+L 04/02/2015 - 14:54:50: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:54:50: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:54:50: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 14:54:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 14:54:51: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 14:54:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 14:54:52: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 14:54:52: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:54:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "8")
+L 04/02/2015 - 14:54:52: World triggered "Round_End"
+L 04/02/2015 - 14:54:58: "Ksenia312<8><STEAM_0:4:862296654><>" joined team "CT"
+L 04/02/2015 - 14:55:02: World triggered "Round_Start"
+L 04/02/2015 - 14:55:07: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:55:07: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "Ksenia312<8><STEAM_0:4:862296654><CT>" with "m4a1" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 04/02/2015 - 14:55:08: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 14:55:08: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/02/2015 - 14:55:08: "Ksenia312<8><STEAM_0:4:862296654><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:55:08: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 14:55:08: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:55:14: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "Ksenia312<8><STEAM_0:4:862296654><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-18") (armor "0")
+L 04/02/2015 - 14:55:14: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "Ksenia312<8><STEAM_0:4:862296654><CT>" with "ak47"
+L 04/02/2015 - 14:55:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "9")
+L 04/02/2015 - 14:55:14: World triggered "Round_End"
+L 04/02/2015 - 14:55:24: World triggered "Round_Start"
+L 04/02/2015 - 14:55:27: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:55:28: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:55:28: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 14:55:28: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:55:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "Ksenia312<8><STEAM_0:4:862296654><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 14:55:32: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "Ksenia312<8><STEAM_0:4:862296654><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/02/2015 - 14:55:32: "Ksenia312<8><STEAM_0:4:862296654><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 14:55:32: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "Ksenia312<8><STEAM_0:4:862296654><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-86") (armor "0")
+L 04/02/2015 - 14:55:32: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "Ksenia312<8><STEAM_0:4:862296654><CT>" with "m4a1"
+L 04/02/2015 - 14:55:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "10")
+L 04/02/2015 - 14:55:32: World triggered "Round_End"
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" triggered "weaponstats" (weapon "m4a1") (shots "20") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "59") (deaths "2")
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" triggered "time" (time "2:01")
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" triggered "latency" (ping "47")
+L 04/02/2015 - 14:55:34: "Ksenia312<8><STEAM_0:4:862296654><CT>" disconnected
+L 04/02/2015 - 14:55:42: World triggered "Round_Start"
+L 04/02/2015 - 14:55:46: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 14:55:46: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 04/02/2015 - 14:55:46: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 14:55:46: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:55:46: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:55:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "20") (armor "0")
+L 04/02/2015 - 14:55:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-1") (armor "0")
+L 04/02/2015 - 14:55:47: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:55:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "19") (armor "0")
+L 04/02/2015 - 14:55:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 14:55:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 14:55:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "11")
+L 04/02/2015 - 14:55:50: World triggered "Round_End"
+L 04/02/2015 - 14:56:00: World triggered "Round_Start"
+L 04/02/2015 - 14:56:03: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "aug" (damage "108") (damage_armor "0") (health "-8") (armor "0")
+L 04/02/2015 - 14:56:03: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "aug"
+L 04/02/2015 - 14:56:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:56:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 14:56:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "16") (armor "0")
+L 04/02/2015 - 14:56:18: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:56:18: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 14:56:19: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "28") (damage_armor "0") (health "16") (armor "0")
+L 04/02/2015 - 14:56:20: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 14:56:20: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug"
+L 04/02/2015 - 14:56:20: Team "CT" triggered "CTs_Win" (CT "12") (T "11")
+L 04/02/2015 - 14:56:20: World triggered "Round_End"
+L 04/02/2015 - 14:56:30: World triggered "Round_Start"
+L 04/02/2015 - 14:56:34: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/02/2015 - 14:56:35: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:56:35: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:56:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "36") (armor "0")
+L 04/02/2015 - 14:56:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 14:56:36: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:56:45: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "26") (damage_armor "4") (health "54") (armor "91")
+L 04/02/2015 - 14:56:46: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "26") (damage_armor "3") (health "28") (armor "88")
+L 04/02/2015 - 14:56:46: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:56:46: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 14:56:47: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "26") (damage_armor "4") (health "2") (armor "84")
+L 04/02/2015 - 14:56:47: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "105") (damage_armor "16") (health "-103") (armor "68")
+L 04/02/2015 - 14:56:47: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47"
+L 04/02/2015 - 14:56:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "12")
+L 04/02/2015 - 14:56:47: World triggered "Round_End"
+L 04/02/2015 - 14:56:57: World triggered "Round_Start"
+L 04/02/2015 - 14:57:02: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:57:03: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "37") (armor "0")
+L 04/02/2015 - 14:57:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "awp" (damage "138") (damage_armor "0") (health "-38") (armor "0")
+L 04/02/2015 - 14:57:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "awp"
+L 04/02/2015 - 14:57:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "13")
+L 04/02/2015 - 14:57:04: World triggered "Round_End"
+L 04/02/2015 - 14:57:14: World triggered "Round_Start"
+L 04/02/2015 - 14:57:18: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:57:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 14:57:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "39") (armor "0")
+L 04/02/2015 - 14:57:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-85") (armor "0")
+L 04/02/2015 - 14:57:18: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:57:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "47") (armor "0")
+L 04/02/2015 - 14:57:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "24") (armor "0")
+L 04/02/2015 - 14:57:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-7") (armor "0")
+L 04/02/2015 - 14:57:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:57:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "14")
+L 04/02/2015 - 14:57:22: World triggered "Round_End"
+L 04/02/2015 - 14:57:32: World triggered "Round_Start"
+L 04/02/2015 - 14:57:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:57:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:57:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "12") (armor "0")
+L 04/02/2015 - 14:57:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "-24") (armor "0")
+L 04/02/2015 - 14:57:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:57:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "15")
+L 04/02/2015 - 14:57:41: World triggered "Round_End"
+L 04/02/2015 - 14:57:51: World triggered "Round_Start"
+L 04/02/2015 - 14:58:03: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "126") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 14:58:03: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014"
+L 04/02/2015 - 14:58:12: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/02/2015 - 14:58:12: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "32") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 14:58:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "38") (damage_armor "0") (health "2") (armor "0")
+L 04/02/2015 - 14:58:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "103") (damage_armor "0") (health "-101") (armor "0")
+L 04/02/2015 - 14:58:13: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014"
+L 04/02/2015 - 14:58:13: Team "CT" triggered "CTs_Win" (CT "13") (T "15")
+L 04/02/2015 - 14:58:13: World triggered "Round_End"
+L 04/02/2015 - 14:58:23: World triggered "Round_Start"
+L 04/02/2015 - 14:58:27: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 14:58:27: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 14:58:28: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "9") (damage_armor "3") (health "49") (armor "88")
+L 04/02/2015 - 14:58:31: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "14") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:58:32: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "27") (armor "88")
+L 04/02/2015 - 14:58:32: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "5") (armor "88")
+L 04/02/2015 - 14:58:32: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "28") (damage_armor "0") (health "35") (armor "0")
+L 04/02/2015 - 14:58:32: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 04/02/2015 - 14:58:32: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-17") (armor "88")
+L 04/02/2015 - 14:58:32: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:58:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "16")
+L 04/02/2015 - 14:58:32: World triggered "Round_End"
+L 04/02/2015 - 14:58:42: World triggered "Round_Start"
+L 04/02/2015 - 14:58:46: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 14:58:46: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 14:58:46: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 14:58:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 14:58:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 14:58:47: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "12") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 14:58:47: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "12") (damage_armor "0") (health "32") (armor "0")
+L 04/02/2015 - 14:58:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-88") (armor "0")
+L 04/02/2015 - 14:58:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:58:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "17")
+L 04/02/2015 - 14:58:47: World triggered "Round_End"
+L 04/02/2015 - 14:58:57: World triggered "Round_Start"
+L 04/02/2015 - 14:59:08: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "30") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 14:59:08: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/02/2015 - 14:59:08: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 14:59:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "16") (damage_armor "0") (health "49") (armor "0")
+L 04/02/2015 - 14:59:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "27") (damage_armor "0") (health "22") (armor "0")
+L 04/02/2015 - 14:59:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "23") (damage_armor "0") (health "-1") (armor "0")
+L 04/02/2015 - 14:59:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 14:59:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "18")
+L 04/02/2015 - 14:59:17: World triggered "Round_End"
+L 04/02/2015 - 14:59:27: World triggered "Round_Start"
+L 04/02/2015 - 14:59:30: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "mp5navy" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 14:59:30: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 14:59:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 14:59:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 14:59:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "19")
+L 04/02/2015 - 14:59:31: World triggered "Round_End"
+L 04/02/2015 - 14:59:41: World triggered "Round_Start"
+L 04/02/2015 - 14:59:50: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 14:59:50: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/02/2015 - 15:00:03: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "56") (armor "100")
+L 04/02/2015 - 15:00:03: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "35") (armor "95")
+L 04/02/2015 - 15:00:03: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "27") (damage_armor "6") (health "8") (armor "89")
+L 04/02/2015 - 15:00:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "86") (damage_armor "19") (health "-78") (armor "70")
+L 04/02/2015 - 15:00:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:00:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "20")
+L 04/02/2015 - 15:00:04: World triggered "Round_End"
+L 04/02/2015 - 15:00:14: World triggered "Round_Start"
+L 04/02/2015 - 15:00:16: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 15:00:16: "erema777<10><STEAM_0:4:730694897><>" connected, address "91.235.71.254:57920"
+L 04/02/2015 - 15:00:16: [VTC] Player 4 speex
+L 04/02/2015 - 15:00:18: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 04/02/2015 - 15:00:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 04/02/2015 - 15:00:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "39") (armor "0")
+L 04/02/2015 - 15:00:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-85") (armor "0")
+L 04/02/2015 - 15:00:18: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:00:24: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 04/02/2015 - 15:00:24: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:00:24: Team "CT" triggered "CTs_Win" (CT "14") (T "20")
+L 04/02/2015 - 15:00:24: World triggered "Round_End"
+L 04/02/2015 - 15:00:34: World triggered "Round_Start"
+L 04/02/2015 - 15:00:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/02/2015 - 15:00:48: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "7") (health "66") (armor "93")
+L 04/02/2015 - 15:00:48: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "55") (armor "87")
+L 04/02/2015 - 15:00:49: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "46") (damage_armor "23") (health "9") (armor "64")
+L 04/02/2015 - 15:00:49: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "46") (damage_armor "23") (health "-37") (armor "41")
+L 04/02/2015 - 15:00:49: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 15:00:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "21")
+L 04/02/2015 - 15:00:49: World triggered "Round_End"
+L 04/02/2015 - 15:00:57: "kefir<6><STEAM_0:4:1394659077><CT>" say "cj cgbys rfr kj[)"
+L 04/02/2015 - 15:00:58: "erema777<10><STEAM_0:4:730694897><>" entered the game
+L 04/02/2015 - 15:00:59: World triggered "Round_Start"
+L 04/02/2015 - 15:01:02: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:01:03: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-42") (armor "0")
+L 04/02/2015 - 15:01:03: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:01:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "22")
+L 04/02/2015 - 15:01:03: World triggered "Round_End"
+L 04/02/2015 - 15:01:13: World triggered "Round_Start"
+L 04/02/2015 - 15:01:17: "erema777<10><STEAM_0:4:730694897><>" joined team "CT"
+L 04/02/2015 - 15:01:18: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:01:19: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "41") (armor "0")
+L 04/02/2015 - 15:01:19: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 15:01:19: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 15:01:19: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1"
+L 04/02/2015 - 15:01:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:01:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "41") (armor "0")
+L 04/02/2015 - 15:01:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 15:01:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:01:23: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-19") (armor "0")
+L 04/02/2015 - 15:01:23: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:01:36: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b79cc
+L 04/02/2015 - 15:01:36: "KATERuHKA^^<11><STEAM_0:4:1952422276><>" connected, address "176.209.227.65:27005"
+L 04/02/2015 - 15:01:36: [VTC] Player 6 speex
+L 04/02/2015 - 15:01:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 15:01:42: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-87") (armor "0")
+L 04/02/2015 - 15:01:42: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:01:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "23")
+L 04/02/2015 - 15:01:42: World triggered "Round_End"
+L 04/02/2015 - 15:01:52: World triggered "Round_Start"
+L 04/02/2015 - 15:01:56: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "mp5navy" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:01:56: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 15:01:56: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "mp5navy" (damage "18") (damage_armor "0") (health "38") (armor "0")
+L 04/02/2015 - 15:02:02: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "17") (armor "0")
+L 04/02/2015 - 15:02:02: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "7") (armor "0")
+L 04/02/2015 - 15:02:03: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b79cc
+L 04/02/2015 - 15:02:03: "KATERuHKA^^<12><STEAM_0:4:1952422276><>" connected, address "176.209.227.65:27005"
+L 04/02/2015 - 15:02:03: [VTC] Player 6 speex
+L 04/02/2015 - 15:02:08: "KATERuHKA^^<12><STEAM_0:4:1952422276><>" entered the game
+L 04/02/2015 - 15:02:10: "erema777<10><STEAM_0:4:730694897><CT>" committed suicide with "grenade"
+L 04/02/2015 - 15:02:11: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/02/2015 - 15:02:11: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/02/2015 - 15:02:11: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 15:02:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 15:02:11: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 04/02/2015 - 15:02:11: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:02:17: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 15:02:17: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "31") (armor "0")
+L 04/02/2015 - 15:02:17: "KATERuHKA^^<12><STEAM_0:4:1952422276><>" joined team "TERRORIST"
+L 04/02/2015 - 15:02:18: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 15:02:18: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:02:18: Team "CT" triggered "CTs_Win" (CT "15") (T "23")
+L 04/02/2015 - 15:02:18: World triggered "Round_End"
+L 04/02/2015 - 15:02:28: World triggered "Round_Start"
+L 04/02/2015 - 15:02:36: "erema777<10><STEAM_0:4:730694897><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:02:36: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:02:36: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 15:02:36: "erema777<10><STEAM_0:4:730694897><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 15:02:36: "erema777<10><STEAM_0:4:730694897><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/02/2015 - 15:02:36: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:02:37: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-98") (armor "0")
+L 04/02/2015 - 15:02:37: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" killed "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1"
+L 04/02/2015 - 15:02:37: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "6") (armor "0")
+L 04/02/2015 - 15:02:37: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 15:02:37: "kefir<6><STEAM_0:4:1394659077><CT>" killed "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:02:38: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "27") (damage_armor "6") (health "73") (armor "94")
+L 04/02/2015 - 15:02:39: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "52") (armor "89")
+L 04/02/2015 - 15:02:39: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "31") (armor "84")
+L 04/02/2015 - 15:02:39: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "10") (armor "80")
+L 04/02/2015 - 15:02:39: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-11") (armor "75")
+L 04/02/2015 - 15:02:39: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:02:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "24")
+L 04/02/2015 - 15:02:39: World triggered "Round_End"
+L 04/02/2015 - 15:02:49: World triggered "Round_Start"
+L 04/02/2015 - 15:02:54: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:02:54: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 15:02:54: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "29") (armor "0")
+L 04/02/2015 - 15:02:54: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 15:02:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 15:02:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 15:02:55: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "8") (armor "0")
+L 04/02/2015 - 15:02:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-9") (armor "0")
+L 04/02/2015 - 15:02:55: "kefir<6><STEAM_0:4:1394659077><CT>" killed "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:02:55: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 15:02:56: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "59") (armor "0")
+L 04/02/2015 - 15:02:56: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "28") (armor "0")
+L 04/02/2015 - 15:02:57: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "5") (armor "0")
+L 04/02/2015 - 15:02:57: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-26") (armor "0")
+L 04/02/2015 - 15:02:57: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "erema777<10><STEAM_0:4:730694897><CT>" with "m4a1"
+L 04/02/2015 - 15:02:57: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "22") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "216") (deaths "2")
+L 04/02/2015 - 15:02:57: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "1")
+L 04/02/2015 - 15:02:57: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" triggered "time" (time "0:49")
+L 04/02/2015 - 15:02:57: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" triggered "latency" (ping "95")
+L 04/02/2015 - 15:02:57: "KATERuHKA^^<12><STEAM_0:4:1952422276><TERRORIST>" disconnected
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "weaponstats" (weapon "xm1014") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "weaponstats" (weapon "m4a1") (shots "42") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "92") (deaths "2")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "time" (time "2:03")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" triggered "latency" (ping "66")
+L 04/02/2015 - 15:03:02: "erema777<10><STEAM_0:4:730694897><CT>" disconnected
+L 04/02/2015 - 15:03:02: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "43") (damage_armor "0") (health "-35") (armor "0")
+L 04/02/2015 - 15:03:02: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47"
+L 04/02/2015 - 15:03:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "25")
+L 04/02/2015 - 15:03:02: World triggered "Round_End"
+L 04/02/2015 - 15:03:12: World triggered "Round_Start"
+L 04/02/2015 - 15:03:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "100")
+L 04/02/2015 - 15:03:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "66") (armor "0")
+L 04/02/2015 - 15:03:36: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "69") (armor "95")
+L 04/02/2015 - 15:03:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "35") (armor "0")
+L 04/02/2015 - 15:03:36: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "48") (armor "90")
+L 04/02/2015 - 15:03:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 15:03:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-27") (armor "0")
+L 04/02/2015 - 15:03:36: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:03:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "13") (damage_armor "3") (health "35") (armor "87")
+L 04/02/2015 - 15:03:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "10") (damage_armor "2") (health "25") (armor "85")
+L 04/02/2015 - 15:03:41: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/02/2015 - 15:03:42: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "24") (damage_armor "0") (health "1") (armor "85")
+L 04/02/2015 - 15:03:42: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 04/02/2015 - 15:03:42: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "24") (damage_armor "0") (health "-23") (armor "85")
+L 04/02/2015 - 15:03:42: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:03:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "26")
+L 04/02/2015 - 15:03:42: World triggered "Round_End"
+L 04/02/2015 - 15:03:52: World triggered "Round_Start"
+L 04/02/2015 - 15:03:54: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 15:03:54: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/02/2015 - 15:03:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 04/02/2015 - 15:03:55: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug"
+L 04/02/2015 - 15:04:10: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:04:10: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 15:04:10: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 15:04:11: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "aug" (damage "28") (damage_armor "0") (health "51") (armor "0")
+L 04/02/2015 - 15:04:11: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "aug" (damage "21") (damage_armor "0") (health "30") (armor "0")
+L 04/02/2015 - 15:04:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/02/2015 - 15:04:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 04/02/2015 - 15:04:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:04:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "27")
+L 04/02/2015 - 15:04:11: World triggered "Round_End"
+L 04/02/2015 - 15:04:21: World triggered "Round_Start"
+L 04/02/2015 - 15:04:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:04:32: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "aug" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:04:32: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/02/2015 - 15:04:33: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-72") (armor "0")
+L 04/02/2015 - 15:04:33: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:04:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "28")
+L 04/02/2015 - 15:04:33: World triggered "Round_End"
+L 04/02/2015 - 15:04:43: World triggered "Round_Start"
+L 04/02/2015 - 15:04:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:04:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 04/02/2015 - 15:04:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 04/02/2015 - 15:04:47: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "mp5navy" (damage "26") (damage_armor "0") (health "59") (armor "0")
+L 04/02/2015 - 15:04:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-72") (armor "0")
+L 04/02/2015 - 15:04:47: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:04:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "29")
+L 04/02/2015 - 15:04:47: World triggered "Round_End"
+L 04/02/2015 - 15:04:57: World triggered "Round_Start"
+L 04/02/2015 - 15:05:06: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:05:06: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:05:06: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "41") (armor "0")
+L 04/02/2015 - 15:05:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "22") (damage_armor "0") (health "48") (armor "0")
+L 04/02/2015 - 15:05:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "30") (damage_armor "0") (health "18") (armor "0")
+L 04/02/2015 - 15:05:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "30") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 15:05:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "aug"
+L 04/02/2015 - 15:05:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "30")
+L 04/02/2015 - 15:05:07: World triggered "Round_End"
+L 04/02/2015 - 15:05:17: World triggered "Round_Start"
+L 04/02/2015 - 15:05:31: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 15:05:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 15:05:31: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "58") (damage_armor "0") (health "17") (armor "0")
+L 04/02/2015 - 15:05:32: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "36") (damage_armor "0") (health "-19") (armor "0")
+L 04/02/2015 - 15:05:32: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014"
+L 04/02/2015 - 15:05:34: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "49") (damage_armor "7") (health "30") (armor "88")
+L 04/02/2015 - 15:05:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 04/02/2015 - 15:05:36: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "32") (damage_armor "5") (health "-2") (armor "83")
+L 04/02/2015 - 15:05:36: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47"
+L 04/02/2015 - 15:05:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "31")
+L 04/02/2015 - 15:05:36: World triggered "Round_End"
+L 04/02/2015 - 15:05:46: World triggered "Round_Start"
+L 04/02/2015 - 15:05:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "60") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 15:05:56: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "68") (damage_armor "0") (health "-28") (armor "0")
+L 04/02/2015 - 15:05:56: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014"
+L 04/02/2015 - 15:05:58: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 04/02/2015 - 15:05:59: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 04/02/2015 - 15:05:59: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "awp"
+L 04/02/2015 - 15:05:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "32")
+L 04/02/2015 - 15:05:59: World triggered "Round_End"
+L 04/02/2015 - 15:06:09: World triggered "Round_Start"
+L 04/02/2015 - 15:06:12: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/02/2015 - 15:06:12: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:06:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 15:06:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 15:06:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "22") (armor "0")
+L 04/02/2015 - 15:06:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 15:06:13: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 15:06:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "-14") (armor "0")
+L 04/02/2015 - 15:06:13: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "usp"
+L 04/02/2015 - 15:06:21: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "18") (armor "100")
+L 04/02/2015 - 15:06:21: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "3") (armor "100")
+L 04/02/2015 - 15:06:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "16") (damage_armor "0") (health "-13") (armor "100")
+L 04/02/2015 - 15:06:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 15:06:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "33")
+L 04/02/2015 - 15:06:22: World triggered "Round_End"
+L 04/02/2015 - 15:06:32: World triggered "Round_Start"
+L 04/02/2015 - 15:06:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 04/02/2015 - 15:06:42: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "84") (damage_armor "18") (health "-10") (armor "76")
+L 04/02/2015 - 15:06:42: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:06:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "34")
+L 04/02/2015 - 15:06:42: World triggered "Round_End"
+L 04/02/2015 - 15:06:52: World triggered "Round_Start"
+L 04/02/2015 - 15:06:56: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 15:06:56: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 15:06:57: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "21") (armor "0")
+L 04/02/2015 - 15:06:57: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "7") (armor "0")
+L 04/02/2015 - 15:06:58: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "awp" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/02/2015 - 15:06:58: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "awp"
+L 04/02/2015 - 15:07:04: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:07:04: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-54") (armor "0")
+L 04/02/2015 - 15:07:04: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:07:04: Team "CT" triggered "CTs_Win" (CT "16") (T "34")
+L 04/02/2015 - 15:07:04: World triggered "Round_End"
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><SPECTATOR>" triggered "Game_idle_kick" (auto)
+L 04/02/2015 - 15:07:10: Kick: "Extazy<3><STEAM_0:4:397277401><>" was kicked by "Console"
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "awp") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "deagle") (shots "20") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "ak47") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "time" (time "25:46")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><CT>" triggered "latency" (ping "6")
+L 04/02/2015 - 15:07:10: "Extazy<3><STEAM_0:4:397277401><SPECTATOR>" disconnected
+L 04/02/2015 - 15:07:14: World triggered "Round_Start"
+L 04/02/2015 - 15:07:20: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "85") (armor "100")
+L 04/02/2015 - 15:07:20: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "10") (damage_armor "6") (health "75") (armor "94")
+L 04/02/2015 - 15:07:21: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "34") (armor "0")
+L 04/02/2015 - 15:07:21: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 15:07:21: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 15:07:21: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:07:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "5") (health "64") (armor "89")
+L 04/02/2015 - 15:07:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "53") (armor "83")
+L 04/02/2015 - 15:07:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 04/02/2015 - 15:07:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "46") (damage_armor "23") (health "7") (armor "60")
+L 04/02/2015 - 15:07:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "24") (armor "0")
+L 04/02/2015 - 15:07:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-14") (armor "0")
+L 04/02/2015 - 15:07:22: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:07:22: Team "CT" triggered "CTs_Win" (CT "17") (T "34")
+L 04/02/2015 - 15:07:22: World triggered "Round_End"
+L 04/02/2015 - 15:07:32: World triggered "Round_Start"
+L 04/02/2015 - 15:07:42: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-15") (armor "0")
+L 04/02/2015 - 15:07:42: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "83") (armor "100")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "66") (armor "100")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "55") (armor "94")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "44") (armor "88")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "6") (health "33") (armor "82")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "16") (armor "82")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "11") (damage_armor "5") (health "5") (armor "77")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "7") (health "-8") (armor "70")
+L 04/02/2015 - 15:07:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy"
+L 04/02/2015 - 15:07:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "35")
+L 04/02/2015 - 15:07:50: World triggered "Round_End"
+L 04/02/2015 - 15:08:00: World triggered "Round_Start"
+L 04/02/2015 - 15:08:11: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "14") (damage_armor "4") (health "86") (armor "96")
+L 04/02/2015 - 15:08:11: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "25") (damage_armor "5") (health "61") (armor "91")
+L 04/02/2015 - 15:08:11: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "0") (health "40") (armor "91")
+L 04/02/2015 - 15:08:11: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "20") (damage_armor "4") (health "20") (armor "87")
+L 04/02/2015 - 15:08:11: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "12") (damage_armor "3") (health "8") (armor "84")
+L 04/02/2015 - 15:08:12: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "0") (health "-13") (armor "84")
+L 04/02/2015 - 15:08:12: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "aug"
+L 04/02/2015 - 15:08:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "36")
+L 04/02/2015 - 15:08:12: World triggered "Round_End"
+L 04/02/2015 - 15:08:22: World triggered "Round_Start"
+L 04/02/2015 - 15:08:27: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/02/2015 - 15:08:27: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "35") (armor "0")
+L 04/02/2015 - 15:08:27: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:08:27: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 15:08:27: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "14") (armor "0")
+L 04/02/2015 - 15:08:28: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-7") (armor "0")
+L 04/02/2015 - 15:08:28: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:08:29: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 15:08:30: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "44") (armor "0")
+L 04/02/2015 - 15:08:30: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "23") (armor "0")
+L 04/02/2015 - 15:08:30: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "-12") (armor "0")
+L 04/02/2015 - 15:08:30: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:08:30: Team "CT" triggered "CTs_Win" (CT "18") (T "36")
+L 04/02/2015 - 15:08:30: World triggered "Round_End"
+L 04/02/2015 - 15:08:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 15:08:31: "Extazy<13><STEAM_0:4:397277401><>" connected, address "10.19.7.134:27005"
+L 04/02/2015 - 15:08:31: [VTC] Player 1 speex
+L 04/02/2015 - 15:08:35: "Extazy<13><STEAM_0:4:397277401><>" entered the game
+L 04/02/2015 - 15:08:40: World triggered "Round_Start"
+L 04/02/2015 - 15:08:46: "Extazy<13><STEAM_0:4:397277401><>" joined team "SPECTATOR"
+L 04/02/2015 - 15:08:52: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:08:52: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 15:08:53: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "3") (armor "0")
+L 04/02/2015 - 15:08:53: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-27") (armor "0")
+L 04/02/2015 - 15:08:53: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:09:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:09:01: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "35") (armor "78")
+L 04/02/2015 - 15:09:01: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "0")
+L 04/02/2015 - 15:09:01: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "35") (armor "0")
+L 04/02/2015 - 15:09:01: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "13") (armor "78")
+L 04/02/2015 - 15:09:01: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "13") (armor "0")
+L 04/02/2015 - 15:09:01: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-8") (armor "73")
+L 04/02/2015 - 15:09:01: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:09:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "37")
+L 04/02/2015 - 15:09:01: World triggered "Round_End"
+L 04/02/2015 - 15:09:06: "kefir<6><STEAM_0:4:1394659077><CT>" say "kj[" (dead)
+L 04/02/2015 - 15:09:11: World triggered "Round_Start"
+L 04/02/2015 - 15:09:31: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "9") (damage_armor "0") (health "91") (armor "0")
+L 04/02/2015 - 15:09:36: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 15:09:36: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "76") (damage_armor "0") (health "15") (armor "0")
+L 04/02/2015 - 15:09:37: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014" (damage "103") (damage_armor "0") (health "-88") (armor "0")
+L 04/02/2015 - 15:09:37: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "xm1014"
+L 04/02/2015 - 15:09:48: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 04/02/2015 - 15:09:48: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014" (damage "71") (damage_armor "0") (health "-47") (armor "0")
+L 04/02/2015 - 15:09:48: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "xm1014"
+L 04/02/2015 - 15:09:48: Team "CT" triggered "CTs_Win" (CT "19") (T "37")
+L 04/02/2015 - 15:09:48: World triggered "Round_End"
+L 04/02/2015 - 15:09:58: World triggered "Round_Start"
+L 04/02/2015 - 15:10:01: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/02/2015 - 15:10:01: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 15:10:01: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "59") (armor "95")
+L 04/02/2015 - 15:10:02: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "38") (armor "95")
+L 04/02/2015 - 15:10:02: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "35") (armor "0")
+L 04/02/2015 - 15:10:02: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "14") (armor "0")
+L 04/02/2015 - 15:10:02: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "-7") (armor "0")
+L 04/02/2015 - 15:10:02: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:10:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:10:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:10:13: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-11") (armor "0")
+L 04/02/2015 - 15:10:13: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:10:13: Team "CT" triggered "CTs_Win" (CT "20") (T "37")
+L 04/02/2015 - 15:10:13: World triggered "Round_End"
+L 04/02/2015 - 15:10:23: World triggered "Round_Start"
+L 04/02/2015 - 15:10:36: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 04/02/2015 - 15:10:36: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "54") (armor "100")
+L 04/02/2015 - 15:10:36: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "31") (armor "100")
+L 04/02/2015 - 15:10:37: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "10") (armor "95")
+L 04/02/2015 - 15:10:37: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-11") (armor "90")
+L 04/02/2015 - 15:10:37: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:10:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "38")
+L 04/02/2015 - 15:10:37: World triggered "Round_End"
+L 04/02/2015 - 15:10:47: World triggered "Round_Start"
+L 04/02/2015 - 15:10:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 15:10:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:10:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "39")
+L 04/02/2015 - 15:10:51: World triggered "Round_End"
+L 04/02/2015 - 15:11:01: World triggered "Round_Start"
+L 04/02/2015 - 15:11:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:11:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 15:11:05: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 15:11:05: "kEEp.#aim<14><STEAM_0:4:1024340307><>" connected, address "31.128.64.211:27005"
+L 04/02/2015 - 15:11:06: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 04/02/2015 - 15:11:06: [VTC] Player 4 silk
+L 04/02/2015 - 15:11:06: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-117") (armor "0")
+L 04/02/2015 - 15:11:06: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:11:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "40")
+L 04/02/2015 - 15:11:06: World triggered "Round_End"
+L 04/02/2015 - 15:11:16: World triggered "Round_Start"
+L 04/02/2015 - 15:11:24: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/02/2015 - 15:11:24: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:11:25: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 15:11:25: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 15:11:25: "kEEp.#aim<15><STEAM_0:4:1024340307><>" connected, address "31.128.64.211:27005"
+L 04/02/2015 - 15:11:25: [VTC] Player 4 silk
+L 04/02/2015 - 15:11:25: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/02/2015 - 15:11:25: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/02/2015 - 15:11:25: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-117") (armor "0")
+L 04/02/2015 - 15:11:25: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:11:25: Team "CT" triggered "CTs_Win" (CT "21") (T "40")
+L 04/02/2015 - 15:11:25: World triggered "Round_End"
+L 04/02/2015 - 15:11:27: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39adbe4
+L 04/02/2015 - 15:11:27: "kEEp.#aim<16><STEAM_0:4:1024340307><>" connected, address "31.128.64.211:27005"
+L 04/02/2015 - 15:11:28: [VTC] Player 4 silk
+L 04/02/2015 - 15:11:35: World triggered "Round_Start"
+L 04/02/2015 - 15:11:38: "kEEp.#aim<16><STEAM_0:4:1024340307><>" entered the game
+L 04/02/2015 - 15:11:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "10") (damage_armor "5") (health "90") (armor "95")
+L 04/02/2015 - 15:11:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "15") (damage_armor "0") (health "75") (armor "95")
+L 04/02/2015 - 15:11:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "12") (damage_armor "7") (health "63") (armor "88")
+L 04/02/2015 - 15:11:44: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "33") (damage_armor "5") (health "30") (armor "83")
+L 04/02/2015 - 15:11:44: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/02/2015 - 15:11:44: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/02/2015 - 15:11:44: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "27") (damage_armor "4") (health "3") (armor "79")
+L 04/02/2015 - 15:11:44: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 04/02/2015 - 15:11:44: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-24") (armor "75")
+L 04/02/2015 - 15:11:44: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47"
+L 04/02/2015 - 15:11:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "41")
+L 04/02/2015 - 15:11:44: World triggered "Round_End"
+L 04/02/2015 - 15:11:54: World triggered "Round_Start"
+L 04/02/2015 - 15:11:56: "kEEp.#aim<16><STEAM_0:4:1024340307><>" joined team "CT"
+L 04/02/2015 - 15:11:57: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/02/2015 - 15:12:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:12:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:12:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 15:12:00: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:12:03: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 15:12:04: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "40") (damage_armor "0") (health "25") (armor "0")
+L 04/02/2015 - 15:12:04: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "40") (damage_armor "0") (health "-15") (armor "0")
+L 04/02/2015 - 15:12:04: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:12:04: Team "CT" triggered "CTs_Win" (CT "22") (T "41")
+L 04/02/2015 - 15:12:04: World triggered "Round_End"
+L 04/02/2015 - 15:12:14: World triggered "Round_Start"
+L 04/02/2015 - 15:12:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 15:12:18: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 15:12:22: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "36") (armor "91")
+L 04/02/2015 - 15:12:23: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "27") (armor "0")
+L 04/02/2015 - 15:12:23: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "14") (armor "91")
+L 04/02/2015 - 15:12:23: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-7") (armor "86")
+L 04/02/2015 - 15:12:23: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:12:30: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:12:30: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/02/2015 - 15:12:30: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 15:12:31: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/02/2015 - 15:12:31: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 04/02/2015 - 15:12:31: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:12:31: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "17") (armor "0")
+L 04/02/2015 - 15:12:31: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-14") (armor "0")
+L 04/02/2015 - 15:12:31: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1"
+L 04/02/2015 - 15:12:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "22") (T "42")
+L 04/02/2015 - 15:12:31: World triggered "Round_End"
+L 04/02/2015 - 15:12:41: World triggered "Round_Start"
+L 04/02/2015 - 15:12:49: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:12:49: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 15:12:49: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:12:49: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 15:12:49: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:12:49: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:12:50: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-94") (armor "0")
+L 04/02/2015 - 15:12:50: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:12:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 04/02/2015 - 15:12:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "mp5navy" (damage "14") (damage_armor "0") (health "73") (armor "0")
+L 04/02/2015 - 15:12:51: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:12:51: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:12:52: "Extazy<13><STEAM_0:4:397277401><SPECTATOR>" triggered "time" (time "4:16")
+L 04/02/2015 - 15:12:52: "Extazy<13><STEAM_0:4:397277401><SPECTATOR>" triggered "latency" (ping "6")
+L 04/02/2015 - 15:12:52: "Extazy<13><STEAM_0:4:397277401><SPECTATOR>" disconnected
+L 04/02/2015 - 15:12:53: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "mp5navy" (damage "16") (damage_armor "0") (health "10") (armor "0")
+L 04/02/2015 - 15:12:54: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "mp5navy" (damage "27") (damage_armor "0") (health "-17") (armor "0")
+L 04/02/2015 - 15:12:54: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "mp5navy"
+L 04/02/2015 - 15:12:55: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-3") (armor "0")
+L 04/02/2015 - 15:12:55: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:12:55: Team "CT" triggered "CTs_Win" (CT "23") (T "42")
+L 04/02/2015 - 15:12:55: World triggered "Round_End"
+L 04/02/2015 - 15:13:05: World triggered "Round_Start"
+L 04/02/2015 - 15:13:14: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 15:13:14: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:13:15: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 04/02/2015 - 15:13:15: "SETTI<17><STEAM_0:4:1347303390><>" connected, address "5.141.192.9:12655"
+L 04/02/2015 - 15:13:15: [VTC] Player 1 speex
+L 04/02/2015 - 15:13:16: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/02/2015 - 15:13:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:13:17: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/02/2015 - 15:13:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 15:13:17: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/02/2015 - 15:13:17: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 04/02/2015 - 15:13:17: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-24") (armor "0")
+L 04/02/2015 - 15:13:17: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:13:17: Team "CT" triggered "CTs_Win" (CT "24") (T "42")
+L 04/02/2015 - 15:13:17: World triggered "Round_End"
+L 04/02/2015 - 15:13:27: World triggered "Round_Start"
+L 04/02/2015 - 15:13:31: "SETTI<17><STEAM_0:4:1347303390><>" entered the game
+L 04/02/2015 - 15:13:35: "SETTI<17><STEAM_0:4:1347303390><>" joined team "TERRORIST"
+L 04/02/2015 - 15:13:38: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:13:39: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 15:13:39: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 04/02/2015 - 15:13:39: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "52") (armor "0")
+L 04/02/2015 - 15:13:40: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "28") (armor "0")
+L 04/02/2015 - 15:13:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "74") (armor "94")
+L 04/02/2015 - 15:13:40: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "48") (armor "88")
+L 04/02/2015 - 15:13:40: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "27") (armor "84")
+L 04/02/2015 - 15:13:40: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "usp" (damage "96") (damage_armor "0") (health "-68") (armor "0")
+L 04/02/2015 - 15:13:40: "kefir<6><STEAM_0:4:1394659077><CT>" killed "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "usp"
+L 04/02/2015 - 15:13:40: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "1") (armor "78")
+L 04/02/2015 - 15:13:40: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "84") (damage_armor "18") (health "-83") (armor "60")
+L 04/02/2015 - 15:13:40: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:13:43: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "19") (armor "0")
+L 04/02/2015 - 15:13:45: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 15:13:45: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "m4a1"
+L 04/02/2015 - 15:13:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "43")
+L 04/02/2015 - 15:13:45: World triggered "Round_End"
+L 04/02/2015 - 15:13:55: World triggered "Round_Start"
+L 04/02/2015 - 15:13:59: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 15:13:59: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:14:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 15:14:00: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 15:14:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "29") (armor "0")
+L 04/02/2015 - 15:14:00: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "aug" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:14:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "8") (armor "0")
+L 04/02/2015 - 15:14:00: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "aug" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/02/2015 - 15:14:00: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-21") (armor "0")
+L 04/02/2015 - 15:14:00: "kefir<6><STEAM_0:4:1394659077><CT>" killed "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:14:00: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "aug" (damage "116") (damage_armor "0") (health "-66") (armor "0")
+L 04/02/2015 - 15:14:00: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "aug"
+L 04/02/2015 - 15:14:04: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "31") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 15:14:05: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/02/2015 - 15:14:05: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "aug" (damage "31") (damage_armor "0") (health "-20") (armor "0")
+L 04/02/2015 - 15:14:05: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "aug"
+L 04/02/2015 - 15:14:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "44")
+L 04/02/2015 - 15:14:05: World triggered "Round_End"
+L 04/02/2015 - 15:14:15: World triggered "Round_Start"
+L 04/02/2015 - 15:14:19: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 04/02/2015 - 15:14:19: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" killed "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:14:24: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 15:14:25: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/02/2015 - 15:14:25: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:14:26: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/02/2015 - 15:14:27: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/02/2015 - 15:14:27: "moraric<5><STEAM_0:4:108088325><TERRORIST>" killed "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" with "ak47"
+L 04/02/2015 - 15:14:43: Kick: "kEEp.#aim<16><STEAM_0:4:1024340307><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats" (weapon "m4a1") (shots "51") (hits "7") (kills "2") (headshots "2") (tks "0") (damage "376") (deaths "1")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "1") (rightleg "1")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats" (weapon "ak47") (shots "25") (hits "6") (kills "3") (headshots "2") (tks "0") (damage "408") (deaths "3")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "time" (time "3:05")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" triggered "latency" (ping "103")
+L 04/02/2015 - 15:14:43: "kEEp.#aim<16><STEAM_0:4:1024340307><CT>" disconnected
+L 04/02/2015 - 15:14:49: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" joined team "TERRORIST"
+L 04/02/2015 - 15:14:50: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "60") (armor "0")
+L 04/02/2015 - 15:14:50: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "30") (armor "0")
+L 04/02/2015 - 15:14:50: "moraric<5><STEAM_0:4:108088325><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "26") (damage_armor "0") (health "32") (armor "0")
+L 04/02/2015 - 15:14:50: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "0") (armor "0")
+L 04/02/2015 - 15:14:50: "kefir<6><STEAM_0:4:1394659077><CT>" killed "moraric<5><STEAM_0:4:108088325><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:14:50: Team "CT" triggered "CTs_Win" (CT "25") (T "44")
+L 04/02/2015 - 15:14:50: World triggered "Round_End"
+L 04/02/2015 - 15:15:00: World triggered "Round_Start"
+L 04/02/2015 - 15:15:06: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:15:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 15:15:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/02/2015 - 15:15:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "84") (damage_armor "18") (health "-26") (armor "73")
+L 04/02/2015 - 15:15:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:15:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "45")
+L 04/02/2015 - 15:15:07: World triggered "Round_End"
+L 04/02/2015 - 15:15:12: "moraric<5><STEAM_0:4:108088325><TERRORIST>" committed suicide with "world"
+L 04/02/2015 - 15:15:12: "moraric<5><STEAM_0:4:108088325><TERRORIST>" joined team "CT"
+L 04/02/2015 - 15:15:17: World triggered "Round_Start"
+L 04/02/2015 - 15:15:20: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 15:15:21: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/02/2015 - 15:15:21: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/02/2015 - 15:15:21: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:15:22: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-29") (armor "0")
+L 04/02/2015 - 15:15:22: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:15:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 15:15:34: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-75") (armor "0")
+L 04/02/2015 - 15:15:34: "kefir<6><STEAM_0:4:1394659077><CT>" killed "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:15:34: Team "CT" triggered "CTs_Win" (CT "26") (T "45")
+L 04/02/2015 - 15:15:34: World triggered "Round_End"
+L 04/02/2015 - 15:15:44: World triggered "Round_Start"
+L 04/02/2015 - 15:15:47: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/02/2015 - 15:15:48: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "57") (armor "95")
+L 04/02/2015 - 15:15:48: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "36") (armor "91")
+L 04/02/2015 - 15:15:48: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/02/2015 - 15:15:48: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-75") (armor "0")
+L 04/02/2015 - 15:15:48: "kefir<6><STEAM_0:4:1394659077><CT>" killed "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "ak47"
+L 04/02/2015 - 15:15:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "26") (damage_armor "0") (health "10") (armor "91")
+L 04/02/2015 - 15:15:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47" (damage "26") (damage_armor "0") (health "-16") (armor "91")
+L 04/02/2015 - 15:15:51: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "ak47"
+L 04/02/2015 - 15:16:18: Server cvar "amx_nextmap" = "$1000$"
+L 04/02/2015 - 15:16:26: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:16:26: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 15:16:26: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 15:16:26: "moraric<5><STEAM_0:4:108088325><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:16:26: Team "CT" triggered "CTs_Win" (CT "27") (T "45")
+L 04/02/2015 - 15:16:26: World triggered "Round_End"
+L 04/02/2015 - 15:16:36: World triggered "Round_Start"
+L 04/02/2015 - 15:16:40: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/02/2015 - 15:16:41: "moraric<5><STEAM_0:4:108088325><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 15:16:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:16:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 04/02/2015 - 15:16:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "26") (armor "0")
+L 04/02/2015 - 15:16:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 15:16:41: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" killed "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1"
+L 04/02/2015 - 15:16:41: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "11") (armor "0")
+L 04/02/2015 - 15:16:42: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-18") (armor "0")
+L 04/02/2015 - 15:16:42: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:16:47: Server cvar "mp_timelimit" = "0.000000"
+L 04/02/2015 - 15:16:52: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/02/2015 - 15:16:52: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/02/2015 - 15:16:52: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "36") (damage_armor "0") (health "22") (armor "0")
+L 04/02/2015 - 15:16:53: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "14") (damage_armor "0") (health "8") (armor "0")
+L 04/02/2015 - 15:16:53: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "-21") (armor "0")
+L 04/02/2015 - 15:16:53: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" killed "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1"
+L 04/02/2015 - 15:16:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "46")
+L 04/02/2015 - 15:16:53: World triggered "Round_End"
+L 04/02/2015 - 15:17:03: World triggered "Round_Start"
+L 04/02/2015 - 15:17:07: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/02/2015 - 15:17:07: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "40") (armor "0")
+L 04/02/2015 - 15:17:09: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/02/2015 - 15:17:09: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "33") (armor "0")
+L 04/02/2015 - 15:17:10: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "3") (armor "0")
+L 04/02/2015 - 15:17:10: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" attacked "kefir<6><STEAM_0:4:1394659077><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/02/2015 - 15:17:10: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-117") (armor "0")
+L 04/02/2015 - 15:17:10: "kefir<6><STEAM_0:4:1394659077><CT>" killed "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:17:18: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "18") (armor "0")
+L 04/02/2015 - 15:17:19: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" attacked "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "-4") (armor "0")
+L 04/02/2015 - 15:17:19: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" killed "moraric<5><STEAM_0:4:108088325><CT>" with "m4a1"
+L 04/02/2015 - 15:17:21: "kefir<6><STEAM_0:4:1394659077><CT>" attacked "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-27") (armor "0")
+L 04/02/2015 - 15:17:21: "kefir<6><STEAM_0:4:1394659077><CT>" killed "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" with "m4a1"
+L 04/02/2015 - 15:17:21: Team "CT" triggered "CTs_Win" (CT "28") (T "46")
+L 04/02/2015 - 15:17:21: World triggered "Round_End"
+L 04/02/2015 - 15:17:31: Server cvar "mp_timelimit" = "0.010000"
+L 04/02/2015 - 15:17:31: World triggered "Round_Start"
+L 04/02/2015 - 15:17:31: Team "CT" scored "28" with "2" players
+L 04/02/2015 - 15:17:31: Team "TERRORIST" scored "46" with "2" players
+L 04/02/2015 - 15:17:31: Server cvar "mp_chattime" = "2"
+L 04/02/2015 - 15:17:31: Server cvar "mp_chattime" = "3.000000"
+L 04/02/2015 - 15:17:31: Server cvar "mp_chattime" = "1"
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "66") (hits "16") (kills "2") (headshots "0") (tks "0") (damage "404") (deaths "6")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "4") (stomach "2") (leftarm "4") (rightarm "1") (leftleg "2") (rightleg "3")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "time" (time "4:00")
+L 04/02/2015 - 15:17:31: "SETTI<17><STEAM_0:4:1347303390><TERRORIST>" triggered "latency" (ping "88")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "grenade") (shots "13") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "117") (deaths "2")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "aug") (shots "28") (hits "9") (kills "0") (headshots "0") (tks "0") (damage "197") (deaths "4")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "0") (stomach "4") (leftarm "1") (rightarm "1") (leftleg "2") (rightleg "1")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "glock18") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "6") (deaths "0")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "310") (hits "69") (kills "9") (headshots "2") (tks "0") (damage "1272") (deaths "7")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "6") (chest "3") (stomach "11") (leftarm "17") (rightarm "3") (leftleg "13") (rightleg "16")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "m4a1") (shots "250") (hits "63") (kills "13") (headshots "2") (tks "0") (damage "1802") (deaths "12")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "m4a1") (head "4") (chest "9") (stomach "8") (leftarm "15") (rightarm "8") (leftleg "7") (rightleg "12")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "ak47") (shots "86") (hits "17") (kills "7") (headshots "3") (tks "0") (damage "829") (deaths "4")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "ak47") (head "4") (chest "2") (stomach "5") (leftarm "4") (rightarm "0") (leftleg "2") (rightleg "0")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "time" (time "30:00")
+L 04/02/2015 - 15:17:31: "moraric<5><STEAM_0:4:108088325><CT>" triggered "latency" (ping "50")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "grenade") (shots "38") (hits "14") (kills "0") (headshots "0") (tks "0") (damage "500") (deaths "0")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "xm1014") (shots "39") (hits "20") (kills "6") (headshots "1") (tks "0") (damage "1005") (deaths "3")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "xm1014") (head "3") (chest "1") (stomach "2") (leftarm "6") (rightarm "3") (leftleg "2") (rightleg "3")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "aug") (shots "47") (hits "13") (kills "3") (headshots "1") (tks "0") (damage "455") (deaths "4")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "1") (stomach "4") (leftarm "3") (rightarm "1") (leftleg "1") (rightleg "2")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "usp") (shots "20") (hits "10") (kills "2") (headshots "1") (tks "0") (damage "282") (deaths "5")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "0") (stomach "0") (leftarm "5") (rightarm "0") (leftleg "2") (rightleg "2")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "140") (deaths "0")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "18") (hits "6") (kills "0") (headshots "0") (tks "0") (damage "121") (deaths "3")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "1") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "3") (rightleg "0")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "m4a1") (shots "669") (hits "159") (kills "42") (headshots "11") (tks "0") (damage "5570") (deaths "30")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "m4a1") (head "11") (chest "18") (stomach "29") (leftarm "46") (rightarm "8") (leftleg "29") (rightleg "18")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats" (weapon "ak47") (shots "45") (hits "9") (kills "4") (headshots "2") (tks "0") (damage "501") (deaths "2")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "0") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "1") (rightleg "2")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "time" (time "29:39")
+L 04/02/2015 - 15:17:31: "kefir<6><STEAM_0:4:1394659077><CT>" triggered "latency" (ping "64")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "106") (hits "21") (kills "4") (headshots "1") (tks "0") (damage "626") (deaths "6")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "1") (stomach "2") (leftarm "9") (rightarm "2") (leftleg "4") (rightleg "2")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "2") (kills "2") (headshots "1") (tks "0") (damage "582") (deaths "0")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "576") (hits "100") (kills "21") (headshots "13") (tks "0") (damage "3653") (deaths "21")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "13") (chest "10") (stomach "15") (leftarm "20") (rightarm "8") (leftleg "16") (rightleg "18")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "37") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "52") (deaths "2")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "0")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "time" (time "23:07")
+L 04/02/2015 - 15:17:31: "Dashka)<9><STEAM_0:4:1819685203><TERRORIST>" triggered "latency" (ping "84")
+L 04/02/2015 - 15:17:31: Server cvar "mp_timelimit" = "30.000000"
+L 04/02/2015 - 15:17:31: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/02/2015 - 15:17:31: [META] ini: Read plugin config for: AMX Mod X
+L 04/02/2015 - 15:17:31: [META] ini: Read plugin config for: dproto_EF
+L 04/02/2015 - 15:17:31: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/02/2015 - 15:17:31: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/02/2015 - 15:17:31: [META] dll: Updating plugins...
+L 04/02/2015 - 15:17:31: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/02/2015 - 15:17:31: Log file closed

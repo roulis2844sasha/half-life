@@ -1,0 +1,26 @@
+[en]
+AMX_REC_DEMO = AMX X Record Demo
+CS_REC_DEMO = \yRecord Demo to %s^n\w^n1. Yes^n2. No
+NOCS_REC_DEMO = Record Demo to %s^n^n1. Yes^n2. No
+CS_STOP_REC = \yStop Recording\w^n1. Yes
+NOCS_STOP_REC = Stop Recording^n1. Yes
+CS_SS = \yScreenshot^n\dDo you wish to take^na scoreboard screenshot?^n\w^n1. Yes^n2. No
+NOCS_SS = Screenshot^n\dDo you wish to take^na scoreboard screenshot?^n^n1. Yes^n2. No
+
+[fr]
+AMX_REC_DEMO = AMX X Record Demo
+CS_REC_DEMO = \yRecord Demo a fichier %s^n\w^n1. Si^n2. No
+NOCS_REC_DEMO = Record Demo a fichier %s^n^n1. Si^n2. No
+CS_STOP_REC = \yTermine Recording\w^n1. Si
+NOCS_STOP_REC = Termine Recording^n1. Si
+CS_SS = \yScreenshot^n\dVoulez-vous prendre^nle scoreboard screenshot?^n\w^n1. Si^n2. No
+NOCS_SS = Screenshot^n\dVoulez-vous prendre^nle scoreboard screenshot?^n^n1. Si^n2. No
+
+[pl]
+AMX_REC_DEMO = AMX X Nagrywanie Demo
+CS_REC_DEMO = \yNagraj Demo do pliku %s^n\w^n1. Tak^n2. Nie
+NOCS_REC_DEMO = Nagraj Demo do pliku %s^n^n1. Tak^n2. Nie
+CS_STOP_REC = \yZatrzymaj Nagrywanie\w^n1. Tak
+NOCS_STOP_REC = Zatrzymaj Nagrywanie^n1. Tak
+CS_SS = \yZrzut ekranu^n\dCzy chcesz zrzut ekranu^nz tablica wynikow?^n\w^n1. Tak^n2. Nie
+NOCS_SS = Zrzut ekranu^n\dCzy chcesz zrzut ekranu^nz tablica wynikow?^n^n1. Tak^n2. Nie

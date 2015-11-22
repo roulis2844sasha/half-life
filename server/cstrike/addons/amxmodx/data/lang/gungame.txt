@@ -1,0 +1,142 @@
+[ru]
+AFK_KILL = Твой фраг незасчитан, %%n%s%%e AFK
+AUTOVOTE_RES1 = Буду играть на GunGame
+AUTOVOTE_RES2 = Буду играть регулярно на GunGame
+AUTOVOTE_RES3 = Небуду играть на GunGame
+CANCEL = Отмена
+CLOSE = Закрыть
+FRIENDLYFIRE_ON = Огонь по своим включен!
+GAINED_POINTS = Ты получил %%g%i%%e очков, в итоге у тебя %%g%i%%e очков с %%g%i%%e побед!
+GUNGAME = GunGame
+HK_LEVEL_DOWN = %%n%s%%e спустился на %%g%i%%e уровень, из-за убийства заложника
+HK_SCORE_DOWN = %%n%s%%e последний, у него %%g%i%%e убийств заложников
+HK_LEVEL_DOWN_TEAM = %%n%s%%e команда потеряла уровень, из-за %%g%i%%e убитых заложников
+HK_SCORE_DOWN_TEAM = %%n%s%%e команда последняя, у неё %%g%i%%e убитых заложников
+JUMP_TO_ME = Прыгай ко мне
+LEADER = Лидер
+LEADING_ON_LEVEL = %%n%s%%e лидирует на уровне с %%g%i%%e :: %%g%s%%e
+LEADING_ON_LEVEL_TEAM = %%n%s%%e лидирует на уровене с %%g%i%%e :: %%g%s%%e
+LEVEL = Уровень
+LEVEL_CAPS = УРОВЕНЬ
+LEVEL_MESSAGE_LINE1A = Ты выполнил %i/%i убийств
+LEVEL_MESSAGE_LINE1B = Твоя команда убила %i/%i 
+LEVEL_MESSAGE_LINE2A = Ты лидер
+LEVEL_MESSAGE_LINE2B = Ты на 1 месте
+LEVEL_MESSAGE_LINE2C = Тебе осталось %i уровней до лидера
+LEVEL_MESSAGE_LINE3A = Ты выиграл %i
+LEVEL_MESSAGE_LINE3B = У тебя %i очков и %i побед
+LEVEL_MESSAGE_LINE3C = Ты победил %i раз (Ранг %i%s)
+LEVEL_MESSAGE_LINE3D = У тебя %i очков и %i побед (Ранг %i%s)
+LEVEL_MESSAGE_LINE4A = Лидеры: %s
+LEVEL_MESSAGE_LINE4B = Лидер: %s
+LEVEL_MESSAGE_LINE5 = Уровень лидера: %i (%s)
+LEVELS_BEHIND_LEADER = У тебя %%g%i%%e уровень
+NAME_CAPS = НИК
+NEXT = След
+NONE = ничего
+NO_ONE = ни одного
+NO_WIN_LOGGING = Регистрация заблокирована
+NOW_ON_LEVEL = Твой уровень
+ON_LEVEL = Уровень
+ON_LEVEL_TEAM = Уровень твоей команды
+PLAY_GUNGAME = Играть на GunGame?
+PLAYER_RESET = %%n%s%%e вы возвращены к уровню %%g1%%e
+POINTS = очков
+PRESS_KEY_TO_CONTINUE = Выбери мод для продолжения
+PREVIOUS = Предыдущий
+PROGRESS_DISPLAY = Тебе надо %%n%i%%e убийств до след. уровня. Очки: %%n%i / %i%%e
+PROGRESS_DISPLAY1 = Осталось %i убийств
+PROGRESS_DISPLAY2 =  %s близко к лидерству
+PROGRESS_DISPLAY3 = Ты будешь лидером через %s уровней
+PROGRESS_DISPLAY4 = Ты будешь лидером через %i уровнь
+PROGRESS_DISPLAY_TEAM1 = Твоя команда будет лидером через %i уровней
+PROGRESS_DISPLAY_TEAM2 = Ваша команда лидирует с командой врагов
+PROGRESS_DISPLAY_TEAM3 = Твоя команда на %i уровней позади врагов 
+PRUNING = Сокращено %s: %i выходов
+REQUIRED_KILLS = Убийств
+RESET_NOT_ALLOWED = В командном моде ты неможешь востановить свой уровень!
+RESET_QUERY = Ты уверен что хочешь сбросить уровни?
+RESPAWN_COUNTDOWN = Ты возродишься через %i сек
+RULES = Правила
+RULES_CONSOLE_LINE1 = %i) Ты должен убить с этого оружия, чтобы получить другое
+RULES_CONSOLE_LINE2 = %i) Если ты убьешь не с того оружия, то убийство не засчитается
+RULES_CONSOLE_LINE3 = %i) Ты можешь взять уровень, при закладке или разминировании бомбы
+RULES_CONSOLE_LINE4 = %i) Если ты умер сам, ты потеряешь уровень
+RULES_CONSOLE_LINE5 = %i) Друж. огонь включается, когда кто-нибудь достигнет уровня гранаты
+RULES_CONSOLE_LINE6A = %i) Ты можешь взять 2 уровня за раунд
+RULES_CONSOLE_LINE6B = %i) Ты можешь взять токо 1 уровень за раунд
+RULES_CONSOLE_LINE6C = %i) Ты можешь взять %i уровней за раунд
+RULES_CONSOLE_LINE7 = %i) Ты можешь перейти в другую команду пока невозродился
+RULES_CONSOLE_LINE8 = %i) Ты можешь убить врага ножом, и получить уровень Knife Pro
+RULES_CONSOLE_LINE9 = %i) В Турбо моде ты будешь получать оружие быстрее
+RULES_CONSOLE_LINE10 = %i) В Элитном моде у тебя всегда будет нож
+RULES_CONSOLE_LINE11 = %i) В Смертельном моде ты будешь возрождаться бесконечно 
+RULES_CONSOLE_LINE12 = %i) В командном моде у всех будет то оружие которое имеет лидер команды
+RULES_CONSOLE_LINE13 = Скажи !level чтобы посмотреть уровень
+RULES_CONSOLE_LINE14 = Скажи !weapons чтобы посмотреть оружие
+RULES_CONSOLE_LINE15 = Скажи !score чтобы посмотреть очки
+RULES_CONSOLE_LINE16 = Скажи !top10 чтобы посмотреть Топ-10
+RULES_CONSOLE_LINE17 = Скажи !restart чтобы возвратиться на 1 уровень
+RULES_MESSAGE_LINE1 = Все команды водятся в консоль
+RULES_MESSAGE_LINE2 = Команды GunGame:
+RULES_MESSAGE_LINE3 :
+Скажи !top10 чтоб посмотреть Топ-10^n
+Скажи !level чтоб посмотреть уровень^n
+Скажи !weapons чтоб посмотреть оружие^n
+Скажи !score чтоб посмотреть очки
+:
+SCORE_CAPS = ОЧКИ
+SCORES = очки
+SLOW_DOWN = Это разминачный раунд!
+SPAWNPROTECTED_KILL = Твой фраг не засчитался, %%n%s%%e возродился через %%g%i%%e секунд
+STILL_LEVEL_ONE = У вас нет 1-го уровня!
+STOLE_LEVEL = %%n%s%%e украл уровень у %%g%s%%e
+STOLE_LEVEL_TEAM = %%n%s%%e получил %%g%i%%e очков от %%g%s%%e (Всего %%g%i%%e)
+SUICIDE_LEVEL_DOWN = %%n%s%%e потерял уровень из-за смерти
+SUICIDE_LEVEL_DOWN_TEAM = %%n%s%%e потеряла уровень до %%g%i%%e из-зп смерти
+SUICIDE_SCORE_DOWN_TEAM = %%n%s%%e команда, последняя, у нее %%g%i%%e очков из-за смерти
+TEAM = команда
+TEAM_CAPS = КОМАНДА
+TIED_LEADER_MULTI = %%n%s%%e на 1 уровне с %%g%i%%e :: %%g%s%%e с %%g%s%%e другими
+TIED_LEADER_ONE = %%n%s%%e на 1 уровне с %%g%i%%e :: %%g%s%%e с %%g%s%%e
+TIED_LEADER_TEAM = Команды на 1 уровне %%g%i%%e :: %%g%s%%e
+TK_LEVEL_DOWN = %%n%s%%e потерял уровень до %%g%i%%e из-за ТК
+TK_LEVEL_DOWN_TEAM = %%n%s%%e вернулись на уровень %%g%i%%e из-за ТК
+TK_SCORE_DOWN = %%n%s%%e потерял последнее %%g%i%%e очко из-за ТК
+TK_SCORE_DOWN_TEAM = %%n%s%%e команда последняя, %%g%i%%e очков, из-за ТК
+TOP_10 = Топ 10
+TRIPLE_LEVELED = %%n%s%%e тройной уровень!
+UNRANKED = внеранга
+WARMUP_ROUND = Разминка
+WARMUP_ROUND_OVER = Разминка закончилась
+WARMUP_ROUND_DISPLAY = Разминка: %i сек
+WEAPONS = Оружий
+WELCOME_MESSAGE_LINE1 = GunGame
+WELCOME_MESSAGE_LINE2 = Knife мод
+WELCOME_MESSAGE_LINE3 = Turbo мод 
+WELCOME_MESSAGE_LINE4 = Elite мод 
+WELCOME_MESSAGE_LINE5 = Deathmatch мод 
+WELCOME_MESSAGE_LINE6 = Team мод 
+WELCOME_MESSAGE_LINE7 = Всего \y%i\w уровня
+WELCOME_MESSAGE_LINE8 :
+:
+WIN_MOTD_LINE1 = %s победил!
+WIN_MOTD_LINE2 = %s команда
+WIN_MOTD_LINE3 = победитель!
+WIN_MOTD_LINE4A = Финальное <font color=#00CC00>%s<font color=white> убийство <font color=%s>%s'a
+WIN_MOTD_LINE4B = Финальное <font color=#00CC00>%s<font color=white> убийство <font color=%s>%s<font color=white> от <font color=%s>%s
+WIN_MOTD_LINE5A = Это <font color=%s>%s<font color=white>'s <font color=#00CC00>%i%s<font color=white> победа
+WIN_MOTD_LINE5B = <font color=%s>%s<font color=white> now has a total of <font color=#00CC00>%i<font color=white> points.
+WIN_MOTD_LINE5C = У тебя <font color=%s>%s<font color=white>'s <font color=#00CC00>%i%s<font color=white> убийств и <font color=#00CC00>%i<font color=white> очков
+WIN_MOTD_LINE6 = У тебя <font color=#00CC00>%i%%<font color=white> очков, из командного счёта
+WIN_MOTD_LINE7A = Сейчас <font color=#00CC00>%i<font color=white> побед
+WIN_MOTD_LINE7B = Всего <font color=#00CC00>%i<font color=white> побед
+WIN_MOTD_LINE7C = У тебя <font color=#00CC00>%i<font color=white> очков, всего <font color=#00CC00>%i<font color=white> очков с <font color=#00CC00>%i<font color=white> побед
+WIN_MOTD_LINE8A = След. карта <font color=#00CC00>%s
+WIN_MOTD_LINE8B = Остался <font color=#00CC00>1<font color=white> раунд до след. карты
+WIN_MOTD_LINE8C = Осталось <font color=#00CC00>%i<font color=white> раундов до след. карты 
+WINS = победы
+WON = побед
+WON_TEAM = %%n%s%%e выиграли
+YES_REGULAR = Да, регулярный мод
+YES_TEAMPLAY = Да, командный мод

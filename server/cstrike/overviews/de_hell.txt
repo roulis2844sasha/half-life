@@ -1,0 +1,14 @@
+// overview description file for de_hell.bsp
+
+global 
+{
+	ZOOM	1.48
+	ORIGIN	-70.30 -101.03 -1500.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_hell.bmp"
+	HEIGHT 	-1500.00
+}

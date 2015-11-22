@@ -1,0 +1,16 @@
+L 03/11/2015 - 01:01:19: Log file started (file "logs/L0311002.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/11/2015 - 01:01:19: Server cvar "mp_logdetail" = "3"
+L 03/11/2015 - 01:01:27: World triggered "Round_Start"
+L 03/11/2015 - 01:06:27: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 03/11/2015 - 01:06:27: World triggered "Round_End"
+L 03/11/2015 - 01:06:29: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/11/2015 - 01:06:29: [META] ini: Read plugin config for: AMX Mod X
+L 03/11/2015 - 01:06:29: [META] ini: Read plugin config for: dproto_EF
+L 03/11/2015 - 01:06:29: [META] ini: Read plugin config for: mmtimer
+L 03/11/2015 - 01:06:29: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/11/2015 - 01:06:29: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/11/2015 - 01:06:29: [META] dll: Updating plugins...
+L 03/11/2015 - 01:06:29: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/11/2015 - 01:06:29: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/11/2015 - 01:06:29: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/11/2015 - 01:06:29: Log file closed

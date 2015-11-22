@@ -1,0 +1,372 @@
+L 03/26/2015 - 15:29:44: Log file started (file "logs/L0326044.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/26/2015 - 15:29:44: Loading map "awp_dust"
+L 03/26/2015 - 15:29:44: Server cvars start
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_debug_level" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_examine_time" = "0.5"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_look_angle" = "10"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_look_distance" = "200"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_message_repeats" = "5"
+L 03/26/2015 - 15:29:44: Server cvar "_tutor_view_distance" = "1000"
+L 03/26/2015 - 15:29:44: Server cvar "aesp_version" = "1.5b_mini"
+L 03/26/2015 - 15:29:44: Server cvar "allow_spectators" = "4"
+L 03/26/2015 - 15:29:44: Server cvar "amx_client_languages" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/26/2015 - 15:29:44: Server cvar "amx_language" = "ru"
+L 03/26/2015 - 15:29:44: Server cvar "amx_nextmap" = "awp_dust"
+L 03/26/2015 - 15:29:44: Server cvar "amx_timeleft" = "00:00"
+L 03/26/2015 - 15:29:44: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/26/2015 - 15:29:44: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/26/2015 - 15:29:44: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Config" = "Loaded"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Replace" = "Failed"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Status" = "Loaded"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/26/2015 - 15:29:44: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/26/2015 - 15:29:44: Server cvar "coop" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "deathmatch" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "decalfrequency" = "9"
+L 03/26/2015 - 15:29:44: Server cvar "dp_version" = "0.9.391"
+L 03/26/2015 - 15:29:44: Server cvar "edgefriction" = "2"
+L 03/26/2015 - 15:29:44: Server cvar "hostage_debug" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "hostage_stop" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "humans_join_team" = "any"
+L 03/26/2015 - 15:29:44: Server cvar "jtp10181" = "chute"
+L 03/26/2015 - 15:29:44: Server cvar "max_queries_sec" = "3.0"
+L 03/26/2015 - 15:29:44: Server cvar "max_queries_sec_global" = "30"
+L 03/26/2015 - 15:29:44: Server cvar "max_queries_window" = "60"
+L 03/26/2015 - 15:29:44: Server cvar "metamod_version" = "1.19"
+L 03/26/2015 - 15:29:44: Server cvar "mp_allowmonsters" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_autokick" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_autoteambalance" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_buytime" = "1.5"
+L 03/26/2015 - 15:29:44: Server cvar "mp_c4timer" = "35"
+L 03/26/2015 - 15:29:44: Server cvar "mp_chattime" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_consistency" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_fadetoblack" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_flashlight" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_footsteps" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_forcecamera" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_forcechasecam" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_fragsleft" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_freezetime" = "5"
+L 03/26/2015 - 15:29:44: Server cvar "mp_friendlyfire" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_hostagepenalty" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_kickpercent" = "0.66"
+L 03/26/2015 - 15:29:44: Server cvar "mp_limitteams" = "5"
+L 03/26/2015 - 15:29:44: Server cvar "mp_logdetail" = "3"
+L 03/26/2015 - 15:29:44: Server cvar "mp_logfile" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_logmessages" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/26/2015 - 15:29:44: Server cvar "mp_maxrounds" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_mirrordamage" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_playerid" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_roundtime" = "2.57"
+L 03/26/2015 - 15:29:44: Server cvar "mp_startmoney" = "800"
+L 03/26/2015 - 15:29:44: Server cvar "mp_timeleft" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "mp_timelimit" = "30.000000"
+L 03/26/2015 - 15:29:44: Server cvar "mp_tkpunish" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_windifference" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "mp_winlimit" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "pausable" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_accelerate" = "5"
+L 03/26/2015 - 15:29:44: Server cvar "sv_aim" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_airaccelerate" = "10"
+L 03/26/2015 - 15:29:44: Server cvar "sv_airmove" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "sv_allowupload" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "sv_alltalk" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_bounce" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "sv_cheats" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_clienttrace" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "sv_clipmode" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_contact" = ""
+L 03/26/2015 - 15:29:44: Server cvar "sv_friction" = "4"
+L 03/26/2015 - 15:29:44: Server cvar "sv_gravity" = "800"
+L 03/26/2015 - 15:29:44: Server cvar "sv_logblocks" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_maxrate" = "50000"
+L 03/26/2015 - 15:29:44: Server cvar "sv_maxspeed" = "900"
+L 03/26/2015 - 15:29:44: Server cvar "sv_minrate" = "100000"
+L 03/26/2015 - 15:29:44: Server cvar "sv_password" = ""
+L 03/26/2015 - 15:29:44: Server cvar "sv_proxies" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_region" = "255"
+L 03/26/2015 - 15:29:44: Server cvar "sv_restart" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_restartround" = "0"
+L 03/26/2015 - 15:29:44: Server cvar "sv_stepsize" = "18"
+L 03/26/2015 - 15:29:44: Server cvar "sv_stopspeed" = "75"
+L 03/26/2015 - 15:29:44: Server cvar "sv_uploadmax" = "0.5"
+L 03/26/2015 - 15:29:44: Server cvar "sv_voiceenable" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "sv_wateraccelerate" = "10"
+L 03/26/2015 - 15:29:44: Server cvar "sv_waterfriction" = "1"
+L 03/26/2015 - 15:29:44: Server cvar "travo_statmarquee" = "v1.2"
+L 03/26/2015 - 15:29:44: Server cvar "ultimate_sounds" = "1.7"
+L 03/26/2015 - 15:29:44: Server cvar "vtc_version" = "80"
+L 03/26/2015 - 15:29:44: Server cvar "whb_version" = "1.5.530"
+L 03/26/2015 - 15:29:44: Server cvars end
+L 03/26/2015 - 15:29:45: Server cvar "amx_nextmap" = "aim_map"
+L 03/26/2015 - 15:29:45: Server cvar "sv_restart" = "1"
+L 03/26/2015 - 15:29:45: World triggered "Restart_Round_(1_second)"
+L 03/26/2015 - 15:29:45: Team "CT" scored "0" with "0" players
+L 03/26/2015 - 15:29:45: Team "TERRORIST" scored "0" with "0" players
+L 03/26/2015 - 15:29:45: Server cvar "sv_restart" = "0"
+L 03/26/2015 - 15:29:45: Started map "awp_dust" (CRC "1959606820")
+L 03/26/2015 - 15:29:45: [VTC] Player 5 speex
+L 03/26/2015 - 15:29:45: [VTC] Player 2 speex
+L 03/26/2015 - 15:29:45: [VTC] Player 3 speex
+L 03/26/2015 - 15:29:45: [VTC] Player 1 silk
+L 03/26/2015 - 15:29:47: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3949ad8
+L 03/26/2015 - 15:29:47: "[Angels]DarkAngel<113><STEAM_0:4:600025971><>" connected, address "94.180.219.238:27005"
+L 03/26/2015 - 15:29:47: [VTC] Player 5 speex
+L 03/26/2015 - 15:29:47: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393adfc
+L 03/26/2015 - 15:29:47: "Pro_skier<114><STEAM_0:4:1564817269><>" connected, address "82.140.214.19:27005"
+L 03/26/2015 - 15:29:47: [VTC] Player 2 speex
+L 03/26/2015 - 15:29:49: "ANGELuHA<109><STEAM_0:4:2074595077><>" entered the game
+L 03/26/2015 - 15:29:49: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><>" entered the game
+L 03/26/2015 - 15:29:49: "[Angels]DarkAngel<113><STEAM_0:4:600025971><>" entered the game
+L 03/26/2015 - 15:29:50: World triggered "Round_Start"
+L 03/26/2015 - 15:29:51: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><>" joined team "CT"
+L 03/26/2015 - 15:29:53: "[Angels]DarkAngel<113><STEAM_0:4:600025971><>" joined team "CT"
+L 03/26/2015 - 15:29:58: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><CT>" committed suicide with "world"
+L 03/26/2015 - 15:29:58: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><CT>" joined team "TERRORIST"
+L 03/26/2015 - 15:29:58: World triggered "Game_Commencing"
+L 03/26/2015 - 15:29:58: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/26/2015 - 15:29:58: World triggered "Round_End"
+L 03/26/2015 - 15:30:06: World triggered "Round_Start"
+L 03/26/2015 - 15:30:07: "ANGELuHA<109><STEAM_0:4:2074595077><>" joined team "CT"
+L 03/26/2015 - 15:30:21: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/26/2015 - 15:30:21: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:30:29: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "ANGELuHA<109><STEAM_0:4:2074595077><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/26/2015 - 15:30:29: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "ANGELuHA<109><STEAM_0:4:2074595077><CT>" with "awp"
+L 03/26/2015 - 15:30:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/26/2015 - 15:30:29: World triggered "Round_End"
+L 03/26/2015 - 15:30:39: World triggered "Round_Start"
+L 03/26/2015 - 15:30:49: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/26/2015 - 15:30:49: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:30:49: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 03/26/2015 - 15:30:49: World triggered "Round_End"
+L 03/26/2015 - 15:30:59: World triggered "Round_Start"
+L 03/26/2015 - 15:31:10: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "ANGELuHA<109><STEAM_0:4:2074595077><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/26/2015 - 15:31:10: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "ANGELuHA<109><STEAM_0:4:2074595077><CT>" with "awp"
+L 03/26/2015 - 15:31:12: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "113") (damage_armor "0") (health "-13") (armor "0")
+L 03/26/2015 - 15:31:12: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:31:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 03/26/2015 - 15:31:12: World triggered "Round_End"
+L 03/26/2015 - 15:31:21: World triggered "Round_Start"
+L 03/26/2015 - 15:31:24: "ANGELuHA<109><STEAM_0:4:2074595077><CT>" triggered "time" (time "1:35")
+L 03/26/2015 - 15:31:24: "ANGELuHA<109><STEAM_0:4:2074595077><CT>" triggered "latency" (ping "19")
+L 03/26/2015 - 15:31:24: "ANGELuHA<109><STEAM_0:4:2074595077><CT>" disconnected
+L 03/26/2015 - 15:31:33: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "131") (damage_armor "2") (health "-31") (armor "98")
+L 03/26/2015 - 15:31:33: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:31:33: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 03/26/2015 - 15:31:33: World triggered "Round_End"
+L 03/26/2015 - 15:31:43: World triggered "Round_Start"
+L 03/26/2015 - 15:31:54: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/26/2015 - 15:31:55: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/26/2015 - 15:31:55: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:31:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 03/26/2015 - 15:31:55: World triggered "Round_End"
+L 03/26/2015 - 15:32:05: World triggered "Round_Start"
+L 03/26/2015 - 15:32:27: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/26/2015 - 15:32:27: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:32:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 03/26/2015 - 15:32:27: World triggered "Round_End"
+L 03/26/2015 - 15:32:37: World triggered "Round_Start"
+L 03/26/2015 - 15:32:40: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/26/2015 - 15:32:40: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:32:40: Team "CT" triggered "CTs_Win" (CT "3") (T "4")
+L 03/26/2015 - 15:32:40: World triggered "Round_End"
+L 03/26/2015 - 15:32:50: World triggered "Round_Start"
+L 03/26/2015 - 15:32:53: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/26/2015 - 15:32:53: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:32:53: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 03/26/2015 - 15:32:53: World triggered "Round_End"
+L 03/26/2015 - 15:33:03: World triggered "Round_Start"
+L 03/26/2015 - 15:33:09: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/26/2015 - 15:33:09: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:33:09: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 03/26/2015 - 15:33:09: World triggered "Round_End"
+L 03/26/2015 - 15:33:19: World triggered "Round_Start"
+L 03/26/2015 - 15:33:29: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/26/2015 - 15:33:29: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 03/26/2015 - 15:33:29: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:33:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 03/26/2015 - 15:33:29: World triggered "Round_End"
+L 03/26/2015 - 15:33:39: World triggered "Round_Start"
+L 03/26/2015 - 15:33:43: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/26/2015 - 15:33:43: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:33:43: Team "CT" triggered "CTs_Win" (CT "6") (T "5")
+L 03/26/2015 - 15:33:43: World triggered "Round_End"
+L 03/26/2015 - 15:33:53: World triggered "Round_Start"
+L 03/26/2015 - 15:34:04: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 03/26/2015 - 15:34:04: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "86") (damage_armor "19") (health "-9") (armor "81")
+L 03/26/2015 - 15:34:04: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1"
+L 03/26/2015 - 15:34:04: Team "CT" triggered "CTs_Win" (CT "7") (T "5")
+L 03/26/2015 - 15:34:04: World triggered "Round_End"
+L 03/26/2015 - 15:34:14: World triggered "Round_Start"
+L 03/26/2015 - 15:34:27: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "12") (damage_armor "3") (health "88") (armor "97")
+L 03/26/2015 - 15:34:29: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "15") (damage_armor "2") (health "73") (armor "95")
+L 03/26/2015 - 15:34:31: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle" (damage "27") (damage_armor "5") (health "73") (armor "95")
+L 03/26/2015 - 15:34:32: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle" (damage "27") (damage_armor "4") (health "46") (armor "91")
+L 03/26/2015 - 15:34:32: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "108") (damage_armor "18") (health "-35") (armor "77")
+L 03/26/2015 - 15:34:32: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle"
+L 03/26/2015 - 15:34:32: Team "CT" triggered "CTs_Win" (CT "8") (T "5")
+L 03/26/2015 - 15:34:32: World triggered "Round_End"
+L 03/26/2015 - 15:34:36: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393adfc
+L 03/26/2015 - 15:34:36: "[Hard_Skill]_AHAKOHDA<115><STEAM_0:4:50515205><>" connected, address "178.120.89.175:24218"
+L 03/26/2015 - 15:34:36: [VTC] Player 2 speex
+L 03/26/2015 - 15:34:38: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393adfc
+L 03/26/2015 - 15:34:38: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><>" connected, address "178.120.89.175:24218"
+L 03/26/2015 - 15:34:38: [VTC] Player 2 speex
+L 03/26/2015 - 15:34:41: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><>" entered the game
+L 03/26/2015 - 15:34:42: World triggered "Round_Start"
+L 03/26/2015 - 15:34:44: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><>" joined team "CT"
+L 03/26/2015 - 15:34:51: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "91") (armor "98")
+L 03/26/2015 - 15:34:51: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "9") (damage_armor "2") (health "82") (armor "96")
+L 03/26/2015 - 15:34:51: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "9") (damage_armor "0") (health "73") (armor "96")
+L 03/26/2015 - 15:34:52: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "54") (armor "91")
+L 03/26/2015 - 15:34:52: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "78") (damage_armor "16") (health "-24") (armor "75")
+L 03/26/2015 - 15:34:52: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1"
+L 03/26/2015 - 15:34:52: Team "CT" triggered "CTs_Win" (CT "9") (T "5")
+L 03/26/2015 - 15:34:52: World triggered "Round_End"
+L 03/26/2015 - 15:35:02: World triggered "Round_Start"
+L 03/26/2015 - 15:35:15: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393fcf0
+L 03/26/2015 - 15:35:15: "RoJleM ;)<117><STEAM_0:4:1762020741><>" connected, address "178.121.80.123:52609"
+L 03/26/2015 - 15:35:15: [VTC] Player 3 speex
+L 03/26/2015 - 15:35:17: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" with "ak47" (damage "12") (damage_armor "2") (health "88") (armor "98")
+L 03/26/2015 - 15:35:18: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "29") (damage_armor "5") (health "71") (armor "95")
+L 03/26/2015 - 15:35:18: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb393fcf0
+L 03/26/2015 - 15:35:18: "RoJleM ;)<118><STEAM_0:4:1762020741><>" connected, address "178.121.80.123:52609"
+L 03/26/2015 - 15:35:19: [VTC] Player 3 speex
+L 03/26/2015 - 15:35:19: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "29") (damage_armor "5") (health "42") (armor "90")
+L 03/26/2015 - 15:35:19: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "29") (damage_armor "5") (health "13") (armor "85")
+L 03/26/2015 - 15:35:20: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle" (damage "29") (damage_armor "0") (health "-16") (armor "85")
+L 03/26/2015 - 15:35:20: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "deagle"
+L 03/26/2015 - 15:35:20: Team "CT" triggered "CTs_Win" (CT "10") (T "5")
+L 03/26/2015 - 15:35:20: World triggered "Round_End"
+L 03/26/2015 - 15:35:27: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" committed suicide with "world"
+L 03/26/2015 - 15:35:27: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><CT>" joined team "SPECTATOR"
+L 03/26/2015 - 15:35:30: World triggered "Round_Start"
+L 03/26/2015 - 15:35:33: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "9") (damage_armor "0") (health "91") (armor "100")
+L 03/26/2015 - 15:35:35: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "73") (armor "96")
+L 03/26/2015 - 15:35:36: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "18") (damage_armor "4") (health "55") (armor "92")
+L 03/26/2015 - 15:35:46: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "89")
+L 03/26/2015 - 15:35:46: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:35:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "6")
+L 03/26/2015 - 15:35:46: World triggered "Round_End"
+L 03/26/2015 - 15:35:56: World triggered "Round_Start"
+L 03/26/2015 - 15:36:03: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "137") (damage_armor "0") (health "-37") (armor "0")
+L 03/26/2015 - 15:36:03: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:36:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "7")
+L 03/26/2015 - 15:36:03: World triggered "Round_End"
+L 03/26/2015 - 15:36:06: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3944be4
+L 03/26/2015 - 15:36:06: "<IION4IK V DELE><119><STEAM_0:4:1174379086><>" connected, address "37.214.163.34:5683"
+L 03/26/2015 - 15:36:06: [VTC] Player 4 speex
+L 03/26/2015 - 15:36:08: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3944be4
+L 03/26/2015 - 15:36:08: "<IION4IK V DELE><120><STEAM_0:4:1174379086><>" connected, address "37.214.163.34:5683"
+L 03/26/2015 - 15:36:08: [VTC] Player 4 speex
+L 03/26/2015 - 15:36:13: World triggered "Round_Start"
+L 03/26/2015 - 15:36:20: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "110") (damage_armor "0") (health "-10") (armor "0")
+L 03/26/2015 - 15:36:20: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:36:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "8")
+L 03/26/2015 - 15:36:20: World triggered "Round_End"
+L 03/26/2015 - 15:36:30: World triggered "Round_Start"
+L 03/26/2015 - 15:36:41: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "m4a1" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 03/26/2015 - 15:36:41: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/26/2015 - 15:36:41: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "awp"
+L 03/26/2015 - 15:36:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "9")
+L 03/26/2015 - 15:36:41: World triggered "Round_End"
+L 03/26/2015 - 15:36:44: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><SPECTATOR>" joined team "TERRORIST"
+L 03/26/2015 - 15:36:51: World triggered "Round_Start"
+L 03/26/2015 - 15:37:11: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "134") (damage_armor "1") (health "-34") (armor "94")
+L 03/26/2015 - 15:37:11: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "29") (hits "11") (kills "11") (headshots "0") (tks "0") (damage "1238") (deaths "8")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "2") (stomach "1") (leftarm "8") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "54") (deaths "2")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "10") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "12") (deaths "1")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "time" (time "7:29")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" triggered "latency" (ping "29")
+L 03/26/2015 - 15:37:18: "IT'S ROMAN, BITCHES!<104><STEAM_0:0:56023079><TERRORIST>" disconnected
+L 03/26/2015 - 15:37:19: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/26/2015 - 15:37:19: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" killed "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "awp"
+L 03/26/2015 - 15:37:19: Team "CT" triggered "CTs_Win" (CT "11") (T "9")
+L 03/26/2015 - 15:37:19: World triggered "Round_End"
+L 03/26/2015 - 15:37:29: World triggered "Round_Start"
+L 03/26/2015 - 15:37:53: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "87") (armor "100")
+L 03/26/2015 - 15:37:53: "RoJleM ;)<118><STEAM_0:4:1762020741><>" entered the game
+L 03/26/2015 - 15:37:54: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "74") (armor "100")
+L 03/26/2015 - 15:37:54: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "glock18" (damage "11") (damage_armor "0") (health "89") (armor "0")
+L 03/26/2015 - 15:37:54: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "9") (damage_armor "5") (health "65") (armor "95")
+L 03/26/2015 - 15:37:54: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "11") (damage_armor "6") (health "54") (armor "89")
+L 03/26/2015 - 15:37:54: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "glock18" (damage "11") (damage_armor "0") (health "78") (armor "0")
+L 03/26/2015 - 15:38:00: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "11") (damage_armor "5") (health "43") (armor "84")
+L 03/26/2015 - 15:38:04: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "glock18" (damage "20") (damage_armor "0") (health "58") (armor "0")
+L 03/26/2015 - 15:38:07: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "29") (armor "77")
+L 03/26/2015 - 15:38:07: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "glock18" (damage "80") (damage_armor "0") (health "-22") (armor "0")
+L 03/26/2015 - 15:38:07: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "glock18"
+L 03/26/2015 - 15:38:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "10")
+L 03/26/2015 - 15:38:07: World triggered "Round_End"
+L 03/26/2015 - 15:38:17: World triggered "Round_Start"
+L 03/26/2015 - 15:38:29: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "13") (damage_armor "7") (health "87") (armor "93")
+L 03/26/2015 - 15:38:29: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "16") (damage_armor "8") (health "71") (armor "85")
+L 03/26/2015 - 15:38:30: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "13") (damage_armor "7") (health "58") (armor "78")
+L 03/26/2015 - 15:38:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/26/2015 - 15:38:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "39") (armor "78")
+L 03/26/2015 - 15:38:40: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle" (damage "30") (damage_armor "0") (health "38") (armor "0")
+L 03/26/2015 - 15:38:41: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle" (damage "22") (damage_armor "0") (health "16") (armor "0")
+L 03/26/2015 - 15:38:41: "RoJleM ;)<118><STEAM_0:4:1762020741><>" joined team "CT"
+L 03/26/2015 - 15:38:41: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" attacked "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle" (damage "30") (damage_armor "0") (health "-14") (armor "0")
+L 03/26/2015 - 15:38:41: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" killed "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" with "deagle"
+L 03/26/2015 - 15:38:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "11")
+L 03/26/2015 - 15:38:41: World triggered "Round_End"
+L 03/26/2015 - 15:38:51: World triggered "Round_Start"
+L 03/26/2015 - 15:39:02: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" attacked "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/26/2015 - 15:39:02: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" killed "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" with "awp"
+L 03/26/2015 - 15:39:02: Team "CT" triggered "CTs_Win" (CT "12") (T "11")
+L 03/26/2015 - 15:39:02: World triggered "Round_End"
+L 03/26/2015 - 15:39:12: World triggered "Round_Start"
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "29") (hits "4") (kills "1") (headshots "1") (tks "0") (damage "122") (deaths "0")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "1") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "18") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "24") (hits "8") (kills "2") (headshots "0") (tks "0") (damage "230") (deaths "0")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "1") (rightleg "2")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "time" (time "4:49")
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" triggered "latency" (ping "31")
+L 03/26/2015 - 15:39:31: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "109") (deaths "0")
+L 03/26/2015 - 15:39:31: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:39:31: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" triggered "time" (time "1:37")
+L 03/26/2015 - 15:39:31: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" triggered "latency" (ping "53")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats" (weapon "usp") (shots "38") (hits "10") (kills "0") (headshots "0") (tks "0") (damage "132") (deaths "2")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "2") (leftarm "4") (rightarm "1") (leftleg "2") (rightleg "1")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats" (weapon "awp") (shots "27") (hits "10") (kills "8") (headshots "0") (tks "0") (damage "1073") (deaths "6")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "2") (leftarm "6") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats" (weapon "m4a1") (shots "67") (hits "11") (kills "2") (headshots "2") (tks "0") (damage "297") (deaths "2")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "1") (stomach "0") (leftarm "4") (rightarm "1") (leftleg "3") (rightleg "0")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats" (weapon "deagle") (shots "9") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "135") (deaths "1")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "time" (time "9:41")
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" triggered "latency" (ping "33")
+L 03/26/2015 - 15:39:31: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/26/2015 - 15:39:31: [META] ini: Read plugin config for: AMX Mod X
+L 03/26/2015 - 15:39:31: [META] ini: Read plugin config for: dproto_EF
+L 03/26/2015 - 15:39:31: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/26/2015 - 15:39:31: [META] ini: Read plugin config for: WHBlocker
+L 03/26/2015 - 15:39:31: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/26/2015 - 15:39:31: [META] dll: Updating plugins...
+L 03/26/2015 - 15:39:31: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/26/2015 - 15:39:31: "[Hard_Skill]_AHAKOHDA<116><STEAM_0:4:50515205><TERRORIST>" disconnected
+L 03/26/2015 - 15:39:31: "RoJleM ;)<118><STEAM_0:4:1762020741><CT>" disconnected
+L 03/26/2015 - 15:39:31: "[Angels]DarkAngel<113><STEAM_0:4:600025971><CT>" disconnected
+L 03/26/2015 - 15:39:31: World triggered "Round_Draw" (CT "12") (T "11")
+L 03/26/2015 - 15:39:31: World triggered "Round_End"
+L 03/26/2015 - 15:39:31: Log file closed

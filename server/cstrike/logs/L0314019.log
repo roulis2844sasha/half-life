@@ -1,0 +1,297 @@
+L 03/14/2015 - 13:11:33: Log file started (file "logs/L0314019.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/14/2015 - 13:11:33: Server cvar "mp_logdetail" = "3"
+L 03/14/2015 - 13:11:40: World triggered "Round_Start"
+L 03/14/2015 - 13:11:48: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 13:11:48: "4ANHNK<1><STEAM_0:4:1135496453><>" connected, address "178.120.0.46:28856"
+L 03/14/2015 - 13:11:48: [VTC] Player 1 speex
+L 03/14/2015 - 13:11:50: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 13:11:50: "4ANHNK<2><STEAM_0:4:1135496453><>" connected, address "178.120.0.46:28856"
+L 03/14/2015 - 13:11:51: [VTC] Player 1 speex
+L 03/14/2015 - 13:11:53: "4ANHNK<2><STEAM_0:4:1135496453><>" entered the game
+L 03/14/2015 - 13:11:54: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3973dfc
+L 03/14/2015 - 13:11:54: "MOMENT<3><STEAM_0:4:1785762166><>" connected, address "85.192.189.125:16192"
+L 03/14/2015 - 13:11:54: [VTC] Player 2 speex
+L 03/14/2015 - 13:11:55: "4ANHNK<2><STEAM_0:4:1135496453><>" joined team "TERRORIST"
+L 03/14/2015 - 13:11:55: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:12:02: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3973dfc
+L 03/14/2015 - 13:12:02: "MOMENT<4><STEAM_0:4:1785762166><>" connected, address "85.192.189.125:16192"
+L 03/14/2015 - 13:12:02: [VTC] Player 2 speex
+L 03/14/2015 - 13:12:07: "MOMENT<4><STEAM_0:4:1785762166><>" entered the game
+L 03/14/2015 - 13:12:18: "MOMENT<4><STEAM_0:4:1785762166><>" joined team "CT"
+L 03/14/2015 - 13:12:18: World triggered "Game_Commencing"
+L 03/14/2015 - 13:12:18: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/14/2015 - 13:12:18: World triggered "Round_End"
+L 03/14/2015 - 13:12:21: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:12:26: World triggered "Round_Start"
+L 03/14/2015 - 13:12:55: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/14/2015 - 13:12:55: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "31") (damage_armor "0") (health "46") (armor "0")
+L 03/14/2015 - 13:12:56: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "31") (damage_armor "0") (health "15") (armor "0")
+L 03/14/2015 - 13:12:56: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "deagle" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/14/2015 - 13:12:56: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "31") (damage_armor "0") (health "-16") (armor "0")
+L 03/14/2015 - 13:12:56: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle"
+L 03/14/2015 - 13:12:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/14/2015 - 13:12:56: World triggered "Round_End"
+L 03/14/2015 - 13:13:01: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:13:06: World triggered "Round_Start"
+L 03/14/2015 - 13:13:27: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/14/2015 - 13:13:27: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 03/14/2015 - 13:13:27: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 03/14/2015 - 13:13:27: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47"
+L 03/14/2015 - 13:13:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/14/2015 - 13:13:27: World triggered "Round_End"
+L 03/14/2015 - 13:13:32: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:13:37: World triggered "Round_Start"
+L 03/14/2015 - 13:14:03: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "0") (health "88") (armor "100")
+L 03/14/2015 - 13:14:03: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 03/14/2015 - 13:14:03: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "25") (damage_armor "0") (health "59") (armor "0")
+L 03/14/2015 - 13:14:11: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "mp5navy" (damage "8") (damage_armor "4") (health "80") (armor "96")
+L 03/14/2015 - 13:14:11: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "25") (armor "0")
+L 03/14/2015 - 13:14:12: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "0") (health "68") (armor "96")
+L 03/14/2015 - 13:14:12: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "58") (armor "91")
+L 03/14/2015 - 13:14:15: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "30") (damage_armor "0") (health "-5") (armor "0")
+L 03/14/2015 - 13:14:15: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle"
+L 03/14/2015 - 13:14:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 03/14/2015 - 13:14:15: World triggered "Round_End"
+L 03/14/2015 - 13:14:20: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:14:25: World triggered "Round_Start"
+L 03/14/2015 - 13:14:55: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "19") (damage_armor "5") (health "81") (armor "95")
+L 03/14/2015 - 13:14:55: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "39") (damage_armor "0") (health "12") (armor "0")
+L 03/14/2015 - 13:14:55: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "19") (damage_armor "4") (health "62") (armor "91")
+L 03/14/2015 - 13:14:55: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "78") (damage_armor "17") (health "-16") (armor "74")
+L 03/14/2015 - 13:14:55: "MOMENT<4><STEAM_0:4:1785762166><CT>" killed "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas"
+L 03/14/2015 - 13:14:55: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 03/14/2015 - 13:14:55: World triggered "Round_End"
+L 03/14/2015 - 13:15:00: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:15:05: World triggered "Round_Start"
+L 03/14/2015 - 13:15:43: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "25") (damage_armor "6") (health "75") (armor "94")
+L 03/14/2015 - 13:15:43: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "20") (damage_armor "4") (health "55") (armor "90")
+L 03/14/2015 - 13:15:43: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "35") (damage_armor "6") (health "65") (armor "94")
+L 03/14/2015 - 13:15:43: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "35") (damage_armor "6") (health "30") (armor "88")
+L 03/14/2015 - 13:15:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "21") (damage_armor "0") (health "34") (armor "90")
+L 03/14/2015 - 13:15:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "141") (damage_armor "24") (health "-111") (armor "64")
+L 03/14/2015 - 13:15:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle"
+L 03/14/2015 - 13:15:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/14/2015 - 13:15:44: World triggered "Round_End"
+L 03/14/2015 - 13:15:49: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:15:54: World triggered "Round_Start"
+L 03/14/2015 - 13:16:34: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "m4a1" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 03/14/2015 - 13:16:34: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "60") (armor "91")
+L 03/14/2015 - 13:16:34: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-39") (armor "0")
+L 03/14/2015 - 13:16:34: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47"
+L 03/14/2015 - 13:16:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 03/14/2015 - 13:16:34: World triggered "Round_End"
+L 03/14/2015 - 13:16:39: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:16:44: World triggered "Round_Start"
+L 03/14/2015 - 13:17:08: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/14/2015 - 13:17:09: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 03/14/2015 - 13:17:10: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 03/14/2015 - 13:17:16: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-24") (armor "0")
+L 03/14/2015 - 13:17:16: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47"
+L 03/14/2015 - 13:17:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 03/14/2015 - 13:17:16: World triggered "Round_End"
+L 03/14/2015 - 13:17:21: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:17:26: World triggered "Round_Start"
+L 03/14/2015 - 13:17:41: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "scout" (damage "74") (damage_armor "7") (health "26") (armor "93")
+L 03/14/2015 - 13:17:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/14/2015 - 13:17:45: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 03/14/2015 - 13:17:47: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "17") (armor "0")
+L 03/14/2015 - 13:17:48: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "scout" (damage "74") (damage_armor "7") (health "-48") (armor "86")
+L 03/14/2015 - 13:17:48: "MOMENT<4><STEAM_0:4:1785762166><CT>" killed "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "scout"
+L 03/14/2015 - 13:17:48: Team "CT" triggered "CTs_Win" (CT "2") (T "6")
+L 03/14/2015 - 13:17:48: World triggered "Round_End"
+L 03/14/2015 - 13:17:53: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:17:58: World triggered "Round_Start"
+L 03/14/2015 - 13:18:19: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 03/14/2015 - 13:18:20: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "24") (armor "0")
+L 03/14/2015 - 13:18:20: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "m4a1" (damage "84") (damage_armor "18") (health "16") (armor "82")
+L 03/14/2015 - 13:18:20: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-10") (armor "0")
+L 03/14/2015 - 13:18:20: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47"
+L 03/14/2015 - 13:18:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 03/14/2015 - 13:18:20: World triggered "Round_End"
+L 03/14/2015 - 13:18:25: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:18:30: World triggered "Round_Start"
+L 03/14/2015 - 13:18:52: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/14/2015 - 13:18:53: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 03/14/2015 - 13:19:02: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 03/14/2015 - 13:19:02: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-131") (armor "0")
+L 03/14/2015 - 13:19:02: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47"
+L 03/14/2015 - 13:19:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 03/14/2015 - 13:19:02: World triggered "Round_End"
+L 03/14/2015 - 13:19:04: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3978cf0
+L 03/14/2015 - 13:19:04: "JK<5><STEAM_0:0:692244939><>" connected, address "37.214.7.129:3564"
+L 03/14/2015 - 13:19:04: [VTC] Player 3 speex
+L 03/14/2015 - 13:19:06: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb397dbe4
+L 03/14/2015 - 13:19:06: "[Hard_Skill]_Lexa Kosmonaft<6><STEAM_0:0:226379933><>" connected, address "37.212.156.253:2741"
+L 03/14/2015 - 13:19:06: [VTC] Player 4 speex
+L 03/14/2015 - 13:19:07: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:19:07: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3978cf0
+L 03/14/2015 - 13:19:07: "JK<7><STEAM_0:0:692244939><>" connected, address "37.214.7.129:3564"
+L 03/14/2015 - 13:19:07: [VTC] Player 3 speex
+L 03/14/2015 - 13:19:09: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb397dbe4
+L 03/14/2015 - 13:19:09: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><>" connected, address "37.212.156.253:2741"
+L 03/14/2015 - 13:19:09: [VTC] Player 4 speex
+L 03/14/2015 - 13:19:11: "JK<7><STEAM_0:0:692244939><>" entered the game
+L 03/14/2015 - 13:19:12: World triggered "Round_Start"
+L 03/14/2015 - 13:19:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><>" entered the game
+L 03/14/2015 - 13:19:17: "JK<7><STEAM_0:0:692244939><>" joined team "CT"
+L 03/14/2015 - 13:19:24: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/14/2015 - 13:19:38: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "deagle" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 03/14/2015 - 13:19:39: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-11") (armor "0")
+L 03/14/2015 - 13:19:39: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "JK<7><STEAM_0:0:692244939><CT>" with "ak47"
+L 03/14/2015 - 13:19:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "66") (armor "82")
+L 03/14/2015 - 13:19:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 03/14/2015 - 13:19:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "56") (armor "77")
+L 03/14/2015 - 13:19:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "mp5navy" (damage "13") (damage_armor "6") (health "43") (armor "71")
+L 03/14/2015 - 13:19:44: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "deagle" (damage "31") (damage_armor "0") (health "35") (armor "0")
+L 03/14/2015 - 13:19:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "0") (health "28") (armor "71")
+L 03/14/2015 - 13:19:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "mp5navy" (damage "13") (damage_armor "7") (health "15") (armor "64")
+L 03/14/2015 - 13:19:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "1") (armor "0")
+L 03/14/2015 - 13:19:44: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "mp5navy" (damage "10") (damage_armor "5") (health "5") (armor "59")
+L 03/14/2015 - 13:19:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-33") (armor "0")
+L 03/14/2015 - 13:19:44: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47"
+L 03/14/2015 - 13:19:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "9")
+L 03/14/2015 - 13:19:44: World triggered "Round_End"
+L 03/14/2015 - 13:19:49: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:19:54: World triggered "Round_Start"
+L 03/14/2015 - 13:20:15: "JK<7><STEAM_0:0:692244939><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "deagle" (damage "36") (damage_armor "6") (health "64") (armor "94")
+L 03/14/2015 - 13:20:16: "JK<7><STEAM_0:0:692244939><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "deagle" (damage "36") (damage_armor "7") (health "28") (armor "87")
+L 03/14/2015 - 13:20:16: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "aug" (damage "23") (damage_armor "0") (health "77") (armor "100")
+L 03/14/2015 - 13:20:16: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "aug" (damage "21") (damage_armor "5") (health "56") (armor "95")
+L 03/14/2015 - 13:20:16: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "aug" (damage "21") (damage_armor "5") (health "35") (armor "90")
+L 03/14/2015 - 13:20:16: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "aug" (damage "21") (damage_armor "4") (health "14") (armor "86")
+L 03/14/2015 - 13:20:17: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "aug" (damage "21") (damage_armor "5") (health "-7") (armor "81")
+L 03/14/2015 - 13:20:17: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" killed "JK<7><STEAM_0:0:692244939><CT>" with "aug"
+L 03/14/2015 - 13:20:23: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "aug" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/14/2015 - 13:20:24: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas" (damage "22") (damage_armor "4") (health "6") (armor "83")
+L 03/14/2015 - 13:20:24: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "aug" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 03/14/2015 - 13:20:24: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas" (damage "72") (damage_armor "16") (health "-66") (armor "67")
+L 03/14/2015 - 13:20:24: "MOMENT<4><STEAM_0:4:1785762166><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas"
+L 03/14/2015 - 13:20:24: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 13:20:31: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "18") (damage_armor "4") (health "82") (armor "96")
+L 03/14/2015 - 13:20:47: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "MOMENT<4><STEAM_0:4:1785762166><CT>" with "grenade"
+L 03/14/2015 - 13:20:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "10")
+L 03/14/2015 - 13:20:47: World triggered "Round_End"
+L 03/14/2015 - 13:20:52: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:20:57: World triggered "Round_Start"
+L 03/14/2015 - 13:21:12: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/14/2015 - 13:21:12: "JK<7><STEAM_0:0:692244939><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "19") (damage_armor "5") (health "38") (armor "73")
+L 03/14/2015 - 13:21:12: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "34") (damage_armor "0") (health "41") (armor "0")
+L 03/14/2015 - 13:21:13: "JK<7><STEAM_0:0:692244939><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas" (damage "78") (damage_armor "16") (health "-40") (armor "57")
+L 03/14/2015 - 13:21:13: "JK<7><STEAM_0:0:692244939><CT>" killed "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "famas"
+L 03/14/2015 - 13:21:13: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 13:21:17: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "26") (damage_armor "0") (health "15") (armor "0")
+L 03/14/2015 - 13:21:17: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "26") (damage_armor "0") (health "-11") (armor "0")
+L 03/14/2015 - 13:21:17: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" killed "JK<7><STEAM_0:0:692244939><CT>" with "ak47"
+L 03/14/2015 - 13:21:19: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "Got_The_Bomb"
+L 03/14/2015 - 13:21:23: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "19") (damage_armor "4") (health "47") (armor "78")
+L 03/14/2015 - 13:21:28: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "26") (armor "74")
+L 03/14/2015 - 13:21:29: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "26") (damage_armor "6") (health "0") (armor "68")
+L 03/14/2015 - 13:21:29: "MOMENT<4><STEAM_0:4:1785762166><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 03/14/2015 - 13:21:29: Team "CT" triggered "CTs_Win" (CT "3") (T "10")
+L 03/14/2015 - 13:21:29: World triggered "Round_End"
+L 03/14/2015 - 13:21:34: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:21:39: World triggered "Round_Start"
+L 03/14/2015 - 13:22:00: "JK<7><STEAM_0:0:692244939><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas" (damage "18") (damage_armor "5") (health "82") (armor "95")
+L 03/14/2015 - 13:22:00: "JK<7><STEAM_0:0:692244939><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas" (damage "23") (damage_armor "5") (health "59") (armor "90")
+L 03/14/2015 - 13:22:01: "JK<7><STEAM_0:0:692244939><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas" (damage "18") (damage_armor "4") (health "41") (armor "86")
+L 03/14/2015 - 13:22:01: "JK<7><STEAM_0:0:692244939><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "famas" (damage "18") (damage_armor "4") (health "23") (armor "82")
+L 03/14/2015 - 13:22:01: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 03/14/2015 - 13:22:02: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "12") (damage_armor "0") (health "62") (armor "96")
+L 03/14/2015 - 13:22:05: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "27") (damage_armor "4") (health "35") (armor "92")
+L 03/14/2015 - 13:22:05: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "27") (damage_armor "4") (health "8") (armor "88")
+L 03/14/2015 - 13:22:06: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "JK<7><STEAM_0:0:692244939><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-19") (armor "84")
+L 03/14/2015 - 13:22:06: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" killed "JK<7><STEAM_0:0:692244939><CT>" with "ak47"
+L 03/14/2015 - 13:22:08: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "11") (damage_armor "2") (health "89") (armor "98")
+L 03/14/2015 - 13:22:15: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "m4a1" (damage "27") (damage_armor "6") (health "-4") (armor "76")
+L 03/14/2015 - 13:22:15: "MOMENT<4><STEAM_0:4:1785762166><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" with "m4a1"
+L 03/14/2015 - 13:22:15: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 13:22:26: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3982ad8
+L 03/14/2015 - 13:22:26: "[One_Skill]$$$$matvei$$$$<9><STEAM_0:4:710941518><>" connected, address "37.212.156.253:55355"
+L 03/14/2015 - 13:22:26: [VTC] Player 5 speex
+L 03/14/2015 - 13:22:31: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3982ad8
+L 03/14/2015 - 13:22:31: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><>" connected, address "37.212.156.253:55355"
+L 03/14/2015 - 13:22:31: [VTC] Player 5 speex
+L 03/14/2015 - 13:22:32: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "26") (damage_armor "4") (health "62") (armor "94")
+L 03/14/2015 - 13:22:32: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "m4a1" (damage "25") (damage_armor "5") (health "39") (armor "76")
+L 03/14/2015 - 13:22:32: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" attacked "MOMENT<4><STEAM_0:4:1785762166><CT>" with "ak47" (damage "32") (damage_armor "5") (health "30") (armor "89")
+L 03/14/2015 - 13:22:32: "MOMENT<4><STEAM_0:4:1785762166><CT>" attacked "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "m4a1" (damage "81") (damage_armor "17") (health "-42") (armor "59")
+L 03/14/2015 - 13:22:32: "MOMENT<4><STEAM_0:4:1785762166><CT>" killed "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" with "m4a1"
+L 03/14/2015 - 13:22:32: Team "CT" triggered "CTs_Win" (CT "4") (T "10")
+L 03/14/2015 - 13:22:32: World triggered "Round_End"
+L 03/14/2015 - 13:22:37: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/14/2015 - 13:22:37: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><>" entered the game
+L 03/14/2015 - 13:22:41: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" committed suicide with "world"
+L 03/14/2015 - 13:22:41: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/14/2015 - 13:22:41: "4ANHNK<2><STEAM_0:4:1135496453><TERRORIST>" joined team "SPECTATOR"
+L 03/14/2015 - 13:22:42: World triggered "Round_Start"
+L 03/14/2015 - 13:22:51: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><>" joined team "CT"
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "weaponstats" (weapon "grenade") (shots "12") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "202") (deaths "0")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "weaponstats" (weapon "deagle") (shots "23") (hits "11") (kills "3") (headshots "1") (tks "0") (damage "446") (deaths "2")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "0") (leftarm "7") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "weaponstats" (weapon "ak47") (shots "160") (hits "31") (kills "8") (headshots "2") (tks "0") (damage "1152") (deaths "2")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "2") (stomach "2") (leftarm "19") (rightarm "3") (leftleg "2") (rightleg "1")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "time" (time "11:19")
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" triggered "latency" (ping "29")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "scout") (shots "4") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "148") (deaths "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "scout") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "grenade") (shots "7") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "90") (deaths "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "famas") (shots "38") (hits "9") (kills "2") (headshots "2") (tks "0") (damage "294") (deaths "2")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "famas") (head "2") (chest "3") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "usp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "108") (hits "10") (kills "0") (headshots "0") (tks "0") (damage "113") (deaths "3")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "2") (stomach "3") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "2")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "m4a1") (shots "51") (hits "9") (kills "3") (headshots "1") (tks "0") (damage "323") (deaths "2")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "2") (stomach "3") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "tmp") (shots "18") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "tmp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats" (weapon "deagle") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "31") (deaths "1")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "time" (time "11:05")
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" triggered "latency" (ping "96")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "77") (deaths "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats" (weapon "famas") (shots "47") (hits "6") (kills "1") (headshots "1") (tks "0") (damage "174") (deaths "2")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats2" (weapon "famas") (head "1") (chest "1") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats" (weapon "usp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "72") (deaths "1")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "time" (time "4:01")
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" triggered "latency" (ping "28")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "17") (deaths "0")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "25") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "163") (deaths "1")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "0") (stomach "0") (leftarm "5") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "11") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "73") (deaths "0")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "20") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "90") (deaths "2")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "3") (rightleg "0")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "3:59")
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "25")
+L 03/14/2015 - 13:23:13: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/14/2015 - 13:23:13: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 13:23:13: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><CT>" triggered "time" (time "0:35")
+L 03/14/2015 - 13:23:13: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><CT>" triggered "latency" (ping "66")
+L 03/14/2015 - 13:23:13: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/14/2015 - 13:23:13: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2015 - 13:23:13: [META] ini: Read plugin config for: dproto_EF
+L 03/14/2015 - 13:23:13: [META] ini: Read plugin config for: mmtimer
+L 03/14/2015 - 13:23:13: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/14/2015 - 13:23:13: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/14/2015 - 13:23:13: [META] dll: Updating plugins...
+L 03/14/2015 - 13:23:13: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/14/2015 - 13:23:13: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/14/2015 - 13:23:13: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2015 - 13:23:13: "4ANHNK<2><STEAM_0:4:1135496453><SPECTATOR>" disconnected
+L 03/14/2015 - 13:23:13: "MOMENT<4><STEAM_0:4:1785762166><CT>" disconnected
+L 03/14/2015 - 13:23:13: "JK<7><STEAM_0:0:692244939><CT>" disconnected
+L 03/14/2015 - 13:23:13: "[Hard_Skill]_Lexa Kosmonaft<8><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/14/2015 - 13:23:13: "[One_Skill]$$$$matvei$$$$<10><STEAM_0:4:710941518><CT>" disconnected
+L 03/14/2015 - 13:23:13: World triggered "Round_Draw" (CT "4") (T "10")
+L 03/14/2015 - 13:23:13: World triggered "Round_End"
+L 03/14/2015 - 13:23:13: Log file closed

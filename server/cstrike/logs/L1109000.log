@@ -1,0 +1,44 @@
+L 11/09/2014 - 10:42:17: Log file started (file "logs/L1109000.log") (game "cstrike") (version "48/1.1.2.7/Stdio/5787")
+L 11/09/2014 - 10:42:17: Server cvar "mp_logdetail" = "3"
+L 11/09/2014 - 10:42:17: Ban: "<><PENDING><>" was banned "permanently" by "Console"
+L 11/09/2014 - 10:42:17: Server cvar "mp_autokick" = "0"
+L 11/09/2014 - 10:42:17: Server cvar "mp_buytime" = "0.35"
+L 11/09/2014 - 10:42:17: Server cvar "mp_consistency" = "0"
+L 11/09/2014 - 10:42:17: Server cvar "mp_c4timer" = "35"
+L 11/09/2014 - 10:42:17: Server cvar "mp_flashlight" = "1"
+L 11/09/2014 - 10:42:17: Server cvar "mp_kickpercent" = "100"
+L 11/09/2014 - 10:42:17: Server cvar "mp_freezetime" = "2"
+L 11/09/2014 - 10:42:17: Server cvar "mp_hostagepenalty" = "0"
+L 11/09/2014 - 10:42:17: Server cvar "mp_limitteams" = "1"
+L 11/09/2014 - 10:42:17: Server cvar "mp_roundtime" = "1.80"
+L 11/09/2014 - 10:42:17: Server cvar "mp_chattime" = "2"
+L 11/09/2014 - 10:42:17: Server cvar "sv_aim" = "0"
+L 11/09/2014 - 10:42:17: Server cvar "sv_clienttrace" = "1.0"
+L 11/09/2014 - 10:42:17: Server cvar "sv_maxrate" = "25000"
+L 11/09/2014 - 10:42:17: Server cvar "sv_minrate" = "50000"
+L 11/09/2014 - 10:42:17: Server cvar "sv_maxspeed" = "320"
+L 11/09/2014 - 10:42:17: Server cvar "decalfrequency" = "60"
+L 11/09/2014 - 10:42:17: Server cvar "mp_mapvoteratio" = "0.6"
+L 11/09/2014 - 10:42:17: Server cvar "sv_alltalk" = "1"
+L 11/09/2014 - 10:42:17: Server cvar "sv_proxies" = "0"
+L 11/09/2014 - 10:42:17: Server cvar "sv_region" = "3"
+L 11/09/2014 - 10:42:17: Server cvar "allow_spectators" = "1"
+L 11/09/2014 - 10:42:25: World triggered "Round_Start"
+L 11/09/2014 - 10:42:27: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39b2f08
+L 11/09/2014 - 10:42:27: "[MON-CS] Player<1><STEAM_0:0:358876961><>" connected, address "31.128.46.85:27005"
+L 11/09/2014 - 10:42:27: [VTC] Player 1 speex
+L 11/09/2014 - 10:42:30: "[MON-CS] Player<1><STEAM_0:0:358876961><>" entered the game
+L 11/09/2014 - 10:42:36: "[MON-CS] Player<1><STEAM_0:0:358876961><>" joined team "TERRORIST"
+L 11/09/2014 - 10:42:36: "[MON-CS] Player<1><STEAM_0:0:358876961><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/09/2014 - 10:43:25: [META] ini: Begin re-reading plugins list: /home/gs76/cstrike/addons/metamod/plugins.ini
+L 11/09/2014 - 10:43:25: [META] ini: Read plugin config for: AMX Mod X
+L 11/09/2014 - 10:43:25: [META] ini: Read plugin config for: dproto_EF
+L 11/09/2014 - 10:43:25: [META] ini: Read plugin config for: VoiceTranscoder
+L 11/09/2014 - 10:43:25: [META] ini: Finished reading plugins list: /home/gs76/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 11/09/2014 - 10:43:25: [META] dll: Updating plugins...
+L 11/09/2014 - 10:43:25: [META] dll: Finished updating 9 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/09/2014 - 10:43:25: "[MON-CS] Player<1><STEAM_0:0:358876961><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/09/2014 - 10:43:25: "[MON-CS] Player<1><STEAM_0:0:358876961><TERRORIST>" disconnected
+L 11/09/2014 - 10:43:25: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/09/2014 - 10:43:25: World triggered "Round_End"
+L 11/09/2014 - 10:43:25: Log file closed

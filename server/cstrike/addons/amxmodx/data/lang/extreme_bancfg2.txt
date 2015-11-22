@@ -1,0 +1,50 @@
+[pl]
+DEFAULT_REASON = Bez powodu
+
+INFO_BANNED = Ban zostal dodany
+INFO_UNBANNED = Gracz %s zostal odbanowany
+INFO_BAD_CODE = Bledny kod, przeszukaj liste
+INFO_NO_BANS = Brak banow
+
+INFO_HINT1 = Lp to numer porzadkowy na liscie
+INFO_HINT2 = kod (!) to wartosc potrzebna do
+INFO_HEADER =  Lp | kod | nick | admin | powod | data bana | data unbana
+INFO_FOOTER = Uzyj '%s %d', aby zobaczy wiecej 
+INFO_DURING_KICK = Masz bana. Sprawdz konsole !
+INFO_HUD = Gracz %s zostal zbanowany^nprzez admina %s^n%s^nPowod: %s
+INFO_CHOOSE_PLAYER = Najpierw wybierz gracza
+
+WORD_WARNING = UWAGA
+WORD_SERVER = Serwer
+WORD_NEVER = Nigdy
+WORD_REASON = Powod
+WORD_FROM = Od
+WORD_EXPIRE = Koniec
+WORD_RETURN = Powrot
+WORD_OWN = Wlasny
+
+[en]
+DEFAULT_REASON = No reason
+
+INFO_BANNED = Player has been banned
+INFO_UNBANNED = Player %s has been unbanned
+INFO_BAD_CODE = Bad code, search on the list
+INFO_NO_BANS = No bans
+
+INFO_HINT1 = Cn its counting number (ordering)
+INFO_HINT2 = code (!) you should use for
+INFO_HEADER =  Cn | code | nick | admin | reason | date of ban | date of unban
+INFO_FOOTER = Use '%s %d', to get more 
+INFO_DURING_KICK = You have banned. Check console!
+INFO_HUD = Player %s has been banned^nby admin %s^n%s^nReason: %s
+INFO_CHOOSE_PLAYER = Firstly chose player
+
+WORD_WARNING = WARNING
+WORD_SERVER = Server
+WORD_NEVER = Never
+WORD_REASON = Reason
+WORD_FROM = From
+WORD_EXPIRE = Expire
+WORD_RETURN = Return
+WORD_OWN = Own
+

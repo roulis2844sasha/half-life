@@ -1,0 +1,685 @@
+L 03/21/2015 - 13:17:57: Log file started (file "logs/L0321022.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/21/2015 - 13:17:57: Loading map "35hp_2"
+L 03/21/2015 - 13:17:57: Server cvars start
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_debug_level" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_examine_time" = "0.5"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_look_angle" = "10"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_look_distance" = "200"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_message_repeats" = "5"
+L 03/21/2015 - 13:17:57: Server cvar "_tutor_view_distance" = "1000"
+L 03/21/2015 - 13:17:57: Server cvar "aesp_version" = "1.5b_mini"
+L 03/21/2015 - 13:17:57: Server cvar "allow_spectators" = "4"
+L 03/21/2015 - 13:17:57: Server cvar "amx_client_languages" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/21/2015 - 13:17:57: Server cvar "amx_language" = "ru"
+L 03/21/2015 - 13:17:57: Server cvar "amx_nextmap" = "35hp_2"
+L 03/21/2015 - 13:17:57: Server cvar "amx_timeleft" = "00:00"
+L 03/21/2015 - 13:17:57: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/21/2015 - 13:17:57: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/21/2015 - 13:17:57: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Config" = "Loaded"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Replace" = "Failed"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Status" = "Loaded"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/21/2015 - 13:17:57: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/21/2015 - 13:17:57: Server cvar "coop" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "deathmatch" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "decalfrequency" = "9"
+L 03/21/2015 - 13:17:57: Server cvar "dp_version" = "0.9.391"
+L 03/21/2015 - 13:17:57: Server cvar "edgefriction" = "2"
+L 03/21/2015 - 13:17:57: Server cvar "hostage_debug" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "hostage_stop" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "humans_join_team" = "any"
+L 03/21/2015 - 13:17:57: Server cvar "jtp10181" = "chute"
+L 03/21/2015 - 13:17:57: Server cvar "max_queries_sec" = "3.0"
+L 03/21/2015 - 13:17:57: Server cvar "max_queries_sec_global" = "30"
+L 03/21/2015 - 13:17:57: Server cvar "max_queries_window" = "60"
+L 03/21/2015 - 13:17:57: Server cvar "metamod_version" = "1.19"
+L 03/21/2015 - 13:17:57: Server cvar "mp_allowmonsters" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_autokick" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_autoteambalance" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_buytime" = "1.5"
+L 03/21/2015 - 13:17:57: Server cvar "mp_c4timer" = "35"
+L 03/21/2015 - 13:17:57: Server cvar "mp_chattime" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_consistency" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_fadetoblack" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_flashlight" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_footsteps" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_forcecamera" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_forcechasecam" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_fragsleft" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_freezetime" = "5"
+L 03/21/2015 - 13:17:57: Server cvar "mp_friendlyfire" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_hostagepenalty" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_kickpercent" = "0.66"
+L 03/21/2015 - 13:17:57: Server cvar "mp_limitteams" = "5"
+L 03/21/2015 - 13:17:57: Server cvar "mp_logdetail" = "3"
+L 03/21/2015 - 13:17:57: Server cvar "mp_logfile" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_logmessages" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/21/2015 - 13:17:57: Server cvar "mp_maxrounds" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_mirrordamage" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_playerid" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_roundtime" = "2.57"
+L 03/21/2015 - 13:17:57: Server cvar "mp_startmoney" = "800"
+L 03/21/2015 - 13:17:57: Server cvar "mp_timeleft" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "mp_timelimit" = "30.000000"
+L 03/21/2015 - 13:17:57: Server cvar "mp_tkpunish" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_windifference" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "mp_winlimit" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "pausable" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_accelerate" = "5"
+L 03/21/2015 - 13:17:57: Server cvar "sv_aim" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_airaccelerate" = "10"
+L 03/21/2015 - 13:17:57: Server cvar "sv_airmove" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "sv_allowupload" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "sv_alltalk" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_bounce" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "sv_cheats" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_clienttrace" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "sv_clipmode" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_contact" = ""
+L 03/21/2015 - 13:17:57: Server cvar "sv_friction" = "4"
+L 03/21/2015 - 13:17:57: Server cvar "sv_gravity" = "800"
+L 03/21/2015 - 13:17:57: Server cvar "sv_logblocks" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_maxrate" = "50000"
+L 03/21/2015 - 13:17:57: Server cvar "sv_maxspeed" = "900"
+L 03/21/2015 - 13:17:57: Server cvar "sv_minrate" = "100000"
+L 03/21/2015 - 13:17:57: Server cvar "sv_password" = ""
+L 03/21/2015 - 13:17:57: Server cvar "sv_proxies" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_region" = "255"
+L 03/21/2015 - 13:17:57: Server cvar "sv_restart" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_restartround" = "0"
+L 03/21/2015 - 13:17:57: Server cvar "sv_stepsize" = "18"
+L 03/21/2015 - 13:17:57: Server cvar "sv_stopspeed" = "75"
+L 03/21/2015 - 13:17:57: Server cvar "sv_uploadmax" = "0.5"
+L 03/21/2015 - 13:17:57: Server cvar "sv_voiceenable" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "sv_wateraccelerate" = "10"
+L 03/21/2015 - 13:17:57: Server cvar "sv_waterfriction" = "1"
+L 03/21/2015 - 13:17:57: Server cvar "vtc_version" = "80"
+L 03/21/2015 - 13:17:57: Server cvars end
+L 03/21/2015 - 13:17:58: Server cvar "amx_nextmap" = "de_dust2_3x3"
+L 03/21/2015 - 13:17:58: Server cvar "sv_restart" = "1"
+L 03/21/2015 - 13:17:59: World triggered "Restart_Round_(1_second)"
+L 03/21/2015 - 13:17:59: Team "CT" scored "0" with "0" players
+L 03/21/2015 - 13:17:59: Team "TERRORIST" scored "0" with "0" players
+L 03/21/2015 - 13:17:59: Server cvar "sv_restart" = "0"
+L 03/21/2015 - 13:17:59: Started map "35hp_2" (CRC "-364611601")
+L 03/21/2015 - 13:17:59: [VTC] Player 1 speex
+L 03/21/2015 - 13:17:59: [VTC] Player 4 speex
+L 03/21/2015 - 13:17:59: [VTC] Player 2 silk
+L 03/21/2015 - 13:18:04: World triggered "Round_Start"
+L 03/21/2015 - 13:18:14: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><>" entered the game
+L 03/21/2015 - 13:18:16: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399cbe4
+L 03/21/2015 - 13:18:16: "RoCk<98><STEAM_0:4:1582679675><>" connected, address "78.110.247.21:1364"
+L 03/21/2015 - 13:18:16: [VTC] Player 4 speex
+L 03/21/2015 - 13:18:19: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><>" joined team "CT"
+L 03/21/2015 - 13:18:20: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 13:18:20: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><>" connected, address "178.120.160.141:49291"
+L 03/21/2015 - 13:18:20: [VTC] Player 2 speex
+L 03/21/2015 - 13:18:21: "RoCk<98><STEAM_0:4:1582679675><>" entered the game
+L 03/21/2015 - 13:18:23: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><>" entered the game
+L 03/21/2015 - 13:18:25: "RoCk<98><STEAM_0:4:1582679675><>" joined team "TERRORIST"
+L 03/21/2015 - 13:18:25: World triggered "Game_Commencing"
+L 03/21/2015 - 13:18:25: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/21/2015 - 13:18:25: World triggered "Round_End"
+L 03/21/2015 - 13:18:28: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><>" joined team "CT"
+L 03/21/2015 - 13:18:33: World triggered "Round_Start"
+L 03/21/2015 - 13:18:47: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:18:47: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:18:47: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/21/2015 - 13:18:47: World triggered "Round_End"
+L 03/21/2015 - 13:18:57: World triggered "Round_Start"
+L 03/21/2015 - 13:19:05: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:19:05: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:19:05: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/21/2015 - 13:19:05: World triggered "Round_End"
+L 03/21/2015 - 13:19:15: World triggered "Round_Start"
+L 03/21/2015 - 13:19:28: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:19:28: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:19:28: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/21/2015 - 13:19:28: World triggered "Round_End"
+L 03/21/2015 - 13:19:30: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" say ",kz" (dead)
+L 03/21/2015 - 13:19:38: World triggered "Round_Start"
+L 03/21/2015 - 13:19:47: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:19:47: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:19:47: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/21/2015 - 13:19:47: World triggered "Round_End"
+L 03/21/2015 - 13:19:57: World triggered "Round_Start"
+L 03/21/2015 - 13:20:11: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:20:11: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:20:11: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 03/21/2015 - 13:20:11: World triggered "Round_End"
+L 03/21/2015 - 13:20:21: World triggered "Round_Start"
+L 03/21/2015 - 13:20:33: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:20:33: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:20:33: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 03/21/2015 - 13:20:33: World triggered "Round_End"
+L 03/21/2015 - 13:20:43: World triggered "Round_Start"
+L 03/21/2015 - 13:21:19: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/21/2015 - 13:21:20: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "60") (damage_armor "0") (health "-40") (armor "0")
+L 03/21/2015 - 13:21:20: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:21:20: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 03/21/2015 - 13:21:20: World triggered "Round_End"
+L 03/21/2015 - 13:21:26: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" say ",kz evtyz kfuft"
+L 03/21/2015 - 13:21:30: World triggered "Round_Start"
+L 03/21/2015 - 13:21:41: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:21:41: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" with "knife"
+L 03/21/2015 - 13:21:59: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:21:59: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:21:59: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 03/21/2015 - 13:21:59: World triggered "Round_End"
+L 03/21/2015 - 13:22:09: World triggered "Round_Start"
+L 03/21/2015 - 13:22:24: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 13:22:24: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:22:24: Team "CT" triggered "CTs_Win" (CT "9") (T "0")
+L 03/21/2015 - 13:22:24: World triggered "Round_End"
+L 03/21/2015 - 13:22:34: World triggered "Round_Start"
+L 03/21/2015 - 13:22:52: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-52") (armor "0")
+L 03/21/2015 - 13:22:52: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:22:52: Team "CT" triggered "CTs_Win" (CT "10") (T "0")
+L 03/21/2015 - 13:22:52: World triggered "Round_End"
+L 03/21/2015 - 13:23:02: World triggered "Round_Start"
+L 03/21/2015 - 13:23:21: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:23:21: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:23:21: Team "CT" triggered "CTs_Win" (CT "11") (T "0")
+L 03/21/2015 - 13:23:21: World triggered "Round_End"
+L 03/21/2015 - 13:23:31: World triggered "Round_Start"
+L 03/21/2015 - 13:23:41: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 13:23:41: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:23:45: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:23:45: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:23:45: Team "CT" triggered "CTs_Win" (CT "12") (T "0")
+L 03/21/2015 - 13:23:45: World triggered "Round_End"
+L 03/21/2015 - 13:23:55: World triggered "Round_Start"
+L 03/21/2015 - 13:24:04: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:24:04: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" with "knife"
+L 03/21/2015 - 13:24:10: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" triggered "weaponstats" (weapon "knife") (shots "25") (hits "12") (kills "11") (headshots "2") (tks "0") (damage "920") (deaths "2")
+L 03/21/2015 - 13:24:10: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:24:10: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" triggered "time" (time "5:47")
+L 03/21/2015 - 13:24:10: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" triggered "latency" (ping "29")
+L 03/21/2015 - 13:24:10: "|Xyligans|_Zl@9|_P@nD@<99><STEAM_0:4:310267141><CT>" disconnected
+L 03/21/2015 - 13:24:14: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 13:24:14: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><>" connected, address "37.215.121.81:34026"
+L 03/21/2015 - 13:24:14: [VTC] Player 2 speex
+L 03/21/2015 - 13:24:19: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><>" entered the game
+L 03/21/2015 - 13:24:25: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><>" joined team "CT"
+L 03/21/2015 - 13:24:39: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:24:39: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:24:39: Team "CT" triggered "CTs_Win" (CT "13") (T "0")
+L 03/21/2015 - 13:24:39: World triggered "Round_End"
+L 03/21/2015 - 13:24:49: World triggered "Round_Start"
+L 03/21/2015 - 13:24:57: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:24:57: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:24:57: Team "CT" triggered "CTs_Win" (CT "14") (T "0")
+L 03/21/2015 - 13:24:57: World triggered "Round_End"
+L 03/21/2015 - 13:25:01: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" committed suicide with "world"
+L 03/21/2015 - 13:25:01: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" joined team "TERRORIST"
+L 03/21/2015 - 13:25:07: World triggered "Round_Start"
+L 03/21/2015 - 13:25:17: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:25:17: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:25:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "1")
+L 03/21/2015 - 13:25:17: World triggered "Round_End"
+L 03/21/2015 - 13:25:21: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" committed suicide with "world"
+L 03/21/2015 - 13:25:21: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" joined team "CT"
+L 03/21/2015 - 13:25:27: World triggered "Round_Start"
+L 03/21/2015 - 13:25:44: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" attacked "RoCk<98><STEAM_0:4:1582679675><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:25:44: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" killed "RoCk<98><STEAM_0:4:1582679675><CT>" with "knife"
+L 03/21/2015 - 13:25:50: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:25:50: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:25:50: Team "CT" triggered "CTs_Win" (CT "15") (T "1")
+L 03/21/2015 - 13:25:50: World triggered "Round_End"
+L 03/21/2015 - 13:26:00: World triggered "Round_Start"
+L 03/21/2015 - 13:26:10: "RoCk<98><STEAM_0:4:1582679675><CT>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:26:10: "RoCk<98><STEAM_0:4:1582679675><CT>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:26:10: Team "CT" triggered "CTs_Win" (CT "16") (T "1")
+L 03/21/2015 - 13:26:10: World triggered "Round_End"
+L 03/21/2015 - 13:26:13: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" joined team "CT"
+L 03/21/2015 - 13:26:19: "RoCk<98><STEAM_0:4:1582679675><CT>" committed suicide with "world"
+L 03/21/2015 - 13:26:19: "RoCk<98><STEAM_0:4:1582679675><CT>" joined team "TERRORIST"
+L 03/21/2015 - 13:26:19: World triggered "Game_Commencing"
+L 03/21/2015 - 13:26:19: World triggered "Game_Commencing" (CT "16") (T "1")
+L 03/21/2015 - 13:26:19: World triggered "Round_End"
+L 03/21/2015 - 13:26:27: World triggered "Round_Start"
+L 03/21/2015 - 13:26:41: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:26:41: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:26:41: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/21/2015 - 13:26:41: World triggered "Round_End"
+L 03/21/2015 - 13:26:51: World triggered "Round_Start"
+L 03/21/2015 - 13:27:03: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:27:03: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:27:10: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 13:27:10: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:27:10: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/21/2015 - 13:27:10: World triggered "Round_End"
+L 03/21/2015 - 13:27:20: World triggered "Round_Start"
+L 03/21/2015 - 13:27:31: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/21/2015 - 13:27:32: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/21/2015 - 13:27:32: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-10") (armor "0")
+L 03/21/2015 - 13:27:32: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:27:32: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/21/2015 - 13:27:32: World triggered "Round_End"
+L 03/21/2015 - 13:27:42: World triggered "Round_Start"
+L 03/21/2015 - 13:27:57: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:27:57: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:27:57: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/21/2015 - 13:27:57: World triggered "Round_End"
+L 03/21/2015 - 13:28:01: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997cf0
+L 03/21/2015 - 13:28:01: "bum<101><STEAM_0:4:1783582341><>" connected, address "178.127.194.125:27005"
+L 03/21/2015 - 13:28:02: [VTC] Player 3 speex
+L 03/21/2015 - 13:28:05: "bum<101><STEAM_0:4:1783582341><>" entered the game
+L 03/21/2015 - 13:28:07: World triggered "Round_Start"
+L 03/21/2015 - 13:28:08: "bum<101><STEAM_0:4:1783582341><>" joined team "TERRORIST"
+L 03/21/2015 - 13:28:23: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" say "ns gkj[jq"
+L 03/21/2015 - 13:28:24: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "bum<101><STEAM_0:4:1783582341><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:28:24: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "bum<101><STEAM_0:4:1783582341><TERRORIST>" with "knife"
+L 03/21/2015 - 13:28:36: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" say "ns gkj[jq"
+L 03/21/2015 - 13:28:36: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:28:36: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:28:36: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 03/21/2015 - 13:28:36: World triggered "Round_End"
+L 03/21/2015 - 13:28:46: World triggered "Round_Start"
+L 03/21/2015 - 13:28:56: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:28:56: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:29:02: "bum<101><STEAM_0:4:1783582341><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:29:02: "bum<101><STEAM_0:4:1783582341><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:29:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "1")
+L 03/21/2015 - 13:29:02: World triggered "Round_End"
+L 03/21/2015 - 13:29:07: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39a1ad8
+L 03/21/2015 - 13:29:07: "AcT1oN [T]oK<102><STEAM_0:1:101491933><>" connected, address "37.215.123.47:39303"
+L 03/21/2015 - 13:29:07: [VTC] Player 5 silk
+L 03/21/2015 - 13:29:07: "AcT1oN [T]oK<102><STEAM_0:1:101491933><>" STEAM USERID validated
+L 03/21/2015 - 13:29:09: "AcT1oN [T]oK<102><STEAM_0:1:101491933><>" entered the game
+L 03/21/2015 - 13:29:12: World triggered "Round_Start"
+L 03/21/2015 - 13:29:15: "AcT1oN [T]oK<102><STEAM_0:1:101491933><>" joined team "TERRORIST"
+L 03/21/2015 - 13:29:20: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "bum<101><STEAM_0:4:1783582341><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:29:20: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "bum<101><STEAM_0:4:1783582341><TERRORIST>" with "knife"
+L 03/21/2015 - 13:29:24: "AcT1oN [T]oK<102><STEAM_0:1:101491933><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:29:24: "AcT1oN [T]oK<102><STEAM_0:1:101491933><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:29:27: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" attacked "AcT1oN [T]oK<102><STEAM_0:1:101491933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:29:27: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" killed "AcT1oN [T]oK<102><STEAM_0:1:101491933><TERRORIST>" with "knife"
+L 03/21/2015 - 13:29:27: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:29:27: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:29:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 03/21/2015 - 13:29:27: World triggered "Round_End"
+L 03/21/2015 - 13:29:30: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" joined team "TERRORIST"
+L 03/21/2015 - 13:29:35: "AcT1oN [T]oK<102><STEAM_0:1:101491933><TERRORIST>" committed suicide with "world"
+L 03/21/2015 - 13:29:35: "AcT1oN [T]oK<102><STEAM_0:1:101491933><TERRORIST>" joined team "CT"
+L 03/21/2015 - 13:29:37: World triggered "Round_Start"
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<102><STEAM_0:1:101491933><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<102><STEAM_0:1:101491933><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<102><STEAM_0:1:101491933><CT>" triggered "time" (time "0:32")
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<102><STEAM_0:1:101491933><CT>" triggered "latency" (ping "33")
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<102><STEAM_0:1:101491933><CT>" disconnected
+L 03/21/2015 - 13:29:42: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 0xb39a1ad8
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<103><STEAM_0:1:101491933><>" connected, address "37.215.123.47:39303"
+L 03/21/2015 - 13:29:42: [VTC] Player 5 silk
+L 03/21/2015 - 13:29:42: "AcT1oN [T]oK<103><STEAM_0:1:101491933><>" STEAM USERID validated
+L 03/21/2015 - 13:29:44: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "bum<101><STEAM_0:4:1783582341><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:29:44: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "bum<101><STEAM_0:4:1783582341><TERRORIST>" with "knife"
+L 03/21/2015 - 13:29:44: "AcT1oN [T]oK<103><STEAM_0:1:101491933><>" entered the game
+L 03/21/2015 - 13:29:47: "AcT1oN [T]oK<103><STEAM_0:1:101491933><>" joined team "CT"
+L 03/21/2015 - 13:29:50: "bum<101><STEAM_0:4:1783582341><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "3")
+L 03/21/2015 - 13:29:50: "bum<101><STEAM_0:4:1783582341><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:29:50: "bum<101><STEAM_0:4:1783582341><TERRORIST>" triggered "time" (time "1:45")
+L 03/21/2015 - 13:29:50: "bum<101><STEAM_0:4:1783582341><TERRORIST>" triggered "latency" (ping "29")
+L 03/21/2015 - 13:29:50: "bum<101><STEAM_0:4:1783582341><TERRORIST>" disconnected
+L 03/21/2015 - 13:30:04: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:30:04: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:30:07: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 13:30:07: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:30:10: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:30:10: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:30:10: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 03/21/2015 - 13:30:10: World triggered "Round_End"
+L 03/21/2015 - 13:30:20: World triggered "Round_Start"
+L 03/21/2015 - 13:30:30: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:30:30: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:30:30: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:30:30: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:30:33: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:30:33: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:30:33: Team "CT" triggered "CTs_Win" (CT "7") (T "2")
+L 03/21/2015 - 13:30:33: World triggered "Round_End"
+L 03/21/2015 - 13:30:43: World triggered "Round_Start"
+L 03/21/2015 - 13:30:54: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997cf0
+L 03/21/2015 - 13:30:54: ".iOscar  :3<104><STEAM_0:4:453646926><>" connected, address "37.214.72.159:31437"
+L 03/21/2015 - 13:30:54: [VTC] Player 3 speex
+L 03/21/2015 - 13:30:57: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:30:57: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" with "knife"
+L 03/21/2015 - 13:30:57: ".iOscar  :3<104><STEAM_0:4:453646926><>" entered the game
+L 03/21/2015 - 13:30:59: ".iOscar  :3<104><STEAM_0:4:453646926><>" joined team "TERRORIST"
+L 03/21/2015 - 13:31:06: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" attacked "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:31:06: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" killed "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" with "knife"
+L 03/21/2015 - 13:31:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" attacked ".iOscar  :3<104><STEAM_0:4:453646926><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:31:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" killed ".iOscar  :3<104><STEAM_0:4:453646926><TERRORIST>" with "knife"
+L 03/21/2015 - 13:31:16: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:31:16: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:31:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "3")
+L 03/21/2015 - 13:31:16: World triggered "Round_End"
+L 03/21/2015 - 13:31:19: "RoCk<98><STEAM_0:4:1582679675><TERRORIST>" joined team "CT"
+L 03/21/2015 - 13:31:26: World triggered "Round_Start"
+L 03/21/2015 - 13:31:27: ".iOscar  :3<104><STEAM_0:4:453646926><TERRORIST>" triggered "time" (time "0:29")
+L 03/21/2015 - 13:31:27: ".iOscar  :3<104><STEAM_0:4:453646926><TERRORIST>" triggered "latency" (ping "49")
+L 03/21/2015 - 13:31:27: ".iOscar  :3<104><STEAM_0:4:453646926><TERRORIST>" disconnected
+L 03/21/2015 - 13:31:36: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" attacked "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:31:36: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" killed "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/21/2015 - 13:31:37: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" attacked "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "60") (damage_armor "0") (health "-25") (armor "0")
+L 03/21/2015 - 13:31:37: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" killed "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:31:37: Team "CT" triggered "CTs_Win" (CT "8") (T "3")
+L 03/21/2015 - 13:31:37: World triggered "Round_End"
+L 03/21/2015 - 13:31:38: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><CT>" joined team "SPECTATOR"
+L 03/21/2015 - 13:31:38: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" committed suicide with "world"
+L 03/21/2015 - 13:31:38: "AcT1oN [T]oK<103><STEAM_0:1:101491933><CT>" joined team "TERRORIST"
+L 03/21/2015 - 13:31:47: World triggered "Round_Start"
+L 03/21/2015 - 13:31:55: "RoCk<98><STEAM_0:4:1582679675><CT>" attacked "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:31:55: "RoCk<98><STEAM_0:4:1582679675><CT>" killed "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" with "knife"
+L 03/21/2015 - 13:31:58: "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "5") (kills "5") (headshots "1") (tks "0") (damage "320") (deaths "2")
+L 03/21/2015 - 13:31:58: "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:31:58: "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" triggered "time" (time "2:14")
+L 03/21/2015 - 13:31:58: "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" triggered "latency" (ping "29")
+L 03/21/2015 - 13:31:58: "AcT1oN [T]oK<103><STEAM_0:1:101491933><TERRORIST>" disconnected
+L 03/21/2015 - 13:32:27: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" attacked "RoCk<98><STEAM_0:4:1582679675><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:32:27: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" killed "RoCk<98><STEAM_0:4:1582679675><CT>" with "knife"
+L 03/21/2015 - 13:32:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "4")
+L 03/21/2015 - 13:32:27: World triggered "Round_End"
+L 03/21/2015 - 13:32:29: "RoCk<98><STEAM_0:4:1582679675><CT>" say ",kz" (dead)
+L 03/21/2015 - 13:32:37: World triggered "Round_Start"
+L 03/21/2015 - 13:32:42: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" attacked "RoCk<98><STEAM_0:4:1582679675><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:32:42: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" killed "RoCk<98><STEAM_0:4:1582679675><CT>" with "knife"
+L 03/21/2015 - 13:32:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "5")
+L 03/21/2015 - 13:32:42: World triggered "Round_End"
+L 03/21/2015 - 13:32:46: "RoCk<98><STEAM_0:4:1582679675><CT>" triggered "weaponstats" (weapon "knife") (shots "181") (hits "11") (kills "11") (headshots "2") (tks "0") (damage "1105") (deaths "25")
+L 03/21/2015 - 13:32:46: "RoCk<98><STEAM_0:4:1582679675><CT>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:32:46: "RoCk<98><STEAM_0:4:1582679675><CT>" triggered "time" (time "14:25")
+L 03/21/2015 - 13:32:46: "RoCk<98><STEAM_0:4:1582679675><CT>" triggered "latency" (ping "68")
+L 03/21/2015 - 13:32:46: "RoCk<98><STEAM_0:4:1582679675><CT>" disconnected
+L 03/21/2015 - 13:32:52: World triggered "Round_Start"
+L 03/21/2015 - 13:33:04: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" committed suicide with "world"
+L 03/21/2015 - 13:33:04: World triggered "Round_Draw" (CT "8") (T "5")
+L 03/21/2015 - 13:33:04: World triggered "Round_End"
+L 03/21/2015 - 13:33:04: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><TERRORIST>" joined team "CT"
+L 03/21/2015 - 13:33:04: World triggered "Round_Draw" (CT "8") (T "5")
+L 03/21/2015 - 13:33:04: World triggered "Round_End"
+L 03/21/2015 - 13:33:14: World triggered "Round_Start"
+L 03/21/2015 - 13:33:15: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" triggered "weaponstats" (weapon "knife") (shots "133") (hits "15") (kills "13") (headshots "0") (tks "0") (damage "825") (deaths "8")
+L 03/21/2015 - 13:33:15: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "2") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:33:15: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" triggered "time" (time "8:56")
+L 03/21/2015 - 13:33:15: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" triggered "latency" (ping "25")
+L 03/21/2015 - 13:33:15: "r       jfnvmrvmrrt<100><STEAM_0:4:2081594062><CT>" disconnected
+L 03/21/2015 - 13:33:15: World triggered "Round_Draw" (CT "8") (T "5")
+L 03/21/2015 - 13:33:15: World triggered "Round_End"
+L 03/21/2015 - 13:33:16: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 13:33:16: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><>" connected, address "37.215.121.81:34026"
+L 03/21/2015 - 13:33:16: [VTC] Player 2 speex
+L 03/21/2015 - 13:33:20: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><>" entered the game
+L 03/21/2015 - 13:33:25: World triggered "Round_Start"
+L 03/21/2015 - 13:33:26: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997cf0
+L 03/21/2015 - 13:33:26: "[TOP-MS] FANAT CAXAPA<106><STEAM_0:4:244174085><>" connected, address "178.120.71.180:3843"
+L 03/21/2015 - 13:33:26: [VTC] Player 3 speex
+L 03/21/2015 - 13:33:28: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><>" joined team "CT"
+L 03/21/2015 - 13:33:33: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997cf0
+L 03/21/2015 - 13:33:33: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><>" connected, address "178.120.71.180:3843"
+L 03/21/2015 - 13:33:33: [VTC] Player 3 speex
+L 03/21/2015 - 13:33:41: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><>" entered the game
+L 03/21/2015 - 13:33:45: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/21/2015 - 13:33:45: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:33:45: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><CT>" triggered "time" (time "0:25")
+L 03/21/2015 - 13:33:45: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><CT>" triggered "latency" (ping "21")
+L 03/21/2015 - 13:33:45: "r       jfnvmrvmrrt<105><STEAM_0:4:2081594062><CT>" disconnected
+L 03/21/2015 - 13:33:45: World triggered "Round_Draw" (CT "8") (T "5")
+L 03/21/2015 - 13:33:45: World triggered "Round_End"
+L 03/21/2015 - 13:33:45: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 13:33:45: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><>" connected, address "37.215.121.81:34026"
+L 03/21/2015 - 13:33:45: [VTC] Player 2 speex
+L 03/21/2015 - 13:33:49: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><>" entered the game
+L 03/21/2015 - 13:33:50: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><>" joined team "CT"
+L 03/21/2015 - 13:33:51: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><>" joined team "CT"
+L 03/21/2015 - 13:33:53: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" committed suicide with "world"
+L 03/21/2015 - 13:33:53: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" joined team "CT"
+L 03/21/2015 - 13:33:55: World triggered "Round_Start"
+L 03/21/2015 - 13:34:00: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/21/2015 - 13:34:00: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:34:00: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" triggered "time" (time "0:10")
+L 03/21/2015 - 13:34:00: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" triggered "latency" (ping "0")
+L 03/21/2015 - 13:34:00: "r       jfnvmrvmrrt<108><STEAM_0:4:2081594062><CT>" disconnected
+L 03/21/2015 - 13:34:00: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 13:34:00: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><>" connected, address "37.215.121.81:34026"
+L 03/21/2015 - 13:34:00: [VTC] Player 2 speex
+L 03/21/2015 - 13:34:04: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><>" entered the game
+L 03/21/2015 - 13:34:05: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><>" joined team "TERRORIST"
+L 03/21/2015 - 13:34:05: World triggered "Game_Commencing"
+L 03/21/2015 - 13:34:05: World triggered "Game_Commencing" (CT "8") (T "5")
+L 03/21/2015 - 13:34:05: World triggered "Round_End"
+L 03/21/2015 - 13:34:13: World triggered "Round_Start"
+L 03/21/2015 - 13:34:16: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399cbe4
+L 03/21/2015 - 13:34:16: "MRALeMR<110><STEAM_0:4:1777796337><>" connected, address "91.235.178.122:27005"
+L 03/21/2015 - 13:34:16: [VTC] Player 4 speex
+L 03/21/2015 - 13:34:22: "MRALeMR<110><STEAM_0:4:1777796337><>" entered the game
+L 03/21/2015 - 13:34:23: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:34:23: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:34:23: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/21/2015 - 13:34:23: World triggered "Round_End"
+L 03/21/2015 - 13:34:29: "MRALeMR<110><STEAM_0:4:1777796337><>" joined team "TERRORIST"
+L 03/21/2015 - 13:34:33: World triggered "Round_Start"
+L 03/21/2015 - 13:34:49: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:34:49: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:34:54: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:34:54: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><TERRORIST>" with "knife"
+L 03/21/2015 - 13:34:54: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/21/2015 - 13:34:54: World triggered "Round_End"
+L 03/21/2015 - 13:34:56: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><TERRORIST>" joined team "CT"
+L 03/21/2015 - 13:35:04: World triggered "Round_Start"
+L 03/21/2015 - 13:35:25: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "60") (damage_armor "0") (health "-28") (armor "0")
+L 03/21/2015 - 13:35:25: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:35:25: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/21/2015 - 13:35:25: World triggered "Round_End"
+L 03/21/2015 - 13:35:35: World triggered "Round_Start"
+L 03/21/2015 - 13:35:47: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:35:47: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:36:00: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a1ad8
+L 03/21/2015 - 13:36:00: ".iOscar  :3<111><STEAM_0:4:453646926><>" connected, address "37.214.72.159:54307"
+L 03/21/2015 - 13:36:00: [VTC] Player 5 speex
+L 03/21/2015 - 13:36:04: ".iOscar  :3<111><STEAM_0:4:453646926><>" entered the game
+L 03/21/2015 - 13:36:06: ".iOscar  :3<111><STEAM_0:4:453646926><>" joined team "TERRORIST"
+L 03/21/2015 - 13:36:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "31") (hits "8") (kills "8") (headshots "1") (tks "0") (damage "715") (deaths "8")
+L 03/21/2015 - 13:36:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:36:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><SPECTATOR>" triggered "time" (time "17:58")
+L 03/21/2015 - 13:36:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><SPECTATOR>" triggered "latency" (ping "2")
+L 03/21/2015 - 13:36:12: "[Hard_Skill]_Dasha<77><STEAM_0:4:1068366041><SPECTATOR>" disconnected
+L 03/21/2015 - 13:36:24: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398df08
+L 03/21/2015 - 13:36:24: "JleBa9 KJleLLlH9 (.iOscar)<112><STEAM_0:4:1603508814><>" connected, address "37.214.123.22:60233"
+L 03/21/2015 - 13:36:24: [VTC] Player 1 speex
+L 03/21/2015 - 13:36:28: "JleBa9 KJleLLlH9 (.iOscar)<112><STEAM_0:4:1603508814><>" entered the game
+L 03/21/2015 - 13:36:34: ".iOscar  :3<111><STEAM_0:4:453646926><TERRORIST>" triggered "time" (time "0:29")
+L 03/21/2015 - 13:36:34: ".iOscar  :3<111><STEAM_0:4:453646926><TERRORIST>" triggered "latency" (ping "75")
+L 03/21/2015 - 13:36:34: ".iOscar  :3<111><STEAM_0:4:453646926><TERRORIST>" disconnected
+L 03/21/2015 - 13:36:43: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/21/2015 - 13:36:43: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/21/2015 - 13:36:43: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "16") (armor "0")
+L 03/21/2015 - 13:36:44: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "1") (armor "0")
+L 03/21/2015 - 13:36:44: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-14") (armor "0")
+L 03/21/2015 - 13:36:44: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:36:44: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/21/2015 - 13:36:44: World triggered "Round_End"
+L 03/21/2015 - 13:36:54: World triggered "Round_Start"
+L 03/21/2015 - 13:37:28: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/21/2015 - 13:37:29: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/21/2015 - 13:37:29: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-10") (armor "0")
+L 03/21/2015 - 13:37:29: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:37:29: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 03/21/2015 - 13:37:29: World triggered "Round_End"
+L 03/21/2015 - 13:37:35: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a1ad8
+L 03/21/2015 - 13:37:35: "Alinka :3<113><STEAM_0:4:453646926><>" connected, address "37.214.72.159:54307"
+L 03/21/2015 - 13:37:35: [VTC] Player 5 speex
+L 03/21/2015 - 13:37:38: "Alinka :3<113><STEAM_0:4:453646926><>" entered the game
+L 03/21/2015 - 13:37:39: World triggered "Round_Start"
+L 03/21/2015 - 13:37:40: "Alinka :3<113><STEAM_0:4:453646926><>" joined team "TERRORIST"
+L 03/21/2015 - 13:37:44: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a69cc
+L 03/21/2015 - 13:37:44: "D.R.O.N.<114><STEAM_0:4:240017285><>" connected, address "178.93.192.181:27005"
+L 03/21/2015 - 13:37:44: [VTC] Player 6 speex
+L 03/21/2015 - 13:37:44: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:37:44: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:37:49: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a69cc
+L 03/21/2015 - 13:37:49: "D.R.O.N.<115><STEAM_0:4:240017285><>" connected, address "178.93.192.181:27005"
+L 03/21/2015 - 13:37:49: [VTC] Player 6 speex
+L 03/21/2015 - 13:37:52: "D.R.O.N.<115><STEAM_0:4:240017285><>" entered the game
+L 03/21/2015 - 13:37:56: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:37:56: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" with "knife"
+L 03/21/2015 - 13:37:56: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 03/21/2015 - 13:37:56: World triggered "Round_End"
+L 03/21/2015 - 13:38:06: World triggered "Round_Start"
+L 03/21/2015 - 13:38:08: "D.R.O.N.<115><STEAM_0:4:240017285><>" joined team "CT"
+L 03/21/2015 - 13:38:17: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:38:17: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:38:21: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:38:21: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" with "knife"
+L 03/21/2015 - 13:38:27: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:38:27: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:38:27: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 03/21/2015 - 13:38:27: World triggered "Round_End"
+L 03/21/2015 - 13:38:28: "JleBa9 KJleLLlH9 (.iOscar)<112><STEAM_0:4:1603508814><>" joined team "TERRORIST"
+L 03/21/2015 - 13:38:32: "JleBa9 KJleLLlH9 (.iOscar)<112><STEAM_0:4:1603508814><TERRORIST>" changed name to "JleBa9 KJleLLlH9 (Alinka)"
+L 03/21/2015 - 13:38:37: World triggered "Round_Start"
+L 03/21/2015 - 13:38:39: "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/21/2015 - 13:38:39: "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:38:39: "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" triggered "time" (time "1:00")
+L 03/21/2015 - 13:38:39: "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" triggered "latency" (ping "46")
+L 03/21/2015 - 13:38:39: "Alinka :3<113><STEAM_0:4:453646926><TERRORIST>" disconnected
+L 03/21/2015 - 13:38:43: "JleBa9 KJleLLlH9 (Alinka)<112><STEAM_0:4:1603508814><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/21/2015 - 13:38:47: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "18") (damage_armor "0") (health "17") (armor "0")
+L 03/21/2015 - 13:38:47: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "2") (armor "0")
+L 03/21/2015 - 13:38:47: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-13") (armor "0")
+L 03/21/2015 - 13:38:47: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:38:47: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 03/21/2015 - 13:38:47: World triggered "Round_End"
+L 03/21/2015 - 13:38:57: World triggered "Round_Start"
+L 03/21/2015 - 13:39:07: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 13:39:07: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:39:08: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a1ad8
+L 03/21/2015 - 13:39:08: ".<116><STEAM_0:4:453646926><>" connected, address "37.214.72.159:54307"
+L 03/21/2015 - 13:39:08: [VTC] Player 5 speex
+L 03/21/2015 - 13:39:12: ".<116><STEAM_0:4:453646926><>" entered the game
+L 03/21/2015 - 13:39:14: ".<116><STEAM_0:4:453646926><>" joined team "TERRORIST"
+L 03/21/2015 - 13:39:14: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "JleBa9 KJleLLlH9 (Alinka)<112><STEAM_0:4:1603508814><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:14: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "JleBa9 KJleLLlH9 (Alinka)<112><STEAM_0:4:1603508814><TERRORIST>" with "knife"
+L 03/21/2015 - 13:39:23: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:23: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:39:27: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:27: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:39:29: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:29: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:39:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "1")
+L 03/21/2015 - 13:39:29: World triggered "Round_End"
+L 03/21/2015 - 13:39:34: "JleBa9 KJleLLlH9 (Alinka)<112><STEAM_0:4:1603508814><TERRORIST>" changed name to "JleBa9 KJleLLlH9 (.)"
+L 03/21/2015 - 13:39:39: World triggered "Round_Start"
+L 03/21/2015 - 13:39:44: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:44: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" with "knife"
+L 03/21/2015 - 13:39:48: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" attacked "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:48: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" killed "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:39:50: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:50: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:39:55: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:55: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:39:56: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" attacked ".<116><STEAM_0:4:453646926><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:39:56: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" killed ".<116><STEAM_0:4:453646926><TERRORIST>" with "knife"
+L 03/21/2015 - 13:39:56: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 03/21/2015 - 13:39:56: World triggered "Round_End"
+L 03/21/2015 - 13:40:02: "MRALeMR<110><STEAM_0:4:1777796337><TERRORIST>" changed name to ","
+L 03/21/2015 - 13:40:02: ".<116><STEAM_0:4:453646926><TERRORIST>" say "        !                 "
+L 03/21/2015 - 13:40:06: World triggered "Round_Start"
+L 03/21/2015 - 13:40:12: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:40:12: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:40:14: ",<110><STEAM_0:4:1777796337><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:40:14: ",<110><STEAM_0:4:1777796337><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:40:14: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:40:14: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:40:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "2")
+L 03/21/2015 - 13:40:14: World triggered "Round_End"
+L 03/21/2015 - 13:40:24: World triggered "Round_Start"
+L 03/21/2015 - 13:40:33: ",<110><STEAM_0:4:1777796337><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-39") (armor "0")
+L 03/21/2015 - 13:40:33: ",<110><STEAM_0:4:1777796337><TERRORIST>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:40:34: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:40:34: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:40:43: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:40:43: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:40:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "3")
+L 03/21/2015 - 13:40:43: World triggered "Round_End"
+L 03/21/2015 - 13:40:47: ",<110><STEAM_0:4:1777796337><TERRORIST>" committed suicide with "worldspawn" (world)
+L 03/21/2015 - 13:40:53: World triggered "Round_Start"
+L 03/21/2015 - 13:41:02: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" attacked ",<110><STEAM_0:4:1777796337><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:41:02: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" killed ",<110><STEAM_0:4:1777796337><TERRORIST>" with "knife"
+L 03/21/2015 - 13:41:07: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:41:07: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:41:09: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" attacked "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/21/2015 - 13:41:09: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" killed "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" with "knife"
+L 03/21/2015 - 13:41:10: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:41:10: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:41:13: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:41:13: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:41:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "4")
+L 03/21/2015 - 13:41:13: World triggered "Round_End"
+L 03/21/2015 - 13:41:23: World triggered "Round_Start"
+L 03/21/2015 - 13:41:30: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" attacked "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:41:30: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" killed "D.R.O.N.<115><STEAM_0:4:240017285><CT>" with "knife"
+L 03/21/2015 - 13:41:41: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39ab8c0
+L 03/21/2015 - 13:41:41: "[Hard_Skill]_Dasha<117><STEAM_0:4:1068366041><>" connected, address "10.19.7.214:27005"
+L 03/21/2015 - 13:41:41: [VTC] Player 7 speex
+L 03/21/2015 - 13:41:46: ",<110><STEAM_0:4:1777796337><TERRORIST>" attacked "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/21/2015 - 13:41:46: ",<110><STEAM_0:4:1777796337><TERRORIST>" killed "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" with "knife"
+L 03/21/2015 - 13:41:54: Server cvar "amx_nextmap" = "$9000$"
+L 03/21/2015 - 13:41:54: Server cvar "mp_timelimit" = "0.000000"
+L 03/21/2015 - 13:41:58: ".<116><STEAM_0:4:453646926><TERRORIST>" attacked "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 13:41:58: ".<116><STEAM_0:4:453646926><TERRORIST>" killed "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" with "knife"
+L 03/21/2015 - 13:41:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "5")
+L 03/21/2015 - 13:41:58: World triggered "Round_End"
+L 03/21/2015 - 13:42:03: "[Hard_Skill]_Dasha<117><STEAM_0:4:1068366041><>" entered the game
+L 03/21/2015 - 13:42:08: Server cvar "mp_timelimit" = "0.010000"
+L 03/21/2015 - 13:42:08: World triggered "Round_Start"
+L 03/21/2015 - 13:42:08: Team "CT" scored "9" with "3" players
+L 03/21/2015 - 13:42:08: Team "TERRORIST" scored "5" with "3" players
+L 03/21/2015 - 13:42:08: Server cvar "mp_chattime" = "3"
+L 03/21/2015 - 13:42:09: Server cvar "mp_chattime" = "1"
+L 03/21/2015 - 13:42:09: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "4") (kills "4") (headshots "0") (tks "0") (damage "260") (deaths "3")
+L 03/21/2015 - 13:42:09: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:42:09: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" triggered "time" (time "5:41")
+L 03/21/2015 - 13:42:09: "JleBa9 KJleLLlH9 (.)<112><STEAM_0:4:1603508814><TERRORIST>" triggered "latency" (ping "43")
+L 03/21/2015 - 13:42:09: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" triggered "weaponstats" (weapon "knife") (shots "121") (hits "14") (kills "8") (headshots "1") (tks "0") (damage "458") (deaths "7")
+L 03/21/2015 - 13:42:09: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" triggered "weaponstats2" (weapon "knife") (head "3") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:42:09: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" triggered "time" (time "8:04")
+L 03/21/2015 - 13:42:09: "r       jfnvmrvmrrt<109><STEAM_0:4:2081594062><CT>" triggered "latency" (ping "25")
+L 03/21/2015 - 13:42:09: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" triggered "weaponstats" (weapon "knife") (shots "18") (hits "8") (kills "8") (headshots "1") (tks "0") (damage "845") (deaths "7")
+L 03/21/2015 - 13:42:09: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:42:09: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" triggered "time" (time "8:27")
+L 03/21/2015 - 13:42:09: "[TOP-MS] FANAT CAXAPA<107><STEAM_0:4:244174085><CT>" triggered "latency" (ping "19")
+L 03/21/2015 - 13:42:09: ",<110><STEAM_0:4:1777796337><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "25") (hits "7") (kills "5") (headshots "0") (tks "0") (damage "485") (deaths "10")
+L 03/21/2015 - 13:42:09: ",<110><STEAM_0:4:1777796337><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:42:09: ",<110><STEAM_0:4:1777796337><TERRORIST>" triggered "time" (time "7:46")
+L 03/21/2015 - 13:42:09: ",<110><STEAM_0:4:1777796337><TERRORIST>" triggered "latency" (ping "67")
+L 03/21/2015 - 13:42:09: ".<116><STEAM_0:4:453646926><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "19") (hits "10") (kills "10") (headshots "0") (tks "0") (damage "650") (deaths "1")
+L 03/21/2015 - 13:42:09: ".<116><STEAM_0:4:453646926><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:42:09: ".<116><STEAM_0:4:453646926><TERRORIST>" triggered "time" (time "2:56")
+L 03/21/2015 - 13:42:09: ".<116><STEAM_0:4:453646926><TERRORIST>" triggered "latency" (ping "51")
+L 03/21/2015 - 13:42:09: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "7")
+L 03/21/2015 - 13:42:09: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 13:42:09: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" triggered "time" (time "4:16")
+L 03/21/2015 - 13:42:09: "D.R.O.N.<115><STEAM_0:4:240017285><CT>" triggered "latency" (ping "65")
+L 03/21/2015 - 13:42:09: "[Hard_Skill]_Dasha<117><STEAM_0:4:1068366041><UNASSIGNED>" triggered "time" (time "0:05")
+L 03/21/2015 - 13:42:09: "[Hard_Skill]_Dasha<117><STEAM_0:4:1068366041><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/21/2015 - 13:42:09: Server cvar "mp_timelimit" = "30.000000"
+L 03/21/2015 - 13:42:09: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/21/2015 - 13:42:09: [META] ini: Read plugin config for: AMX Mod X
+L 03/21/2015 - 13:42:09: [META] ini: Read plugin config for: dproto_EF
+L 03/21/2015 - 13:42:09: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/21/2015 - 13:42:09: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/21/2015 - 13:42:09: [META] dll: Updating plugins...
+L 03/21/2015 - 13:42:09: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/21/2015 - 13:42:09: Log file closed

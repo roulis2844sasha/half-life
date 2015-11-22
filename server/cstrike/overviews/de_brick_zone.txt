@@ -1,0 +1,14 @@
+// overview description file for de_brick_zone.bsp
+
+global 
+{
+	ZOOM	1.59
+	ORIGIN	2164 	-1296	80
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_brick_zone.bmp"
+	HEIGHT	-256
+}

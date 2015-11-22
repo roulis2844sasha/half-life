@@ -1,0 +1,39 @@
+[ru]
+WALKGUARD_KILL_MESSAGE = Вы вошли в зону с маркировкой Чит-Зона
+WALKGUARD_CAMPING_INIT = -= кемпер-зона несколько секунд прошло=-
+WALKGUARD_CAMPING_DAMG = -= кемпер-зона вы получите по повреждение =-
+WALKGUARD_CAMPING_TIME = -= кемпер-зона - %i секунд осталось=-
+ZONE_FILE_SAVED = файл-зона сохнанен  в '%s'
+ZONE_FULL = зоны полны, переместите старые или неиспользованные зоны
+WGM_ZONE_FOUND = %s^n%i зон найдено
+WGM_ZONE_CURRENT_CAMP = %s (текущая %i -> '\d%s\w' [повреждение после '\d%i\w' секунд])
+WGM_ZONE_CURRENT_NONE = %s (текущая %i -> '\d%s\w')
+WGM_ZONE_EDIT = %s^n1 - редактировать зону
+WGM_ZONE_CHANGE = %s^n      2 <- предыдущ.     3 -> след.
+WGM_ZONE_CREATE = %s^n4 - создать новую зону
+WGM_ZONE_DELETE = %s^n6 - \rудалить\w текущую зону
+WGM_ZONE_SAVE = %s^n9 - сохранить все зоны
+WGM_ZONE_EXIT = %s^n0 - выход
+WGE_ZONE_CURRENT_CAMP = %s^n1 - изменить свойства зоны -> '\d%s\w', урон после '\d%i\w' секунд
+WGE_ZONE_CURRENT_NONE = %s^n1 - изменить свойства зоны -> '\d%s\w'
+WGE_ZONE_CURRENT_CHANGE = %s^n      2 <- меньше      3 -> больше
+WGE_ZONE_SIZE_INIT = %s^n4 - изменить размер по оси '\d%s\w'
+WGE_ZONE_SIZE_MINS = %s^n      \r5 <- уже       6 ->шире\w
+WGE_ZONE_SIZE_MAXS = %s^n      \y7 <- уже       8 -> шире\w
+WGE_ZONE_SIZE_STEP = %s^n      9 - прирост \d%i\w юинитов
+WGE_ZONE_SIZE_QUIT = %s^n0 - назад
+TRANSLATE_X_KOORD = x-координаты
+TRANSLATE_Y_KOORD = y-координаты
+TRANSLATE_Z_KOORD = z-координаты
+ZONE_MODE_NONE = нет функции
+ZONE_MODE_CAMPER = кемпер-зона
+ZONE_MODE_CAMPER_T1 = кемпер-зона для команды 1 (пр: террористы)
+ZONE_MODE_CAMPER_T2 = кемпер-зона для команды 2 (пр: спецназ)
+ZONE_MODE_BLOCKING = блокировать всех пользователей
+ZONE_MODE_CHEATER = читер-зона, убить
+ZONE_MODE_CHEATER_T1 = читер-зона (команда 1 [пр: террористы]), убить
+ZONE_MODE_CHEATER_T2 = cheater-zone (команда 2 [пр: спецназ]), убить
+ZONE_KILL_INIT = \yВнимание!\w Удалить текущую зону?
+ZONE_KILL_ASK = %s^n^n^n1 - Нет^n^n0 - \rДа, удалить\w
+ZONE_KILL_YES = зона удалена
+ZONE_KILL_NO = зона НЕ удалена

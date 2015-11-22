@@ -589,7 +589,5 @@ load_settings(filename[])
 		g_mapNums++;
 	}
 
-	fclose(fp);
-
 	return 1;
 }

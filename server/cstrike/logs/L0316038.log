@@ -1,0 +1,1206 @@
+L 03/16/2015 - 17:07:35: Log file started (file "logs/L0316038.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/16/2015 - 17:07:35: Loading map "awp_india"
+L 03/16/2015 - 17:07:35: Server cvars start
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_debug_level" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_examine_time" = "0.5"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_look_angle" = "10"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_look_distance" = "200"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_message_repeats" = "5"
+L 03/16/2015 - 17:07:35: Server cvar "_tutor_view_distance" = "1000"
+L 03/16/2015 - 17:07:35: Server cvar "aesp_version" = "1.5b_mini"
+L 03/16/2015 - 17:07:35: Server cvar "allow_spectators" = "4"
+L 03/16/2015 - 17:07:35: Server cvar "amx_client_languages" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/16/2015 - 17:07:35: Server cvar "amx_language" = "ru"
+L 03/16/2015 - 17:07:35: Server cvar "amx_nextmap" = "awp_india"
+L 03/16/2015 - 17:07:35: Server cvar "amx_timeleft" = "00:00"
+L 03/16/2015 - 17:07:35: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/16/2015 - 17:07:35: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/16/2015 - 17:07:35: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Config" = "Loaded"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Replace" = "Failed"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Status" = "Loaded"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/16/2015 - 17:07:35: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/16/2015 - 17:07:35: Server cvar "coop" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "deathmatch" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "decalfrequency" = "9"
+L 03/16/2015 - 17:07:35: Server cvar "dp_version" = "0.9.391"
+L 03/16/2015 - 17:07:35: Server cvar "edgefriction" = "2"
+L 03/16/2015 - 17:07:35: Server cvar "hostage_debug" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "hostage_stop" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "humans_join_team" = "any"
+L 03/16/2015 - 17:07:35: Server cvar "jtp10181" = "chute"
+L 03/16/2015 - 17:07:35: Server cvar "max_queries_sec" = "3.0"
+L 03/16/2015 - 17:07:35: Server cvar "max_queries_sec_global" = "30"
+L 03/16/2015 - 17:07:35: Server cvar "max_queries_window" = "60"
+L 03/16/2015 - 17:07:35: Server cvar "metamod_version" = "1.19"
+L 03/16/2015 - 17:07:35: Server cvar "mp_allowmonsters" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_autokick" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_autoteambalance" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_buytime" = "1.5"
+L 03/16/2015 - 17:07:35: Server cvar "mp_c4timer" = "35"
+L 03/16/2015 - 17:07:35: Server cvar "mp_chattime" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_consistency" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_fadetoblack" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_flashlight" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_footsteps" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_forcecamera" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_forcechasecam" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_fragsleft" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_freezetime" = "5"
+L 03/16/2015 - 17:07:35: Server cvar "mp_friendlyfire" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_hostagepenalty" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_kickpercent" = "0.66"
+L 03/16/2015 - 17:07:35: Server cvar "mp_limitteams" = "5"
+L 03/16/2015 - 17:07:35: Server cvar "mp_logdetail" = "3"
+L 03/16/2015 - 17:07:35: Server cvar "mp_logfile" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_logmessages" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/16/2015 - 17:07:35: Server cvar "mp_maxrounds" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_mirrordamage" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_playerid" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_roundtime" = "2.57"
+L 03/16/2015 - 17:07:35: Server cvar "mp_startmoney" = "800"
+L 03/16/2015 - 17:07:35: Server cvar "mp_timeleft" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "mp_timelimit" = "30.000000"
+L 03/16/2015 - 17:07:35: Server cvar "mp_tkpunish" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_windifference" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "mp_winlimit" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "pausable" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_accelerate" = "5"
+L 03/16/2015 - 17:07:35: Server cvar "sv_aim" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_airaccelerate" = "10"
+L 03/16/2015 - 17:07:35: Server cvar "sv_airmove" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "sv_allowupload" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "sv_alltalk" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_bounce" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "sv_cheats" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_clienttrace" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "sv_clipmode" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_contact" = ""
+L 03/16/2015 - 17:07:35: Server cvar "sv_friction" = "4"
+L 03/16/2015 - 17:07:35: Server cvar "sv_gravity" = "800"
+L 03/16/2015 - 17:07:35: Server cvar "sv_logblocks" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_maxrate" = "50000"
+L 03/16/2015 - 17:07:35: Server cvar "sv_maxspeed" = "900"
+L 03/16/2015 - 17:07:35: Server cvar "sv_minrate" = "100000"
+L 03/16/2015 - 17:07:35: Server cvar "sv_password" = ""
+L 03/16/2015 - 17:07:35: Server cvar "sv_proxies" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_region" = "255"
+L 03/16/2015 - 17:07:35: Server cvar "sv_restart" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_restartround" = "0"
+L 03/16/2015 - 17:07:35: Server cvar "sv_stepsize" = "18"
+L 03/16/2015 - 17:07:35: Server cvar "sv_stopspeed" = "75"
+L 03/16/2015 - 17:07:35: Server cvar "sv_uploadmax" = "0.5"
+L 03/16/2015 - 17:07:35: Server cvar "sv_voiceenable" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "sv_wateraccelerate" = "10"
+L 03/16/2015 - 17:07:35: Server cvar "sv_waterfriction" = "1"
+L 03/16/2015 - 17:07:35: Server cvar "vtc_version" = "80"
+L 03/16/2015 - 17:07:35: Server cvars end
+L 03/16/2015 - 17:07:36: Server cvar "amx_nextmap" = "de_inferno_2x2"
+L 03/16/2015 - 17:07:36: Server cvar "sv_restart" = "1"
+L 03/16/2015 - 17:07:36: World triggered "Restart_Round_(1_second)"
+L 03/16/2015 - 17:07:36: Team "CT" scored "0" with "0" players
+L 03/16/2015 - 17:07:36: Team "TERRORIST" scored "0" with "0" players
+L 03/16/2015 - 17:07:36: Server cvar "sv_restart" = "0"
+L 03/16/2015 - 17:07:36: Started map "awp_india" (CRC "534917220")
+L 03/16/2015 - 17:07:36: [VTC] Player 3 silk
+L 03/16/2015 - 17:07:36: [VTC] Player 4 speex
+L 03/16/2015 - 17:07:36: [VTC] Player 6 speex
+L 03/16/2015 - 17:07:36: [VTC] Player 9 speex
+L 03/16/2015 - 17:07:36: [VTC] Player 2 speex
+L 03/16/2015 - 17:07:36: [VTC] Player 8 silk
+L 03/16/2015 - 17:07:36: [VTC] Player 1 speex
+L 03/16/2015 - 17:07:36: [VTC] Player 7 speex
+L 03/16/2015 - 17:07:36: [VTC] Player 5 speex
+L 03/16/2015 - 17:07:39: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><>" entered the game
+L 03/16/2015 - 17:07:39: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c66a8
+L 03/16/2015 - 17:07:39: "Jimolost<53><STEAM_0:4:920768773><>" connected, address "178.64.159.196:27005"
+L 03/16/2015 - 17:07:39: [VTC] Player 9 speex
+L 03/16/2015 - 17:07:40: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><>" entered the game
+L 03/16/2015 - 17:07:40: "+C<46><STEAM_0:1:9827613><>" entered the game
+L 03/16/2015 - 17:07:40: "KoT_L<51><STEAM_0:4:1915296590><>" entered the game
+L 03/16/2015 - 17:07:41: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><>" joined team "TERRORIST"
+L 03/16/2015 - 17:07:41: "DIZASTO<52><STEAM_0:4:731107868><>" entered the game
+L 03/16/2015 - 17:07:41: World triggered "Round_Start"
+L 03/16/2015 - 17:07:42: "DIZASTO<52><STEAM_0:4:731107868><>" joined team "TERRORIST"
+L 03/16/2015 - 17:07:42: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb39a8cf0
+L 03/16/2015 - 17:07:42: "Neko'x<54><STEAM_0:1:42169923><>" connected, address "37.212.97.214:47333"
+L 03/16/2015 - 17:07:42: "Jimolost<53><STEAM_0:4:920768773><>" entered the game
+L 03/16/2015 - 17:07:43: [VTC] Player 3 silk
+L 03/16/2015 - 17:07:43: "Neko'x<54><STEAM_0:1:42169923><>" STEAM USERID validated
+L 03/16/2015 - 17:07:44: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><>" joined team "TERRORIST"
+L 03/16/2015 - 17:07:45: "+C<46><STEAM_0:1:9827613><>" joined team "CT"
+L 03/16/2015 - 17:07:46: World triggered "Game_Commencing"
+L 03/16/2015 - 17:07:46: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/16/2015 - 17:07:46: World triggered "Round_End"
+L 03/16/2015 - 17:07:46: "Neko'x<54><STEAM_0:1:42169923><>" entered the game
+L 03/16/2015 - 17:07:47: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b79cc
+L 03/16/2015 - 17:07:47: "Tatyana<55><STEAM_0:4:346148101><>" connected, address "178.120.31.128:5486"
+L 03/16/2015 - 17:07:47: "Jimolost<53><STEAM_0:4:920768773><>" joined team "CT"
+L 03/16/2015 - 17:07:47: [VTC] Player 6 speex
+L 03/16/2015 - 17:07:48: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bc8c0
+L 03/16/2015 - 17:07:48: "358<56><STEAM_0:4:826546766><>" connected, address "37.214.212.203:45991"
+L 03/16/2015 - 17:07:48: "KoT_L<51><STEAM_0:4:1915296590><>" joined team "CT"
+L 03/16/2015 - 17:07:49: [VTC] Player 7 speex
+L 03/16/2015 - 17:07:50: "Tatyana<55><STEAM_0:4:346148101><>" entered the game
+L 03/16/2015 - 17:07:53: "358<56><STEAM_0:4:826546766><>" entered the game
+L 03/16/2015 - 17:07:54: World triggered "Round_Start"
+L 03/16/2015 - 17:07:54: "Tatyana<55><STEAM_0:4:346148101><>" joined team "CT"
+L 03/16/2015 - 17:07:55: "358<56><STEAM_0:4:826546766><>" joined team "CT"
+L 03/16/2015 - 17:08:01: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Tatyana<55><STEAM_0:4:346148101><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:08:01: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Tatyana<55><STEAM_0:4:346148101><CT>" with "awp"
+L 03/16/2015 - 17:08:02: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/16/2015 - 17:08:02: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:08:03: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:08:03: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:08:07: "+C<46><STEAM_0:1:9827613><CT>" attacked "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-29") (armor "98")
+L 03/16/2015 - 17:08:07: "+C<46><STEAM_0:1:9827613><CT>" killed "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" with "awp"
+L 03/16/2015 - 17:08:09: "358<56><STEAM_0:4:826546766><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/16/2015 - 17:08:09: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:08:09: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:08:12: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "136") (damage_armor "2") (health "-121") (armor "98")
+L 03/16/2015 - 17:08:12: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:08:12: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/16/2015 - 17:08:12: World triggered "Round_End"
+L 03/16/2015 - 17:08:15: "Neko'x<54><STEAM_0:1:42169923><>" joined team "CT"
+L 03/16/2015 - 17:08:17: "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 17:08:17: "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:08:17: "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" triggered "time" (time "0:36")
+L 03/16/2015 - 17:08:17: "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" triggered "latency" (ping "66")
+L 03/16/2015 - 17:08:17: "DIZASTO<52><STEAM_0:4:731107868><TERRORIST>" disconnected
+L 03/16/2015 - 17:08:22: World triggered "Round_Start"
+L 03/16/2015 - 17:08:25: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:08:29: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/16/2015 - 17:08:29: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:08:31: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "Tatyana<55><STEAM_0:4:346148101><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:08:31: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "Tatyana<55><STEAM_0:4:346148101><CT>" with "awp"
+L 03/16/2015 - 17:08:35: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:08:35: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:08:40: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/16/2015 - 17:08:40: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:08:43: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 03/16/2015 - 17:08:43: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><>" connected, address "37.212.75.41:14036"
+L 03/16/2015 - 17:08:43: [VTC] Player 5 speex
+L 03/16/2015 - 17:08:44: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:08:46: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-61") (armor "97")
+L 03/16/2015 - 17:08:46: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:08:48: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><>" entered the game
+L 03/16/2015 - 17:08:49: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/16/2015 - 17:08:49: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:08:49: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/16/2015 - 17:08:49: World triggered "Round_End"
+L 03/16/2015 - 17:08:54: "358<56><STEAM_0:4:826546766><CT>" joined team "TERRORIST" (auto)
+L 03/16/2015 - 17:08:54: "Tatyana<55><STEAM_0:4:346148101><CT>" joined team "TERRORIST" (auto)
+L 03/16/2015 - 17:08:59: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><>" joined team "TERRORIST"
+L 03/16/2015 - 17:08:59: World triggered "Round_Start"
+L 03/16/2015 - 17:09:04: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:09:04: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:09:04: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:09:04: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-377") (armor "93")
+L 03/16/2015 - 17:09:04: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" with "awp"
+L 03/16/2015 - 17:09:13: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:09:13: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:09:13: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:09:13: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:09:21: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/16/2015 - 17:09:21: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:09:28: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:09:28: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:09:32: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39cb59c
+L 03/16/2015 - 17:09:32: "ANGELuHA<58><STEAM_0:4:472272645><>" connected, address "178.124.16.145:27005"
+L 03/16/2015 - 17:09:32: [VTC] Player 10 speex
+L 03/16/2015 - 17:09:36: "ANGELuHA<58><STEAM_0:4:472272645><>" entered the game
+L 03/16/2015 - 17:09:38: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/16/2015 - 17:09:40: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "110") (damage_armor "2") (health "-95") (armor "98")
+L 03/16/2015 - 17:09:40: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:09:43: "ANGELuHA<58><STEAM_0:4:472272645><>" joined team "CT"
+L 03/16/2015 - 17:09:53: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:09:56: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "67") (damage_armor "1") (health "33") (armor "99")
+L 03/16/2015 - 17:09:56: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "26") (damage_armor "1") (health "21") (armor "98")
+L 03/16/2015 - 17:10:01: [DPROTO]: Client 10 - Set AuthIdType 1 [Native]; pClient = 0xb39d0490
+L 03/16/2015 - 17:10:01: "Hulk<59><STEAM_0:0:3925538><>" connected, address "31.132.176.88:1035"
+L 03/16/2015 - 17:10:01: [VTC] Player 11 silk
+L 03/16/2015 - 17:10:01: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "109") (damage_armor "1") (health "-88") (armor "97")
+L 03/16/2015 - 17:10:01: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:10:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 03/16/2015 - 17:10:01: World triggered "Round_End"
+L 03/16/2015 - 17:10:01: "Hulk<59><STEAM_0:0:3925538><>" STEAM USERID validated
+L 03/16/2015 - 17:10:04: [DPROTO]: Client 10 - Set AuthIdType 1 [Native]; pClient = 0xb39d0490
+L 03/16/2015 - 17:10:04: "Hulk<60><STEAM_0:0:3925538><>" connected, address "31.132.176.88:1035"
+L 03/16/2015 - 17:10:04: [VTC] Player 11 silk
+L 03/16/2015 - 17:10:05: "Hulk<60><STEAM_0:0:3925538><>" STEAM USERID validated
+L 03/16/2015 - 17:10:07: "Hulk<60><STEAM_0:0:3925538><>" entered the game
+L 03/16/2015 - 17:10:11: World triggered "Round_Start"
+L 03/16/2015 - 17:10:11: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "ANGELuHA<58><STEAM_0:4:472272645><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:10:11: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "ANGELuHA<58><STEAM_0:4:472272645><CT>" with "awp"
+L 03/16/2015 - 17:10:11: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/16/2015 - 17:10:11: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "98") (damage_armor "2") (health "-76") (armor "97")
+L 03/16/2015 - 17:10:11: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:10:17: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:10:17: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:10:17: "Hulk<60><STEAM_0:0:3925538><UNASSIGNED>" triggered "time" (time "0:09")
+L 03/16/2015 - 17:10:17: "Hulk<60><STEAM_0:0:3925538><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/16/2015 - 17:10:17: "Hulk<60><STEAM_0:0:3925538><>" disconnected
+L 03/16/2015 - 17:10:17: [DPROTO]: Client 10 - Set AuthIdType 1 [Native]; pClient = 0xb39d0490
+L 03/16/2015 - 17:10:17: "Hulk<61><STEAM_0:0:3925538><>" connected, address "31.132.176.88:1035"
+L 03/16/2015 - 17:10:17: [VTC] Player 11 silk
+L 03/16/2015 - 17:10:18: "Hulk<61><STEAM_0:0:3925538><>" STEAM USERID validated
+L 03/16/2015 - 17:10:20: "Hulk<61><STEAM_0:0:3925538><>" entered the game
+L 03/16/2015 - 17:10:23: "Hulk<61><STEAM_0:0:3925538><>" joined team "TERRORIST"
+L 03/16/2015 - 17:10:23: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:10:23: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:10:27: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:10:27: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:10:27: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/16/2015 - 17:10:27: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:10:27: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/16/2015 - 17:10:27: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:10:31: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "25") (damage_armor "1") (health "75") (armor "99")
+L 03/16/2015 - 17:10:35: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "425") (damage_armor "5") (health "-350") (armor "94")
+L 03/16/2015 - 17:10:35: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:10:44: "+C<46><STEAM_0:1:9827613><CT>" attacked "Hulk<61><STEAM_0:0:3925538><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:10:44: "+C<46><STEAM_0:1:9827613><CT>" killed "Hulk<61><STEAM_0:0:3925538><TERRORIST>" with "awp"
+L 03/16/2015 - 17:10:46: "Hulk<61><STEAM_0:0:3925538><TERRORIST>" triggered "time" (time "0:26")
+L 03/16/2015 - 17:10:46: "Hulk<61><STEAM_0:0:3925538><TERRORIST>" triggered "latency" (ping "41")
+L 03/16/2015 - 17:10:46: "Hulk<61><STEAM_0:0:3925538><TERRORIST>" disconnected
+L 03/16/2015 - 17:10:46: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "41") (damage_armor "0") (health "59") (armor "100")
+L 03/16/2015 - 17:10:48: "+C<46><STEAM_0:1:9827613><CT>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:10:48: "+C<46><STEAM_0:1:9827613><CT>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" with "awp"
+L 03/16/2015 - 17:10:48: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 03/16/2015 - 17:10:48: World triggered "Round_End"
+L 03/16/2015 - 17:10:58: World triggered "Round_Start"
+L 03/16/2015 - 17:11:09: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:11:09: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:11:10: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/16/2015 - 17:11:10: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:11:15: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" attacked "ANGELuHA<58><STEAM_0:4:472272645><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:11:15: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" killed "ANGELuHA<58><STEAM_0:4:472272645><CT>" with "awp"
+L 03/16/2015 - 17:11:15: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:11:15: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:11:22: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:11:22: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:11:25: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:11:25: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:11:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 03/16/2015 - 17:11:25: World triggered "Round_End"
+L 03/16/2015 - 17:11:28: "ANGELuHA<58><STEAM_0:4:472272645><CT>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/16/2015 - 17:11:28: "ANGELuHA<58><STEAM_0:4:472272645><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:11:28: "ANGELuHA<58><STEAM_0:4:472272645><CT>" triggered "time" (time "1:51")
+L 03/16/2015 - 17:11:28: "ANGELuHA<58><STEAM_0:4:472272645><CT>" triggered "latency" (ping "23")
+L 03/16/2015 - 17:11:28: "ANGELuHA<58><STEAM_0:4:472272645><CT>" disconnected
+L 03/16/2015 - 17:11:29: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" committed suicide with "world"
+L 03/16/2015 - 17:11:29: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><TERRORIST>" joined team "CT"
+L 03/16/2015 - 17:11:35: World triggered "Round_Start"
+L 03/16/2015 - 17:11:39: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:11:39: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:11:40: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:11:40: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:11:41: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:11:41: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:11:42: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/16/2015 - 17:11:42: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:11:42: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 03/16/2015 - 17:11:42: World triggered "Round_End"
+L 03/16/2015 - 17:11:52: World triggered "Round_Start"
+L 03/16/2015 - 17:11:58: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:11:58: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:11:59: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:11:59: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:12:01: [DPROTO]: Client 9 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39cb59c
+L 03/16/2015 - 17:12:01: "4ANHNK<62><STEAM_0:4:1459440901><>" connected, address "178.120.166.4:62019"
+L 03/16/2015 - 17:12:03: "4ANHNK<62><STEAM_0:4:1459440901><>" entered the game
+L 03/16/2015 - 17:12:03: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:12:03: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:12:07: "4ANHNK<62><STEAM_0:4:1459440901><>" joined team "TERRORIST"
+L 03/16/2015 - 17:12:08: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:12:08: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:12:10: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:12:10: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:12:10: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:12:10: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp"
+L 03/16/2015 - 17:12:10: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/16/2015 - 17:12:10: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:12:14: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:12:14: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:12:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 03/16/2015 - 17:12:14: World triggered "Round_End"
+L 03/16/2015 - 17:12:24: World triggered "Round_Start"
+L 03/16/2015 - 17:12:24: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:12:24: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:12:31: "Neko'x<54><STEAM_0:1:42169923><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/16/2015 - 17:12:31: "Neko'x<54><STEAM_0:1:42169923><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:12:33: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:12:33: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:12:33: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:12:33: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:12:39: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:12:39: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:12:43: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:12:43: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:12:43: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:12:43: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:12:43: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:12:48: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "107") (damage_armor "2") (health "-91") (armor "98")
+L 03/16/2015 - 17:12:48: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:12:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 03/16/2015 - 17:12:48: World triggered "Round_End"
+L 03/16/2015 - 17:12:58: World triggered "Round_Start"
+L 03/16/2015 - 17:12:59: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:12:59: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:00: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:00: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:02: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:02: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:13:03: [DPROTO]: Client 10 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39d0490
+L 03/16/2015 - 17:13:03: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><>" connected, address "178.127.144.175:27005"
+L 03/16/2015 - 17:13:03: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:03: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:03: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" attacked "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:13:03: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" killed "Neko'x<54><STEAM_0:1:42169923><CT>" with "awp"
+L 03/16/2015 - 17:13:05: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:13:05: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:07: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:13:07: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:13:10: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><>" entered the game
+L 03/16/2015 - 17:13:10: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:13:10: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:10: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 03/16/2015 - 17:13:10: World triggered "Round_End"
+L 03/16/2015 - 17:13:12: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><>" joined team "TERRORIST"
+L 03/16/2015 - 17:13:19: "Neko'x<54><STEAM_0:1:42169923><CT>" committed suicide with "world"
+L 03/16/2015 - 17:13:19: "Neko'x<54><STEAM_0:1:42169923><CT>" joined team "TERRORIST"
+L 03/16/2015 - 17:13:20: World triggered "Round_Start"
+L 03/16/2015 - 17:13:20: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:20: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:13:22: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:22: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:13:22: [DPROTO]: Client 11 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39d5384
+L 03/16/2015 - 17:13:22: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><>" connected, address "178.120.124.237:30657"
+L 03/16/2015 - 17:13:22: [VTC] Player 12 speex
+L 03/16/2015 - 17:13:27: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><>" entered the game
+L 03/16/2015 - 17:13:32: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><>" joined team "CT"
+L 03/16/2015 - 17:13:32: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:13:32: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:35: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:35: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:37: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:13:37: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:43: [DPROTO]: Client 12 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39da278
+L 03/16/2015 - 17:13:43: "kirill lox<65><STEAM_0:4:947014917><>" connected, address "178.120.184.217:22575"
+L 03/16/2015 - 17:13:44: [VTC] Player 13 speex
+L 03/16/2015 - 17:13:46: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:13:46: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:48: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:13:48: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:13:51: [DPROTO]: Client 12 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39da278
+L 03/16/2015 - 17:13:51: "kirill lox<66><STEAM_0:4:947014917><>" connected, address "178.120.184.217:22575"
+L 03/16/2015 - 17:13:51: [VTC] Player 13 speex
+L 03/16/2015 - 17:13:55: "kirill lox<66><STEAM_0:4:947014917><>" entered the game
+L 03/16/2015 - 17:13:56: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:13:56: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:13:57: "kirill lox<66><STEAM_0:4:947014917><>" joined team "CT"
+L 03/16/2015 - 17:14:02: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:14:04: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "110") (damage_armor "2") (health "-94") (armor "98")
+L 03/16/2015 - 17:14:04: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" killed "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp"
+L 03/16/2015 - 17:14:22: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:14:22: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:14:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 03/16/2015 - 17:14:22: World triggered "Round_End"
+L 03/16/2015 - 17:14:32: World triggered "Round_Start"
+L 03/16/2015 - 17:14:38: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:14:38: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:14:40: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:14:40: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp"
+L 03/16/2015 - 17:14:45: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/16/2015 - 17:14:45: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:14:47: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "136") (damage_armor "2") (health "-36") (armor "98")
+L 03/16/2015 - 17:14:47: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp"
+L 03/16/2015 - 17:14:48: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:14:48: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:14:49: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:14:49: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:14:50: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/16/2015 - 17:14:50: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:14:55: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:14:58: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/16/2015 - 17:14:58: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp"
+L 03/16/2015 - 17:14:58: Team "CT" triggered "CTs_Win" (CT "6") (T "5")
+L 03/16/2015 - 17:14:58: World triggered "Round_End"
+L 03/16/2015 - 17:15:08: World triggered "Round_Start"
+L 03/16/2015 - 17:15:08: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "kirill lox<66><STEAM_0:4:947014917><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:15:08: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "kirill lox<66><STEAM_0:4:947014917><CT>" with "awp"
+L 03/16/2015 - 17:15:08: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/16/2015 - 17:15:08: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "230") (damage_armor "3") (health "-130") (armor "97")
+L 03/16/2015 - 17:15:08: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:15:10: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "106") (damage_armor "2") (health "-84") (armor "97")
+L 03/16/2015 - 17:15:10: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp"
+L 03/16/2015 - 17:15:11: "+C<46><STEAM_0:1:9827613><CT>" attacked "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:15:11: "+C<46><STEAM_0:1:9827613><CT>" killed "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:16: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:15:16: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:16: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:15:16: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:17: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/16/2015 - 17:15:17: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:15:20: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:15:20: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:21: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:15:21: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:15:22: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:15:24: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" joined team "SPECTATOR"
+L 03/16/2015 - 17:15:32: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-93") (armor "98")
+L 03/16/2015 - 17:15:32: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:35: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:15:41: "+C<46><STEAM_0:1:9827613><CT>" attacked "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:15:41: "+C<46><STEAM_0:1:9827613><CT>" killed "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:45: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" say_team ",kz rfr" (dead)
+L 03/16/2015 - 17:15:52: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-413") (armor "94")
+L 03/16/2015 - 17:15:52: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:15:52: Team "CT" triggered "CTs_Win" (CT "7") (T "5")
+L 03/16/2015 - 17:15:52: World triggered "Round_End"
+L 03/16/2015 - 17:16:02: World triggered "Round_Start"
+L 03/16/2015 - 17:16:04: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "kirill lox<66><STEAM_0:4:947014917><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:16:04: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "kirill lox<66><STEAM_0:4:947014917><CT>" with "awp"
+L 03/16/2015 - 17:16:05: "kirill lox<66><STEAM_0:4:947014917><CT>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/16/2015 - 17:16:05: "kirill lox<66><STEAM_0:4:947014917><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:16:05: "kirill lox<66><STEAM_0:4:947014917><CT>" triggered "time" (time "2:10")
+L 03/16/2015 - 17:16:05: "kirill lox<66><STEAM_0:4:947014917><CT>" triggered "latency" (ping "52")
+L 03/16/2015 - 17:16:05: "kirill lox<66><STEAM_0:4:947014917><CT>" disconnected
+L 03/16/2015 - 17:16:05: [DPROTO]: Client 12 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39da278
+L 03/16/2015 - 17:16:05: "kirill lox<67><STEAM_0:4:947014917><>" connected, address "178.120.184.217:22575"
+L 03/16/2015 - 17:16:05: [VTC] Player 13 speex
+L 03/16/2015 - 17:16:09: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:16:09: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:16:09: "kirill lox<67><STEAM_0:4:947014917><>" entered the game
+L 03/16/2015 - 17:16:10: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:16:10: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:16:10: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" attacked "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:16:10: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" killed "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" with "awp"
+L 03/16/2015 - 17:16:11: "kirill lox<67><STEAM_0:4:947014917><>" joined team "CT"
+L 03/16/2015 - 17:16:12: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 03/16/2015 - 17:16:13: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp" (damage "436") (damage_armor "6") (health "-401") (armor "93")
+L 03/16/2015 - 17:16:13: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" with "awp"
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "24") (hits "8") (kills "8") (headshots "7") (tks "0") (damage "3145") (deaths "9")
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "7") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" triggered "time" (time "8:30")
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" triggered "latency" (ping "34")
+L 03/16/2015 - 17:16:17: "Neko'x<54><STEAM_0:1:42169923><TERRORIST>" disconnected
+L 03/16/2015 - 17:16:18: "4ANHNK<62><STEAM_0:4:1459440901><SPECTATOR>" joined team "TERRORIST"
+L 03/16/2015 - 17:16:19: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:16:19: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:16:21: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:16:21: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:16:23: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:16:23: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:16:25: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:16:25: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp"
+L 03/16/2015 - 17:16:26: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8cf0
+L 03/16/2015 - 17:16:26: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><>" connected, address "85.93.58.174:12402"
+L 03/16/2015 - 17:16:26: [VTC] Player 3 speex
+L 03/16/2015 - 17:16:28: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/16/2015 - 17:16:28: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:16:31: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><>" entered the game
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" triggered "weaponstats" (weapon "awp") (shots "14") (hits "4") (kills "4") (headshots "1") (tks "0") (damage "751") (deaths "4")
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" triggered "time" (time "3:06")
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" triggered "latency" (ping "51")
+L 03/16/2015 - 17:16:34: "dimon_2003/63rus_daem pi3di<64><STEAM_0:4:571493637><CT>" disconnected
+L 03/16/2015 - 17:16:37: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><>" joined team "TERRORIST"
+L 03/16/2015 - 17:17:03: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:17:03: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:17:03: Team "CT" triggered "CTs_Win" (CT "8") (T "5")
+L 03/16/2015 - 17:17:03: World triggered "Round_End"
+L 03/16/2015 - 17:17:13: World triggered "Round_Start"
+L 03/16/2015 - 17:17:13: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:17:13: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" with "awp"
+L 03/16/2015 - 17:17:22: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:17:22: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:17:24: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:17:24: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:17:24: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:17:24: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" with "awp"
+L 03/16/2015 - 17:17:26: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "21") (hits "6") (kills "5") (headshots "1") (tks "0") (damage "943") (deaths "6")
+L 03/16/2015 - 17:17:26: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "3") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/16/2015 - 17:17:26: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" triggered "time" (time "5:22")
+L 03/16/2015 - 17:17:26: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" triggered "latency" (ping "34")
+L 03/16/2015 - 17:17:26: "4ANHNK<62><STEAM_0:4:1459440901><TERRORIST>" disconnected
+L 03/16/2015 - 17:17:28: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/16/2015 - 17:17:32: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/16/2015 - 17:17:32: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "knife"
+L 03/16/2015 - 17:17:37: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/16/2015 - 17:17:37: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/16/2015 - 17:17:38: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/16/2015 - 17:17:38: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "knife"
+L 03/16/2015 - 17:17:38: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:17:38: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:17:43: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:17:45: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "214") (damage_armor "3") (health "-167") (armor "96")
+L 03/16/2015 - 17:17:45: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:17:49: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "kirill lox<67><STEAM_0:4:947014917><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:17:49: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "kirill lox<67><STEAM_0:4:947014917><CT>" with "awp"
+L 03/16/2015 - 17:17:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "6")
+L 03/16/2015 - 17:17:49: World triggered "Round_End"
+L 03/16/2015 - 17:17:54: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "21") (hits "6") (kills "4") (headshots "0") (tks "0") (damage "584") (deaths "4")
+L 03/16/2015 - 17:17:54: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "1") (rightleg "0")
+L 03/16/2015 - 17:17:54: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" triggered "time" (time "4:44")
+L 03/16/2015 - 17:17:54: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" triggered "latency" (ping "37")
+L 03/16/2015 - 17:17:54: "*3BERskIi 4ITeR*<63><STEAM_0:4:57036421><TERRORIST>" disconnected
+L 03/16/2015 - 17:17:59: World triggered "Round_Start"
+L 03/16/2015 - 17:17:59: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:17:59: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:17:59: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "81") (damage_armor "0") (health "19") (armor "100")
+L 03/16/2015 - 17:18:02: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "132") (damage_armor "2") (health "-32") (armor "98")
+L 03/16/2015 - 17:18:02: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:18:10: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "82") (damage_armor "0") (health "18") (armor "100")
+L 03/16/2015 - 17:18:11: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:18:11: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:14: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:18:14: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:15: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-91") (armor "98")
+L 03/16/2015 - 17:18:15: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:15: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:18:15: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "6") (hits "3") (kills "2") (headshots "1") (tks "0") (damage "376") (deaths "0")
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" triggered "time" (time "1:46")
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" triggered "latency" (ping "78")
+L 03/16/2015 - 17:18:17: "B9TICH*_*Carlos<68><STEAM_0:4:62087158><TERRORIST>" disconnected
+L 03/16/2015 - 17:18:18: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-93") (armor "98")
+L 03/16/2015 - 17:18:18: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:18: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 03/16/2015 - 17:18:18: World triggered "Round_End"
+L 03/16/2015 - 17:18:28: World triggered "Round_Start"
+L 03/16/2015 - 17:18:31: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:18:31: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:31: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:18:31: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:39: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:18:39: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:18:48: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:18:57: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "knife" (damage "15") (damage_armor "2") (health "32") (armor "97")
+L 03/16/2015 - 17:18:58: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/16/2015 - 17:18:58: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "knife" (damage "12") (damage_armor "1") (health "20") (armor "96")
+L 03/16/2015 - 17:18:59: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "85") (damage_armor "0") (health "-70") (armor "100")
+L 03/16/2015 - 17:18:59: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:19:00: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "85") (damage_armor "0") (health "-65") (armor "96")
+L 03/16/2015 - 17:19:00: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:19:00: Team "CT" triggered "CTs_Win" (CT "10") (T "6")
+L 03/16/2015 - 17:19:00: World triggered "Round_End"
+L 03/16/2015 - 17:19:10: World triggered "Round_Start"
+L 03/16/2015 - 17:19:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:19:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:19:13: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:19:13: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:19:20: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:19:20: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:19:25: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:19:25: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:19:28: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/16/2015 - 17:19:30: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 03/16/2015 - 17:19:30: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife"
+L 03/16/2015 - 17:19:34: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:19:34: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:19:44: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb39a8cf0
+L 03/16/2015 - 17:19:44: "BaNDiT<69><STEAM_0:1:83334855><>" connected, address "185.53.73.3:13556"
+L 03/16/2015 - 17:19:45: [VTC] Player 3 silk
+L 03/16/2015 - 17:19:45: "BaNDiT<69><STEAM_0:1:83334855><>" STEAM USERID validated
+L 03/16/2015 - 17:19:48: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb39a8cf0
+L 03/16/2015 - 17:19:48: "BaNDiT<70><STEAM_0:1:83334855><>" connected, address "185.53.73.3:13556"
+L 03/16/2015 - 17:19:48: [VTC] Player 3 silk
+L 03/16/2015 - 17:19:49: "BaNDiT<70><STEAM_0:1:83334855><>" STEAM USERID validated
+L 03/16/2015 - 17:19:51: "BaNDiT<70><STEAM_0:1:83334855><>" entered the game
+L 03/16/2015 - 17:19:53: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:19:53: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:19:53: Team "CT" triggered "CTs_Win" (CT "11") (T "6")
+L 03/16/2015 - 17:19:53: World triggered "Round_End"
+L 03/16/2015 - 17:19:55: "BaNDiT<70><STEAM_0:1:83334855><>" joined team "TERRORIST"
+L 03/16/2015 - 17:20:03: World triggered "Round_Start"
+L 03/16/2015 - 17:20:03: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:20:03: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:06: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:20:06: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:13: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:20:13: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:20:16: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:20:16: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:18: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:20:18: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:27: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "42") (damage_armor "0") (health "58") (armor "100")
+L 03/16/2015 - 17:20:33: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "3") (armor "95")
+L 03/16/2015 - 17:20:34: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-52") (armor "90")
+L 03/16/2015 - 17:20:34: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "knife"
+L 03/16/2015 - 17:20:34: Team "CT" triggered "CTs_Win" (CT "12") (T "6")
+L 03/16/2015 - 17:20:34: World triggered "Round_End"
+L 03/16/2015 - 17:20:44: World triggered "Round_Start"
+L 03/16/2015 - 17:20:45: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:20:45: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:45: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:20:45: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:52: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/16/2015 - 17:20:52: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:20:58: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:20:58: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:00: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:21:00: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:00: Team "CT" triggered "CTs_Win" (CT "13") (T "6")
+L 03/16/2015 - 17:21:00: World triggered "Round_End"
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "46") (hits "13") (kills "13") (headshots "1") (tks "0") (damage "1857") (deaths "15")
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "2") (stomach "4") (leftarm "6") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" triggered "time" (time "13:23")
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" triggered "latency" (ping "67")
+L 03/16/2015 - 17:21:03: "mr_masha+kakasha!!!hed shot<42><STEAM_0:4:1589145348><TERRORIST>" disconnected
+L 03/16/2015 - 17:21:10: World triggered "Round_Start"
+L 03/16/2015 - 17:21:10: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:21:10: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:10: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "78") (damage_armor "1") (health "22") (armor "99")
+L 03/16/2015 - 17:21:12: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:21:12: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:12: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "81") (damage_armor "0") (health "-59") (armor "99")
+L 03/16/2015 - 17:21:12: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:14: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:21:19: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "kirill lox<67><STEAM_0:4:947014917><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:21:19: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "kirill lox<67><STEAM_0:4:947014917><CT>" with "awp"
+L 03/16/2015 - 17:21:19: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_OldRevEmu]; pClient = 0xb39adbe4
+L 03/16/2015 - 17:21:19: "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><>" connected, address "176.60.44.20:9589"
+L 03/16/2015 - 17:21:19: [VTC] Player 4 speex
+L 03/16/2015 - 17:21:23: "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><>" entered the game
+L 03/16/2015 - 17:21:26: "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><>" joined team "TERRORIST"
+L 03/16/2015 - 17:21:26: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "137") (damage_armor "2") (health "-89") (armor "97")
+L 03/16/2015 - 17:21:26: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:26: Team "CT" triggered "CTs_Win" (CT "14") (T "6")
+L 03/16/2015 - 17:21:26: World triggered "Round_End"
+L 03/16/2015 - 17:21:29: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:21:29: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:36: World triggered "Round_Start"
+L 03/16/2015 - 17:21:36: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:21:36: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:36: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "312") (damage_armor "4") (health "-212") (armor "96")
+L 03/16/2015 - 17:21:36: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:39: "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" triggered "time" (time "0:16")
+L 03/16/2015 - 17:21:39: "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" triggered "latency" (ping "0")
+L 03/16/2015 - 17:21:39: "mr_masha+kakasha!!!hed<71><STEAM_0:4:1589145348><TERRORIST>" disconnected
+L 03/16/2015 - 17:21:43: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:21:43: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:21:43: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:21:43: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:47: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:21:47: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:21:52: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "111") (damage_armor "2") (health "-19") (armor "98")
+L 03/16/2015 - 17:21:52: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:21:59: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_OldRevEmu]; pClient = 0xb39adbe4
+L 03/16/2015 - 17:21:59: "mr_masha+kakasha<72><STEAM_0:4:1589145348><>" connected, address "176.60.44.20:9589"
+L 03/16/2015 - 17:21:59: [VTC] Player 4 speex
+L 03/16/2015 - 17:21:59: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "kirill lox<67><STEAM_0:4:947014917><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:22:02: "mr_masha+kakasha<72><STEAM_0:4:1589145348><>" entered the game
+L 03/16/2015 - 17:22:02: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:22:02: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:02: Team "CT" triggered "CTs_Win" (CT "15") (T "6")
+L 03/16/2015 - 17:22:02: World triggered "Round_End"
+L 03/16/2015 - 17:22:10: "mr_masha+kakasha<72><STEAM_0:4:1589145348><>" joined team "TERRORIST"
+L 03/16/2015 - 17:22:12: World triggered "Round_Start"
+L 03/16/2015 - 17:22:12: "kirill lox<67><STEAM_0:4:947014917><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:22:12: "kirill lox<67><STEAM_0:4:947014917><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:14: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:22:14: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:19: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:22:21: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/16/2015 - 17:22:21: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:22:22: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-60") (armor "97")
+L 03/16/2015 - 17:22:22: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:25: "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "25") (damage_armor "1") (health "75") (armor "99")
+L 03/16/2015 - 17:22:25: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:22:25: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:25: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "432") (damage_armor "6") (health "-332") (armor "94")
+L 03/16/2015 - 17:22:25: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:25: Team "CT" triggered "CTs_Win" (CT "16") (T "6")
+L 03/16/2015 - 17:22:25: World triggered "Round_End"
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" triggered "weaponstats" (weapon "awp") (shots "51") (hits "19") (kills "17") (headshots "4") (tks "0") (damage "3150") (deaths "1")
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "3") (stomach "1") (leftarm "7") (rightarm "3") (leftleg "0") (rightleg "1")
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" triggered "time" (time "6:19")
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" triggered "latency" (ping "50")
+L 03/16/2015 - 17:22:28: "kirill lox<67><STEAM_0:4:947014917><CT>" disconnected
+L 03/16/2015 - 17:22:35: World triggered "Round_Start"
+L 03/16/2015 - 17:22:38: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "65") (damage_armor "1") (health "35") (armor "99")
+L 03/16/2015 - 17:22:41: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:22:41: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:47: "+C<46><STEAM_0:1:9827613><CT>" attacked "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" with "awp" (damage "210") (damage_armor "3") (health "-175") (armor "96")
+L 03/16/2015 - 17:22:47: "+C<46><STEAM_0:1:9827613><CT>" killed "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:50: "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "25") (deaths "2")
+L 03/16/2015 - 17:22:50: "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:22:50: "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" triggered "time" (time "0:48")
+L 03/16/2015 - 17:22:50: "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" triggered "latency" (ping "66")
+L 03/16/2015 - 17:22:50: "mr_masha+kakasha<72><STEAM_0:4:1589145348><TERRORIST>" disconnected
+L 03/16/2015 - 17:22:52: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:22:52: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:22:55: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/16/2015 - 17:22:55: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:00: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/16/2015 - 17:23:00: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:00: Team "CT" triggered "CTs_Win" (CT "17") (T "6")
+L 03/16/2015 - 17:23:00: World triggered "Round_End"
+L 03/16/2015 - 17:23:10: World triggered "Round_Start"
+L 03/16/2015 - 17:23:20: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:23:20: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:21: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:23:21: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:24: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:23:24: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:23:28: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:23:28: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:31: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:23:31: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:31: Team "CT" triggered "CTs_Win" (CT "18") (T "6")
+L 03/16/2015 - 17:23:31: World triggered "Round_End"
+L 03/16/2015 - 17:23:41: World triggered "Round_Start"
+L 03/16/2015 - 17:23:46: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:23:46: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:49: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:23:49: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:23:53: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:23:53: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:23:58: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:23:58: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:24:04: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:24:04: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:24:06: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:24:06: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:24:10: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "110") (damage_armor "2") (health "-33") (armor "98")
+L 03/16/2015 - 17:24:10: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:24:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "7")
+L 03/16/2015 - 17:24:10: World triggered "Round_End"
+L 03/16/2015 - 17:24:20: World triggered "Round_Start"
+L 03/16/2015 - 17:24:22: "+C<46><STEAM_0:1:9827613><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:24:22: "+C<46><STEAM_0:1:9827613><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:24:30: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:24:30: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:24:35: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/16/2015 - 17:24:35: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:24:41: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "436") (damage_armor "6") (health "-336") (armor "94")
+L 03/16/2015 - 17:24:41: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:24:49: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "135") (damage_armor "2") (health "-35") (armor "98")
+L 03/16/2015 - 17:24:49: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:24:49: Team "CT" triggered "CTs_Win" (CT "19") (T "7")
+L 03/16/2015 - 17:24:49: World triggered "Round_End"
+L 03/16/2015 - 17:24:59: World triggered "Round_Start"
+L 03/16/2015 - 17:25:03: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "51") (damage_armor "1") (health "49") (armor "99")
+L 03/16/2015 - 17:25:05: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "134") (damage_armor "2") (health "-34") (armor "98")
+L 03/16/2015 - 17:25:05: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:25:08: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:25:08: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:25:10: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:25:10: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:25:10: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:25:10: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:25:16: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:25:18: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "109") (damage_armor "2") (health "-62") (armor "97")
+L 03/16/2015 - 17:25:18: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:25:25: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:25:25: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:25:35: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "432") (damage_armor "6") (health "-383") (armor "93")
+L 03/16/2015 - 17:25:35: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:25:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "8")
+L 03/16/2015 - 17:25:35: World triggered "Round_End"
+L 03/16/2015 - 17:25:45: World triggered "Round_Start"
+L 03/16/2015 - 17:25:46: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "105") (damage_armor "2") (health "-5") (armor "98")
+L 03/16/2015 - 17:25:46: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:25:58: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:25:58: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:26:02: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:26:02: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:26:15: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "109") (damage_armor "2") (health "-29") (armor "98")
+L 03/16/2015 - 17:26:15: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:26:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "9")
+L 03/16/2015 - 17:26:15: World triggered "Round_End"
+L 03/16/2015 - 17:26:20: "3JlOu_XJlE6yWEK<57><STEAM_0:4:1074502478><CT>" changed name to "^iCe_bAbY_^(*_*)"
+L 03/16/2015 - 17:26:25: World triggered "Round_Start"
+L 03/16/2015 - 17:26:31: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:26:31: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:26:34: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 03/16/2015 - 17:26:34: "Jimolost<53><STEAM_0:4:920768773><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:26:34: "Jimolost<53><STEAM_0:4:920768773><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:26:38: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "knife" (damage "55") (damage_armor "5") (health "-40") (armor "95")
+L 03/16/2015 - 17:26:38: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "knife"
+L 03/16/2015 - 17:26:44: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:26:44: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:26:47: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:26:47: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:26:47: Team "CT" triggered "CTs_Win" (CT "20") (T "9")
+L 03/16/2015 - 17:26:47: World triggered "Round_End"
+L 03/16/2015 - 17:26:48: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" joined team "SPECTATOR"
+L 03/16/2015 - 17:26:57: World triggered "Round_Start"
+L 03/16/2015 - 17:27:07: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:27:07: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:27:11: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 03/16/2015 - 17:27:12: "KoT_L<51><STEAM_0:4:1915296590><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "137") (damage_armor "2") (health "-121") (armor "98")
+L 03/16/2015 - 17:27:12: "KoT_L<51><STEAM_0:4:1915296590><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:27:14: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:27:14: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:27:21: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:27:21: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:27:21: Team "CT" triggered "CTs_Win" (CT "21") (T "9")
+L 03/16/2015 - 17:27:21: World triggered "Round_End"
+L 03/16/2015 - 17:27:25: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><SPECTATOR>" joined team "TERRORIST"
+L 03/16/2015 - 17:27:31: World triggered "Round_Start"
+L 03/16/2015 - 17:27:42: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:27:42: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:27:43: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:27:43: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "Jimolost<53><STEAM_0:4:920768773><CT>" with "awp"
+L 03/16/2015 - 17:27:45: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:27:45: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" with "awp"
+L 03/16/2015 - 17:27:50: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:27:50: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "80") (hits "33") (kills "25") (headshots "4") (tks "0") (damage "4466") (deaths "25")
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "3") (stomach "7") (leftarm "11") (rightarm "3") (leftleg "2") (rightleg "2")
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "4") (kills "2") (headshots "0") (tks "0") (damage "220") (deaths "0")
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" triggered "time" (time "20:12")
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" triggered "latency" (ping "33")
+L 03/16/2015 - 17:27:51: "|Xyligans|_Zl@9|_P@nD@<24><STEAM_0:4:1475267845><TERRORIST>" disconnected
+L 03/16/2015 - 17:27:54: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "28") (hits "14") (kills "13") (headshots "5") (tks "0") (damage "3146") (deaths "28")
+L 03/16/2015 - 17:27:54: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "3") (stomach "0") (leftarm "3") (rightarm "2") (leftleg "1") (rightleg "0")
+L 03/16/2015 - 17:27:54: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" triggered "time" (time "20:04")
+L 03/16/2015 - 17:27:54: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" triggered "latency" (ping "50")
+L 03/16/2015 - 17:27:54: "Tatyana<55><STEAM_0:4:346148101><TERRORIST>" disconnected
+L 03/16/2015 - 17:27:55: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:27:55: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 03/16/2015 - 17:27:55: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:28:00: "Jimolost<53><STEAM_0:4:920768773><CT>" triggered "weaponstats" (weapon "awp") (shots "66") (hits "20") (kills "18") (headshots "1") (tks "0") (damage "2387") (deaths "16")
+L 03/16/2015 - 17:28:00: "Jimolost<53><STEAM_0:4:920768773><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "5") (stomach "0") (leftarm "9") (rightarm "4") (leftleg "0") (rightleg "1")
+L 03/16/2015 - 17:28:00: "Jimolost<53><STEAM_0:4:920768773><CT>" triggered "time" (time "20:17")
+L 03/16/2015 - 17:28:00: "Jimolost<53><STEAM_0:4:920768773><CT>" triggered "latency" (ping "34")
+L 03/16/2015 - 17:28:00: "Jimolost<53><STEAM_0:4:920768773><CT>" disconnected
+L 03/16/2015 - 17:28:07: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a3dfc
+L 03/16/2015 - 17:28:07: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><>" connected, address "178.120.129.6:50927"
+L 03/16/2015 - 17:28:07: [VTC] Player 2 speex
+L 03/16/2015 - 17:28:09: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "83") (damage_armor "0") (health "17") (armor "100")
+L 03/16/2015 - 17:28:11: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><>" entered the game
+L 03/16/2015 - 17:28:13: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><>" joined team "TERRORIST"
+L 03/16/2015 - 17:28:17: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-93") (armor "98")
+L 03/16/2015 - 17:28:17: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:28:17: Team "CT" triggered "CTs_Win" (CT "22") (T "9")
+L 03/16/2015 - 17:28:17: World triggered "Round_End"
+L 03/16/2015 - 17:28:27: World triggered "Round_Start"
+L 03/16/2015 - 17:28:29: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:28:29: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:28:29: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:28:29: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:28:35: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:28:35: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:28:37: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_OldRevEmu]; pClient = 0xb39adbe4
+L 03/16/2015 - 17:28:37: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><>" connected, address "176.60.44.20:9571"
+L 03/16/2015 - 17:28:37: [VTC] Player 4 speex
+L 03/16/2015 - 17:28:39: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:28:39: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:28:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "22") (T "10")
+L 03/16/2015 - 17:28:39: World triggered "Round_End"
+L 03/16/2015 - 17:28:41: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><>" entered the game
+L 03/16/2015 - 17:28:43: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0xb39b79cc
+L 03/16/2015 - 17:28:43: "BERKUT<75><STEAM_0:0:78541869><>" connected, address "37.18.152.234:27005"
+L 03/16/2015 - 17:28:43: [VTC] Player 6 silk
+L 03/16/2015 - 17:28:44: "BERKUT<75><STEAM_0:0:78541869><>" STEAM USERID validated
+L 03/16/2015 - 17:28:46: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0xb39b79cc
+L 03/16/2015 - 17:28:46: "BERKUT<76><STEAM_0:0:78541869><>" connected, address "37.18.152.234:27005"
+L 03/16/2015 - 17:28:46: [VTC] Player 6 silk
+L 03/16/2015 - 17:28:47: "BERKUT<76><STEAM_0:0:78541869><>" STEAM USERID validated
+L 03/16/2015 - 17:28:47: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><>" joined team "CT"
+L 03/16/2015 - 17:28:49: World triggered "Round_Start"
+L 03/16/2015 - 17:28:50: "BERKUT<76><STEAM_0:0:78541869><>" entered the game
+L 03/16/2015 - 17:28:50: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:28:50: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:28:53: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:28:56: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:28:56: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" with "awp"
+L 03/16/2015 - 17:28:59: "+C<46><STEAM_0:1:9827613><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:28:59: "+C<46><STEAM_0:1:9827613><CT>" killed "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:29:01: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:29:01: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:29:03: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:29:03: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:29:04: "BERKUT<76><STEAM_0:0:78541869><>" joined team "TERRORIST"
+L 03/16/2015 - 17:29:06: "+C<46><STEAM_0:1:9827613><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "137") (damage_armor "2") (health "-37") (armor "98")
+L 03/16/2015 - 17:29:06: "+C<46><STEAM_0:1:9827613><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:29:09: "358<56><STEAM_0:4:826546766><TERRORIST>" say ",kz" (dead)
+L 03/16/2015 - 17:29:16: "358<56><STEAM_0:4:826546766><TERRORIST>" say "gbpltw" (dead)
+L 03/16/2015 - 17:29:24: "+C<46><STEAM_0:1:9827613><CT>" attacked "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:29:24: "+C<46><STEAM_0:1:9827613><CT>" killed "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" with "awp"
+L 03/16/2015 - 17:29:24: Team "CT" triggered "CTs_Win" (CT "23") (T "10")
+L 03/16/2015 - 17:29:24: World triggered "Round_End"
+L 03/16/2015 - 17:29:34: World triggered "Round_Start"
+L 03/16/2015 - 17:29:36: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:29:36: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:29:39: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:29:39: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:29:41: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:29:41: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:29:43: "358<56><STEAM_0:4:826546766><TERRORIST>" attacked "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:29:43: "358<56><STEAM_0:4:826546766><TERRORIST>" killed "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:29:48: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:29:48: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" with "awp"
+L 03/16/2015 - 17:29:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "11")
+L 03/16/2015 - 17:29:48: World triggered "Round_End"
+L 03/16/2015 - 17:29:50: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 03/16/2015 - 17:29:50: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:29:50: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" triggered "time" (time "1:09")
+L 03/16/2015 - 17:29:50: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" triggered "latency" (ping "54")
+L 03/16/2015 - 17:29:50: "mr_masha+kakasha???<74><STEAM_0:4:1589145348><CT>" disconnected
+L 03/16/2015 - 17:29:58: World triggered "Round_Start"
+L 03/16/2015 - 17:30:01: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" attacked "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:30:01: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" killed "358<56><STEAM_0:4:826546766><TERRORIST>" with "awp"
+L 03/16/2015 - 17:30:01: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" attacked "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:30:01: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" killed "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" with "awp"
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" triggered "weaponstats" (weapon "awp") (shots "119") (hits "35") (kills "29") (headshots "5") (tks "0") (damage "5150") (deaths "14")
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" triggered "weaponstats2" (weapon "awp") (head "5") (chest "4") (stomach "4") (leftarm "14") (rightarm "5") (leftleg "1") (rightleg "2")
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" triggered "weaponstats" (weapon "knife") (shots "20") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "214") (deaths "3")
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" triggered "time" (time "21:15")
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" triggered "latency" (ping "33")
+L 03/16/2015 - 17:30:04: "^iCe_bAbY_^(*_*)<57><STEAM_0:4:1074502478><CT>" disconnected
+L 03/16/2015 - 17:30:07: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:30:09: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp" (damage "109") (damage_armor "2") (health "-61") (armor "97")
+L 03/16/2015 - 17:30:09: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "KoT_L<51><STEAM_0:4:1915296590><CT>" with "awp"
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" triggered "weaponstats" (weapon "awp") (shots "86") (hits "16") (kills "15") (headshots "8") (tks "0") (damage "4354") (deaths "22")
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" triggered "weaponstats2" (weapon "awp") (head "8") (chest "0") (stomach "4") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "1")
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "27") (deaths "1")
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" triggered "time" (time "22:30")
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" triggered "latency" (ping "32")
+L 03/16/2015 - 17:30:11: "KoT_L<51><STEAM_0:4:1915296590><CT>" disconnected
+L 03/16/2015 - 17:30:11: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:30:11: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:30:13: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb399ef08
+L 03/16/2015 - 17:30:13: "Rus86<77><STEAM_0:4:1588388555><>" connected, address "46.39.5.20:27005"
+L 03/16/2015 - 17:30:13: [VTC] Player 1 speex
+L 03/16/2015 - 17:30:14: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:30:14: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:30:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "12")
+L 03/16/2015 - 17:30:14: World triggered "Round_End"
+L 03/16/2015 - 17:30:15: "358<56><STEAM_0:4:826546766><TERRORIST>" joined team "CT"
+L 03/16/2015 - 17:30:24: World triggered "Round_Start"
+L 03/16/2015 - 17:30:28: "Rus86<77><STEAM_0:4:1588388555><>" entered the game
+L 03/16/2015 - 17:30:30: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:30:30: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:30:31: "Rus86<77><STEAM_0:4:1588388555><>" joined team "CT"
+L 03/16/2015 - 17:30:38: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:30:38: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:30:40: [DPROTO]: Client 3 - Set AuthIdType 1 [Native]; pClient = 0xb39adbe4
+L 03/16/2015 - 17:30:40: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><>" connected, address "178.121.174.112:56117"
+L 03/16/2015 - 17:30:40: [VTC] Player 4 silk
+L 03/16/2015 - 17:30:40: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><>" STEAM USERID validated
+L 03/16/2015 - 17:30:42: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:30:42: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" with "awp"
+L 03/16/2015 - 17:30:43: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "41") (damage_armor "0") (health "59") (armor "100")
+L 03/16/2015 - 17:30:44: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><>" entered the game
+L 03/16/2015 - 17:30:45: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "137") (damage_armor "2") (health "-78") (armor "98")
+L 03/16/2015 - 17:30:45: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:30:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "13")
+L 03/16/2015 - 17:30:45: World triggered "Round_End"
+L 03/16/2015 - 17:30:49: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><>" joined team "TERRORIST"
+L 03/16/2015 - 17:30:55: World triggered "Round_Start"
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "15") (hits "3") (kills "2") (headshots "0") (tks "0") (damage "265") (deaths "2")
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" triggered "time" (time "2:06")
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" triggered "latency" (ping "54")
+L 03/16/2015 - 17:30:56: "BERKUT<76><STEAM_0:0:78541869><TERRORIST>" disconnected
+L 03/16/2015 - 17:31:00: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:31:00: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:31:04: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:31:04: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:31:07: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:31:07: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:31:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "14")
+L 03/16/2015 - 17:31:07: World triggered "Round_End"
+L 03/16/2015 - 17:31:17: World triggered "Round_Start"
+L 03/16/2015 - 17:31:23: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:31:23: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:31:39: "+C<46><STEAM_0:1:9827613><CT>" attacked "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:31:39: "+C<46><STEAM_0:1:9827613><CT>" killed "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/16/2015 - 17:31:45: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "53") (damage_armor "1") (health "47") (armor "99")
+L 03/16/2015 - 17:31:47: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:31:47: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:31:49: "+C<46><STEAM_0:1:9827613><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "84") (damage_armor "0") (health "-37") (armor "99")
+L 03/16/2015 - 17:31:49: "+C<46><STEAM_0:1:9827613><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:31:49: Team "CT" triggered "CTs_Win" (CT "24") (T "14")
+L 03/16/2015 - 17:31:49: World triggered "Round_End"
+L 03/16/2015 - 17:31:59: World triggered "Round_Start"
+L 03/16/2015 - 17:32:01: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "52") (damage_armor "1") (health "48") (armor "99")
+L 03/16/2015 - 17:32:02: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:32:02: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:32:11: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/16/2015 - 17:32:11: "358<56><STEAM_0:4:826546766><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "444") (damage_armor "6") (health "-344") (armor "94")
+L 03/16/2015 - 17:32:11: "358<56><STEAM_0:4:826546766><CT>" killed "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:32:18: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:32:18: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:32:26: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "+C<46><STEAM_0:1:9827613><CT>" with "awp" (damage "436") (damage_armor "6") (health "-391") (armor "89")
+L 03/16/2015 - 17:32:26: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "+C<46><STEAM_0:1:9827613><CT>" with "awp"
+L 03/16/2015 - 17:32:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "15")
+L 03/16/2015 - 17:32:26: World triggered "Round_End"
+L 03/16/2015 - 17:32:28: [AMXBans] SteamID 'STEAM_0:1:9827613' успешно забанен (IP записан). Игрок будет удален с сервера.
+L 03/16/2015 - 17:32:28: "Server<0><><>" triggered "amx_chat" (text "+C<STEAM_0:1:9827613> был забанен на 1 час (60 минут). Причина: .")
+L 03/16/2015 - 17:32:36: World triggered "Round_Start"
+L 03/16/2015 - 17:32:38: Kick: "+C<46><STEAM_0:1:9827613><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" triggered "weaponstats" (weapon "awp") (shots "177") (hits "53") (kills "46") (headshots "10") (tks "0") (damage "8524") (deaths "16")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" triggered "weaponstats2" (weapon "awp") (head "10") (chest "6") (stomach "4") (leftarm "25") (rightarm "4") (leftleg "1") (rightleg "3")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "5") (kills "2") (headshots "0") (tks "0") (damage "275") (deaths "4")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" triggered "time" (time "24:57")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" triggered "latency" (ping "32")
+L 03/16/2015 - 17:32:38: "+C<46><STEAM_0:1:9827613><CT>" disconnected
+L 03/16/2015 - 17:32:42: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 0xb39c17b4
+L 03/16/2015 - 17:32:42: "+C<79><STEAM_0:1:9827613><>" connected, address "37.214.253.44:38005"
+L 03/16/2015 - 17:32:42: [VTC] Player 8 silk
+L 03/16/2015 - 17:32:42: "+C<79><STEAM_0:1:9827613><>" STEAM USERID validated
+L 03/16/2015 - 17:32:43: Kick: "+C<79><STEAM_0:1:9827613><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 03/16/2015 - 17:32:44: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:32:44: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:32:48: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:32:48: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:32:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "16")
+L 03/16/2015 - 17:32:48: World triggered "Round_End"
+L 03/16/2015 - 17:32:58: World triggered "Round_Start"
+L 03/16/2015 - 17:33:00: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:33:00: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:33:05: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:33:05: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" with "awp"
+L 03/16/2015 - 17:33:07: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "358<56><STEAM_0:4:826546766><CT>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:33:07: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "358<56><STEAM_0:4:826546766><CT>" with "awp"
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "57") (hits "10") (kills "7") (headshots "1") (tks "0") (damage "1249") (deaths "17")
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "0") (leftarm "6") (rightarm "2") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "55") (deaths "2")
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" triggered "time" (time "13:20")
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" triggered "latency" (ping "10")
+L 03/16/2015 - 17:33:11: "BaNDiT<70><STEAM_0:1:83334855><TERRORIST>" disconnected
+L 03/16/2015 - 17:33:22: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "67") (damage_armor "1") (health "33") (armor "99")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" triggered "weaponstats" (weapon "awp") (shots "112") (hits "16") (kills "13") (headshots "1") (tks "0") (damage "1989") (deaths "33")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "0") (leftarm "9") (rightarm "3") (leftleg "1") (rightleg "1")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" triggered "time" (time "25:37")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" triggered "latency" (ping "35")
+L 03/16/2015 - 17:33:31: "358<56><STEAM_0:4:826546766><CT>" disconnected
+L 03/16/2015 - 17:33:34: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 03/16/2015 - 17:33:34: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "knife" (damage "55") (damage_armor "5") (health "-22") (armor "94")
+L 03/16/2015 - 17:33:34: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "knife"
+L 03/16/2015 - 17:33:34: Team "CT" triggered "CTs_Win" (CT "25") (T "16")
+L 03/16/2015 - 17:33:34: World triggered "Round_End"
+L 03/16/2015 - 17:33:44: World triggered "Round_Start"
+L 03/16/2015 - 17:33:49: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:33:49: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:33:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "17")
+L 03/16/2015 - 17:33:49: World triggered "Round_End"
+L 03/16/2015 - 17:33:59: World triggered "Round_Start"
+L 03/16/2015 - 17:34:01: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:34:01: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:34:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "18")
+L 03/16/2015 - 17:34:01: World triggered "Round_End"
+L 03/16/2015 - 17:34:11: World triggered "Round_Start"
+L 03/16/2015 - 17:34:27: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "awp" (damage "109") (damage_armor "2") (health "-9") (armor "98")
+L 03/16/2015 - 17:34:27: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" with "awp"
+L 03/16/2015 - 17:34:29: "Rus86<77><STEAM_0:4:1588388555><CT>" attacked "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp" (damage "110") (damage_armor "2") (health "-10") (armor "98")
+L 03/16/2015 - 17:34:29: "Rus86<77><STEAM_0:4:1588388555><CT>" killed "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" with "awp"
+L 03/16/2015 - 17:34:29: Team "CT" triggered "CTs_Win" (CT "26") (T "18")
+L 03/16/2015 - 17:34:29: World triggered "Round_End"
+L 03/16/2015 - 17:34:38: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39a8cf0
+L 03/16/2015 - 17:34:38: "ANGELuHA<80><STEAM_0:4:472272645><>" connected, address "178.124.16.145:27005"
+L 03/16/2015 - 17:34:38: [VTC] Player 3 speex
+L 03/16/2015 - 17:34:39: World triggered "Round_Start"
+L 03/16/2015 - 17:34:41: "ANGELuHA<80><STEAM_0:4:472272645><>" entered the game
+L 03/16/2015 - 17:34:47: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:34:47: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:34:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "19")
+L 03/16/2015 - 17:34:47: World triggered "Round_End"
+L 03/16/2015 - 17:34:47: "ANGELuHA<80><STEAM_0:4:472272645><>" joined team "CT"
+L 03/16/2015 - 17:34:57: World triggered "Round_Start"
+L 03/16/2015 - 17:34:57: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 03/16/2015 - 17:34:57: ".:GP:.NeKo :c<81><STEAM_0:4:572017925><>" connected, address "178.120.108.237:58162"
+L 03/16/2015 - 17:34:57: [VTC] Player 5 speex
+L 03/16/2015 - 17:34:59: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "106") (damage_armor "2") (health "-6") (armor "98")
+L 03/16/2015 - 17:34:59: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:35:01: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "ANGELuHA<80><STEAM_0:4:472272645><CT>" with "awp" (damage "425") (damage_armor "6") (health "-325") (armor "94")
+L 03/16/2015 - 17:35:01: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "ANGELuHA<80><STEAM_0:4:472272645><CT>" with "awp"
+L 03/16/2015 - 17:35:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "20")
+L 03/16/2015 - 17:35:01: World triggered "Round_End"
+L 03/16/2015 - 17:35:02: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39b2ad8
+L 03/16/2015 - 17:35:02: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><>" connected, address "178.120.108.237:58162"
+L 03/16/2015 - 17:35:02: [VTC] Player 5 speex
+L 03/16/2015 - 17:35:11: World triggered "Round_Start"
+L 03/16/2015 - 17:35:14: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><>" entered the game
+L 03/16/2015 - 17:35:17: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "429") (damage_armor "6") (health "-329") (armor "94")
+L 03/16/2015 - 17:35:17: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:35:18: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><>" joined team "TERRORIST"
+L 03/16/2015 - 17:35:19: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "ANGELuHA<80><STEAM_0:4:472272645><CT>" with "awp" (damage "107") (damage_armor "2") (health "-7") (armor "98")
+L 03/16/2015 - 17:35:19: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "ANGELuHA<80><STEAM_0:4:472272645><CT>" with "awp"
+L 03/16/2015 - 17:35:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "21")
+L 03/16/2015 - 17:35:19: World triggered "Round_End"
+L 03/16/2015 - 17:35:29: World triggered "Round_Start"
+L 03/16/2015 - 17:35:38: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp" (damage "440") (damage_armor "6") (health "-340") (armor "94")
+L 03/16/2015 - 17:35:38: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "Rus86<77><STEAM_0:4:1588388555><CT>" with "awp"
+L 03/16/2015 - 17:35:43: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" attacked "ANGELuHA<80><STEAM_0:4:472272645><CT>" with "awp" (damage "111") (damage_armor "2") (health "-11") (armor "98")
+L 03/16/2015 - 17:35:43: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" killed "ANGELuHA<80><STEAM_0:4:472272645><CT>" with "awp"
+L 03/16/2015 - 17:35:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "22")
+L 03/16/2015 - 17:35:43: World triggered "Round_End"
+L 03/16/2015 - 17:35:45: Server cvar "amx_nextmap" = "$5000$"
+L 03/16/2015 - 17:35:45: Server cvar "mp_timelimit" = "0.000000"
+L 03/16/2015 - 17:35:53: Server cvar "mp_timelimit" = "0.010000"
+L 03/16/2015 - 17:35:53: World triggered "Round_Start"
+L 03/16/2015 - 17:35:53: Team "CT" scored "26" with "2" players
+L 03/16/2015 - 17:35:53: Team "TERRORIST" scored "22" with "3" players
+L 03/16/2015 - 17:35:53: Server cvar "mp_chattime" = "3"
+L 03/16/2015 - 17:35:54: Server cvar "mp_chattime" = "1"
+L 03/16/2015 - 17:35:54: "Rus86<77><STEAM_0:4:1588388555><CT>" triggered "weaponstats" (weapon "awp") (shots "30") (hits "8") (kills "6") (headshots "0") (tks "0") (damage "767") (deaths "9")
+L 03/16/2015 - 17:35:54: "Rus86<77><STEAM_0:4:1588388555><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "1") (stomach "1") (leftarm "6") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: "Rus86<77><STEAM_0:4:1588388555><CT>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 03/16/2015 - 17:35:54: "Rus86<77><STEAM_0:4:1588388555><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: "Rus86<77><STEAM_0:4:1588388555><CT>" triggered "time" (time "5:26")
+L 03/16/2015 - 17:35:54: "Rus86<77><STEAM_0:4:1588388555><CT>" triggered "latency" (ping "87")
+L 03/16/2015 - 17:35:54: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "33") (hits "23") (kills "22") (headshots "4") (tks "0") (damage "3771") (deaths "4")
+L 03/16/2015 - 17:35:54: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "4") (chest "2") (stomach "1") (leftarm "12") (rightarm "3") (leftleg "1") (rightleg "0")
+L 03/16/2015 - 17:35:54: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 03/16/2015 - 17:35:54: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" triggered "time" (time "7:43")
+L 03/16/2015 - 17:35:54: "|Xyligans|_Zl@9|_P@nD@<73><STEAM_0:4:1475267845><TERRORIST>" triggered "latency" (ping "32")
+L 03/16/2015 - 17:35:54: "ANGELuHA<80><STEAM_0:4:472272645><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 03/16/2015 - 17:35:54: "ANGELuHA<80><STEAM_0:4:472272645><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: "ANGELuHA<80><STEAM_0:4:472272645><CT>" triggered "time" (time "1:13")
+L 03/16/2015 - 17:35:54: "ANGELuHA<80><STEAM_0:4:472272645><CT>" triggered "latency" (ping "33")
+L 03/16/2015 - 17:35:54: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "35") (hits "7") (kills "7") (headshots "3") (tks "0") (damage "1722") (deaths "2")
+L 03/16/2015 - 17:35:54: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "3") (chest "1") (stomach "0") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "55") (deaths "1")
+L 03/16/2015 - 17:35:54: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" triggered "time" (time "5:10")
+L 03/16/2015 - 17:35:54: "[BLR] Sasha Grey<78><STEAM_0:0:56023079><TERRORIST>" triggered "latency" (ping "41")
+L 03/16/2015 - 17:35:54: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/16/2015 - 17:35:54: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/16/2015 - 17:35:54: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><TERRORIST>" triggered "time" (time "0:40")
+L 03/16/2015 - 17:35:54: ".:GP:.NeKo :c<82><STEAM_0:4:572017925><TERRORIST>" triggered "latency" (ping "39")
+L 03/16/2015 - 17:35:54: Server cvar "mp_timelimit" = "30.000000"
+L 03/16/2015 - 17:35:54: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/16/2015 - 17:35:54: [META] ini: Read plugin config for: AMX Mod X
+L 03/16/2015 - 17:35:54: [META] ini: Read plugin config for: dproto_EF
+L 03/16/2015 - 17:35:54: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/16/2015 - 17:35:54: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/16/2015 - 17:35:54: [META] dll: Updating plugins...
+L 03/16/2015 - 17:35:54: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/16/2015 - 17:35:54: Log file closed

@@ -1,0 +1,61 @@
+L 03/15/2015 - 13:04:26: Log file started (file "logs/L0315014.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/15/2015 - 13:04:26: Server cvar "mp_logdetail" = "3"
+L 03/15/2015 - 13:04:26: Server cvar "mp_timelimit" = "30"
+L 03/15/2015 - 13:04:26: Server cvar "mp_c4timer" = "35"
+L 03/15/2015 - 13:04:26: Server cvar "mp_flashlight" = "1"
+L 03/15/2015 - 13:04:26: Server cvar "mp_freezetime" = "5"
+L 03/15/2015 - 13:04:26: Server cvar "mp_hostagepenalty" = "0"
+L 03/15/2015 - 13:04:26: Server cvar "mp_limitteams" = "5"
+L 03/15/2015 - 13:04:26: Server cvar "mp_roundtime" = "2.57"
+L 03/15/2015 - 13:04:26: Server cvar "mp_tkpunish" = "1"
+L 03/15/2015 - 13:04:26: Server cvar "sv_restartround" = "1"
+L 03/15/2015 - 13:04:26: Server cvar "sv_maxspeed" = "320"
+L 03/15/2015 - 13:04:26: Server cvar "sv_proxies" = "0"
+L 03/15/2015 - 13:04:26: Server cvar "allow_spectators" = "4"
+L 03/15/2015 - 13:04:26: Server cvar "mp_chattime" = "0"
+L 03/15/2015 - 13:04:26: Server cvar "sv_alltalk" = "1"
+L 03/15/2015 - 13:04:26: Server cvar "decalfrequency" = "9"
+L 03/15/2015 - 13:04:26: Server cvar "sv_aim" = "off"
+L 03/15/2015 - 13:04:26: Server cvar "sv_cheats" = "off"
+L 03/15/2015 - 13:04:26: Server cvar "sv_minrate" = "100000"
+L 03/15/2015 - 13:04:26: Server cvar "sv_maxrate" = "50000"
+L 03/15/2015 - 13:04:27: World triggered "Restart_Round_(1_second)"
+L 03/15/2015 - 13:04:27: Team "CT" scored "0" with "0" players
+L 03/15/2015 - 13:04:27: Team "TERRORIST" scored "0" with "0" players
+L 03/15/2015 - 13:04:27: Server cvar "sv_restartround" = "0"
+L 03/15/2015 - 13:04:31: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb397df08
+L 03/15/2015 - 13:04:31: "[Easy_Skill]_Faza#1<1><STEAM_0:0:969824236><>" connected, address "46.53.208.172:1492"
+L 03/15/2015 - 13:04:33: World triggered "Round_Start"
+L 03/15/2015 - 13:05:16: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397df08
+L 03/15/2015 - 13:05:16: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><>" connected, address "10.19.7.134:27005"
+L 03/15/2015 - 13:05:46: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb397df08
+L 03/15/2015 - 13:05:46: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><>" connected, address "10.19.7.134:27005"
+L 03/15/2015 - 13:06:10: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><>" entered the game
+L 03/15/2015 - 13:06:14: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3982dfc
+L 03/15/2015 - 13:06:14: "$$$$matvei$$$$<4><STEAM_0:4:426122062><>" connected, address "37.212.144.155:27473"
+L 03/15/2015 - 13:06:20: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><>" joined team "CT"
+L 03/15/2015 - 13:06:33: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3982dfc
+L 03/15/2015 - 13:06:33: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1867490565><>" connected, address "178.168.195.119:27005"
+L 03/15/2015 - 13:06:39: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1867490565><>" entered the game
+L 03/15/2015 - 13:06:43: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1867490565><>" joined team "SPECTATOR"
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" triggered "time" (time "0:40")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" triggered "latency" (ping "1")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1867490565><SPECTATOR>" triggered "time" (time "0:10")
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1867490565><SPECTATOR>" triggered "latency" (ping "0")
+L 03/15/2015 - 13:06:50: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/15/2015 - 13:06:50: [META] ini: Read plugin config for: AMX Mod X
+L 03/15/2015 - 13:06:50: [META] ini: Read plugin config for: dproto_EF
+L 03/15/2015 - 13:06:50: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 03/15/2015 - 13:06:50: [META] dll: Updating plugins...
+L 03/15/2015 - 13:06:50: [META] dll: Finished updating 11 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_Extazy<3><STEAM_0:4:397277401><CT>" disconnected
+L 03/15/2015 - 13:06:50: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/15/2015 - 13:06:50: World triggered "Round_End"
+L 03/15/2015 - 13:06:50: "[Hard_Skill]_4IKIST<5><STEAM_0:4:1867490565><SPECTATOR>" disconnected
+L 03/15/2015 - 13:06:50: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/15/2015 - 13:06:50: World triggered "Round_End"
+L 03/15/2015 - 13:06:50: Log file closed

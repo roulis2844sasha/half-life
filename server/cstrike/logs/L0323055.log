@@ -1,0 +1,362 @@
+L 03/23/2015 - 20:08:00: Log file started (file "logs/L0323055.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/23/2015 - 20:08:00: Loading map "35_hp_2011"
+L 03/23/2015 - 20:08:00: Server cvars start
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_debug_level" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_examine_time" = "0.5"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_look_angle" = "10"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_look_distance" = "200"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_message_repeats" = "5"
+L 03/23/2015 - 20:08:00: Server cvar "_tutor_view_distance" = "1000"
+L 03/23/2015 - 20:08:00: Server cvar "aesp_version" = "1.5b_mini"
+L 03/23/2015 - 20:08:00: Server cvar "allow_spectators" = "4"
+L 03/23/2015 - 20:08:00: Server cvar "amx_client_languages" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/23/2015 - 20:08:00: Server cvar "amx_language" = "ru"
+L 03/23/2015 - 20:08:00: Server cvar "amx_nextmap" = "35_hp_2011"
+L 03/23/2015 - 20:08:00: Server cvar "amx_timeleft" = "00:00"
+L 03/23/2015 - 20:08:00: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/23/2015 - 20:08:00: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/23/2015 - 20:08:00: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Config" = "Loaded"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Replace" = "Failed"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Status" = "Loaded"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/23/2015 - 20:08:00: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/23/2015 - 20:08:00: Server cvar "coop" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "deathmatch" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "decalfrequency" = "9"
+L 03/23/2015 - 20:08:00: Server cvar "dp_version" = "0.9.391"
+L 03/23/2015 - 20:08:00: Server cvar "edgefriction" = "2"
+L 03/23/2015 - 20:08:00: Server cvar "hostage_debug" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "hostage_stop" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "humans_join_team" = "any"
+L 03/23/2015 - 20:08:00: Server cvar "jtp10181" = "chute"
+L 03/23/2015 - 20:08:00: Server cvar "max_queries_sec" = "3.0"
+L 03/23/2015 - 20:08:00: Server cvar "max_queries_sec_global" = "30"
+L 03/23/2015 - 20:08:00: Server cvar "max_queries_window" = "60"
+L 03/23/2015 - 20:08:00: Server cvar "metamod_version" = "1.19"
+L 03/23/2015 - 20:08:00: Server cvar "mp_allowmonsters" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_autokick" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_autoteambalance" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_buytime" = "1.5"
+L 03/23/2015 - 20:08:00: Server cvar "mp_c4timer" = "35"
+L 03/23/2015 - 20:08:00: Server cvar "mp_chattime" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_consistency" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_fadetoblack" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_flashlight" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_footsteps" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_forcecamera" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_forcechasecam" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_fragsleft" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_freezetime" = "5"
+L 03/23/2015 - 20:08:00: Server cvar "mp_friendlyfire" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_hostagepenalty" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_kickpercent" = "0.66"
+L 03/23/2015 - 20:08:00: Server cvar "mp_limitteams" = "5"
+L 03/23/2015 - 20:08:00: Server cvar "mp_logdetail" = "3"
+L 03/23/2015 - 20:08:00: Server cvar "mp_logfile" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_logmessages" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/23/2015 - 20:08:00: Server cvar "mp_maxrounds" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_mirrordamage" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_playerid" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_roundtime" = "2.57"
+L 03/23/2015 - 20:08:00: Server cvar "mp_startmoney" = "800"
+L 03/23/2015 - 20:08:00: Server cvar "mp_timeleft" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "mp_timelimit" = "30.000000"
+L 03/23/2015 - 20:08:00: Server cvar "mp_tkpunish" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_windifference" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "mp_winlimit" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "pausable" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_accelerate" = "5"
+L 03/23/2015 - 20:08:00: Server cvar "sv_aim" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_airaccelerate" = "10"
+L 03/23/2015 - 20:08:00: Server cvar "sv_airmove" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "sv_allowupload" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "sv_alltalk" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_bounce" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "sv_cheats" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_clienttrace" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "sv_clipmode" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_contact" = ""
+L 03/23/2015 - 20:08:00: Server cvar "sv_friction" = "4"
+L 03/23/2015 - 20:08:00: Server cvar "sv_gravity" = "800"
+L 03/23/2015 - 20:08:00: Server cvar "sv_logblocks" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_maxrate" = "50000"
+L 03/23/2015 - 20:08:00: Server cvar "sv_maxspeed" = "900"
+L 03/23/2015 - 20:08:00: Server cvar "sv_minrate" = "100000"
+L 03/23/2015 - 20:08:00: Server cvar "sv_password" = ""
+L 03/23/2015 - 20:08:00: Server cvar "sv_proxies" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_region" = "255"
+L 03/23/2015 - 20:08:00: Server cvar "sv_restart" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_restartround" = "0"
+L 03/23/2015 - 20:08:00: Server cvar "sv_stepsize" = "18"
+L 03/23/2015 - 20:08:00: Server cvar "sv_stopspeed" = "75"
+L 03/23/2015 - 20:08:00: Server cvar "sv_uploadmax" = "0.5"
+L 03/23/2015 - 20:08:00: Server cvar "sv_voiceenable" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "sv_wateraccelerate" = "10"
+L 03/23/2015 - 20:08:00: Server cvar "sv_waterfriction" = "1"
+L 03/23/2015 - 20:08:00: Server cvar "travo_statmarquee" = "v1.2"
+L 03/23/2015 - 20:08:00: Server cvar "ultimate_sounds" = "1.7"
+L 03/23/2015 - 20:08:00: Server cvar "vtc_version" = "80"
+L 03/23/2015 - 20:08:00: Server cvars end
+L 03/23/2015 - 20:08:00: Server cvar "amx_nextmap" = "aim_aztec"
+L 03/23/2015 - 20:08:00: Server cvar "sv_restart" = "1"
+L 03/23/2015 - 20:08:01: World triggered "Restart_Round_(1_second)"
+L 03/23/2015 - 20:08:01: Team "CT" scored "0" with "0" players
+L 03/23/2015 - 20:08:01: Team "TERRORIST" scored "0" with "0" players
+L 03/23/2015 - 20:08:01: Server cvar "sv_restart" = "0"
+L 03/23/2015 - 20:08:01: Started map "35_hp_2011" (CRC "1681787481")
+L 03/23/2015 - 20:08:01: [VTC] Player 4 speex
+L 03/23/2015 - 20:08:01: [VTC] Player 1 speex
+L 03/23/2015 - 20:08:01: [VTC] Player 10 speex
+L 03/23/2015 - 20:08:03: "Kredi96<299><STEAM_0:0:969824236><>" entered the game
+L 03/23/2015 - 20:08:06: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><>" entered the game
+L 03/23/2015 - 20:08:06: World triggered "Round_Start"
+L 03/23/2015 - 20:08:07: "Kredi96<299><STEAM_0:0:969824236><>" joined team "CT"
+L 03/23/2015 - 20:08:11: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><>" joined team "TERRORIST"
+L 03/23/2015 - 20:08:11: World triggered "Game_Commencing"
+L 03/23/2015 - 20:08:11: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/23/2015 - 20:08:11: World triggered "Round_End"
+L 03/23/2015 - 20:08:17: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><>" entered the game
+L 03/23/2015 - 20:08:19: World triggered "Round_Start"
+L 03/23/2015 - 20:08:44: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb3942dfc
+L 03/23/2015 - 20:08:44: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><>" connected, address "37.214.115.134:5388"
+L 03/23/2015 - 20:08:44: [VTC] Player 2 speex
+L 03/23/2015 - 20:08:51: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><>" entered the game
+L 03/23/2015 - 20:09:03: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><>" joined team "TERRORIST"
+L 03/23/2015 - 20:09:19: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><>" joined team "CT"
+L 03/23/2015 - 20:09:35: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:09:35: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:09:35: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/23/2015 - 20:09:35: World triggered "Round_End"
+L 03/23/2015 - 20:09:45: World triggered "Round_Start"
+L 03/23/2015 - 20:09:50: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:09:50: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:09:51: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39569cc
+L 03/23/2015 - 20:09:51: "69<321><STEAM_0:4:1537324126><>" connected, address "5.138.31.30:27005"
+L 03/23/2015 - 20:09:57: [DPROTO]: Reconnecting without previously passed bot detection; assuming that it's a bot. (WL=0.500000)
+L 03/23/2015 - 20:09:57: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39569cc
+L 03/23/2015 - 20:09:57: "69<322><STEAM_0:4:1537324126><>" connected, address "5.138.31.30:27005"
+L 03/23/2015 - 20:09:57: [VTC] Player 6 speex
+L 03/23/2015 - 20:09:59: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39569cc
+L 03/23/2015 - 20:09:59: "69<323><STEAM_0:4:1537324126><>" connected, address "5.138.31.30:27005"
+L 03/23/2015 - 20:09:59: [VTC] Player 6 speex
+L 03/23/2015 - 20:10:01: "Kredi96<299><STEAM_0:0:969824236><CT>" say "kjkj ,kz jndtnm yf 1 dfghjcn"
+L 03/23/2015 - 20:10:03: "69<323><STEAM_0:4:1537324126><>" entered the game
+L 03/23/2015 - 20:10:05: "69<323><STEAM_0:4:1537324126><>" joined team "TERRORIST"
+L 03/23/2015 - 20:10:18: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:10:18: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:10:23: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:10:23: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:10:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 03/23/2015 - 20:10:23: World triggered "Round_End"
+L 03/23/2015 - 20:10:33: World triggered "Round_Start"
+L 03/23/2015 - 20:10:38: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:10:38: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:10:53: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:10:53: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:11:18: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:11:18: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:11:38: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:11:38: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife"
+L 03/23/2015 - 20:11:38: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 03/23/2015 - 20:11:38: World triggered "Round_End"
+L 03/23/2015 - 20:11:48: World triggered "Round_Start"
+L 03/23/2015 - 20:12:04: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:12:04: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:12:04: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-34") (armor "0")
+L 03/23/2015 - 20:12:04: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:12:08: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:12:08: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:12:13: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-55") (armor "0")
+L 03/23/2015 - 20:12:13: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife"
+L 03/23/2015 - 20:12:13: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 03/23/2015 - 20:12:13: World triggered "Round_End"
+L 03/23/2015 - 20:12:23: World triggered "Round_Start"
+L 03/23/2015 - 20:12:31: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:12:31: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:12:33: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:12:33: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:12:59: "69<323><STEAM_0:4:1537324126><TERRORIST>" say ".scnhtt ,kznm" (dead)
+L 03/23/2015 - 20:13:13: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:13:13: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife"
+L 03/23/2015 - 20:13:13: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 03/23/2015 - 20:13:13: World triggered "Round_End"
+L 03/23/2015 - 20:13:23: World triggered "Round_Start"
+L 03/23/2015 - 20:13:33: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:13:33: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife"
+L 03/23/2015 - 20:13:35: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:13:35: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:13:43: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:13:43: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:13:44: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:13:44: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:13:44: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 03/23/2015 - 20:13:44: World triggered "Round_End"
+L 03/23/2015 - 20:13:54: World triggered "Round_Start"
+L 03/23/2015 - 20:14:00: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:14:00: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:14:13: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/23/2015 - 20:14:13: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:14:18: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:14:18: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:14:41: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:14:41: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:14:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 03/23/2015 - 20:14:41: World triggered "Round_End"
+L 03/23/2015 - 20:14:51: World triggered "Round_Start"
+L 03/23/2015 - 20:15:07: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/23/2015 - 20:15:07: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:15:12: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:15:12: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:15:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 03/23/2015 - 20:15:12: World triggered "Round_End"
+L 03/23/2015 - 20:15:22: World triggered "Round_Start"
+L 03/23/2015 - 20:15:33: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:15:33: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:15:38: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "195") (damage_armor "0") (health "-160") (armor "0")
+L 03/23/2015 - 20:15:38: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:15:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "4")
+L 03/23/2015 - 20:15:38: World triggered "Round_End"
+L 03/23/2015 - 20:15:48: World triggered "Round_Start"
+L 03/23/2015 - 20:16:00: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/23/2015 - 20:16:00: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:16:01: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:16:01: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:16:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 03/23/2015 - 20:16:01: World triggered "Round_End"
+L 03/23/2015 - 20:16:08: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" committed suicide with "game_player_hurt" (world)
+L 03/23/2015 - 20:16:11: World triggered "Round_Start"
+L 03/23/2015 - 20:16:18: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:16:18: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:16:23: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:16:23: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:16:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 03/23/2015 - 20:16:23: World triggered "Round_End"
+L 03/23/2015 - 20:16:33: World triggered "Round_Start"
+L 03/23/2015 - 20:16:43: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:16:43: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:16:46: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:16:46: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:16:48: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:16:48: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife"
+L 03/23/2015 - 20:16:48: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 03/23/2015 - 20:16:48: World triggered "Round_End"
+L 03/23/2015 - 20:16:58: World triggered "Round_Start"
+L 03/23/2015 - 20:17:10: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:17:10: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:17:17: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:17:17: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:17:28: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:17:28: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:17:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "7")
+L 03/23/2015 - 20:17:28: World triggered "Round_End"
+L 03/23/2015 - 20:17:38: World triggered "Round_Start"
+L 03/23/2015 - 20:17:46: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:17:46: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:17:59: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/23/2015 - 20:17:59: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:17:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "8")
+L 03/23/2015 - 20:17:59: World triggered "Round_End"
+L 03/23/2015 - 20:18:09: World triggered "Round_Start"
+L 03/23/2015 - 20:18:20: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:18:20: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:18:21: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:18:21: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:18:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "9")
+L 03/23/2015 - 20:18:21: World triggered "Round_End"
+L 03/23/2015 - 20:18:31: World triggered "Round_Start"
+L 03/23/2015 - 20:18:36: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:18:36: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:18:38: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:18:38: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:18:42: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:18:42: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:18:52: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:18:52: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" with "knife"
+L 03/23/2015 - 20:18:52: Team "CT" triggered "CTs_Win" (CT "7") (T "9")
+L 03/23/2015 - 20:18:52: World triggered "Round_End"
+L 03/23/2015 - 20:19:02: World triggered "Round_Start"
+L 03/23/2015 - 20:19:07: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:19:07: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:19:08: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:19:08: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:19:20: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:19:20: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:19:31: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "28") (hits "11") (kills "11") (headshots "1") (tks "0") (damage "1040") (deaths "6")
+L 03/23/2015 - 20:19:31: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 20:19:31: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" triggered "time" (time "10:40")
+L 03/23/2015 - 20:19:31: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" triggered "latency" (ping "38")
+L 03/23/2015 - 20:19:31: "*Pr0*.L[!]der~[tm] | pronto<320><STEAM_0:0:771028678><TERRORIST>" disconnected
+L 03/23/2015 - 20:19:31: Team "CT" triggered "CTs_Win" (CT "8") (T "9")
+L 03/23/2015 - 20:19:31: World triggered "Round_End"
+L 03/23/2015 - 20:19:41: World triggered "Round_Start"
+L 03/23/2015 - 20:19:49: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:19:49: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "Kredi96<299><STEAM_0:0:969824236><CT>" with "knife"
+L 03/23/2015 - 20:19:51: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/23/2015 - 20:19:51: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:20:02: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3942dfc
+L 03/23/2015 - 20:20:02: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><>" connected, address "178.120.120.50:24495"
+L 03/23/2015 - 20:20:02: [VTC] Player 2 speex
+L 03/23/2015 - 20:20:08: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><>" entered the game
+L 03/23/2015 - 20:20:09: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" committed suicide with "worldspawn" (world)
+L 03/23/2015 - 20:20:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "10")
+L 03/23/2015 - 20:20:09: World triggered "Round_End"
+L 03/23/2015 - 20:20:12: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><>" joined team "CT"
+L 03/23/2015 - 20:20:19: World triggered "Round_Start"
+L 03/23/2015 - 20:20:25: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:20:25: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" with "knife"
+L 03/23/2015 - 20:20:32: "69<323><STEAM_0:4:1537324126><TERRORIST>" attacked "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:20:32: "69<323><STEAM_0:4:1537324126><TERRORIST>" killed "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><CT>" with "knife"
+L 03/23/2015 - 20:20:35: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:20:35: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "69<323><STEAM_0:4:1537324126><TERRORIST>" with "knife"
+L 03/23/2015 - 20:20:51: "Kredi96<299><STEAM_0:0:969824236><CT>" attacked "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/23/2015 - 20:20:51: "Kredi96<299><STEAM_0:0:969824236><CT>" killed "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" with "knife"
+L 03/23/2015 - 20:20:51: Team "CT" triggered "CTs_Win" (CT "9") (T "10")
+L 03/23/2015 - 20:20:51: World triggered "Round_End"
+L 03/23/2015 - 20:21:00: Server cvar "amx_nextmap" = "cs_assault"
+L 03/23/2015 - 20:21:00: Server cvar "mp_timelimit" = "0.000000"
+L 03/23/2015 - 20:21:01: Server cvar "mp_timelimit" = "0.010000"
+L 03/23/2015 - 20:21:01: World triggered "Round_Start"
+L 03/23/2015 - 20:21:01: Team "CT" scored "9" with "3" players
+L 03/23/2015 - 20:21:01: Team "TERRORIST" scored "10" with "2" players
+L 03/23/2015 - 20:21:01: Server cvar "mp_chattime" = "3"
+L 03/23/2015 - 20:21:02: Server cvar "mp_chattime" = "1"
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" triggered "weaponstats" (weapon "knife") (shots "17") (hits "12") (kills "12") (headshots "1") (tks "0") (damage "975") (deaths "12")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" triggered "time" (time "12:45")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Dasha<317><STEAM_0:4:1068366041><CT>" triggered "latency" (ping "1")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><CT>" triggered "time" (time "0:54")
+L 03/23/2015 - 20:21:02: "[Hard_Skill]_Leks<324><STEAM_0:4:1301433605><CT>" triggered "latency" (ping "23")
+L 03/23/2015 - 20:21:02: "Kredi96<299><STEAM_0:0:969824236><CT>" triggered "weaponstats" (weapon "knife") (shots "115") (hits "16") (kills "16") (headshots "1") (tks "0") (damage "1235") (deaths "13")
+L 03/23/2015 - 20:21:02: "Kredi96<299><STEAM_0:0:969824236><CT>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 20:21:02: "Kredi96<299><STEAM_0:0:969824236><CT>" triggered "time" (time "12:58")
+L 03/23/2015 - 20:21:02: "Kredi96<299><STEAM_0:0:969824236><CT>" triggered "latency" (ping "18")
+L 03/23/2015 - 20:21:02: "69<323><STEAM_0:4:1537324126><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "25") (hits "10") (kills "10") (headshots "1") (tks "0") (damage "845") (deaths "10")
+L 03/23/2015 - 20:21:02: "69<323><STEAM_0:4:1537324126><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 20:21:02: "69<323><STEAM_0:4:1537324126><TERRORIST>" triggered "time" (time "10:59")
+L 03/23/2015 - 20:21:02: "69<323><STEAM_0:4:1537324126><TERRORIST>" triggered "latency" (ping "54")
+L 03/23/2015 - 20:21:02: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "43") (hits "5") (kills "5") (headshots "0") (tks "0") (damage "455") (deaths "12")
+L 03/23/2015 - 20:21:02: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/23/2015 - 20:21:02: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" triggered "time" (time "12:56")
+L 03/23/2015 - 20:21:02: "[Easy_Skill]_LoL#3<319><STEAM_0:4:1537134213><TERRORIST>" triggered "latency" (ping "63")
+L 03/23/2015 - 20:21:02: Server cvar "mp_timelimit" = "30.000000"
+L 03/23/2015 - 20:21:02: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/23/2015 - 20:21:02: [META] ini: Read plugin config for: AMX Mod X
+L 03/23/2015 - 20:21:02: [META] ini: Read plugin config for: dproto_EF
+L 03/23/2015 - 20:21:02: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/23/2015 - 20:21:02: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/23/2015 - 20:21:02: [META] dll: Updating plugins...
+L 03/23/2015 - 20:21:02: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/23/2015 - 20:21:02: Log file closed

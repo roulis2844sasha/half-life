@@ -1,0 +1,44 @@
+[ru]
+KICKED_REASON = Сервер переполнен зайдите позже!
+CANT_JOIN_REASON = Сервер переполнен!
+
+[en]
+KICKED_REASON = You were disconnected to free a slot.
+CANT_JOIN_REASON = Server Full.
+
+[nl]
+KICKED_REASON = Je bent van de server verwijderd om ruimte te maken voor iemand anders.
+CANT_JOIN_REASON = Server is vol.
+
+[de]
+KICKED_REASON = Sry, aber wir brauchen einen freien Platz.
+CANT_JOIN_REASON = Server ist leider schon voll.
+
+[sv]
+KICKED_REASON = Du blev frankopplad f'o'r att frig'o'ra en slot.
+CANT_JOIN_REASON = Servern 'a'r Full.
+
+[bg]
+KICKED_REASON = Biah te kicknati za da moje da se osvobodi miasto na servara.
+CANT_JOIN_REASON = Servara e palen.
+
+[fr]
+KICKED_REASON = tu es dйbranchй du serveur pour faire l'espace pour une autre.
+CANT_JOIN_REASON = le serveur est bondй.
+
+[es]
+KICKED_REASON = Has sido desconectado para liberar un slot.
+CANT_JOIN_REASON = Servidor Lleno.
+
+[fi]
+KICKED_REASON = Sinut poistettiin palvelimelta pelaajapaikan vapauttamiseksi.
+CANT_JOIN_REASON = Palvelin on taysi.
+
+[bp]
+KICKED_REASON = Voce foi desconectado para liberar um slot reservado.
+CANT_JOIN_REASON = O servidor esta cheio. 
+
+[pl]
+KICKED_REASON = Zostales wyrzucony aby zwolnic slot.
+CANT_JOIN_REASON = Serwer jest pelny.
+

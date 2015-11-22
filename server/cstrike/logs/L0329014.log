@@ -1,0 +1,788 @@
+L 03/29/2015 - 13:46:26: Log file started (file "logs/L0329014.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/29/2015 - 13:46:26: Loading map "aim_usp"
+L 03/29/2015 - 13:46:26: Server cvars start
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_debug_level" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_examine_time" = "0.5"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_look_angle" = "10"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_look_distance" = "200"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_message_repeats" = "5"
+L 03/29/2015 - 13:46:26: Server cvar "_tutor_view_distance" = "1000"
+L 03/29/2015 - 13:46:26: Server cvar "aesp_version" = "1.5b_mini"
+L 03/29/2015 - 13:46:26: Server cvar "allow_spectators" = "4"
+L 03/29/2015 - 13:46:26: Server cvar "amx_client_languages" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/29/2015 - 13:46:26: Server cvar "amx_language" = "ru"
+L 03/29/2015 - 13:46:26: Server cvar "amx_nextmap" = "aim_usp"
+L 03/29/2015 - 13:46:26: Server cvar "amx_timeleft" = "00:00"
+L 03/29/2015 - 13:46:26: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/29/2015 - 13:46:26: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/29/2015 - 13:46:26: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Config" = "Loaded"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Replace" = "Failed"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Status" = "Loaded"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/29/2015 - 13:46:26: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/29/2015 - 13:46:26: Server cvar "coop" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "deathmatch" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "decalfrequency" = "9"
+L 03/29/2015 - 13:46:26: Server cvar "dp_version" = "0.9.391"
+L 03/29/2015 - 13:46:26: Server cvar "edgefriction" = "2"
+L 03/29/2015 - 13:46:26: Server cvar "hostage_debug" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "hostage_stop" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "humans_join_team" = "any"
+L 03/29/2015 - 13:46:26: Server cvar "jtp10181" = "chute,gore"
+L 03/29/2015 - 13:46:26: Server cvar "max_queries_sec" = "3.0"
+L 03/29/2015 - 13:46:26: Server cvar "max_queries_sec_global" = "30"
+L 03/29/2015 - 13:46:26: Server cvar "max_queries_window" = "60"
+L 03/29/2015 - 13:46:26: Server cvar "metamod_version" = "1.19"
+L 03/29/2015 - 13:46:26: Server cvar "mp_allowmonsters" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_autokick" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_autoteambalance" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_buytime" = "1.5"
+L 03/29/2015 - 13:46:26: Server cvar "mp_c4timer" = "35"
+L 03/29/2015 - 13:46:26: Server cvar "mp_chattime" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_consistency" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_fadetoblack" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_flashlight" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_footsteps" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_forcecamera" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_forcechasecam" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_fragsleft" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_freezetime" = "5"
+L 03/29/2015 - 13:46:26: Server cvar "mp_friendlyfire" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_hostagepenalty" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_kickpercent" = "0.66"
+L 03/29/2015 - 13:46:26: Server cvar "mp_limitteams" = "5"
+L 03/29/2015 - 13:46:26: Server cvar "mp_logdetail" = "3"
+L 03/29/2015 - 13:46:26: Server cvar "mp_logfile" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_logmessages" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/29/2015 - 13:46:26: Server cvar "mp_maxrounds" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_mirrordamage" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_playerid" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_roundtime" = "2.57"
+L 03/29/2015 - 13:46:26: Server cvar "mp_startmoney" = "800"
+L 03/29/2015 - 13:46:26: Server cvar "mp_timeleft" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "mp_timelimit" = "30.000000"
+L 03/29/2015 - 13:46:26: Server cvar "mp_tkpunish" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_windifference" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "mp_winlimit" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "pausable" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_accelerate" = "5"
+L 03/29/2015 - 13:46:26: Server cvar "sv_aim" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_airaccelerate" = "10"
+L 03/29/2015 - 13:46:26: Server cvar "sv_airmove" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "sv_allowupload" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "sv_alltalk" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_bounce" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "sv_cheats" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_clienttrace" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "sv_clipmode" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_contact" = ""
+L 03/29/2015 - 13:46:26: Server cvar "sv_friction" = "4"
+L 03/29/2015 - 13:46:26: Server cvar "sv_gravity" = "800"
+L 03/29/2015 - 13:46:26: Server cvar "sv_logblocks" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_maxrate" = "50000"
+L 03/29/2015 - 13:46:26: Server cvar "sv_maxspeed" = "900"
+L 03/29/2015 - 13:46:26: Server cvar "sv_minrate" = "100000"
+L 03/29/2015 - 13:46:26: Server cvar "sv_password" = ""
+L 03/29/2015 - 13:46:26: Server cvar "sv_proxies" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_region" = "255"
+L 03/29/2015 - 13:46:26: Server cvar "sv_restart" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_restartround" = "0"
+L 03/29/2015 - 13:46:26: Server cvar "sv_stepsize" = "18"
+L 03/29/2015 - 13:46:26: Server cvar "sv_stopspeed" = "75"
+L 03/29/2015 - 13:46:26: Server cvar "sv_uploadmax" = "0.5"
+L 03/29/2015 - 13:46:26: Server cvar "sv_voiceenable" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "sv_wateraccelerate" = "10"
+L 03/29/2015 - 13:46:26: Server cvar "sv_waterfriction" = "1"
+L 03/29/2015 - 13:46:26: Server cvar "travo_statmarquee" = "v1.2"
+L 03/29/2015 - 13:46:26: Server cvar "vtc_version" = "80"
+L 03/29/2015 - 13:46:26: Server cvar "wallblocker_version" = "1.0"
+L 03/29/2015 - 13:46:26: Server cvar "whb_version" = "1.5.530"
+L 03/29/2015 - 13:46:26: Server cvars end
+L 03/29/2015 - 13:46:27: Server cvar "amx_nextmap" = "awp_india"
+L 03/29/2015 - 13:46:27: Server cvar "sv_restart" = "1"
+L 03/29/2015 - 13:46:27: World triggered "Restart_Round_(1_second)"
+L 03/29/2015 - 13:46:27: Team "CT" scored "0" with "0" players
+L 03/29/2015 - 13:46:27: Team "TERRORIST" scored "0" with "0" players
+L 03/29/2015 - 13:46:27: Server cvar "sv_restart" = "0"
+L 03/29/2015 - 13:46:27: Started map "aim_usp" (CRC "100757065")
+L 03/29/2015 - 13:46:27: [VTC] Player 7 speex
+L 03/29/2015 - 13:46:27: [VTC] Player 5 speex
+L 03/29/2015 - 13:46:27: [VTC] Player 4 speex
+L 03/29/2015 - 13:46:27: [VTC] Player 3 speex
+L 03/29/2015 - 13:46:28: [VTC] Player 2 speex
+L 03/29/2015 - 13:46:30: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><>" entered the game
+L 03/29/2015 - 13:46:30: "[D]isciple~<59><STEAM_0:4:1016843525><>" entered the game
+L 03/29/2015 - 13:46:31: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><>" entered the game
+L 03/29/2015 - 13:46:31: "Leks<60><STEAM_0:4:569822469><>" entered the game
+L 03/29/2015 - 13:46:32: World triggered "Round_Start"
+L 03/29/2015 - 13:46:32: "[D]isciple~<59><STEAM_0:4:1016843525><>" joined team "TERRORIST"
+L 03/29/2015 - 13:46:33: "Egorkins )<51><STEAM_0:4:700904708><>" entered the game
+L 03/29/2015 - 13:46:33: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/29/2015 - 13:46:35: "Leks<60><STEAM_0:4:569822469><>" joined team "CT"
+L 03/29/2015 - 13:46:36: World triggered "Game_Commencing"
+L 03/29/2015 - 13:46:36: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/29/2015 - 13:46:36: World triggered "Round_End"
+L 03/29/2015 - 13:46:38: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><>" joined team "CT"
+L 03/29/2015 - 13:46:44: World triggered "Round_Start"
+L 03/29/2015 - 13:46:46: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/29/2015 - 13:46:46: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/29/2015 - 13:46:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:46:47: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "12") (damage_armor "0") (health "76") (armor "0")
+L 03/29/2015 - 13:46:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "40") (armor "0")
+L 03/29/2015 - 13:46:47: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "18") (damage_armor "0") (health "58") (armor "0")
+L 03/29/2015 - 13:46:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "15") (armor "0")
+L 03/29/2015 - 13:46:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "-5") (armor "0")
+L 03/29/2015 - 13:46:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:46:55: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "28") (damage_armor "0") (health "30") (armor "0")
+L 03/29/2015 - 13:46:56: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "29") (damage_armor "0") (health "1") (armor "0")
+L 03/29/2015 - 13:46:56: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "29") (damage_armor "0") (health "-28") (armor "0")
+L 03/29/2015 - 13:46:56: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:47:03: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/29/2015 - 13:47:04: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 03/29/2015 - 13:47:04: "Leks<60><STEAM_0:4:569822469><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:47:04: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/29/2015 - 13:47:04: World triggered "Round_End"
+L 03/29/2015 - 13:47:14: World triggered "Round_Start"
+L 03/29/2015 - 13:47:19: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 03/29/2015 - 13:47:19: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "23") (damage_armor "0") (health "58") (armor "0")
+L 03/29/2015 - 13:47:25: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 03/29/2015 - 13:47:26: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:47:26: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/29/2015 - 13:47:26: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "16") (damage_armor "0") (health "57") (armor "0")
+L 03/29/2015 - 13:47:26: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "34") (armor "0")
+L 03/29/2015 - 13:47:26: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "88") (damage_armor "0") (health "-54") (armor "0")
+L 03/29/2015 - 13:47:26: "Leks<60><STEAM_0:4:569822469><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:47:27: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "35") (damage_armor "0") (health "23") (armor "0")
+L 03/29/2015 - 13:47:27: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/29/2015 - 13:47:27: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "29") (damage_armor "0") (health "-6") (armor "0")
+L 03/29/2015 - 13:47:27: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:47:30: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "43") (armor "0")
+L 03/29/2015 - 13:47:30: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "15") (armor "0")
+L 03/29/2015 - 13:47:30: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "-13") (armor "0")
+L 03/29/2015 - 13:47:30: "Leks<60><STEAM_0:4:569822469><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:47:30: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/29/2015 - 13:47:30: World triggered "Round_End"
+L 03/29/2015 - 13:47:41: World triggered "Round_Start"
+L 03/29/2015 - 13:47:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "84") (damage_armor "0") (health "16") (armor "0")
+L 03/29/2015 - 13:47:48: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "-5") (armor "0")
+L 03/29/2015 - 13:47:48: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:47:50: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/29/2015 - 13:47:50: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 03/29/2015 - 13:47:50: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "51") (armor "0")
+L 03/29/2015 - 13:47:51: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "27") (armor "0")
+L 03/29/2015 - 13:47:51: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "9") (armor "0")
+L 03/29/2015 - 13:47:51: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "30") (damage_armor "0") (health "46") (armor "0")
+L 03/29/2015 - 13:47:52: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "25") (damage_armor "0") (health "21") (armor "0")
+L 03/29/2015 - 13:47:52: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "25") (damage_armor "0") (health "-4") (armor "0")
+L 03/29/2015 - 13:47:52: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" killed "Leks<60><STEAM_0:4:569822469><CT>" with "usp"
+L 03/29/2015 - 13:47:54: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "37") (damage_armor "0") (health "-28") (armor "0")
+L 03/29/2015 - 13:47:54: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:47:54: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/29/2015 - 13:47:54: World triggered "Round_End"
+L 03/29/2015 - 13:48:04: World triggered "Round_Start"
+L 03/29/2015 - 13:48:07: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "14") (damage_armor "0") (health "86") (armor "0")
+L 03/29/2015 - 13:48:07: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 03/29/2015 - 13:48:08: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "62") (armor "0")
+L 03/29/2015 - 13:48:09: "Egorkins )<51><STEAM_0:4:700904708><>" joined team "TERRORIST"
+L 03/29/2015 - 13:48:09: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39baf08
+L 03/29/2015 - 13:48:09: "[Hard_Skill]_Mi{x}eR<64><STEAM_0:4:2092800974><>" connected, address "37.213.39.80:27005"
+L 03/29/2015 - 13:48:09: [VTC] Player 1 speex
+L 03/29/2015 - 13:48:10: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "26") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:48:11: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/29/2015 - 13:48:14: "Leks<60><STEAM_0:4:569822469><CT>" attacked "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/29/2015 - 13:48:14: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "63") (armor "0")
+L 03/29/2015 - 13:48:14: "Leks<60><STEAM_0:4:569822469><CT>" attacked "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp" (damage "64") (damage_armor "0") (health "24") (armor "0")
+L 03/29/2015 - 13:48:14: "Leks<60><STEAM_0:4:569822469><CT>" attacked "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "8") (armor "0")
+L 03/29/2015 - 13:48:15: "Leks<60><STEAM_0:4:569822469><CT>" attacked "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "-8") (armor "0")
+L 03/29/2015 - 13:48:15: "Leks<60><STEAM_0:4:569822469><CT>" killed "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp"
+L 03/29/2015 - 13:48:17: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "39") (armor "0")
+L 03/29/2015 - 13:48:17: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "16") (armor "0")
+L 03/29/2015 - 13:48:18: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "92") (damage_armor "0") (health "-76") (armor "0")
+L 03/29/2015 - 13:48:18: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:48:22: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "39") (armor "0")
+L 03/29/2015 - 13:48:22: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "15") (armor "0")
+L 03/29/2015 - 13:48:22: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "-9") (armor "0")
+L 03/29/2015 - 13:48:22: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:48:22: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/29/2015 - 13:48:22: World triggered "Round_End"
+L 03/29/2015 - 13:48:32: World triggered "Round_Start"
+L 03/29/2015 - 13:48:33: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39baf08
+L 03/29/2015 - 13:48:33: "[Hard_Skill]_Mi{x}eR<65><STEAM_0:4:2092800974><>" connected, address "37.213.39.80:27005"
+L 03/29/2015 - 13:48:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:48:35: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:48:36: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/29/2015 - 13:48:36: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "18") (damage_armor "0") (health "38") (armor "0")
+L 03/29/2015 - 13:48:36: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "22") (damage_armor "0") (health "16") (armor "0")
+L 03/29/2015 - 13:48:36: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "19") (damage_armor "0") (health "-3") (armor "0")
+L 03/29/2015 - 13:48:36: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:48:37: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "63") (armor "0")
+L 03/29/2015 - 13:48:38: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "44") (armor "0")
+L 03/29/2015 - 13:48:38: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39baf08
+L 03/29/2015 - 13:48:38: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><>" connected, address "37.213.39.80:27005"
+L 03/29/2015 - 13:48:38: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "25") (armor "0")
+L 03/29/2015 - 13:48:38: [VTC] Player 1 speex
+L 03/29/2015 - 13:48:38: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "76") (damage_armor "0") (health "-51") (armor "0")
+L 03/29/2015 - 13:48:38: "Leks<60><STEAM_0:4:569822469><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:48:41: "Leks<60><STEAM_0:4:569822469><CT>" attacked "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp" (damage "68") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 13:48:41: "Leks<60><STEAM_0:4:569822469><CT>" attacked "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp" (damage "68") (damage_armor "0") (health "-36") (armor "0")
+L 03/29/2015 - 13:48:41: "Leks<60><STEAM_0:4:569822469><CT>" killed "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" with "usp"
+L 03/29/2015 - 13:48:43: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/29/2015 - 13:48:44: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "22") (damage_armor "0") (health "55") (armor "0")
+L 03/29/2015 - 13:48:48: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "17") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "19") (deaths "2")
+L 03/29/2015 - 13:48:48: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:48:48: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" triggered "time" (time "2:14")
+L 03/29/2015 - 13:48:48: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" triggered "latency" (ping "85")
+L 03/29/2015 - 13:48:48: "Egorkins )<51><STEAM_0:4:700904708><TERRORIST>" disconnected
+L 03/29/2015 - 13:48:49: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><>" entered the game
+L 03/29/2015 - 13:48:53: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><>" joined team "CT"
+L 03/29/2015 - 13:48:54: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "23") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 13:48:54: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "23") (damage_armor "0") (health "9") (armor "0")
+L 03/29/2015 - 13:48:55: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "23") (damage_armor "0") (health "-14") (armor "0")
+L 03/29/2015 - 13:48:55: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" killed "Leks<60><STEAM_0:4:569822469><CT>" with "usp"
+L 03/29/2015 - 13:48:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 03/29/2015 - 13:48:55: World triggered "Round_End"
+L 03/29/2015 - 13:49:05: World triggered "Round_Start"
+L 03/29/2015 - 13:49:10: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "72") (damage_armor "0") (health "28") (armor "0")
+L 03/29/2015 - 13:49:10: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:49:10: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/29/2015 - 13:49:11: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:49:11: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "80") (damage_armor "0") (health "-20") (armor "0")
+L 03/29/2015 - 13:49:11: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:49:16: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:49:20: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "24") (damage_armor "0") (health "54") (armor "0")
+L 03/29/2015 - 13:49:20: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "25") (damage_armor "0") (health "29") (armor "0")
+L 03/29/2015 - 13:49:21: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "25") (damage_armor "0") (health "4") (armor "0")
+L 03/29/2015 - 13:49:22: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "100") (damage_armor "0") (health "-72") (armor "0")
+L 03/29/2015 - 13:49:22: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:49:22: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 03/29/2015 - 13:49:22: World triggered "Round_End"
+L 03/29/2015 - 13:49:32: World triggered "Round_Start"
+L 03/29/2015 - 13:49:36: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:49:36: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "61") (armor "0")
+L 03/29/2015 - 13:49:37: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "72") (damage_armor "0") (health "-11") (armor "0")
+L 03/29/2015 - 13:49:37: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:49:43: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:49:43: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 03/29/2015 - 13:49:43: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 03/29/2015 - 13:49:43: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "132") (damage_armor "0") (health "-131") (armor "0")
+L 03/29/2015 - 13:49:43: "Leks<60><STEAM_0:4:569822469><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:49:43: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 03/29/2015 - 13:49:43: World triggered "Round_End"
+L 03/29/2015 - 13:49:53: World triggered "Round_Start"
+L 03/29/2015 - 13:49:56: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 03/29/2015 - 13:49:56: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "76") (damage_armor "0") (health "-52") (armor "0")
+L 03/29/2015 - 13:49:56: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:49:59: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/29/2015 - 13:50:00: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/29/2015 - 13:50:00: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 03/29/2015 - 13:50:00: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 03/29/2015 - 13:50:04: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "25") (armor "0")
+L 03/29/2015 - 13:50:04: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "32") (damage_armor "0") (health "-7") (armor "0")
+L 03/29/2015 - 13:50:04: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:50:04: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 03/29/2015 - 13:50:04: World triggered "Round_End"
+L 03/29/2015 - 13:50:14: World triggered "Round_Start"
+L 03/29/2015 - 13:50:17: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:50:17: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/29/2015 - 13:50:18: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:50:18: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "11") (damage_armor "0") (health "71") (armor "0")
+L 03/29/2015 - 13:50:19: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "66") (armor "0")
+L 03/29/2015 - 13:50:19: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "49") (armor "0")
+L 03/29/2015 - 13:50:20: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 13:50:22: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 03/29/2015 - 13:50:22: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "45") (armor "0")
+L 03/29/2015 - 13:50:22: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "12") (armor "0")
+L 03/29/2015 - 13:50:22: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "128") (damage_armor "0") (health "-116") (armor "0")
+L 03/29/2015 - 13:50:22: "Leks<60><STEAM_0:4:569822469><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:50:23: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/29/2015 - 13:50:23: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "26") (damage_armor "0") (health "43") (armor "0")
+L 03/29/2015 - 13:50:24: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "11") (armor "0")
+L 03/29/2015 - 13:50:24: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "-10") (armor "0")
+L 03/29/2015 - 13:50:24: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:50:24: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 03/29/2015 - 13:50:24: World triggered "Round_End"
+L 03/29/2015 - 13:50:34: World triggered "Round_Start"
+L 03/29/2015 - 13:50:37: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "68") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 13:50:38: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "14") (armor "0")
+L 03/29/2015 - 13:50:38: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "-4") (armor "0")
+L 03/29/2015 - 13:50:38: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:50:41: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:50:43: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/29/2015 - 13:50:44: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 03/29/2015 - 13:50:44: "Leks<60><STEAM_0:4:569822469><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:50:46: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:50:50: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "38") (armor "0")
+L 03/29/2015 - 13:50:50: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "16") (armor "0")
+L 03/29/2015 - 13:50:50: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 03/29/2015 - 13:50:50: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "3") (armor "0")
+L 03/29/2015 - 13:50:50: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "-19") (armor "0")
+L 03/29/2015 - 13:50:50: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:50:50: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 03/29/2015 - 13:50:50: World triggered "Round_End"
+L 03/29/2015 - 13:51:00: World triggered "Round_Start"
+L 03/29/2015 - 13:51:04: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:51:04: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/29/2015 - 13:51:05: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "12") (damage_armor "0") (health "76") (armor "0")
+L 03/29/2015 - 13:51:05: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "12") (damage_armor "0") (health "64") (armor "0")
+L 03/29/2015 - 13:51:05: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "12") (damage_armor "0") (health "52") (armor "0")
+L 03/29/2015 - 13:51:06: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "13") (damage_armor "0") (health "39") (armor "0")
+L 03/29/2015 - 13:51:06: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "17") (damage_armor "0") (health "22") (armor "0")
+L 03/29/2015 - 13:51:06: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "65") (armor "0")
+L 03/29/2015 - 13:51:06: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 13:51:06: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "47") (armor "0")
+L 03/29/2015 - 13:51:07: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/29/2015 - 13:51:07: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "21") (damage_armor "0") (health "64") (armor "0")
+L 03/29/2015 - 13:51:07: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "59") (armor "0")
+L 03/29/2015 - 13:51:07: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "44") (armor "0")
+L 03/29/2015 - 13:51:08: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "21") (damage_armor "0") (health "43") (armor "0")
+L 03/29/2015 - 13:51:08: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "29") (armor "0")
+L 03/29/2015 - 13:51:08: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "15") (damage_armor "0") (health "28") (armor "0")
+L 03/29/2015 - 13:51:08: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "8") (armor "0")
+L 03/29/2015 - 13:51:10: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:51:10: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 03/29/2015 - 13:51:10: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "32") (damage_armor "0") (health "2") (armor "0")
+L 03/29/2015 - 13:51:10: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "Leks<60><STEAM_0:4:569822469><CT>" with "usp" (damage "32") (damage_armor "0") (health "-30") (armor "0")
+L 03/29/2015 - 13:51:10: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" killed "Leks<60><STEAM_0:4:569822469><CT>" with "usp"
+L 03/29/2015 - 13:51:13: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "18") (armor "0")
+L 03/29/2015 - 13:51:13: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "37") (damage_armor "0") (health "-19") (armor "0")
+L 03/29/2015 - 13:51:13: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:51:14: "Leks<60><STEAM_0:4:569822469><CT>" joined team "SPECTATOR"
+L 03/29/2015 - 13:51:16: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "-20") (armor "0")
+L 03/29/2015 - 13:51:16: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:51:16: Team "CT" triggered "CTs_Win" (CT "10") (T "1")
+L 03/29/2015 - 13:51:16: World triggered "Round_End"
+L 03/29/2015 - 13:51:26: World triggered "Round_Start"
+L 03/29/2015 - 13:51:31: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 13:51:31: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "12") (damage_armor "0") (health "88") (armor "0")
+L 03/29/2015 - 13:51:31: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:51:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "43") (armor "0")
+L 03/29/2015 - 13:51:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "19") (armor "0")
+L 03/29/2015 - 13:51:35: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:51:36: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "-11") (armor "0")
+L 03/29/2015 - 13:51:36: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:51:36: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "46") (armor "0")
+L 03/29/2015 - 13:51:36: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "84") (damage_armor "0") (health "-38") (armor "0")
+L 03/29/2015 - 13:51:36: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:51:43: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/29/2015 - 13:51:44: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "92") (damage_armor "0") (health "8") (armor "0")
+L 03/29/2015 - 13:51:45: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "-20") (armor "0")
+L 03/29/2015 - 13:51:45: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:51:45: Team "CT" triggered "CTs_Win" (CT "11") (T "1")
+L 03/29/2015 - 13:51:45: World triggered "Round_End"
+L 03/29/2015 - 13:51:52: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bfdfc
+L 03/29/2015 - 13:51:52: "rfgg<67><STEAM_0:4:95329102><>" connected, address "37.212.1.162:45481"
+L 03/29/2015 - 13:51:52: [VTC] Player 2 speex
+L 03/29/2015 - 13:51:55: World triggered "Round_Start"
+L 03/29/2015 - 13:51:58: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/29/2015 - 13:51:59: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 03/29/2015 - 13:52:00: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "17") (damage_armor "0") (health "66") (armor "0")
+L 03/29/2015 - 13:52:00: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "63") (armor "0")
+L 03/29/2015 - 13:52:00: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "44") (armor "0")
+L 03/29/2015 - 13:52:00: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "72") (damage_armor "0") (health "-28") (armor "0")
+L 03/29/2015 - 13:52:00: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:52:01: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "26") (damage_armor "0") (health "40") (armor "0")
+L 03/29/2015 - 13:52:02: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39bfdfc
+L 03/29/2015 - 13:52:02: "rfgg<68><STEAM_0:4:95329102><>" connected, address "37.212.1.162:45481"
+L 03/29/2015 - 13:52:02: [VTC] Player 2 speex
+L 03/29/2015 - 13:52:05: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/29/2015 - 13:52:05: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "12") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:52:05: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "50") (armor "0")
+L 03/29/2015 - 13:52:06: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "29") (armor "0")
+L 03/29/2015 - 13:52:06: "rfgg<68><STEAM_0:4:95329102><>" entered the game
+L 03/29/2015 - 13:52:10: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 03/29/2015 - 13:52:10: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "120") (damage_armor "0") (health "-91") (armor "0")
+L 03/29/2015 - 13:52:10: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:52:10: Team "CT" triggered "CTs_Win" (CT "12") (T "1")
+L 03/29/2015 - 13:52:10: World triggered "Round_End"
+L 03/29/2015 - 13:52:11: "rfgg<68><STEAM_0:4:95329102><>" joined team "TERRORIST"
+L 03/29/2015 - 13:52:13: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 03/29/2015 - 13:52:13: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "41") (armor "0")
+L 03/29/2015 - 13:52:14: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "31") (damage_armor "0") (health "-21") (armor "0")
+L 03/29/2015 - 13:52:14: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:52:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "116") (damage_armor "0") (health "-75") (armor "0")
+L 03/29/2015 - 13:52:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:52:20: World triggered "Round_Start"
+L 03/29/2015 - 13:52:23: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 03/29/2015 - 13:52:26: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 03/29/2015 - 13:52:29: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/29/2015 - 13:52:29: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "47") (armor "0")
+L 03/29/2015 - 13:52:29: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "20") (armor "0")
+L 03/29/2015 - 13:52:30: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "-6") (armor "0")
+L 03/29/2015 - 13:52:30: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:52:32: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "80") (damage_armor "0") (health "1") (armor "0")
+L 03/29/2015 - 13:52:32: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "-20") (armor "0")
+L 03/29/2015 - 13:52:32: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:52:37: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/29/2015 - 13:52:37: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:52:38: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "45") (armor "0")
+L 03/29/2015 - 13:52:38: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/29/2015 - 13:52:38: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "20") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:52:41: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "104") (damage_armor "0") (health "-59") (armor "0")
+L 03/29/2015 - 13:52:41: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:52:41: Team "CT" triggered "CTs_Win" (CT "13") (T "1")
+L 03/29/2015 - 13:52:41: World triggered "Round_End"
+L 03/29/2015 - 13:52:51: World triggered "Round_Start"
+L 03/29/2015 - 13:52:54: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:52:55: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "64") (armor "0")
+L 03/29/2015 - 13:52:55: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "46") (armor "0")
+L 03/29/2015 - 13:52:56: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "28") (armor "0")
+L 03/29/2015 - 13:52:56: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "19") (damage_armor "0") (health "9") (armor "0")
+L 03/29/2015 - 13:52:57: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "-9") (armor "0")
+L 03/29/2015 - 13:52:57: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:52:59: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/29/2015 - 13:52:59: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "21") (damage_armor "0") (health "62") (armor "0")
+L 03/29/2015 - 13:53:01: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/29/2015 - 13:53:01: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/29/2015 - 13:53:01: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "47") (armor "0")
+L 03/29/2015 - 13:53:02: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "44") (armor "0")
+L 03/29/2015 - 13:53:02: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "27") (damage_armor "0") (health "35") (armor "0")
+L 03/29/2015 - 13:53:02: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "27") (damage_armor "0") (health "8") (armor "0")
+L 03/29/2015 - 13:53:06: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "23") (armor "0")
+L 03/29/2015 - 13:53:06: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "-1") (armor "0")
+L 03/29/2015 - 13:53:06: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:53:07: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "32") (damage_armor "0") (health "-24") (armor "0")
+L 03/29/2015 - 13:53:07: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:53:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "2")
+L 03/29/2015 - 13:53:07: World triggered "Round_End"
+L 03/29/2015 - 13:53:14: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39d39cc
+L 03/29/2015 - 13:53:14: "$$$$matvei$$$$<69><STEAM_0:4:175676238><>" connected, address "37.212.173.189:34415"
+L 03/29/2015 - 13:53:14: [VTC] Player 6 speex
+L 03/29/2015 - 13:53:17: World triggered "Round_Start"
+L 03/29/2015 - 13:53:22: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "76") (damage_armor "0") (health "24") (armor "0")
+L 03/29/2015 - 13:53:22: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "14") (damage_armor "0") (health "10") (armor "0")
+L 03/29/2015 - 13:53:22: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "19") (damage_armor "0") (health "-9") (armor "0")
+L 03/29/2015 - 13:53:22: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:53:27: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:53:27: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 13:53:27: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "52") (armor "0")
+L 03/29/2015 - 13:53:28: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39d39cc
+L 03/29/2015 - 13:53:28: "Impossible is Nothing<70><STEAM_0:4:1836640133><>" connected, address "178.45.173.115:27005"
+L 03/29/2015 - 13:53:28: [VTC] Player 6 speex
+L 03/29/2015 - 13:53:28: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "27") (damage_armor "0") (health "58") (armor "0")
+L 03/29/2015 - 13:53:29: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "27") (armor "0")
+L 03/29/2015 - 13:53:31: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "30") (damage_armor "0") (health "28") (armor "0")
+L 03/29/2015 - 13:53:32: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "24") (damage_armor "0") (health "4") (armor "0")
+L 03/29/2015 - 13:53:32: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 03/29/2015 - 13:53:32: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "31") (damage_armor "0") (health "-27") (armor "0")
+L 03/29/2015 - 13:53:32: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:53:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "3")
+L 03/29/2015 - 13:53:32: World triggered "Round_End"
+L 03/29/2015 - 13:53:33: "Impossible is Nothing<70><STEAM_0:4:1836640133><>" entered the game
+L 03/29/2015 - 13:53:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><>" joined team "CT"
+L 03/29/2015 - 13:53:42: World triggered "Round_Start"
+L 03/29/2015 - 13:53:45: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "80") (damage_armor "0") (health "20") (armor "0")
+L 03/29/2015 - 13:53:45: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "80") (damage_armor "0") (health "-60") (armor "0")
+L 03/29/2015 - 13:53:45: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:53:46: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 03/29/2015 - 13:53:46: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "61") (armor "0")
+L 03/29/2015 - 13:53:47: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "26") (damage_armor "0") (health "74") (armor "0")
+L 03/29/2015 - 13:53:48: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "27") (damage_armor "0") (health "47") (armor "0")
+L 03/29/2015 - 13:53:48: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "26") (damage_armor "0") (health "21") (armor "0")
+L 03/29/2015 - 13:53:48: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "27") (damage_armor "0") (health "-6") (armor "0")
+L 03/29/2015 - 13:53:48: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:53:52: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/29/2015 - 13:53:53: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "40") (armor "0")
+L 03/29/2015 - 13:53:53: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 03/29/2015 - 13:53:53: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 03/29/2015 - 13:53:53: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "25") (armor "0")
+L 03/29/2015 - 13:53:56: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" with "usp" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/29/2015 - 13:53:56: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-8") (armor "0")
+L 03/29/2015 - 13:53:56: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "knife"
+L 03/29/2015 - 13:53:56: [DPROTO]: Client 7 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dd7b4
+L 03/29/2015 - 13:53:56: "$$$$matvei$$$$<71><STEAM_0:4:175676238><>" connected, address "37.212.173.189:34415"
+L 03/29/2015 - 13:53:56: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" with "usp" (damage "24") (damage_armor "0") (health "46") (armor "0")
+L 03/29/2015 - 13:53:56: [VTC] Player 8 speex
+L 03/29/2015 - 13:54:00: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" with "usp" (damage "16") (damage_armor "0") (health "30") (armor "0")
+L 03/29/2015 - 13:54:00: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "9") (armor "0")
+L 03/29/2015 - 13:54:01: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "-7") (armor "0")
+L 03/29/2015 - 13:54:01: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" killed "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" with "usp"
+L 03/29/2015 - 13:54:01: Team "CT" triggered "CTs_Win" (CT "14") (T "3")
+L 03/29/2015 - 13:54:01: World triggered "Round_End"
+L 03/29/2015 - 13:54:09: "$$$$matvei$$$$<71><STEAM_0:4:175676238><>" entered the game
+L 03/29/2015 - 13:54:11: World triggered "Round_Start"
+L 03/29/2015 - 13:54:12: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e26a8
+L 03/29/2015 - 13:54:12: "-<-SLR->-<72><STEAM_0:0:1639792442><>" connected, address "37.215.33.82:39854"
+L 03/29/2015 - 13:54:12: [VTC] Player 9 speex
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "259") (hits "46") (kills "4") (headshots "1") (tks "0") (damage "1223") (deaths "15")
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "3") (chest "4") (stomach "6") (leftarm "17") (rightarm "8") (leftleg "4") (rightleg "4")
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" triggered "time" (time "7:42")
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" triggered "latency" (ping "61")
+L 03/29/2015 - 13:54:12: "[D]isciple~<59><STEAM_0:4:1016843525><TERRORIST>" disconnected
+L 03/29/2015 - 13:54:13: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 03/29/2015 - 13:54:13: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 13:54:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "68") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 13:54:14: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "74") (armor "0")
+L 03/29/2015 - 13:54:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "14") (armor "0")
+L 03/29/2015 - 13:54:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "12") (damage_armor "0") (health "2") (armor "0")
+L 03/29/2015 - 13:54:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "-15") (armor "0")
+L 03/29/2015 - 13:54:14: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:54:15: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "61") (armor "0")
+L 03/29/2015 - 13:54:15: "-<-SLR->-<72><STEAM_0:0:1639792442><>" entered the game
+L 03/29/2015 - 13:54:15: "$$$$matvei$$$$<71><STEAM_0:4:175676238><>" joined team "TERRORIST"
+L 03/29/2015 - 13:54:15: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "48") (armor "0")
+L 03/29/2015 - 13:54:18: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "32") (armor "0")
+L 03/29/2015 - 13:54:19: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "16") (armor "0")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "151") (hits "45") (kills "6") (headshots "0") (tks "0") (damage "909") (deaths "16")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "7") (stomach "10") (leftarm "11") (rightarm "5") (leftleg "7") (rightleg "5")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "7:48")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "31")
+L 03/29/2015 - 13:54:19: "[Hard_Skill]_Lexa Kosmonaft<54><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/29/2015 - 13:54:19: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "16") (damage_armor "0") (health "0") (armor "0")
+L 03/29/2015 - 13:54:19: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:54:23: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "13") (damage_armor "0") (health "87") (armor "0")
+L 03/29/2015 - 13:54:24: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "72") (armor "0")
+L 03/29/2015 - 13:54:24: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:54:24: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "57") (armor "0")
+L 03/29/2015 - 13:54:24: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "49") (armor "0")
+L 03/29/2015 - 13:54:24: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "39") (armor "0")
+L 03/29/2015 - 13:54:24: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "24") (armor "0")
+L 03/29/2015 - 13:54:25: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "2") (armor "0")
+L 03/29/2015 - 13:54:25: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "-13") (armor "0")
+L 03/29/2015 - 13:54:25: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp"
+L 03/29/2015 - 13:54:25: Team "CT" triggered "CTs_Win" (CT "15") (T "3")
+L 03/29/2015 - 13:54:25: World triggered "Round_End"
+L 03/29/2015 - 13:54:25: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c9be4
+L 03/29/2015 - 13:54:25: "Buka<73><STEAM_0:4:33836421><>" connected, address "178.121.84.173:25457"
+L 03/29/2015 - 13:54:26: [VTC] Player 4 speex
+L 03/29/2015 - 13:54:31: "-<-SLR->-<72><STEAM_0:0:1639792442><UNASSIGNED>" triggered "time" (time "0:15")
+L 03/29/2015 - 13:54:31: "-<-SLR->-<72><STEAM_0:0:1639792442><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/29/2015 - 13:54:31: "-<-SLR->-<72><STEAM_0:0:1639792442><>" disconnected
+L 03/29/2015 - 13:54:31: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e26a8
+L 03/29/2015 - 13:54:31: "-<-SLR->-<74><STEAM_0:0:1639792442><>" connected, address "37.215.33.82:39854"
+L 03/29/2015 - 13:54:31: [VTC] Player 9 speex
+L 03/29/2015 - 13:54:31: Kick: "-<-SLR->-<74><STEAM_0:0:1639792442><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 20 секунд"")
+L 03/29/2015 - 13:54:33: "Buka<73><STEAM_0:4:33836421><>" entered the game
+L 03/29/2015 - 13:54:34: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e26a8
+L 03/29/2015 - 13:54:34: "-<-SLR->-<75><STEAM_0:0:1639792442><>" connected, address "37.215.33.82:39854"
+L 03/29/2015 - 13:54:34: [VTC] Player 9 speex
+L 03/29/2015 - 13:54:34: Kick: "-<-SLR->-<75><STEAM_0:0:1639792442><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 17 секунд"")
+L 03/29/2015 - 13:54:35: World triggered "Round_Start"
+L 03/29/2015 - 13:54:35: "Buka<73><STEAM_0:4:33836421><>" joined team "CT"
+L 03/29/2015 - 13:54:38: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e26a8
+L 03/29/2015 - 13:54:38: "-<-SLR->-<76><STEAM_0:0:1639792442><>" connected, address "37.215.33.82:39854"
+L 03/29/2015 - 13:54:38: [VTC] Player 9 speex
+L 03/29/2015 - 13:54:38: Kick: "-<-SLR->-<76><STEAM_0:0:1639792442><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 13 секунд"")
+L 03/29/2015 - 13:54:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 03/29/2015 - 13:54:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "64") (armor "0")
+L 03/29/2015 - 13:54:42: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/29/2015 - 13:54:42: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 03/29/2015 - 13:54:42: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 03/29/2015 - 13:54:42: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:54:42: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "46") (armor "0")
+L 03/29/2015 - 13:54:43: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "28") (armor "0")
+L 03/29/2015 - 13:54:43: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "18") (damage_armor "0") (health "54") (armor "0")
+L 03/29/2015 - 13:54:43: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "10") (armor "0")
+L 03/29/2015 - 13:54:43: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "-8") (armor "0")
+L 03/29/2015 - 13:54:43: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp"
+L 03/29/2015 - 13:54:43: Team "CT" triggered "CTs_Win" (CT "16") (T "3")
+L 03/29/2015 - 13:54:43: World triggered "Round_End"
+L 03/29/2015 - 13:54:47: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" committed suicide with "world"
+L 03/29/2015 - 13:54:47: "Impossible is Nothing<70><STEAM_0:4:1836640133><CT>" joined team "TERRORIST"
+L 03/29/2015 - 13:54:53: World triggered "Round_Start"
+L 03/29/2015 - 13:54:57: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 03/29/2015 - 13:54:58: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "92") (damage_armor "0") (health "-9") (armor "0")
+L 03/29/2015 - 13:54:58: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:54:58: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:54:58: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "56") (armor "0")
+L 03/29/2015 - 13:54:58: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/29/2015 - 13:54:59: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "33") (armor "0")
+L 03/29/2015 - 13:54:59: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "22") (damage_armor "0") (health "55") (armor "0")
+L 03/29/2015 - 13:54:59: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "11") (armor "0")
+L 03/29/2015 - 13:54:59: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "-11") (armor "0")
+L 03/29/2015 - 13:54:59: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:08: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "29") (damage_armor "0") (health "26") (armor "0")
+L 03/29/2015 - 13:55:09: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 03/29/2015 - 13:55:09: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:11: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "27") (damage_armor "0") (health "-1") (armor "0")
+L 03/29/2015 - 13:55:11: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:55:14: "Buka<73><STEAM_0:4:33836421><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:55:14: "Buka<73><STEAM_0:4:33836421><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 03/29/2015 - 13:55:14: "Buka<73><STEAM_0:4:33836421><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 03/29/2015 - 13:55:14: "Buka<73><STEAM_0:4:33836421><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "-32") (armor "0")
+L 03/29/2015 - 13:55:14: "Buka<73><STEAM_0:4:33836421><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:14: Team "CT" triggered "CTs_Win" (CT "17") (T "3")
+L 03/29/2015 - 13:55:14: World triggered "Round_End"
+L 03/29/2015 - 13:55:24: World triggered "Round_Start"
+L 03/29/2015 - 13:55:29: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 13:55:29: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "15") (damage_armor "0") (health "70") (armor "0")
+L 03/29/2015 - 13:55:30: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "15") (damage_armor "0") (health "55") (armor "0")
+L 03/29/2015 - 13:55:30: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 03/29/2015 - 13:55:30: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "84") (damage_armor "0") (health "-29") (armor "0")
+L 03/29/2015 - 13:55:30: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:55:32: [DPROTO]: Client 6 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39d88c0
+L 03/29/2015 - 13:55:32: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><>" connected, address "37.212.173.189:2137"
+L 03/29/2015 - 13:55:32: [VTC] Player 7 speex
+L 03/29/2015 - 13:55:33: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 03/29/2015 - 13:55:34: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "54") (armor "0")
+L 03/29/2015 - 13:55:34: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "23") (damage_armor "0") (health "31") (armor "0")
+L 03/29/2015 - 13:55:34: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "28") (damage_armor "0") (health "3") (armor "0")
+L 03/29/2015 - 13:55:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "-14") (armor "0")
+L 03/29/2015 - 13:55:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "Buka<73><STEAM_0:4:33836421><CT>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:55:36: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><>" entered the game
+L 03/29/2015 - 13:55:36: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "Buka<73><STEAM_0:4:33836421><CT>" with "usp" (damage "19") (damage_armor "0") (health "59") (armor "0")
+L 03/29/2015 - 13:55:36: "Buka<73><STEAM_0:4:33836421><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "55") (armor "0")
+L 03/29/2015 - 13:55:36: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "Buka<73><STEAM_0:4:33836421><CT>" with "usp" (damage "19") (damage_armor "0") (health "40") (armor "0")
+L 03/29/2015 - 13:55:37: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "Buka<73><STEAM_0:4:33836421><CT>" with "usp" (damage "23") (damage_armor "0") (health "17") (armor "0")
+L 03/29/2015 - 13:55:39: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/29/2015 - 13:55:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 03/29/2015 - 13:55:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 03/29/2015 - 13:55:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "37") (damage_armor "0") (health "3") (armor "0")
+L 03/29/2015 - 13:55:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp" (damage "30") (damage_armor "0") (health "-27") (armor "0")
+L 03/29/2015 - 13:55:41: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:45: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" attacked "Buka<73><STEAM_0:4:33836421><CT>" with "usp" (damage "26") (damage_armor "0") (health "-9") (armor "0")
+L 03/29/2015 - 13:55:45: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" killed "Buka<73><STEAM_0:4:33836421><CT>" with "usp"
+L 03/29/2015 - 13:55:46: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "29") (armor "0")
+L 03/29/2015 - 13:55:46: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "14") (armor "0")
+L 03/29/2015 - 13:55:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "26") (damage_armor "0") (health "-12") (armor "0")
+L 03/29/2015 - 13:55:47: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:49: "Buka<73><STEAM_0:4:33836421><CT>" triggered "weaponstats" (weapon "usp") (shots "30") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "153") (deaths "1")
+L 03/29/2015 - 13:55:49: "Buka<73><STEAM_0:4:33836421><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "4") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:55:49: "Buka<73><STEAM_0:4:33836421><CT>" triggered "time" (time "1:15")
+L 03/29/2015 - 13:55:49: "Buka<73><STEAM_0:4:33836421><CT>" triggered "latency" (ping "54")
+L 03/29/2015 - 13:55:49: "Buka<73><STEAM_0:4:33836421><CT>" disconnected
+L 03/29/2015 - 13:55:49: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 03/29/2015 - 13:55:50: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "33") (damage_armor "0") (health "36") (armor "0")
+L 03/29/2015 - 13:55:50: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 03/29/2015 - 13:55:51: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "132") (damage_armor "0") (health "-65") (armor "0")
+L 03/29/2015 - 13:55:51: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:55:51: Team "CT" triggered "CTs_Win" (CT "18") (T "3")
+L 03/29/2015 - 13:55:51: World triggered "Round_End"
+L 03/29/2015 - 13:55:51: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c9be4
+L 03/29/2015 - 13:55:51: "Buka<78><STEAM_0:4:33836421><>" connected, address "178.121.84.173:25457"
+L 03/29/2015 - 13:55:51: [VTC] Player 4 speex
+L 03/29/2015 - 13:56:01: World triggered "Round_Start"
+L 03/29/2015 - 13:56:01: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39c9be4
+L 03/29/2015 - 13:56:01: "Buka<79><STEAM_0:4:33836421><>" connected, address "178.121.84.173:25457"
+L 03/29/2015 - 13:56:01: [VTC] Player 4 speex
+L 03/29/2015 - 13:56:03: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 03/29/2015 - 13:56:03: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:56:03: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "35") (armor "0")
+L 03/29/2015 - 13:56:03: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "15") (armor "0")
+L 03/29/2015 - 13:56:03: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "14") (damage_armor "0") (health "1") (armor "0")
+L 03/29/2015 - 13:56:03: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "80") (damage_armor "0") (health "-79") (armor "0")
+L 03/29/2015 - 13:56:03: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:56:05: "Buka<79><STEAM_0:4:33836421><>" entered the game
+L 03/29/2015 - 13:56:06: "Leks<60><STEAM_0:4:569822469><SPECTATOR>" joined team "CT"
+L 03/29/2015 - 13:56:07: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/29/2015 - 13:56:07: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "19") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:56:07: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "39") (armor "0")
+L 03/29/2015 - 13:56:07: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/29/2015 - 13:56:07: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "18") (armor "0")
+L 03/29/2015 - 13:56:07: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 03/29/2015 - 13:56:08: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "-3") (armor "0")
+L 03/29/2015 - 13:56:08: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:56:08: "Buka<79><STEAM_0:4:33836421><>" joined team "CT"
+L 03/29/2015 - 13:56:11: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 03/29/2015 - 13:56:11: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 03/29/2015 - 13:56:11: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "57") (armor "0")
+L 03/29/2015 - 13:56:12: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp" (damage "88") (damage_armor "0") (health "-4") (armor "0")
+L 03/29/2015 - 13:56:12: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" killed "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" with "usp"
+L 03/29/2015 - 13:56:15: "Buka<79><STEAM_0:4:33836421><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "33") (damage_armor "0") (health "24") (armor "0")
+L 03/29/2015 - 13:56:16: "Buka<79><STEAM_0:4:33836421><CT>" attacked "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp" (damage "32") (damage_armor "0") (health "-8") (armor "0")
+L 03/29/2015 - 13:56:16: "Buka<79><STEAM_0:4:33836421><CT>" killed "rfgg<68><STEAM_0:4:95329102><TERRORIST>" with "usp"
+L 03/29/2015 - 13:56:17: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "Buka<79><STEAM_0:4:33836421><CT>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:56:17: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" attacked "Buka<79><STEAM_0:4:33836421><CT>" with "usp" (damage "88") (damage_armor "0") (health "-10") (armor "0")
+L 03/29/2015 - 13:56:17: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" killed "Buka<79><STEAM_0:4:33836421><CT>" with "usp"
+L 03/29/2015 - 13:56:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "4")
+L 03/29/2015 - 13:56:17: World triggered "Round_End"
+L 03/29/2015 - 13:56:20: [DPROTO]: Client 8 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e26a8
+L 03/29/2015 - 13:56:20: "RoJleM ;)<80><STEAM_0:4:402902405><>" connected, address "178.121.91.153:12187"
+L 03/29/2015 - 13:56:20: [VTC] Player 9 speex
+L 03/29/2015 - 13:56:27: World triggered "Round_Start"
+L 03/29/2015 - 13:56:28: "RoJleM ;)<80><STEAM_0:4:402902405><>" entered the game
+L 03/29/2015 - 13:56:30: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "20") (damage_armor "0") (health "80") (armor "0")
+L 03/29/2015 - 13:56:30: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 03/29/2015 - 13:56:30: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 03/29/2015 - 13:56:30: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "72") (damage_armor "0") (health "8") (armor "0")
+L 03/29/2015 - 13:56:30: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "18") (damage_armor "0") (health "60") (armor "0")
+L 03/29/2015 - 13:56:31: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" attacked "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp" (damage "72") (damage_armor "0") (health "-64") (armor "0")
+L 03/29/2015 - 13:56:31: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" killed "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" with "usp"
+L 03/29/2015 - 13:56:31: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "45") (armor "0")
+L 03/29/2015 - 13:56:31: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "17") (damage_armor "0") (health "62") (armor "0")
+L 03/29/2015 - 13:56:31: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "15") (damage_armor "0") (health "30") (armor "0")
+L 03/29/2015 - 13:56:31: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "13") (damage_armor "0") (health "49") (armor "0")
+L 03/29/2015 - 13:56:31: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "25") (damage_armor "0") (health "5") (armor "0")
+L 03/29/2015 - 13:56:31: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" attacked "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp" (damage "68") (damage_armor "0") (health "-19") (armor "0")
+L 03/29/2015 - 13:56:31: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" killed "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" with "usp"
+L 03/29/2015 - 13:56:32: "Leks<60><STEAM_0:4:569822469><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp" (damage "17") (damage_armor "0") (health "-12") (armor "0")
+L 03/29/2015 - 13:56:32: "Leks<60><STEAM_0:4:569822469><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" with "usp"
+L 03/29/2015 - 13:56:33: "Buka<79><STEAM_0:4:33836421><CT>" triggered "weaponstats" (weapon "usp") (shots "10") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 03/29/2015 - 13:56:33: "Buka<79><STEAM_0:4:33836421><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:56:33: "Buka<79><STEAM_0:4:33836421><CT>" triggered "time" (time "0:27")
+L 03/29/2015 - 13:56:33: "Buka<79><STEAM_0:4:33836421><CT>" triggered "latency" (ping "73")
+L 03/29/2015 - 13:56:33: "Buka<79><STEAM_0:4:33836421><CT>" disconnected
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" triggered "weaponstats" (weapon "usp") (shots "179") (hits "39") (kills "10") (headshots "6") (tks "0") (damage "1308") (deaths "9")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" triggered "weaponstats2" (weapon "usp") (head "8") (chest "7") (stomach "5") (leftarm "7") (rightarm "6") (leftleg "3") (rightleg "3")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" triggered "time" (time "7:45")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" triggered "latency" (ping "40")
+L 03/29/2015 - 13:56:35: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "134") (hits "13") (kills "6") (headshots "2") (tks "0") (damage "418") (deaths "8")
+L 03/29/2015 - 13:56:35: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "2") (chest "2") (stomach "2") (leftarm "4") (rightarm "2") (leftleg "0") (rightleg "1")
+L 03/29/2015 - 13:56:35: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" triggered "time" (time "4:29")
+L 03/29/2015 - 13:56:35: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" triggered "latency" (ping "38")
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" triggered "weaponstats" (weapon "usp") (shots "109") (hits "37") (kills "10") (headshots "7") (tks "0") (damage "1572") (deaths "2")
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" triggered "weaponstats2" (weapon "usp") (head "10") (chest "5") (stomach "2") (leftarm "10") (rightarm "8") (leftleg "1") (rightleg "1")
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" triggered "time" (time "10:03")
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" triggered "latency" (ping "43")
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" triggered "weaponstats" (weapon "usp") (shots "313") (hits "114") (kills "25") (headshots "8") (tks "0") (damage "3352") (deaths "7")
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" triggered "weaponstats2" (weapon "usp") (head "12") (chest "12") (stomach "18") (leftarm "34") (rightarm "21") (leftleg "10") (rightleg "7")
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" triggered "time" (time "10:05")
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" triggered "latency" (ping "31")
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "90") (hits "32") (kills "6") (headshots "3") (tks "0") (damage "931") (deaths "3")
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "4") (chest "6") (stomach "2") (leftarm "9") (rightarm "5") (leftleg "5") (rightleg "1")
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "15") (deaths "0")
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" triggered "time" (time "3:02")
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" triggered "latency" (ping "37")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "17") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "103") (deaths "2")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "1") (rightleg "0")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "0:59")
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "36")
+L 03/29/2015 - 13:56:35: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "29") (hits "7") (kills "1") (headshots "1") (tks "0") (damage "221") (deaths "4")
+L 03/29/2015 - 13:56:35: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "2") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 03/29/2015 - 13:56:35: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" triggered "time" (time "2:26")
+L 03/29/2015 - 13:56:35: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" triggered "latency" (ping "53")
+L 03/29/2015 - 13:56:35: "RoJleM ;)<80><STEAM_0:4:402902405><UNASSIGNED>" triggered "time" (time "0:07")
+L 03/29/2015 - 13:56:35: "RoJleM ;)<80><STEAM_0:4:402902405><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/29/2015 - 13:56:35: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 03/29/2015 - 13:56:35: [META] ini: Read plugin config for: AMX Mod X
+L 03/29/2015 - 13:56:35: [META] ini: Read plugin config for: dproto_EF
+L 03/29/2015 - 13:56:35: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/29/2015 - 13:56:35: [META] ini: Read plugin config for: WHBlocker
+L 03/29/2015 - 13:56:35: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/29/2015 - 13:56:35: [META] dll: Updating plugins...
+L 03/29/2015 - 13:56:35: [META] dll: Finished updating 13 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Mi{x}eR<66><STEAM_0:4:2092800974><CT>" disconnected
+L 03/29/2015 - 13:56:35: "rfgg<68><STEAM_0:4:95329102><TERRORIST>" disconnected
+L 03/29/2015 - 13:56:35: "Leks<60><STEAM_0:4:569822469><CT>" disconnected
+L 03/29/2015 - 13:56:35: "[Angels]DarkAngel<61><STEAM_0:4:1180412787><CT>" disconnected
+L 03/29/2015 - 13:56:35: "Impossible is Nothing<70><STEAM_0:4:1836640133><TERRORIST>" disconnected
+L 03/29/2015 - 13:56:35: "[Hard_Skill]_Lexa Kosmonaft<77><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/29/2015 - 13:56:35: "$$$$matvei$$$$<71><STEAM_0:4:175676238><TERRORIST>" disconnected
+L 03/29/2015 - 13:56:35: World triggered "Round_Draw" (CT "18") (T "4")
+L 03/29/2015 - 13:56:35: World triggered "Round_End"
+L 03/29/2015 - 13:56:35: "RoJleM ;)<80><STEAM_0:4:402902405><>" disconnected
+L 03/29/2015 - 13:56:35: World triggered "Round_Draw" (CT "18") (T "4")
+L 03/29/2015 - 13:56:35: World triggered "Round_End"
+L 03/29/2015 - 13:56:35: Log file closed

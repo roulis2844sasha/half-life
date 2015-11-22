@@ -1,0 +1,55 @@
+L 11/22/2015 - 18:27:15: Log file started (file "logs/L1122019.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 11/22/2015 - 18:27:15: Server cvar "mp_logdetail" = "3"
+L 11/22/2015 - 18:27:15: Server cvar "mp_timelimit" = "30"
+L 11/22/2015 - 18:27:15: Server cvar "mp_c4timer" = "35"
+L 11/22/2015 - 18:27:15: Server cvar "mp_flashlight" = "1"
+L 11/22/2015 - 18:27:15: Server cvar "mp_freezetime" = "5"
+L 11/22/2015 - 18:27:15: Server cvar "mp_hostagepenalty" = "0"
+L 11/22/2015 - 18:27:15: Server cvar "mp_limitteams" = "5"
+L 11/22/2015 - 18:27:15: Server cvar "mp_roundtime" = "2.57"
+L 11/22/2015 - 18:27:15: Server cvar "mp_tkpunish" = "1"
+L 11/22/2015 - 18:27:15: Server cvar "sv_restartround" = "1"
+L 11/22/2015 - 18:27:15: Server cvar "sv_maxspeed" = "320"
+L 11/22/2015 - 18:27:15: Server cvar "sv_proxies" = "0"
+L 11/22/2015 - 18:27:15: Server cvar "allow_spectators" = "4"
+L 11/22/2015 - 18:27:15: Server cvar "mp_chattime" = "0"
+L 11/22/2015 - 18:27:15: Server cvar "decalfrequency" = "9"
+L 11/22/2015 - 18:27:15: Server cvar "sv_aim" = "0"
+L 11/22/2015 - 18:27:15: Server cvar "sv_minrate" = "100000"
+L 11/22/2015 - 18:27:15: Server cvar "sv_maxrate" = "25000"
+L 11/22/2015 - 18:27:15: Server cvar "sv_region" = "3"
+L 11/22/2015 - 18:27:16: World triggered "Restart_Round_(1_second)"
+L 11/22/2015 - 18:27:16: Team "CT" scored "0" with "0" players
+L 11/22/2015 - 18:27:16: Team "TERRORIST" scored "0" with "0" players
+L 11/22/2015 - 18:27:16: Server cvar "sv_restartround" = "0"
+L 11/22/2015 - 18:27:20: "[POD]Wesley_Snipes (100)<1><BOT><>" entered the game
+L 11/22/2015 - 18:27:20: "[POD]Wesley_Snipes (100)<1><BOT><>" joined team "CT"
+L 11/22/2015 - 18:27:20: "[P0D]Android (100)<2><BOT><>" entered the game
+L 11/22/2015 - 18:27:20: "[P0D]Android (100)<2><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:27:20: World triggered "Game_Commencing"
+L 11/22/2015 - 18:27:20: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/22/2015 - 18:27:20: World triggered "Round_End"
+L 11/22/2015 - 18:27:21: "[P0D]Harrison_Ford (100)<3><BOT><>" entered the game
+L 11/22/2015 - 18:27:21: "[P0D]Harrison_Ford (100)<3><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:27:21: "[POD]Samuel_L_Jackson (100)<4><BOT><>" entered the game
+L 11/22/2015 - 18:27:21: "[POD]Samuel_L_Jackson (100)<4><BOT><>" joined team "CT"
+L 11/22/2015 - 18:27:22: "[POD]Woody_Harrelson (100)<5><BOT><>" entered the game
+L 11/22/2015 - 18:27:22: "[POD]Woody_Harrelson (100)<5><BOT><>" joined team "TERRORIST"
+L 11/22/2015 - 18:27:22: "[P*D]Drew_Barrymore (100)<6><BOT><>" entered the game
+L 11/22/2015 - 18:27:22: "[P*D]Drew_Barrymore (100)<6><BOT><>" joined team "CT"
+L 11/22/2015 - 18:27:23: "[POD]Alloc (100)<7><BOT><>" entered the game
+L 11/22/2015 - 18:27:23: "[POD]Alloc (100)<7><BOT><>" joined team "CT"
+L 11/22/2015 - 18:27:23: "[P0D]Android (100)<2><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/22/2015 - 18:27:25: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf39a07b4
+L 11/22/2015 - 18:27:25: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/22/2015 - 18:27:25: [VTC] Player 8 silk
+L 11/22/2015 - 18:27:28: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf39a07b4
+L 11/22/2015 - 18:27:28: "DOG_RouL!$<9><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/22/2015 - 18:27:28: World triggered "Round_Start"
+L 11/22/2015 - 18:27:28: [VTC] Player 8 silk
+L 11/22/2015 - 18:27:32: Kick: "[POD]Wesley_Snipes (100)<1><BOT><>" was kicked by "Console"
+L 11/22/2015 - 18:27:32: "[POD]Wesley_Snipes (100)<1><BOT><CT>" disconnected
+L 11/22/2015 - 18:27:32: "DOG_RouL!$<9><VALVE_ID_LAN><>" entered the game
+L 11/22/2015 - 18:27:34: "DOG_RouL!$<9><VALVE_ID_LAN><>" joined team "CT"
+L 11/22/2015 - 18:27:41: "[P0D]Harrison_Ford (100)<3><BOT><TERRORIST>" attacked "[POD]Alloc (100)<7><BOT><CT>" with "glock18" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/22/2015 - 18:27:41: "[P0D]Harrison_Ford (100)<3><BOT><TERRORIST>" attacked "[POD]Alloc (100)<7><BOT><CT>" with "glock18" (damage "16") (damage_armor "0") (health "69") (ar

@@ -1,0 +1,35 @@
+[en]
+SS_MENU_COUNT_HEADER = Screen count menu
+SS_MAKE_X_SCREENS = Make %s screen(s)
+SS_MORE = More
+SS_BACK = Back
+SS_EXIT = Exit
+SS_MENU_NAME = AMXBans: Screens
+SS_MENU_PLAYER_HEADER = Choose player
+SS_COUNT_NO = Too meny screens
+SS_CHAT_INFO = Screenshot taken on player !t%s!y by admin !g%s
+SS_CHAT_INFO2 = Screenshot taken on player !t%s!y by admin !g%s!y (Date: !t%s!y)
+
+[ru]
+SS_MENU_COUNT_HEADER = Выбирайте количество скришотов
+SS_MAKE_X_SCREENS = Сделать %s скриншот(ов)
+SS_MORE = Дальше
+SS_BACK = Назад
+SS_EXIT = Выход
+SS_MENU_NAME = AMXBans: Скриншоты
+SS_MENU_PLAYER_HEADER = Выбирайте игрока
+SS_COUNT_NO = Вы не можете сделать столько скришотов
+SS_CHAT_INFO = Скриншот сделан игроку !t%s!y админом !g%s
+SS_CHAT_INFO2 = Скриншот сделан игроку !t%s!y админом !g%s!y (Дата: !t%s!y)
+
+[ua]
+SS_MENU_COUNT_HEADER = Оберайте кількість скріншотів
+SS_MAKE_X_SCREENS = Зробити %s скріншот(ів)
+SS_MORE = Далі
+SS_BACK = Назад
+SS_EXIT = Вихід
+SS_MENU_NAME = AMXBans: Скріншоти
+SS_MENU_PLAYER_HEADER = Оберайте гравця
+SS_COUNT_NO = Ви не можете зробити таку кількість скріншотів
+SS_CHAT_INFO = Скріншот зроблений гравцеві !t%s!y адміном !g%s
+SS_CHAT_INFO2 = Скріншот зроблений гравцеві !t%s!y адміном !g%s!y (Дата: !t%s!y)

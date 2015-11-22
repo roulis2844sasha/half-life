@@ -1,0 +1,1286 @@
+L 04/04/2015 - 17:53:24: Log file started (file "logs/L0404039.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/04/2015 - 17:53:24: Loading map "$2000$"
+L 04/04/2015 - 17:53:24: Server cvars start
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_debug_level" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_examine_time" = "0.5"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_look_angle" = "10"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_look_distance" = "200"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_message_repeats" = "5"
+L 04/04/2015 - 17:53:24: Server cvar "_tutor_view_distance" = "1000"
+L 04/04/2015 - 17:53:24: Server cvar "aesp_version" = "1.5b_mini"
+L 04/04/2015 - 17:53:24: Server cvar "allow_spectators" = "4"
+L 04/04/2015 - 17:53:24: Server cvar "amx_client_languages" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/04/2015 - 17:53:24: Server cvar "amx_language" = "ru"
+L 04/04/2015 - 17:53:24: Server cvar "amx_nextmap" = "de_westwood"
+L 04/04/2015 - 17:53:24: Server cvar "amx_timeleft" = "14:51"
+L 04/04/2015 - 17:53:24: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/04/2015 - 17:53:24: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/04/2015 - 17:53:24: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Config" = "Loaded"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Replace" = "Failed"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Status" = "Loaded"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/04/2015 - 17:53:24: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/04/2015 - 17:53:24: Server cvar "coop" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "deathmatch" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "decalfrequency" = "9"
+L 04/04/2015 - 17:53:24: Server cvar "dp_version" = "0.9.391"
+L 04/04/2015 - 17:53:24: Server cvar "edgefriction" = "2"
+L 04/04/2015 - 17:53:24: Server cvar "hostage_debug" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "hostage_stop" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "humans_join_team" = "any"
+L 04/04/2015 - 17:53:24: Server cvar "jtp10181" = "chute,gore"
+L 04/04/2015 - 17:53:24: Server cvar "max_queries_sec" = "3.0"
+L 04/04/2015 - 17:53:24: Server cvar "max_queries_sec_global" = "30"
+L 04/04/2015 - 17:53:24: Server cvar "max_queries_window" = "60"
+L 04/04/2015 - 17:53:24: Server cvar "metamod_version" = "1.19"
+L 04/04/2015 - 17:53:24: Server cvar "mp_allowmonsters" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_autokick" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_autoteambalance" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_buytime" = "1.5"
+L 04/04/2015 - 17:53:24: Server cvar "mp_c4timer" = "35"
+L 04/04/2015 - 17:53:24: Server cvar "mp_chattime" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_consistency" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_fadetoblack" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_flashlight" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_footsteps" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_forcecamera" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_forcechasecam" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_fragsleft" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_freezetime" = "5"
+L 04/04/2015 - 17:53:24: Server cvar "mp_friendlyfire" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_hostagepenalty" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_kickpercent" = "0.66"
+L 04/04/2015 - 17:53:24: Server cvar "mp_limitteams" = "5"
+L 04/04/2015 - 17:53:24: Server cvar "mp_logdetail" = "3"
+L 04/04/2015 - 17:53:24: Server cvar "mp_logfile" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_logmessages" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/04/2015 - 17:53:24: Server cvar "mp_maxrounds" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_mirrordamage" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_playerid" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_roundtime" = "2.57"
+L 04/04/2015 - 17:53:24: Server cvar "mp_startmoney" = "800"
+L 04/04/2015 - 17:53:24: Server cvar "mp_timeleft" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "mp_timelimit" = "30.000000"
+L 04/04/2015 - 17:53:24: Server cvar "mp_tkpunish" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_windifference" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "mp_winlimit" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "pausable" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "redirect_version" = "1.0.3"
+L 04/04/2015 - 17:53:24: Server cvar "sv_accelerate" = "5"
+L 04/04/2015 - 17:53:24: Server cvar "sv_aim" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_airaccelerate" = "10"
+L 04/04/2015 - 17:53:24: Server cvar "sv_airmove" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "sv_allowupload" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "sv_alltalk" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_bounce" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "sv_cheats" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_clienttrace" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "sv_clipmode" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_contact" = ""
+L 04/04/2015 - 17:53:24: Server cvar "sv_friction" = "4"
+L 04/04/2015 - 17:53:24: Server cvar "sv_gravity" = "800"
+L 04/04/2015 - 17:53:24: Server cvar "sv_logblocks" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_maxrate" = "25000"
+L 04/04/2015 - 17:53:24: Server cvar "sv_maxspeed" = "900"
+L 04/04/2015 - 17:53:24: Server cvar "sv_minrate" = "100000"
+L 04/04/2015 - 17:53:24: Server cvar "sv_password" = ""
+L 04/04/2015 - 17:53:24: Server cvar "sv_proxies" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_region" = "3"
+L 04/04/2015 - 17:53:24: Server cvar "sv_restart" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_restartround" = "0"
+L 04/04/2015 - 17:53:24: Server cvar "sv_stepsize" = "18"
+L 04/04/2015 - 17:53:24: Server cvar "sv_stopspeed" = "75"
+L 04/04/2015 - 17:53:24: Server cvar "sv_uploadmax" = "0.5"
+L 04/04/2015 - 17:53:24: Server cvar "sv_voiceenable" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "sv_wateraccelerate" = "10"
+L 04/04/2015 - 17:53:24: Server cvar "sv_waterfriction" = "1"
+L 04/04/2015 - 17:53:24: Server cvar "travo_statmarquee" = "v1.2"
+L 04/04/2015 - 17:53:24: Server cvar "vtc_version" = "80"
+L 04/04/2015 - 17:53:24: Server cvar "wallblocker_version" = "1.0"
+L 04/04/2015 - 17:53:24: Server cvars end
+L 04/04/2015 - 17:53:24: Server cvar "amx_nextmap" = "awp_india2"
+L 04/04/2015 - 17:53:24: Server cvar "sv_restart" = "1"
+L 04/04/2015 - 17:53:24: World triggered "Restart_Round_(1_second)"
+L 04/04/2015 - 17:53:24: Team "CT" scored "0" with "0" players
+L 04/04/2015 - 17:53:24: Team "TERRORIST" scored "0" with "0" players
+L 04/04/2015 - 17:53:24: Server cvar "sv_restart" = "0"
+L 04/04/2015 - 17:53:24: Started map "$2000$" (CRC "-1688392397")
+L 04/04/2015 - 17:53:29: World triggered "Round_Start"
+L 04/04/2015 - 17:55:26: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 17:55:26: "Vitaliy_Voitovich<445><STEAM_0:4:870795851><>" connected, address "46.118.146.206:27005"
+L 04/04/2015 - 17:55:27: [VTC] Player 1 speex
+L 04/04/2015 - 17:56:53: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 17:56:53: "NooBaSSik4<446><STEAM_0:4:208812336><>" connected, address "217.144.184.177:27005"
+L 04/04/2015 - 17:56:53: [VTC] Player 1 speex
+L 04/04/2015 - 17:56:59: "NooBaSSik4<446><STEAM_0:4:208812336><>" entered the game
+L 04/04/2015 - 17:57:09: "NooBaSSik4<446><STEAM_0:4:208812336><>" joined team "TERRORIST"
+L 04/04/2015 - 17:57:26: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 17:57:26: "MAGZHAN4COREJZ<447><STEAM_0:4:1848962163><>" connected, address "95.58.53.117:27005"
+L 04/04/2015 - 17:57:26: [VTC] Player 2 speex
+L 04/04/2015 - 17:57:55: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 17:57:55: "MEDEN4COREJZ<448><STEAM_0:4:2108109405><>" connected, address "2.134.18.82:13266"
+L 04/04/2015 - 17:57:55: [VTC] Player 2 speex
+L 04/04/2015 - 17:57:57: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" committed suicide with "grenade"
+L 04/04/2015 - 17:57:57: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/04/2015 - 17:57:57: World triggered "Round_End"
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" triggered "time" (time "1:02")
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" triggered "latency" (ping "147")
+L 04/04/2015 - 17:58:02: "NooBaSSik4<446><STEAM_0:4:208812336><TERRORIST>" disconnected
+L 04/04/2015 - 17:58:02: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/04/2015 - 17:58:02: World triggered "Round_End"
+L 04/04/2015 - 17:58:12: World triggered "Round_Start"
+L 04/04/2015 - 17:58:17: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 17:58:17: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><>" connected, address "2.134.18.82:13266"
+L 04/04/2015 - 17:58:17: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 17:58:17: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><>" connected, address "95.58.53.117:27005"
+L 04/04/2015 - 17:58:17: [VTC] Player 2 speex
+L 04/04/2015 - 17:58:17: [VTC] Player 1 speex
+L 04/04/2015 - 17:58:25: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><>" entered the game
+L 04/04/2015 - 17:58:25: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 17:58:25: "Nurik222222222 mazin<451><STEAM_0:0:96192544><>" connected, address "145.255.176.239:55889"
+L 04/04/2015 - 17:58:25: [VTC] Player 3 speex
+L 04/04/2015 - 17:58:27: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><>" entered the game
+L 04/04/2015 - 17:58:30: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><>" joined team "TERRORIST"
+L 04/04/2015 - 17:58:31: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><>" joined team "CT"
+L 04/04/2015 - 17:58:31: World triggered "Game_Commencing"
+L 04/04/2015 - 17:58:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/04/2015 - 17:58:31: World triggered "Round_End"
+L 04/04/2015 - 17:58:39: World triggered "Round_Start"
+L 04/04/2015 - 17:58:46: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 17:58:46: "AIBAN4RCOREJZ<452><STEAM_0:4:1966322269><>" connected, address "2.134.59.67:12415"
+L 04/04/2015 - 17:58:47: [VTC] Player 4 speex
+L 04/04/2015 - 17:58:50: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" attacked "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/04/2015 - 17:58:50: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" attacked "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/04/2015 - 17:58:50: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" killed "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "ak47"
+L 04/04/2015 - 17:58:50: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/04/2015 - 17:58:50: World triggered "Round_End"
+L 04/04/2015 - 17:59:00: World triggered "Round_Start"
+L 04/04/2015 - 17:59:09: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" attacked "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 04/04/2015 - 17:59:12: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" attacked "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 04/04/2015 - 17:59:13: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" attacked "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" with "ak47" (damage "20") (damage_armor "0") (health "48") (armor "0")
+L 04/04/2015 - 17:59:20: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" attacked "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "awp" (damage "452") (damage_armor "0") (health "-352") (armor "0")
+L 04/04/2015 - 17:59:20: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" killed "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "awp"
+L 04/04/2015 - 17:59:20: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/04/2015 - 17:59:20: World triggered "Round_End"
+L 04/04/2015 - 17:59:24: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 17:59:24: "SSSSS<453><STEAM_0:4:9047402><>" connected, address "109.248.72.168:27005"
+L 04/04/2015 - 17:59:24: [VTC] Player 4 speex
+L 04/04/2015 - 17:59:28: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 17:59:28: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><>" connected, address "2.134.59.67:12415"
+L 04/04/2015 - 17:59:28: [VTC] Player 4 speex
+L 04/04/2015 - 17:59:30: World triggered "Round_Start"
+L 04/04/2015 - 17:59:34: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><>" entered the game
+L 04/04/2015 - 17:59:39: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 17:59:39: "OCTIN<456><STEAM_0:0:1501348230><>" connected, address "109.248.68.217:27005"
+L 04/04/2015 - 17:59:39: [VTC] Player 3 speex
+L 04/04/2015 - 17:59:41: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><>" joined team "CT"
+L 04/04/2015 - 17:59:53: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 17:59:53: "SSSSS<457><STEAM_0:4:9047402><>" connected, address "109.248.72.168:27005"
+L 04/04/2015 - 17:59:53: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" attacked "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/04/2015 - 17:59:53: [VTC] Player 3 speex
+L 04/04/2015 - 17:59:53: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" attacked "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "44") (armor "0")
+L 04/04/2015 - 17:59:54: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" attacked "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "9") (armor "0")
+L 04/04/2015 - 17:59:54: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" attacked "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "-34") (armor "0")
+L 04/04/2015 - 17:59:54: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" killed "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" with "ak47"
+L 04/04/2015 - 17:59:54: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/04/2015 - 17:59:54: World triggered "Round_End"
+L 04/04/2015 - 17:59:55: Kick: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "11") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "87") (deaths "2")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" triggered "time" (time "1:30")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" triggered "latency" (ping "201")
+L 04/04/2015 - 17:59:55: "MEDEN4COREJZ<449><STEAM_0:4:2108109405><TERRORIST>" disconnected
+L 04/04/2015 - 17:59:57: Kick: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "452") (deaths "0")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "weaponstats" (weapon "m4a1") (shots "13") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "56") (deaths "0")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "2") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "weaponstats" (weapon "ak47") (shots "6") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "140") (deaths "0")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "time" (time "1:30")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" triggered "latency" (ping "114")
+L 04/04/2015 - 17:59:57: "MAGZHAN4COREJZ<450><STEAM_0:4:1848962163><CT>" disconnected
+L 04/04/2015 - 17:59:57: "SSSSS<457><STEAM_0:4:9047402><>" entered the game
+L 04/04/2015 - 18:00:02: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:00:02: "MEDEN4COREJZ<458><STEAM_0:4:2108109405><>" connected, address "2.134.18.82:13266"
+L 04/04/2015 - 18:00:02: Kick: "MEDEN4COREJZ<458><STEAM_0:4:2108109405><>" was kicked by "Console" (message ""Повторное подключение будет доступно через 12 секунд"")
+L 04/04/2015 - 18:00:04: World triggered "Round_Start"
+L 04/04/2015 - 18:00:09: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:00:09: "OCTIN<460><STEAM_0:0:1501348230><>" connected, address "109.248.68.217:27005"
+L 04/04/2015 - 18:00:09: [VTC] Player 1 speex
+L 04/04/2015 - 18:00:14: "SSSSS<457><STEAM_0:4:9047402><>" joined team "TERRORIST"
+L 04/04/2015 - 18:00:19: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-87") (armor "0")
+L 04/04/2015 - 18:00:19: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" killed "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" with "m4a1"
+L 04/04/2015 - 18:00:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 04/04/2015 - 18:00:19: World triggered "Round_End"
+L 04/04/2015 - 18:00:19: "OCTIN<460><STEAM_0:0:1501348230><>" entered the game
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "78") (deaths "1")
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" triggered "time" (time "0:48")
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" triggered "latency" (ping "141")
+L 04/04/2015 - 18:00:22: "AIBAN4RCOREJZ<454><STEAM_0:4:1966322269><CT>" disconnected
+L 04/04/2015 - 18:00:23: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:00:23: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><>" connected, address "2.134.18.82:13266"
+L 04/04/2015 - 18:00:24: [VTC] Player 2 speex
+L 04/04/2015 - 18:00:29: World triggered "Round_Start"
+L 04/04/2015 - 18:00:30: "OCTIN<460><STEAM_0:0:1501348230><>" joined team "CT"
+L 04/04/2015 - 18:00:31: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><>" entered the game
+L 04/04/2015 - 18:00:34: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><>" joined team "CT"
+L 04/04/2015 - 18:00:36: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/04/2015 - 18:00:36: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 04/04/2015 - 18:00:36: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" killed "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1"
+L 04/04/2015 - 18:00:37: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0")
+L 04/04/2015 - 18:00:37: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "22") (armor "0")
+L 04/04/2015 - 18:00:38: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:00:38: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/04/2015 - 18:00:39: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/04/2015 - 18:00:39: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 04/04/2015 - 18:00:39: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" killed "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1"
+L 04/04/2015 - 18:00:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 04/04/2015 - 18:00:39: World triggered "Round_End"
+L 04/04/2015 - 18:00:48: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 18:00:48: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><>" connected, address "178.168.196.85:27005"
+L 04/04/2015 - 18:00:48: [VTC] Player 4 speex
+L 04/04/2015 - 18:00:49: World triggered "Round_Start"
+L 04/04/2015 - 18:00:51: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><>" entered the game
+L 04/04/2015 - 18:00:52: "OCTIN<460><STEAM_0:0:1501348230><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/04/2015 - 18:00:52: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "16") (armor "0")
+L 04/04/2015 - 18:00:53: "OCTIN<460><STEAM_0:0:1501348230><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-42") (armor "0")
+L 04/04/2015 - 18:00:53: "OCTIN<460><STEAM_0:0:1501348230><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:00:53: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 04/04/2015 - 18:00:53: World triggered "Round_End"
+L 04/04/2015 - 18:00:54: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><>" joined team "TERRORIST"
+L 04/04/2015 - 18:01:03: World triggered "Round_Start"
+L 04/04/2015 - 18:01:04: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:01:07: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "47") (armor "0")
+L 04/04/2015 - 18:01:07: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "23") (damage_armor "0") (health "24") (armor "0")
+L 04/04/2015 - 18:01:08: "OCTIN<460><STEAM_0:0:1501348230><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 04/04/2015 - 18:01:08: "OCTIN<460><STEAM_0:0:1501348230><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "54") (armor "0")
+L 04/04/2015 - 18:01:08: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1" (damage "31") (damage_armor "0") (health "-7") (armor "0")
+L 04/04/2015 - 18:01:08: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" killed "OCTIN<460><STEAM_0:0:1501348230><CT>" with "m4a1"
+L 04/04/2015 - 18:01:11: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/04/2015 - 18:01:12: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><TERRORIST>" attacked "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/04/2015 - 18:01:12: "OCTIN<460><STEAM_0:0:1501348230><CT>" joined team "TERRORIST"
+L 04/04/2015 - 18:01:12: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><TERRORIST>" attacked "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "-60") (armor "0")
+L 04/04/2015 - 18:01:12: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><TERRORIST>" killed "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" with "m4a1"
+L 04/04/2015 - 18:01:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 04/04/2015 - 18:01:12: World triggered "Round_End"
+L 04/04/2015 - 18:01:15: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" triggered "weaponstats" (weapon "ak47") (shots "22") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "105") (deaths "2")
+L 04/04/2015 - 18:01:15: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:01:15: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" triggered "time" (time "0:43")
+L 04/04/2015 - 18:01:15: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" triggered "latency" (ping "204")
+L 04/04/2015 - 18:01:15: "MEDEN4COREJZ<461><STEAM_0:4:2108109405><CT>" disconnected
+L 04/04/2015 - 18:01:20: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><TERRORIST>" committed suicide with "world"
+L 04/04/2015 - 18:01:20: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><TERRORIST>" joined team "CT"
+L 04/04/2015 - 18:01:20: World triggered "Game_Commencing"
+L 04/04/2015 - 18:01:20: World triggered "Game_Commencing" (CT "4") (T "3")
+L 04/04/2015 - 18:01:20: World triggered "Round_End"
+L 04/04/2015 - 18:01:28: World triggered "Round_Start"
+L 04/04/2015 - 18:01:40: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:01:40: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 04/04/2015 - 18:01:40: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:01:43: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "ak47" (damage "108") (damage_armor "16") (health "-8") (armor "84")
+L 04/04/2015 - 18:01:43: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" killed "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "ak47"
+L 04/04/2015 - 18:01:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/04/2015 - 18:01:43: World triggered "Round_End"
+L 04/04/2015 - 18:01:53: World triggered "Round_Start"
+L 04/04/2015 - 18:01:55: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "awp" (damage "108") (damage_armor "2") (health "-8") (armor "98")
+L 04/04/2015 - 18:01:55: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" killed "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "awp"
+L 04/04/2015 - 18:01:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/04/2015 - 18:01:55: World triggered "Round_End"
+L 04/04/2015 - 18:02:05: Kick: "OCTIN<460><STEAM_0:0:1501348230><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "25") (hits "4") (kills "1") (headshots "1") (tks "0") (damage "188") (deaths "2")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "1")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "108") (deaths "0")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "time" (time "1:45")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" triggered "latency" (ping "44")
+L 04/04/2015 - 18:02:05: "OCTIN<460><STEAM_0:0:1501348230><TERRORIST>" disconnected
+L 04/04/2015 - 18:02:05: World triggered "Round_Start"
+L 04/04/2015 - 18:02:10: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/04/2015 - 18:02:11: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/04/2015 - 18:02:12: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "31") (armor "0")
+L 04/04/2015 - 18:02:12: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "9") (armor "0")
+L 04/04/2015 - 18:02:15: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "grenade"
+L 04/04/2015 - 18:02:15: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 04/04/2015 - 18:02:15: World triggered "Round_End"
+L 04/04/2015 - 18:02:25: World triggered "Round_Start"
+L 04/04/2015 - 18:02:28: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "mp5navy" (damage "10") (damage_armor "6") (health "90") (armor "94")
+L 04/04/2015 - 18:02:28: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/04/2015 - 18:02:28: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:02:28: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 04/04/2015 - 18:02:28: World triggered "Round_End"
+L 04/04/2015 - 18:02:38: World triggered "Round_Start"
+L 04/04/2015 - 18:02:43: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/04/2015 - 18:02:52: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-93") (armor "0")
+L 04/04/2015 - 18:02:52: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:02:52: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 04/04/2015 - 18:02:52: World triggered "Round_End"
+L 04/04/2015 - 18:03:02: World triggered "Round_Start"
+L 04/04/2015 - 18:03:24: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "deagle" (damage "33") (damage_armor "0") (health "67") (armor "0")
+L 04/04/2015 - 18:03:25: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "deagle" (damage "33") (damage_armor "0") (health "34") (armor "0")
+L 04/04/2015 - 18:03:25: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "deagle" (damage "33") (damage_armor "0") (health "1") (armor "0")
+L 04/04/2015 - 18:03:36: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/04/2015 - 18:03:36: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 04/04/2015 - 18:03:37: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "deagle" (damage "188") (damage_armor "0") (health "-187") (armor "0")
+L 04/04/2015 - 18:03:37: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "deagle"
+L 04/04/2015 - 18:03:37: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 04/04/2015 - 18:03:37: World triggered "Round_End"
+L 04/04/2015 - 18:03:47: World triggered "Round_Start"
+L 04/04/2015 - 18:03:49: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:03:49: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/04/2015 - 18:03:49: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/04/2015 - 18:03:50: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/04/2015 - 18:03:50: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-74") (armor "0")
+L 04/04/2015 - 18:03:50: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:03:50: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 04/04/2015 - 18:03:50: World triggered "Round_End"
+L 04/04/2015 - 18:04:00: World triggered "Round_Start"
+L 04/04/2015 - 18:04:07: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/04/2015 - 18:04:07: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "26") (damage_armor "6") (health "53") (armor "89")
+L 04/04/2015 - 18:04:08: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "32") (armor "85")
+L 04/04/2015 - 18:04:08: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "63") (armor "0")
+L 04/04/2015 - 18:04:08: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "41") (armor "0")
+L 04/04/2015 - 18:04:09: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "11") (armor "0")
+L 04/04/2015 - 18:04:09: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-11") (armor "0")
+L 04/04/2015 - 18:04:09: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:04:09: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 04/04/2015 - 18:04:09: World triggered "Round_End"
+L 04/04/2015 - 18:04:19: World triggered "Round_Start"
+L 04/04/2015 - 18:04:36: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:04:56: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "13") (armor "0")
+L 04/04/2015 - 18:04:56: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "-25") (armor "0")
+L 04/04/2015 - 18:04:56: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:04:56: Team "CT" triggered "CTs_Win" (CT "7") (T "2")
+L 04/04/2015 - 18:04:56: World triggered "Round_End"
+L 04/04/2015 - 18:05:06: World triggered "Round_Start"
+L 04/04/2015 - 18:05:22: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/04/2015 - 18:05:22: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:05:22: Team "CT" triggered "CTs_Win" (CT "8") (T "2")
+L 04/04/2015 - 18:05:22: World triggered "Round_End"
+L 04/04/2015 - 18:05:32: World triggered "Round_Start"
+L 04/04/2015 - 18:05:41: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:05:41: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "aug" (damage "20") (damage_armor "5") (health "80") (armor "95")
+L 04/04/2015 - 18:05:42: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" attacked "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "aug" (damage "81") (damage_armor "17") (health "-1") (armor "78")
+L 04/04/2015 - 18:05:42: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" killed "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" with "aug"
+L 04/04/2015 - 18:05:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "3")
+L 04/04/2015 - 18:05:42: World triggered "Round_End"
+L 04/04/2015 - 18:05:52: World triggered "Round_Start"
+L 04/04/2015 - 18:06:24: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:06:24: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "14") (armor "0")
+L 04/04/2015 - 18:06:24: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" attacked "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "0") (armor "0")
+L 04/04/2015 - 18:06:24: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" killed "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:06:24: Team "CT" triggered "CTs_Win" (CT "9") (T "3")
+L 04/04/2015 - 18:06:24: World triggered "Round_End"
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "62") (deaths "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats" (weapon "aug") (shots "7") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "101") (deaths "1")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats2" (weapon "aug") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "108") (deaths "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "15") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "10") (deaths "1")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "102") (hits "17") (kills "4") (headshots "2") (tks "0") (damage "634") (deaths "7")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "2") (stomach "1") (leftarm "6") (rightarm "3") (leftleg "3") (rightleg "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "20") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "54") (deaths "2")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "time" (time "6:30")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" triggered "latency" (ping "68")
+L 04/04/2015 - 18:06:27: "SSSSS<457><STEAM_0:4:9047402><TERRORIST>" disconnected
+L 04/04/2015 - 18:06:34: World triggered "Round_Start"
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "grenade") (shots "13") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "121") (deaths "0")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "m4a1") (shots "183") (hits "26") (kills "9") (headshots "6") (tks "0") (damage "1315") (deaths "3")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "m4a1") (head "7") (chest "2") (stomach "5") (leftarm "6") (rightarm "2") (leftleg "1") (rightleg "3")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "deagle") (shots "13") (hits "4") (kills "1") (headshots "1") (tks "0") (damage "287") (deaths "0")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "time" (time "6:06")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" triggered "latency" (ping "23")
+L 04/04/2015 - 18:06:58: "[Hard_Skill]_4IKIST<462><STEAM_0:4:2118919429><CT>" disconnected
+L 04/04/2015 - 18:06:58: World triggered "Round_Draw" (CT "9") (T "3")
+L 04/04/2015 - 18:06:58: World triggered "Round_End"
+L 04/04/2015 - 18:07:08: World triggered "Round_Start"
+L 04/04/2015 - 18:08:37: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:08:37: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><>" connected, address "178.120.127.15:53440"
+L 04/04/2015 - 18:08:37: [VTC] Player 1 speex
+L 04/04/2015 - 18:08:52: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><>" entered the game
+L 04/04/2015 - 18:08:58: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><>" joined team "TERRORIST"
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "18") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "88") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "time" (time "5:17")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" triggered "latency" (ping "42")
+L 04/04/2015 - 18:14:09: "[Hard_Skill]_AHAKOHDA<463><STEAM_0:4:1393675525><TERRORIST>" disconnected
+L 04/04/2015 - 18:14:09: World triggered "Round_Draw" (CT "9") (T "3")
+L 04/04/2015 - 18:14:09: World triggered "Round_End"
+L 04/04/2015 - 18:14:19: World triggered "Round_Start"
+L 04/04/2015 - 18:15:31: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:15:31: "PsiXopat<464><STEAM_0:4:1537055310><>" connected, address "37.214.103.30:19269"
+L 04/04/2015 - 18:15:32: [VTC] Player 1 speex
+L 04/04/2015 - 18:15:37: "PsiXopat<464><STEAM_0:4:1537055310><>" entered the game
+L 04/04/2015 - 18:15:39: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:15:39: "VIKa:***<465><STEAM_0:0:1429534441><>" connected, address "37.214.126.58:9298"
+L 04/04/2015 - 18:15:39: [VTC] Player 2 speex
+L 04/04/2015 - 18:15:39: "PsiXopat<464><STEAM_0:4:1537055310><>" joined team "TERRORIST"
+L 04/04/2015 - 18:15:43: "VIKa:***<465><STEAM_0:0:1429534441><>" entered the game
+L 04/04/2015 - 18:15:46: "VIKa:***<465><STEAM_0:0:1429534441><>" joined team "TERRORIST"
+L 04/04/2015 - 18:15:50: "VIKa:***<465><STEAM_0:0:1429534441><TERRORIST>" triggered "time" (time "0:06")
+L 04/04/2015 - 18:15:50: "VIKa:***<465><STEAM_0:0:1429534441><TERRORIST>" triggered "latency" (ping "0")
+L 04/04/2015 - 18:15:50: "VIKa:***<465><STEAM_0:0:1429534441><TERRORIST>" disconnected
+L 04/04/2015 - 18:15:53: "PsiXopat<464><STEAM_0:4:1537055310><TERRORIST>" committed suicide with "world"
+L 04/04/2015 - 18:15:53: World triggered "Round_Draw" (CT "9") (T "3")
+L 04/04/2015 - 18:15:53: World triggered "Round_End"
+L 04/04/2015 - 18:15:53: "PsiXopat<464><STEAM_0:4:1537055310><TERRORIST>" joined team "CT"
+L 04/04/2015 - 18:15:53: World triggered "Round_Draw" (CT "9") (T "3")
+L 04/04/2015 - 18:15:53: World triggered "Round_End"
+L 04/04/2015 - 18:16:03: World triggered "Round_Start"
+L 04/04/2015 - 18:16:10: "PsiXopat<464><STEAM_0:4:1537055310><CT>" triggered "time" (time "0:33")
+L 04/04/2015 - 18:16:10: "PsiXopat<464><STEAM_0:4:1537055310><CT>" triggered "latency" (ping "45")
+L 04/04/2015 - 18:16:10: "PsiXopat<464><STEAM_0:4:1537055310><CT>" disconnected
+L 04/04/2015 - 18:16:10: World triggered "Round_Draw" (CT "9") (T "3")
+L 04/04/2015 - 18:16:10: World triggered "Round_End"
+L 04/04/2015 - 18:16:20: World triggered "Round_Start"
+L 04/04/2015 - 18:16:27: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:16:27: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><>" connected, address "95.58.53.117:27005"
+L 04/04/2015 - 18:16:27: [VTC] Player 1 speex
+L 04/04/2015 - 18:16:33: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><>" entered the game
+L 04/04/2015 - 18:16:36: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><>" joined team "CT"
+L 04/04/2015 - 18:16:37: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:16:37: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><>" connected, address "178.120.8.196:31828"
+L 04/04/2015 - 18:16:38: [VTC] Player 2 speex
+L 04/04/2015 - 18:16:42: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><>" entered the game
+L 04/04/2015 - 18:16:46: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><>" joined team "TERRORIST"
+L 04/04/2015 - 18:16:46: World triggered "Game_Commencing"
+L 04/04/2015 - 18:16:46: World triggered "Game_Commencing" (CT "9") (T "3")
+L 04/04/2015 - 18:16:46: World triggered "Round_End"
+L 04/04/2015 - 18:16:54: World triggered "Round_Start"
+L 04/04/2015 - 18:17:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" attacked "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/04/2015 - 18:17:03: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/04/2015 - 18:17:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" attacked "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" with "usp" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/04/2015 - 18:17:03: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/04/2015 - 18:17:04: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 04/04/2015 - 18:17:04: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" killed "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47"
+L 04/04/2015 - 18:17:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/04/2015 - 18:17:04: World triggered "Round_End"
+L 04/04/2015 - 18:17:14: World triggered "Round_Start"
+L 04/04/2015 - 18:17:19: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 18:17:19: "Nurik222222222 mazin<468><STEAM_0:0:96192544><>" connected, address "145.255.176.239:3129"
+L 04/04/2015 - 18:17:19: [VTC] Player 3 speex
+L 04/04/2015 - 18:17:22: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-6") (armor "0")
+L 04/04/2015 - 18:17:22: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" killed "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47"
+L 04/04/2015 - 18:17:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/04/2015 - 18:17:22: World triggered "Round_End"
+L 04/04/2015 - 18:17:32: World triggered "Round_Start"
+L 04/04/2015 - 18:17:36: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-9") (armor "0")
+L 04/04/2015 - 18:17:36: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" killed "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47"
+L 04/04/2015 - 18:17:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 04/04/2015 - 18:17:36: World triggered "Round_End"
+L 04/04/2015 - 18:17:46: World triggered "Round_Start"
+L 04/04/2015 - 18:17:52: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "1") (armor "0")
+L 04/04/2015 - 18:17:52: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" attacked "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-34") (armor "0")
+L 04/04/2015 - 18:17:52: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" killed "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" with "ak47"
+L 04/04/2015 - 18:17:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 04/04/2015 - 18:17:52: World triggered "Round_End"
+L 04/04/2015 - 18:18:02: World triggered "Round_Start"
+L 04/04/2015 - 18:18:03: Kick: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "weaponstats" (weapon "usp") (shots "3") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "54") (deaths "1")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "weaponstats" (weapon "m4a1") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "weaponstats" (weapon "ak47") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "time" (time "1:30")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" triggered "latency" (ping "115")
+L 04/04/2015 - 18:18:03: "MAGZHAN4COREJZ<466><STEAM_0:4:1848962163><CT>" disconnected
+L 04/04/2015 - 18:18:09: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:18:09: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><>" connected, address "178.120.166.147:35249"
+L 04/04/2015 - 18:18:09: [VTC] Player 1 speex
+L 04/04/2015 - 18:18:14: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><>" entered the game
+L 04/04/2015 - 18:18:18: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><>" joined team "TERRORIST"
+L 04/04/2015 - 18:18:34: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" committed suicide with "world"
+L 04/04/2015 - 18:18:34: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><TERRORIST>" joined team "CT"
+L 04/04/2015 - 18:18:35: World triggered "Game_Commencing"
+L 04/04/2015 - 18:18:35: World triggered "Game_Commencing" (CT "0") (T "4")
+L 04/04/2015 - 18:18:35: World triggered "Round_End"
+L 04/04/2015 - 18:18:43: World triggered "Round_Start"
+L 04/04/2015 - 18:18:46: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "81") (armor "0")
+L 04/04/2015 - 18:18:46: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "62") (armor "0")
+L 04/04/2015 - 18:18:47: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" with "mp5navy" (damage "19") (damage_armor "0") (health "43") (armor "0")
+L 04/04/2015 - 18:18:47: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:18:48: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "24") (armor "0")
+L 04/04/2015 - 18:18:54: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" killed "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "grenade"
+L 04/04/2015 - 18:18:54: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/04/2015 - 18:18:54: World triggered "Round_End"
+L 04/04/2015 - 18:19:04: World triggered "Round_Start"
+L 04/04/2015 - 18:19:22: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:19:22: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "41") (armor "0")
+L 04/04/2015 - 18:19:22: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-1") (armor "0")
+L 04/04/2015 - 18:19:22: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" killed "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47"
+L 04/04/2015 - 18:19:22: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/04/2015 - 18:19:22: World triggered "Round_End"
+L 04/04/2015 - 18:19:32: World triggered "Round_Start"
+L 04/04/2015 - 18:19:35: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" with "mp5navy" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 04/04/2015 - 18:19:36: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:19:36: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/04/2015 - 18:19:36: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" attacked "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 04/04/2015 - 18:19:36: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" killed "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" with "ak47"
+L 04/04/2015 - 18:19:36: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 04/04/2015 - 18:19:36: World triggered "Round_End"
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats" (weapon "xm1014") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "115") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "75") (deaths "2")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "1") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "time" (time "1:27")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" triggered "latency" (ping "60")
+L 04/04/2015 - 18:19:41: "DiGi0n<WOT>_____10puk<469><STEAM_0:0:2109542054><TERRORIST>" disconnected
+L 04/04/2015 - 18:19:46: World triggered "Round_Start"
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" triggered "weaponstats" (weapon "grenade") (shots "11") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "261") (deaths "0")
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" triggered "weaponstats" (weapon "ak47") (shots "46") (hits "15") (kills "6") (headshots "0") (tks "0") (damage "523") (deaths "0")
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "2") (stomach "2") (leftarm "9") (rightarm "1") (leftleg "1") (rightleg "0")
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" triggered "time" (time "3:47")
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" triggered "latency" (ping "58")
+L 04/04/2015 - 18:20:29: "[Hard_Skill]_Angel_Smerti_<467><STEAM_0:4:917130501><CT>" disconnected
+L 04/04/2015 - 18:20:29: World triggered "Round_Draw" (CT "3") (T "0")
+L 04/04/2015 - 18:20:29: World triggered "Round_End"
+L 04/04/2015 - 18:20:39: World triggered "Round_Start"
+L 04/04/2015 - 18:20:46: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:20:46: "T.N.L. Leks<470><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:11495"
+L 04/04/2015 - 18:20:46: [VTC] Player 1 speex
+L 04/04/2015 - 18:21:48: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:21:48: "T.N.L. Leks<471><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:11495"
+L 04/04/2015 - 18:21:49: [VTC] Player 1 speex
+L 04/04/2015 - 18:21:53: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:21:53: "T.N.L. Leks<472><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:11495"
+L 04/04/2015 - 18:21:54: [VTC] Player 1 speex
+L 04/04/2015 - 18:21:58: "T.N.L. Leks<472><STEAM_0:4:2079542533><>" entered the game
+L 04/04/2015 - 18:22:04: "T.N.L. Leks<472><STEAM_0:4:2079542533><>" joined team "CT"
+L 04/04/2015 - 18:23:53: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:23:53: "Nurik<473><STEAM_0:4:476568965><>" connected, address "178.89.147.145:13813"
+L 04/04/2015 - 18:23:53: [VTC] Player 2 speex
+L 04/04/2015 - 18:23:57: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:23:57: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><>" connected, address "95.58.37.28:27005"
+L 04/04/2015 - 18:23:57: [VTC] Player 2 speex
+L 04/04/2015 - 18:24:05: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><>" entered the game
+L 04/04/2015 - 18:24:11: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><>" joined team "TERRORIST"
+L 04/04/2015 - 18:24:11: World triggered "Game_Commencing"
+L 04/04/2015 - 18:24:11: World triggered "Game_Commencing" (CT "3") (T "0")
+L 04/04/2015 - 18:24:11: World triggered "Round_End"
+L 04/04/2015 - 18:24:13: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" attacked "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/04/2015 - 18:24:13: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" killed "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:24:19: World triggered "Round_Start"
+L 04/04/2015 - 18:24:23: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" attacked "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/04/2015 - 18:24:23: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" attacked "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-40") (armor "0")
+L 04/04/2015 - 18:24:23: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" killed "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:24:23: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/04/2015 - 18:24:23: World triggered "Round_End"
+L 04/04/2015 - 18:24:33: World triggered "Round_Start"
+L 04/04/2015 - 18:24:37: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 18:24:37: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><>" connected, address "178.120.8.196:31828"
+L 04/04/2015 - 18:24:37: [VTC] Player 3 speex
+L 04/04/2015 - 18:24:40: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><>" entered the game
+L 04/04/2015 - 18:24:42: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" attacked "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 04/04/2015 - 18:24:42: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" attacked "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "35") (armor "0")
+L 04/04/2015 - 18:24:42: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" attacked "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-81") (armor "0")
+L 04/04/2015 - 18:24:42: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" killed "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:24:42: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 04/04/2015 - 18:24:42: World triggered "Round_End"
+L 04/04/2015 - 18:24:44: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><>" joined team "CT"
+L 04/04/2015 - 18:24:52: World triggered "Round_Start"
+L 04/04/2015 - 18:24:57: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/04/2015 - 18:24:57: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:24:57: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" triggered "time" (time "0:52")
+L 04/04/2015 - 18:24:57: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" triggered "latency" (ping "114")
+L 04/04/2015 - 18:24:57: "MAGZHAN4COREJZ<474><STEAM_0:4:1522330739><TERRORIST>" disconnected
+L 04/04/2015 - 18:24:59: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:24:59: "Nurik<476><STEAM_0:4:476568965><>" connected, address "178.89.147.145:13813"
+L 04/04/2015 - 18:24:59: [VTC] Player 2 speex
+L 04/04/2015 - 18:25:05: "Nurik<476><STEAM_0:4:476568965><>" entered the game
+L 04/04/2015 - 18:25:09: "Nurik<476><STEAM_0:4:476568965><>" joined team "CT"
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "awp") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "m4a1") (shots "75") (hits "6") (kills "3") (headshots "3") (tks "0") (damage "445") (deaths "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "time" (time "3:22")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" triggered "latency" (ping "55")
+L 04/04/2015 - 18:25:20: "T.N.L. Leks<472><STEAM_0:4:2079542533><CT>" disconnected
+L 04/04/2015 - 18:25:23: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><CT>" committed suicide with "world"
+L 04/04/2015 - 18:25:23: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><CT>" joined team "TERRORIST"
+L 04/04/2015 - 18:25:24: World triggered "Game_Commencing"
+L 04/04/2015 - 18:25:24: World triggered "Game_Commencing" (CT "2") (T "0")
+L 04/04/2015 - 18:25:24: World triggered "Round_End"
+L 04/04/2015 - 18:25:32: World triggered "Round_Start"
+L 04/04/2015 - 18:25:49: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "Nurik<476><STEAM_0:4:476568965><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/04/2015 - 18:25:49: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "Nurik<476><STEAM_0:4:476568965><CT>" with "awp"
+L 04/04/2015 - 18:25:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/04/2015 - 18:25:49: World triggered "Round_End"
+L 04/04/2015 - 18:25:59: World triggered "Round_Start"
+L 04/04/2015 - 18:26:13: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:26:13: "T.N.L. Leks<477><STEAM_0:4:2079542533><>" connected, address "178.120.186.94:11495"
+L 04/04/2015 - 18:26:13: [VTC] Player 1 speex
+L 04/04/2015 - 18:26:18: "T.N.L. Leks<477><STEAM_0:4:2079542533><>" entered the game
+L 04/04/2015 - 18:26:19: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 18:26:19: "-=Ky4ik=-[BLR-1]***}l{apk@***<478><STEAM_0:4:1084837125><>" connected, address "178.120.14.40:29862"
+L 04/04/2015 - 18:26:19: [VTC] Player 4 speex
+L 04/04/2015 - 18:26:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><>" joined team "CT"
+L 04/04/2015 - 18:26:26: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "Nurik<476><STEAM_0:4:476568965><CT>" with "awp" (damage "452") (damage_armor "0") (health "-383") (armor "0")
+L 04/04/2015 - 18:26:26: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "Nurik<476><STEAM_0:4:476568965><CT>" with "awp"
+L 04/04/2015 - 18:26:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/04/2015 - 18:26:26: World triggered "Round_End"
+L 04/04/2015 - 18:26:35: Kick: "Nurik<476><STEAM_0:4:476568965><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "weaponstats" (weapon "m4a1") (shots "45") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "time" (time "1:30")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" triggered "latency" (ping "121")
+L 04/04/2015 - 18:26:35: "Nurik<476><STEAM_0:4:476568965><CT>" disconnected
+L 04/04/2015 - 18:26:36: World triggered "Round_Start"
+L 04/04/2015 - 18:26:38: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 18:26:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><>" connected, address "178.120.14.40:29862"
+L 04/04/2015 - 18:26:38: [VTC] Player 4 speex
+L 04/04/2015 - 18:26:40: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:26:40: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/04/2015 - 18:26:40: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "awp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 04/04/2015 - 18:26:40: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "awp"
+L 04/04/2015 - 18:26:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 04/04/2015 - 18:26:40: World triggered "Round_End"
+L 04/04/2015 - 18:26:42: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><>" entered the game
+L 04/04/2015 - 18:26:48: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><>" joined team "CT"
+L 04/04/2015 - 18:26:50: World triggered "Round_Start"
+L 04/04/2015 - 18:26:56: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:26:56: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/04/2015 - 18:27:01: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "awp" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/04/2015 - 18:27:01: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "awp"
+L 04/04/2015 - 18:27:02: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "6") (armor "0")
+L 04/04/2015 - 18:27:05: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-23") (armor "0")
+L 04/04/2015 - 18:27:05: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:27:05: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 04/04/2015 - 18:27:05: World triggered "Round_End"
+L 04/04/2015 - 18:27:15: World triggered "Round_Start"
+L 04/04/2015 - 18:27:21: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/04/2015 - 18:27:21: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:27:21: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 04/04/2015 - 18:27:21: World triggered "Round_End"
+L 04/04/2015 - 18:27:31: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:27:31: "NooBStER<480><STEAM_0:4:1522330739><>" connected, address "95.58.37.28:27005"
+L 04/04/2015 - 18:27:31: World triggered "Round_Start"
+L 04/04/2015 - 18:27:31: [VTC] Player 2 speex
+L 04/04/2015 - 18:27:38: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/04/2015 - 18:27:38: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/04/2015 - 18:27:38: "NooBStER<480><STEAM_0:4:1522330739><>" entered the game
+L 04/04/2015 - 18:27:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/04/2015 - 18:27:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/04/2015 - 18:27:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "15") (armor "0")
+L 04/04/2015 - 18:27:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "-16") (armor "0")
+L 04/04/2015 - 18:27:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:27:38: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 04/04/2015 - 18:27:38: World triggered "Round_End"
+L 04/04/2015 - 18:27:48: "NooBStER<480><STEAM_0:4:1522330739><>" joined team "TERRORIST"
+L 04/04/2015 - 18:27:48: World triggered "Round_Start"
+L 04/04/2015 - 18:27:51: "NooBStER<480><STEAM_0:4:1522330739><TERRORIST>" triggered "time" (time "0:13")
+L 04/04/2015 - 18:27:51: "NooBStER<480><STEAM_0:4:1522330739><TERRORIST>" triggered "latency" (ping "0")
+L 04/04/2015 - 18:27:51: "NooBStER<480><STEAM_0:4:1522330739><TERRORIST>" disconnected
+L 04/04/2015 - 18:27:59: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/04/2015 - 18:27:59: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47"
+L 04/04/2015 - 18:28:01: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/04/2015 - 18:28:01: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:28:01: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 04/04/2015 - 18:28:01: World triggered "Round_End"
+L 04/04/2015 - 18:28:11: World triggered "Round_Start"
+L 04/04/2015 - 18:28:13: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/04/2015 - 18:28:15: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "13") (damage_armor "0") (health "59") (armor "0")
+L 04/04/2015 - 18:28:15: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "112") (damage_armor "0") (health "-53") (armor "0")
+L 04/04/2015 - 18:28:15: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:28:15: Team "CT" triggered "CTs_Win" (CT "5") (T "3")
+L 04/04/2015 - 18:28:15: World triggered "Round_End"
+L 04/04/2015 - 18:28:25: World triggered "Round_Start"
+L 04/04/2015 - 18:28:29: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "73") (armor "0")
+L 04/04/2015 - 18:28:29: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "41") (damage_armor "0") (health "59") (armor "0")
+L 04/04/2015 - 18:28:30: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "27") (damage_armor "0") (health "46") (armor "0")
+L 04/04/2015 - 18:28:30: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "132") (damage_armor "0") (health "-73") (armor "0")
+L 04/04/2015 - 18:28:30: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47"
+L 04/04/2015 - 18:28:35: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "25") (armor "0")
+L 04/04/2015 - 18:28:36: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-4") (armor "0")
+L 04/04/2015 - 18:28:36: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:28:36: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 04/04/2015 - 18:28:36: World triggered "Round_End"
+L 04/04/2015 - 18:28:46: World triggered "Round_Start"
+L 04/04/2015 - 18:28:51: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/04/2015 - 18:28:51: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 04/04/2015 - 18:28:51: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:28:51: "14444.L8P2<481><STEAM_0:4:1537982670><>" connected, address "37.99.11.30:16790"
+L 04/04/2015 - 18:28:51: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 04/04/2015 - 18:28:51: [VTC] Player 2 speex
+L 04/04/2015 - 18:28:52: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/04/2015 - 18:28:52: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "38") (armor "0")
+L 04/04/2015 - 18:28:52: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "7") (armor "0")
+L 04/04/2015 - 18:28:52: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "grenade"
+L 04/04/2015 - 18:28:52: Team "CT" triggered "CTs_Win" (CT "7") (T "3")
+L 04/04/2015 - 18:28:52: World triggered "Round_End"
+L 04/04/2015 - 18:28:57: "14444.L8P2<481><STEAM_0:4:1537982670><>" entered the game
+L 04/04/2015 - 18:29:02: World triggered "Round_Start"
+L 04/04/2015 - 18:29:14: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "67") (armor "0")
+L 04/04/2015 - 18:29:14: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "37") (armor "0")
+L 04/04/2015 - 18:29:15: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "15") (armor "0")
+L 04/04/2015 - 18:29:15: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/04/2015 - 18:29:15: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 04/04/2015 - 18:29:15: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "43") (damage_armor "0") (health "-13") (armor "0")
+L 04/04/2015 - 18:29:15: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47"
+L 04/04/2015 - 18:29:23: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "105") (damage_armor "16") (health "-5") (armor "72")
+L 04/04/2015 - 18:29:23: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47"
+L 04/04/2015 - 18:29:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "4")
+L 04/04/2015 - 18:29:23: World triggered "Round_End"
+L 04/04/2015 - 18:29:33: World triggered "Round_Start"
+L 04/04/2015 - 18:29:39: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:29:39: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/04/2015 - 18:29:39: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/04/2015 - 18:29:39: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 04/04/2015 - 18:29:39: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:29:39: Team "CT" triggered "CTs_Win" (CT "8") (T "4")
+L 04/04/2015 - 18:29:39: World triggered "Round_End"
+L 04/04/2015 - 18:29:49: World triggered "Round_Start"
+L 04/04/2015 - 18:29:58: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "56") (damage_armor "0") (health "38") (armor "0")
+L 04/04/2015 - 18:30:00: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-78") (armor "0")
+L 04/04/2015 - 18:30:00: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:30:00: Team "CT" triggered "CTs_Win" (CT "9") (T "4")
+L 04/04/2015 - 18:30:00: World triggered "Round_End"
+L 04/04/2015 - 18:30:04: "14444.L8P2<481><STEAM_0:4:1537982670><UNASSIGNED>" triggered "time" (time "1:07")
+L 04/04/2015 - 18:30:04: "14444.L8P2<481><STEAM_0:4:1537982670><UNASSIGNED>" triggered "latency" (ping "102")
+L 04/04/2015 - 18:30:04: "14444.L8P2<481><STEAM_0:4:1537982670><>" disconnected
+L 04/04/2015 - 18:30:10: World triggered "Round_Start"
+L 04/04/2015 - 18:30:20: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "96")
+L 04/04/2015 - 18:30:20: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "46") (armor "92")
+L 04/04/2015 - 18:30:20: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/04/2015 - 18:30:20: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "19") (armor "88")
+L 04/04/2015 - 18:30:20: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47" (damage "27") (damage_armor "4") (health "-8") (armor "84")
+L 04/04/2015 - 18:30:20: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" with "ak47"
+L 04/04/2015 - 18:30:21: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "33") (armor "0")
+L 04/04/2015 - 18:30:21: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "4") (armor "0")
+L 04/04/2015 - 18:30:21: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-39") (armor "0")
+L 04/04/2015 - 18:30:21: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" killed "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47"
+L 04/04/2015 - 18:30:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "5")
+L 04/04/2015 - 18:30:21: World triggered "Round_End"
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "79") (deaths "0")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "m4a1") (shots "44") (hits "10") (kills "3") (headshots "1") (tks "0") (damage "411") (deaths "3")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "m4a1") (head "2") (chest "0") (stomach "1") (leftarm "4") (rightarm "2") (leftleg "0") (rightleg "1")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "ak47") (shots "2") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "68") (deaths "1")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "time" (time "4:05")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" triggered "latency" (ping "55")
+L 04/04/2015 - 18:30:23: "T.N.L. Leks<477><STEAM_0:4:2079542533><CT>" disconnected
+L 04/04/2015 - 18:30:31: World triggered "Round_Start"
+L 04/04/2015 - 18:30:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:30:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 04/04/2015 - 18:30:38: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:30:38: Team "CT" triggered "CTs_Win" (CT "10") (T "5")
+L 04/04/2015 - 18:30:38: World triggered "Round_End"
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "6") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "31") (deaths "0")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "13") (hits "4") (kills "4") (headshots "1") (tks "0") (damage "816") (deaths "1")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "1") (chest "1") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "59") (hits "17") (kills "6") (headshots "4") (tks "0") (damage "926") (deaths "9")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "4") (chest "3") (stomach "2") (leftarm "8") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "time" (time "6:00")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" triggered "latency" (ping "57")
+L 04/04/2015 - 18:30:41: "[Hard_Skill]_Angel_Smerti_<475><STEAM_0:4:917130501><TERRORIST>" disconnected
+L 04/04/2015 - 18:30:48: World triggered "Round_Start"
+L 04/04/2015 - 18:30:53: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:30:53: "14444.L8P2<482><STEAM_0:4:1537982670><>" connected, address "37.99.11.30:16790"
+L 04/04/2015 - 18:30:53: [VTC] Player 2 speex
+L 04/04/2015 - 18:30:57: "14444.L8P2<482><STEAM_0:4:1537982670><>" entered the game
+L 04/04/2015 - 18:31:00: "14444.L8P2<482><STEAM_0:4:1537982670><>" joined team "CT"
+L 04/04/2015 - 18:31:05: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:31:05: "bizak<483><STEAM_0:4:1726922824><>" connected, address "41.98.129.100:21608"
+L 04/04/2015 - 18:31:05: [VTC] Player 1 speex
+L 04/04/2015 - 18:31:06: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" committed suicide with "world"
+L 04/04/2015 - 18:31:06: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" joined team "TERRORIST"
+L 04/04/2015 - 18:31:06: World triggered "Game_Commencing"
+L 04/04/2015 - 18:31:06: World triggered "Game_Commencing" (CT "10") (T "5")
+L 04/04/2015 - 18:31:06: World triggered "Round_End"
+L 04/04/2015 - 18:31:06: "14444.L8P2<482><STEAM_0:4:1537982670><CT>" committed suicide with "world"
+L 04/04/2015 - 18:31:06: "14444.L8P2<482><STEAM_0:4:1537982670><CT>" joined team "TERRORIST"
+L 04/04/2015 - 18:31:08: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 18:31:08: "JK<484><STEAM_0:0:692244939><>" connected, address "37.214.169.212:56157"
+L 04/04/2015 - 18:31:09: [VTC] Player 3 speex
+L 04/04/2015 - 18:31:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><TERRORIST>" committed suicide with "world"
+L 04/04/2015 - 18:31:12: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/04/2015 - 18:31:12: World triggered "Round_End"
+L 04/04/2015 - 18:31:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><TERRORIST>" joined team "CT"
+L 04/04/2015 - 18:31:12: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/04/2015 - 18:31:12: World triggered "Round_End"
+L 04/04/2015 - 18:31:13: "JK<484><STEAM_0:0:692244939><>" entered the game
+L 04/04/2015 - 18:31:14: World triggered "Round_Start"
+L 04/04/2015 - 18:31:15: World triggered "Game_Commencing"
+L 04/04/2015 - 18:31:15: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/04/2015 - 18:31:15: World triggered "Round_End"
+L 04/04/2015 - 18:31:16: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:31:16: "bizak<485><STEAM_0:4:1726922824><>" connected, address "41.98.129.100:21608"
+L 04/04/2015 - 18:31:16: [VTC] Player 1 speex
+L 04/04/2015 - 18:31:16: "JK<484><STEAM_0:0:692244939><>" joined team "TERRORIST"
+L 04/04/2015 - 18:31:23: "bizak<485><STEAM_0:4:1726922824><>" entered the game
+L 04/04/2015 - 18:31:23: World triggered "Round_Start"
+L 04/04/2015 - 18:31:26: "bizak<485><STEAM_0:4:1726922824><>" joined team "CT"
+L 04/04/2015 - 18:31:31: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 04/04/2015 - 18:31:33: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/04/2015 - 18:31:33: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "26") (damage_armor "0") (health "39") (armor "0")
+L 04/04/2015 - 18:31:33: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "47") (armor "0")
+L 04/04/2015 - 18:31:35: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-101") (armor "0")
+L 04/04/2015 - 18:31:35: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" killed "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47"
+L 04/04/2015 - 18:31:35: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" attacked "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:31:43: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" attacked "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/04/2015 - 18:31:43: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" attacked "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-104") (armor "0")
+L 04/04/2015 - 18:31:43: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" killed "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47"
+L 04/04/2015 - 18:31:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/04/2015 - 18:31:43: World triggered "Round_End"
+L 04/04/2015 - 18:31:53: World triggered "Round_Start"
+L 04/04/2015 - 18:31:57: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/04/2015 - 18:31:57: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" killed "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:32:01: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39efad8
+L 04/04/2015 - 18:32:01: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><>" connected, address "178.168.196.85:27005"
+L 04/04/2015 - 18:32:01: [VTC] Player 5 speex
+L 04/04/2015 - 18:32:02: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:32:02: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/04/2015 - 18:32:02: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" with "ak47"
+L 04/04/2015 - 18:32:07: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-55") (armor "0")
+L 04/04/2015 - 18:32:07: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47"
+L 04/04/2015 - 18:32:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/04/2015 - 18:32:07: World triggered "Round_End"
+L 04/04/2015 - 18:32:10: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><>" entered the game
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats" (weapon "grenade") (shots "7") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "9") (deaths "0")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats" (weapon "m4a1") (shots "109") (hits "28") (kills "7") (headshots "5") (tks "0") (damage "1237") (deaths "6")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats2" (weapon "m4a1") (head "5") (chest "6") (stomach "1") (leftarm "11") (rightarm "2") (leftleg "2") (rightleg "1")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats" (weapon "ak47") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "time" (time "5:30")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" triggered "latency" (ping "63")
+L 04/04/2015 - 18:32:12: "-=Ky4ik=-[BLR-1]***}l{apk@***<479><STEAM_0:4:1084837125><CT>" disconnected
+L 04/04/2015 - 18:32:13: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><>" joined team "CT"
+L 04/04/2015 - 18:32:17: World triggered "Round_Start"
+L 04/04/2015 - 18:32:21: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:32:21: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-14") (armor "0")
+L 04/04/2015 - 18:32:21: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47"
+L 04/04/2015 - 18:32:26: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "26") (damage_armor "4") (health "46") (armor "81")
+L 04/04/2015 - 18:32:26: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "grenade"
+L 04/04/2015 - 18:32:27: Kick: "14444.L8P2<482><STEAM_0:4:1537982670><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "20") (hits "4") (kills "2") (headshots "2") (tks "0") (damage "344") (deaths "1")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "1") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" triggered "time" (time "1:30")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" triggered "latency" (ping "106")
+L 04/04/2015 - 18:32:27: "14444.L8P2<482><STEAM_0:4:1537982670><TERRORIST>" disconnected
+L 04/04/2015 - 18:32:27: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 04/04/2015 - 18:32:27: World triggered "Round_End"
+L 04/04/2015 - 18:32:37: World triggered "Round_Start"
+L 04/04/2015 - 18:32:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "-2") (armor "0")
+L 04/04/2015 - 18:32:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:32:39: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 04/04/2015 - 18:32:39: World triggered "Round_End"
+L 04/04/2015 - 18:32:49: World triggered "Round_Start"
+L 04/04/2015 - 18:32:52: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/04/2015 - 18:32:52: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "bizak<485><STEAM_0:4:1726922824><CT>" with "ak47"
+L 04/04/2015 - 18:32:53: Kick: "bizak<485><STEAM_0:4:1726922824><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" triggered "weaponstats" (weapon "m4a1") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" triggered "time" (time "1:30")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" triggered "latency" (ping "135")
+L 04/04/2015 - 18:32:53: "bizak<485><STEAM_0:4:1726922824><CT>" disconnected
+L 04/04/2015 - 18:32:58: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/04/2015 - 18:32:58: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:32:58: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 04/04/2015 - 18:32:58: World triggered "Round_End"
+L 04/04/2015 - 18:33:07: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:33:07: "EA7<487><STEAM_0:0:103345927><>" connected, address "109.229.82.106:27005"
+L 04/04/2015 - 18:33:08: [VTC] Player 1 silk
+L 04/04/2015 - 18:33:08: "EA7<487><STEAM_0:0:103345927><>" STEAM USERID validated
+L 04/04/2015 - 18:33:08: World triggered "Round_Start"
+L 04/04/2015 - 18:33:14: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "3") (armor "0")
+L 04/04/2015 - 18:33:14: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-26") (armor "0")
+L 04/04/2015 - 18:33:14: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:33:14: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 04/04/2015 - 18:33:14: World triggered "Round_End"
+L 04/04/2015 - 18:33:19: "EA7<487><STEAM_0:0:103345927><>" entered the game
+L 04/04/2015 - 18:33:22: "EA7<487><STEAM_0:0:103345927><>" joined team "TERRORIST"
+L 04/04/2015 - 18:33:23: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:33:23: "Rus86<488><STEAM_0:4:1588388555><>" connected, address "46.39.5.20:27005"
+L 04/04/2015 - 18:33:23: [VTC] Player 2 speex
+L 04/04/2015 - 18:33:24: World triggered "Round_Start"
+L 04/04/2015 - 18:33:30: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "5") (armor "0")
+L 04/04/2015 - 18:33:30: "EA7<487><STEAM_0:0:103345927><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "79") (armor "95")
+L 04/04/2015 - 18:33:30: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-25") (armor "0")
+L 04/04/2015 - 18:33:30: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:33:31: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "91")
+L 04/04/2015 - 18:33:31: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "36") (armor "91")
+L 04/04/2015 - 18:33:31: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "15") (armor "86")
+L 04/04/2015 - 18:33:32: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "-6") (armor "82")
+L 04/04/2015 - 18:33:32: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1"
+L 04/04/2015 - 18:33:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 04/04/2015 - 18:33:32: World triggered "Round_End"
+L 04/04/2015 - 18:33:42: World triggered "Round_Start"
+L 04/04/2015 - 18:33:46: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:33:46: "Rus86<489><STEAM_0:4:1588388555><>" connected, address "46.39.5.20:27005"
+L 04/04/2015 - 18:33:46: [VTC] Player 2 speex
+L 04/04/2015 - 18:33:46: [DPROTO]: Client 3 - Set AuthIdType 1 [Native]; pClient = 0xb39eabe4
+L 04/04/2015 - 18:33:46: "fEss<490><STEAM_0:0:581832><>" connected, address "178.121.95.50:36931"
+L 04/04/2015 - 18:33:47: [VTC] Player 4 silk
+L 04/04/2015 - 18:33:47: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:33:47: "fEss<490><STEAM_0:0:581832><>" STEAM USERID validated
+L 04/04/2015 - 18:33:47: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/04/2015 - 18:33:47: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/04/2015 - 18:33:47: "EA7<487><STEAM_0:0:103345927><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/04/2015 - 18:33:47: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-16") (armor "0")
+L 04/04/2015 - 18:33:47: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "EA7<487><STEAM_0:0:103345927><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:33:50: "Rus86<489><STEAM_0:4:1588388555><>" entered the game
+L 04/04/2015 - 18:33:53: [DPROTO]: Client 3 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39eabe4
+L 04/04/2015 - 18:33:53: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><>" connected, address "178.120.106.90:7144"
+L 04/04/2015 - 18:33:54: [VTC] Player 4 speex
+L 04/04/2015 - 18:33:54: "Rus86<489><STEAM_0:4:1588388555><>" joined team "TERRORIST"
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "21") (deaths "1")
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "26") (deaths "1")
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" triggered "time" (time "0:34")
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" triggered "latency" (ping "55")
+L 04/04/2015 - 18:33:54: "EA7<487><STEAM_0:0:103345927><TERRORIST>" disconnected
+L 04/04/2015 - 18:33:54: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:33:54: "fEss<492><STEAM_0:0:581832><>" connected, address "178.121.95.50:36931"
+L 04/04/2015 - 18:33:54: [VTC] Player 1 silk
+L 04/04/2015 - 18:33:54: "fEss<492><STEAM_0:0:581832><>" STEAM USERID validated
+L 04/04/2015 - 18:33:56: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 04/04/2015 - 18:33:56: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:33:57: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><>" entered the game
+L 04/04/2015 - 18:33:58: "fEss<492><STEAM_0:0:581832><>" entered the game
+L 04/04/2015 - 18:34:00: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "53") (armor "91")
+L 04/04/2015 - 18:34:00: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/04/2015 - 18:34:00: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><>" joined team "TERRORIST"
+L 04/04/2015 - 18:34:00: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "32") (armor "86")
+L 04/04/2015 - 18:34:00: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "11") (armor "82")
+L 04/04/2015 - 18:34:00: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "5") (health "-10") (armor "77")
+L 04/04/2015 - 18:34:00: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" killed "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1"
+L 04/04/2015 - 18:34:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 04/04/2015 - 18:34:00: World triggered "Round_End"
+L 04/04/2015 - 18:34:02: "fEss<492><STEAM_0:0:581832><>" joined team "CT"
+L 04/04/2015 - 18:34:10: World triggered "Round_Start"
+L 04/04/2015 - 18:34:14: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:34:15: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 04/04/2015 - 18:34:15: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "6") (armor "0")
+L 04/04/2015 - 18:34:16: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "26") (damage_armor "0") (health "-20") (armor "0")
+L 04/04/2015 - 18:34:16: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:34:22: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:34:22: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/04/2015 - 18:34:22: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "25") (damage_armor "0") (health "75") (armor "100")
+L 04/04/2015 - 18:34:23: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/04/2015 - 18:34:23: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "25") (damage_armor "0") (health "50") (armor "100")
+L 04/04/2015 - 18:34:23: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "-12") (armor "0")
+L 04/04/2015 - 18:34:23: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:34:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "fEss<492><STEAM_0:0:581832><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:34:25: "fEss<492><STEAM_0:0:581832><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 04/04/2015 - 18:34:26: "fEss<492><STEAM_0:0:581832><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "54") (armor "0")
+L 04/04/2015 - 18:34:26: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "fEss<492><STEAM_0:0:581832><CT>" with "m4a1" (damage "37") (damage_armor "0") (health "33") (armor "0")
+L 04/04/2015 - 18:34:26: "fEss<492><STEAM_0:0:581832><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "31") (armor "0")
+L 04/04/2015 - 18:34:26: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-85") (armor "0")
+L 04/04/2015 - 18:34:26: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:34:26: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 04/04/2015 - 18:34:26: World triggered "Round_End"
+L 04/04/2015 - 18:34:36: World triggered "Round_Start"
+L 04/04/2015 - 18:34:38: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "100")
+L 04/04/2015 - 18:34:39: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "100")
+L 04/04/2015 - 18:34:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/04/2015 - 18:34:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "28") (damage_armor "0") (health "72") (armor "0")
+L 04/04/2015 - 18:34:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "57") (armor "0")
+L 04/04/2015 - 18:34:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "51") (armor "0")
+L 04/04/2015 - 18:34:39: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "15") (damage_armor "0") (health "42") (armor "0")
+L 04/04/2015 - 18:34:39: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "26") (damage_armor "4") (health "32") (armor "96")
+L 04/04/2015 - 18:34:39: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "32") (damage_armor "5") (health "0") (armor "91")
+L 04/04/2015 - 18:34:39: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" killed "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47"
+L 04/04/2015 - 18:34:41: "fEss<492><STEAM_0:0:581832><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "30") (armor "0")
+L 04/04/2015 - 18:34:41: "fEss<492><STEAM_0:0:581832><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "1") (armor "0")
+L 04/04/2015 - 18:34:41: "fEss<492><STEAM_0:0:581832><CT>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-28") (armor "0")
+L 04/04/2015 - 18:34:41: "fEss<492><STEAM_0:0:581832><CT>" killed "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:34:44: "fEss<492><STEAM_0:0:581832><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "13") (armor "0")
+L 04/04/2015 - 18:34:44: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "fEss<492><STEAM_0:0:581832><CT>" with "ak47" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 04/04/2015 - 18:34:45: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "fEss<492><STEAM_0:0:581832><CT>" with "ak47" (damage "42") (damage_armor "0") (health "16") (armor "0")
+L 04/04/2015 - 18:34:45: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "fEss<492><STEAM_0:0:581832><CT>" with "ak47" (damage "34") (damage_armor "0") (health "-18") (armor "0")
+L 04/04/2015 - 18:34:45: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" killed "fEss<492><STEAM_0:0:581832><CT>" with "ak47"
+L 04/04/2015 - 18:34:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 04/04/2015 - 18:34:45: World triggered "Round_End"
+L 04/04/2015 - 18:34:47: "fEss<492><STEAM_0:0:581832><CT>" triggered "weaponstats" (weapon "m4a1") (shots "39") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "177") (deaths "1")
+L 04/04/2015 - 18:34:47: "fEss<492><STEAM_0:0:581832><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "4") (rightleg "0")
+L 04/04/2015 - 18:34:47: "fEss<492><STEAM_0:0:581832><CT>" triggered "time" (time "0:49")
+L 04/04/2015 - 18:34:47: "fEss<492><STEAM_0:0:581832><CT>" triggered "latency" (ping "124")
+L 04/04/2015 - 18:34:47: "fEss<492><STEAM_0:0:581832><CT>" disconnected
+L 04/04/2015 - 18:34:55: World triggered "Round_Start"
+L 04/04/2015 - 18:34:59: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:34:59: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "81") (damage_armor "18") (health "19") (armor "82")
+L 04/04/2015 - 18:35:01: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1" (damage "21") (damage_armor "4") (health "-2") (armor "78")
+L 04/04/2015 - 18:35:01: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" killed "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "m4a1"
+L 04/04/2015 - 18:35:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 04/04/2015 - 18:35:01: World triggered "Round_End"
+L 04/04/2015 - 18:35:06: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><TERRORIST>" joined team "CT" (auto)
+L 04/04/2015 - 18:35:11: World triggered "Round_Start"
+L 04/04/2015 - 18:35:21: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/04/2015 - 18:35:21: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:35:22: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/04/2015 - 18:35:22: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:35:22: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 04/04/2015 - 18:35:22: World triggered "Round_End"
+L 04/04/2015 - 18:35:25: Kick: "Rus86<489><STEAM_0:4:1588388555><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "4") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "59") (deaths "1")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "44") (hits "7") (kills "1") (headshots "0") (tks "0") (damage "232") (deaths "1")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "2") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "22") (hits "5") (kills "2") (headshots "0") (tks "0") (damage "176") (deaths "0")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "1") (stomach "3") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "time" (time "1:35")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" triggered "latency" (ping "102")
+L 04/04/2015 - 18:35:25: "Rus86<489><STEAM_0:4:1588388555><TERRORIST>" disconnected
+L 04/04/2015 - 18:35:32: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:35:32: "(Parinok)<493><STEAM_0:4:391865555><>" connected, address "31.43.234.135:27005"
+L 04/04/2015 - 18:35:32: [VTC] Player 1 speex
+L 04/04/2015 - 18:35:32: World triggered "Round_Start"
+L 04/04/2015 - 18:35:37: "(Parinok)<493><STEAM_0:4:391865555><>" entered the game
+L 04/04/2015 - 18:35:42: "(Parinok)<493><STEAM_0:4:391865555><>" joined team "TERRORIST"
+L 04/04/2015 - 18:35:45: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 04/04/2015 - 18:35:45: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" killed "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:35:48: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "m4a1" (damage "27") (damage_armor "6") (health "65") (armor "74")
+L 04/04/2015 - 18:35:48: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "m4a1" (damage "86") (damage_armor "19") (health "-21") (armor "55")
+L 04/04/2015 - 18:35:48: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "m4a1"
+L 04/04/2015 - 18:35:49: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/04/2015 - 18:35:49: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/04/2015 - 18:35:49: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 04/04/2015 - 18:35:49: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 04/04/2015 - 18:35:49: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:35:49: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 04/04/2015 - 18:35:49: World triggered "Round_End"
+L 04/04/2015 - 18:35:59: World triggered "Round_Start"
+L 04/04/2015 - 18:36:02: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/04/2015 - 18:36:02: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "48") (armor "0")
+L 04/04/2015 - 18:36:02: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:36:03: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "26") (armor "0")
+L 04/04/2015 - 18:36:04: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 04/04/2015 - 18:36:05: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "42") (damage_armor "0") (health "-10") (armor "0")
+L 04/04/2015 - 18:36:05: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" killed "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47"
+L 04/04/2015 - 18:36:05: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "grenade"
+L 04/04/2015 - 18:36:10: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "26") (damage_armor "4") (health "70") (armor "93")
+L 04/04/2015 - 18:36:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "25") (damage_armor "0") (health "45") (armor "93")
+L 04/04/2015 - 18:36:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "25") (damage_armor "0") (health "20") (armor "93")
+L 04/04/2015 - 18:36:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "25") (damage_armor "0") (health "-5") (armor "93")
+L 04/04/2015 - 18:36:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47"
+L 04/04/2015 - 18:36:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 04/04/2015 - 18:36:11: World triggered "Round_End"
+L 04/04/2015 - 18:36:18: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:36:18: "I-IADEIIIDA BABKINA<494><STEAM_0:4:485053939><>" connected, address "95.73.142.144:1024"
+L 04/04/2015 - 18:36:18: [VTC] Player 2 speex
+L 04/04/2015 - 18:36:21: World triggered "Round_Start"
+L 04/04/2015 - 18:36:25: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:36:26: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "36") (damage_armor "0") (health "35") (armor "0")
+L 04/04/2015 - 18:36:26: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "ak47" (damage "20") (damage_armor "0") (health "15") (armor "0")
+L 04/04/2015 - 18:36:26: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-14") (armor "0")
+L 04/04/2015 - 18:36:26: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" killed "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:36:33: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 18:36:33: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><>" connected, address "95.73.142.144:1024"
+L 04/04/2015 - 18:36:33: [VTC] Player 2 speex
+L 04/04/2015 - 18:36:34: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "32") (damage_armor "5") (health "59") (armor "90")
+L 04/04/2015 - 18:36:34: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "24") (damage_armor "0") (health "0") (armor "0")
+L 04/04/2015 - 18:36:34: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47"
+L 04/04/2015 - 18:36:34: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "32") (damage_armor "5") (health "27") (armor "85")
+L 04/04/2015 - 18:36:35: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "26") (damage_armor "4") (health "1") (armor "81")
+L 04/04/2015 - 18:36:35: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47" (damage "26") (damage_armor "4") (health "-25") (armor "77")
+L 04/04/2015 - 18:36:35: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" with "ak47"
+L 04/04/2015 - 18:36:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "8")
+L 04/04/2015 - 18:36:35: World triggered "Round_End"
+L 04/04/2015 - 18:36:36: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><>" entered the game
+L 04/04/2015 - 18:36:45: World triggered "Round_Start"
+L 04/04/2015 - 18:36:47: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><>" joined team "CT"
+L 04/04/2015 - 18:36:48: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:36:48: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 04/04/2015 - 18:36:48: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 04/04/2015 - 18:36:48: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-110") (armor "0")
+L 04/04/2015 - 18:36:48: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:36:49: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/04/2015 - 18:36:49: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/04/2015 - 18:36:49: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "83") (armor "0")
+L 04/04/2015 - 18:36:49: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "29") (armor "0")
+L 04/04/2015 - 18:36:49: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "mp5navy" (damage "17") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:36:49: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "0") (armor "0")
+L 04/04/2015 - 18:36:49: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" killed "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:36:49: Team "CT" triggered "CTs_Win" (CT "8") (T "8")
+L 04/04/2015 - 18:36:49: World triggered "Round_End"
+L 04/04/2015 - 18:36:50: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39f49cc
+L 04/04/2015 - 18:36:50: "lera<496><STEAM_0:4:490034547><>" connected, address "95.72.54.147:27005"
+L 04/04/2015 - 18:36:50: [VTC] Player 6 speex
+L 04/04/2015 - 18:36:52: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><CT>" committed suicide with "world"
+L 04/04/2015 - 18:36:52: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><CT>" joined team "TERRORIST"
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "grenade") (shots "8") (hits "7") (kills "2") (headshots "0") (tks "0") (damage "377") (deaths "1")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "m4a1") (shots "155") (hits "38") (kills "13") (headshots "6") (tks "0") (damage "1646") (deaths "4")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "m4a1") (head "6") (chest "4") (stomach "3") (leftarm "19") (rightarm "1") (leftleg "2") (rightleg "3")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "weaponstats" (weapon "ak47") (shots "8") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "20") (deaths "1")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "time" (time "4:43")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" triggered "latency" (ping "27")
+L 04/04/2015 - 18:36:53: "[Hard_Skill]_4IKIST<486><STEAM_0:4:2118919429><CT>" disconnected
+L 04/04/2015 - 18:36:55: [DPROTO]: Client 4 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39efad8
+L 04/04/2015 - 18:36:55: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><>" connected, address "178.120.8.196:31828"
+L 04/04/2015 - 18:36:55: [VTC] Player 5 speex
+L 04/04/2015 - 18:36:59: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><>" entered the game
+L 04/04/2015 - 18:36:59: World triggered "Round_Start"
+L 04/04/2015 - 18:37:03: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><>" joined team "CT"
+L 04/04/2015 - 18:37:04: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "27") (armor "0")
+L 04/04/2015 - 18:37:04: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "96")
+L 04/04/2015 - 18:37:05: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-3") (armor "0")
+L 04/04/2015 - 18:37:05: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" killed "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:37:06: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "53") (armor "96")
+L 04/04/2015 - 18:37:06: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" with "m4a1" (damage "22") (damage_armor "0") (health "78") (armor "0")
+L 04/04/2015 - 18:37:07: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/04/2015 - 18:37:07: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/04/2015 - 18:37:07: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "58") (armor "0")
+L 04/04/2015 - 18:37:07: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "24") (armor "0")
+L 04/04/2015 - 18:37:07: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-10") (armor "0")
+L 04/04/2015 - 18:37:07: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" killed "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "ak47"
+L 04/04/2015 - 18:37:08: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "50") (armor "0")
+L 04/04/2015 - 18:37:08: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "25") (armor "0")
+L 04/04/2015 - 18:37:08: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-9") (armor "0")
+L 04/04/2015 - 18:37:08: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "ak47"
+L 04/04/2015 - 18:37:08: Team "CT" triggered "CTs_Win" (CT "9") (T "8")
+L 04/04/2015 - 18:37:08: World triggered "Round_End"
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "2") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "34") (deaths "1")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "26") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "136") (deaths "2")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "2") (rightarm "1") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "time" (time "1:38")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" triggered "latency" (ping "56")
+L 04/04/2015 - 18:37:15: "(Parinok)<493><STEAM_0:4:391865555><TERRORIST>" disconnected
+L 04/04/2015 - 18:37:18: World triggered "Round_Start"
+L 04/04/2015 - 18:37:20: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 04/04/2015 - 18:37:21: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-65") (armor "0")
+L 04/04/2015 - 18:37:21: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "ak47"
+L 04/04/2015 - 18:37:31: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 04/04/2015 - 18:37:31: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" killed "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:37:31: Team "CT" triggered "CTs_Win" (CT "10") (T "8")
+L 04/04/2015 - 18:37:31: World triggered "Round_End"
+L 04/04/2015 - 18:37:33: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 18:37:33: "Happy Whells<498><STEAM_0:4:485053939><>" connected, address "95.73.142.144:27005"
+L 04/04/2015 - 18:37:33: [VTC] Player 1 speex
+L 04/04/2015 - 18:37:41: World triggered "Round_Start"
+L 04/04/2015 - 18:37:43: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "m4a1" (damage "26") (damage_armor "5") (health "74") (armor "76")
+L 04/04/2015 - 18:37:43: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "10") (damage_armor "0") (health "90") (armor "0")
+L 04/04/2015 - 18:37:43: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/04/2015 - 18:37:43: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-30") (armor "0")
+L 04/04/2015 - 18:37:43: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "m4a1"
+L 04/04/2015 - 18:37:57: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 04/04/2015 - 18:37:57: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" killed "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" with "ak47"
+L 04/04/2015 - 18:37:57: Team "CT" triggered "CTs_Win" (CT "11") (T "8")
+L 04/04/2015 - 18:37:57: World triggered "Round_End"
+L 04/04/2015 - 18:38:03: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39f49cc
+L 04/04/2015 - 18:38:03: "lera<499><STEAM_0:4:490034547><>" connected, address "95.72.54.147:27005"
+L 04/04/2015 - 18:38:03: [VTC] Player 6 speex
+L 04/04/2015 - 18:38:07: "lera<499><STEAM_0:4:490034547><>" entered the game
+L 04/04/2015 - 18:38:07: World triggered "Round_Start"
+L 04/04/2015 - 18:38:09: Server cvar "amx_nextmap" = "$9000$"
+L 04/04/2015 - 18:38:09: Server cvar "mp_timelimit" = "0.000000"
+L 04/04/2015 - 18:38:10: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "26") (damage_armor "4") (health "74") (armor "72")
+L 04/04/2015 - 18:38:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "32") (damage_armor "5") (health "42") (armor "67")
+L 04/04/2015 - 18:38:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "26") (damage_armor "4") (health "16") (armor "63")
+L 04/04/2015 - 18:38:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" attacked "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47" (damage "26") (damage_armor "3") (health "-10") (armor "60")
+L 04/04/2015 - 18:38:11: "JK<484><STEAM_0:0:692244939><TERRORIST>" killed "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" with "ak47"
+L 04/04/2015 - 18:38:15: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" attacked "JK<484><STEAM_0:0:692244939><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 04/04/2015 - 18:38:22: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" killed "JK<484><STEAM_0:0:692244939><TERRORIST>" with "grenade"
+L 04/04/2015 - 18:38:24: "lera<499><STEAM_0:4:490034547><>" joined team "TERRORIST"
+L 04/04/2015 - 18:38:26: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:38:26: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:38:26: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" triggered "time" (time "1:49")
+L 04/04/2015 - 18:38:26: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" triggered "latency" (ping "57")
+L 04/04/2015 - 18:38:26: "I-IADEIIIDA BABKINA<495><STEAM_0:4:485053939><TERRORIST>" disconnected
+L 04/04/2015 - 18:38:26: Team "CT" triggered "CTs_Win" (CT "12") (T "8")
+L 04/04/2015 - 18:38:26: World triggered "Round_End"
+L 04/04/2015 - 18:38:30: "lera<499><STEAM_0:4:490034547><TERRORIST>" attacked "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" with "ak47" (damage "140") (damage_armor "0") (health "-116") (armor "0")
+L 04/04/2015 - 18:38:30: "lera<499><STEAM_0:4:490034547><TERRORIST>" killed "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" with "ak47"
+L 04/04/2015 - 18:38:36: Server cvar "mp_timelimit" = "0.010000"
+L 04/04/2015 - 18:38:36: World triggered "Round_Start"
+L 04/04/2015 - 18:38:36: Team "CT" scored "12" with "2" players
+L 04/04/2015 - 18:38:36: Team "TERRORIST" scored "8" with "2" players
+L 04/04/2015 - 18:38:36: Server cvar "mp_chattime" = "3"
+L 04/04/2015 - 18:38:37: Server cvar "mp_chattime" = "1"
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "18") (hits "10") (kills "0") (headshots "0") (tks "0") (damage "354") (deaths "2")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "46") (hits "10") (kills "2") (headshots "1") (tks "0") (damage "297") (deaths "2")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "3") (leftarm "3") (rightarm "1") (leftleg "1") (rightleg "1")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "135") (hits "22") (kills "8") (headshots "3") (tks "0") (damage "938") (deaths "8")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "1") (stomach "2") (leftarm "8") (rightarm "2") (leftleg "4") (rightleg "2")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "time" (time "7:24")
+L 04/04/2015 - 18:38:37: "JK<484><STEAM_0:0:692244939><TERRORIST>" triggered "latency" (ping "23")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "weaponstats" (weapon "grenade") (shots "6") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "51") (deaths "1")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "weaponstats" (weapon "m4a1") (shots "157") (hits "24") (kills "7") (headshots "3") (tks "0") (damage "870") (deaths "3")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "1") (stomach "1") (leftarm "6") (rightarm "2") (leftleg "2") (rightleg "9")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "time" (time "4:40")
+L 04/04/2015 - 18:38:37: "$CHAPA$-BREST<491><STEAM_0:4:2040220933><CT>" triggered "latency" (ping "46")
+L 04/04/2015 - 18:38:37: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "109") (deaths "0")
+L 04/04/2015 - 18:38:37: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:38:37: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" triggered "weaponstats" (weapon "ak47") (shots "17") (hits "7") (kills "4") (headshots "2") (tks "0") (damage "437") (deaths "1")
+L 04/04/2015 - 18:38:37: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "2") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "1")
+L 04/04/2015 - 18:38:37: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" triggered "time" (time "1:38")
+L 04/04/2015 - 18:38:37: "[Hard_Skill]_Angel_Smerti_<497><STEAM_0:4:917130501><CT>" triggered "latency" (ping "65")
+L 04/04/2015 - 18:38:37: "lera<499><STEAM_0:4:490034547><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "5") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "140") (deaths "0")
+L 04/04/2015 - 18:38:37: "lera<499><STEAM_0:4:490034547><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 18:38:37: "lera<499><STEAM_0:4:490034547><TERRORIST>" triggered "time" (time "0:30")
+L 04/04/2015 - 18:38:37: "lera<499><STEAM_0:4:490034547><TERRORIST>" triggered "latency" (ping "67")
+L 04/04/2015 - 18:38:37: Server cvar "mp_timelimit" = "30.000000"
+L 04/04/2015 - 18:38:37: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/04/2015 - 18:38:37: [META] ini: Read plugin config for: AMX Mod X
+L 04/04/2015 - 18:38:37: [META] ini: Read plugin config for: dproto_EF
+L 04/04/2015 - 18:38:37: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/04/2015 - 18:38:37: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/04/2015 - 18:38:37: [META] dll: Updating plugins...
+L 04/04/2015 - 18:38:37: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/04/2015 - 18:38:37: Log file closed

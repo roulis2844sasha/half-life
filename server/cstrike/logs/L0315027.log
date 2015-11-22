@@ -1,0 +1,70 @@
+L 03/15/2015 - 18:25:48: Log file started (file "logs/L0315027.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/15/2015 - 18:25:48: Server cvar "mp_logdetail" = "3"
+L 03/15/2015 - 18:25:48: Server cvar "mp_timelimit" = "30"
+L 03/15/2015 - 18:25:48: Server cvar "mp_c4timer" = "35"
+L 03/15/2015 - 18:25:48: Server cvar "mp_flashlight" = "1"
+L 03/15/2015 - 18:25:48: Server cvar "mp_freezetime" = "5"
+L 03/15/2015 - 18:25:48: Server cvar "mp_hostagepenalty" = "0"
+L 03/15/2015 - 18:25:48: Server cvar "mp_limitteams" = "5"
+L 03/15/2015 - 18:25:48: Server cvar "mp_roundtime" = "2.57"
+L 03/15/2015 - 18:25:48: Server cvar "mp_tkpunish" = "1"
+L 03/15/2015 - 18:25:48: Server cvar "sv_restartround" = "1"
+L 03/15/2015 - 18:25:48: Server cvar "sv_maxspeed" = "320"
+L 03/15/2015 - 18:25:48: Server cvar "sv_proxies" = "0"
+L 03/15/2015 - 18:25:48: Server cvar "allow_spectators" = "4"
+L 03/15/2015 - 18:25:48: Server cvar "mp_chattime" = "0"
+L 03/15/2015 - 18:25:48: Server cvar "sv_alltalk" = "1"
+L 03/15/2015 - 18:25:48: Server cvar "decalfrequency" = "9"
+L 03/15/2015 - 18:25:48: Server cvar "sv_aim" = "off"
+L 03/15/2015 - 18:25:48: Server cvar "sv_cheats" = "off"
+L 03/15/2015 - 18:25:48: Server cvar "sv_minrate" = "100000"
+L 03/15/2015 - 18:25:48: Server cvar "sv_maxrate" = "50000"
+L 03/15/2015 - 18:25:49: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394cf08
+L 03/15/2015 - 18:25:49: "$$$$matvei$$$$<1><STEAM_0:4:426122062><>" connected, address "37.212.144.155:30081"
+L 03/15/2015 - 18:25:49: World triggered "Restart_Round_(1_second)"
+L 03/15/2015 - 18:25:49: Team "CT" scored "0" with "0" players
+L 03/15/2015 - 18:25:49: Team "TERRORIST" scored "0" with "0" players
+L 03/15/2015 - 18:25:49: Server cvar "sv_restartround" = "0"
+L 03/15/2015 - 18:25:53: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394cf08
+L 03/15/2015 - 18:25:53: "$$$$matvei$$$$<2><STEAM_0:4:426122062><>" connected, address "37.212.144.155:30081"
+L 03/15/2015 - 18:25:55: World triggered "Round_Start"
+L 03/15/2015 - 18:25:59: "$$$$matvei$$$$<2><STEAM_0:4:426122062><>" entered the game
+L 03/15/2015 - 18:26:03: "$$$$matvei$$$$<2><STEAM_0:4:426122062><UNASSIGNED>" triggered "time" (time "0:04")
+L 03/15/2015 - 18:26:03: "$$$$matvei$$$$<2><STEAM_0:4:426122062><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/15/2015 - 18:26:03: "$$$$matvei$$$$<2><STEAM_0:4:426122062><>" disconnected
+L 03/15/2015 - 18:26:03: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/15/2015 - 18:26:03: World triggered "Round_End"
+L 03/15/2015 - 18:26:06: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb394cf08
+L 03/15/2015 - 18:26:06: "$$$$matvei$$$$<3><STEAM_0:4:426122062><>" connected, address "37.212.144.155:30081"
+L 03/15/2015 - 18:26:12: "$$$$matvei$$$$<3><STEAM_0:4:426122062><>" entered the game
+L 03/15/2015 - 18:26:13: World triggered "Round_Start"
+L 03/15/2015 - 18:26:15: "$$$$matvei$$$$<3><STEAM_0:4:426122062><>" joined team "CT"
+L 03/15/2015 - 18:28:47: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 03/15/2015 - 18:28:47: World triggered "Round_End"
+L 03/15/2015 - 18:28:57: World triggered "Round_Start"
+L 03/15/2015 - 18:31:31: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 03/15/2015 - 18:31:31: World triggered "Round_End"
+L 03/15/2015 - 18:31:41: World triggered "Round_Start"
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats" (weapon "usp") (shots "15") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats" (weapon "glock18") (shots "120") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats" (weapon "m4a1") (shots "77") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats" (weapon "knife") (shots "64") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "time" (time "6:56")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" triggered "latency" (ping "32")
+L 03/15/2015 - 18:33:09: "$$$$matvei$$$$<3><STEAM_0:4:426122062><CT>" disconnected
+L 03/15/2015 - 18:33:09: World triggered "Round_Draw" (CT "2") (T "0")
+L 03/15/2015 - 18:33:09: World triggered "Round_End"
+L 03/15/2015 - 18:33:19: World triggered "Round_Start"
+L 03/15/2015 - 18:35:53: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 03/15/2015 - 18:35:53: World triggered "Round_End"
+L 03/15/2015 - 18:35:58: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/15/2015 - 18:35:58: [META] ini: Read plugin config for: AMX Mod X
+L 03/15/2015 - 18:35:58: [META] ini: Read plugin config for: dproto_EF
+L 03/15/2015 - 18:35:58: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 03/15/2015 - 18:35:58: [META] dll: Updating plugins...
+L 03/15/2015 - 18:35:58: [META] dll: Finished updating 11 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/15/2015 - 18:35:58: Log file closed

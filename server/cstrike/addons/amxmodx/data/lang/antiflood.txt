@@ -1,3 +1,6 @@
+[ru]
+STOP_FLOOD = Прекратите флуд на сервере!
+
 [en]
 STOP_FLOOD = Stop flooding the server!
 
@@ -36,24 +39,3 @@ STOP_FLOOD = Prestan floodovat!
 
 [fi]
 STOP_FLOOD = Lopeta floodiminen!
-
-[ls]
-STOP_FLOOD = nu m0|2 fl00d, |<? DDoS !$ 4 cr|m3
-
-[bg]
-STOP_FLOOD = Sprete da pretovarvate servara!
-
-[ro]
-STOP_FLOOD = Nu mai flooda server-ul!
-
-[hu]
-STOP_FLOOD = Ne irj ilyen sokat!
-
-[lt]
-STOP_FLOOD = Nustok greitai rasyti!
-
-[sk]
-STOP_FLOOD = Prestan floodovat!
-
-[mk]
-STOP_FLOOD = Prestani na flodiras na serverot!

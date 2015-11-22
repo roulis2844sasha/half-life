@@ -1,0 +1,8 @@
+﻿<html>
+<head></head>
+<body bgcolor=black text=white>
+    <p><font color="red" face="Comic Sans MS">Вас одалевает пинг?:</font></p>
+    <p><font face="Comic Sans MS">Пропиши в консоле cl_cmdrate "40" cl_updaterate "40" rate "25000"</font></p>
+</body>
+</html>
+

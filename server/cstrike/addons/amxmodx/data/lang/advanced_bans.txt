@@ -1,0 +1,46 @@
+﻿[en]
+AB_BAN_INFORMATION = Ban Information
+AB_NAME = Name
+AB_IP = IP
+AB_STEAMID = SteamID
+AB_REASON = Reason
+AB_BAN_LENGTH = Ban Length
+AB_UNBAN_TIME = Unban Time
+AB_ADMIN_NAME = Admin Name
+AB_ADMIN_STEAMID = Admin SteamID
+AB_WEBSITE = If you think you were banned unfairly, report this information to our website:
+AB_NOT_AUTHORIZED = Target has not authorized with the server! Unable to ban!
+AB_ALREADY_BANNED_STEAMID = This player's SteamID is already banned!
+AB_ALREADY_BANNED_IP = This player's IP is already banned!
+AB_PERMANENT_BAN = Permanent Ban
+AB_INVALID_STEAMID = Invalid SteamID!
+AB_VALID_STEAMID_FORMAT = Correct format: STEAM_0:X:XXXXXXX
+AB_INVALID_IP = Invalid IP!
+AB_NOT_IN_BAN_LIST = Could not find %s in the ban list!
+AB_NO_BANS = There isn't anyone banned at this time.
+AB_BAN_LIST_NUM = Listing banned players %i - %i.
+AB_BAN_LIST_NEXT = Use amx_banlist %i for the next people in the list.
+AB_MAX_BAN_TIME = The max ban time allowed is %i.
+
+[ru]
+AB_BAN_INFORMATION = Информация о бане
+AB_NAME = Имя
+AB_IP = IP
+AB_STEAMID = SteamID
+AB_REASON = Причина
+AB_BAN_LENGTH = Prodolzhitel'nost' bana
+AB_UNBAN_TIME = Время бана
+AB_ADMIN_NAME = Ник Админа
+AB_ADMIN_STEAMID = SteamID Админа
+AB_WEBSITE = Esli Если вы думаете что вас забанили нечестно напишите:
+AB_NOT_AUTHORIZED = Igrok neavtorizirovan s serverom! Zabanit' nevozmozhno
+AB_ALREADY_BANNED_STEAMID = Jetot SteamID Igroka uzhe zabanen!
+AB_ALREADY_BANNED_IP = Jetot IP Igroka uzhe zabanen!
+AB_PERMANENT_BAN = Забанен на всегда
+AB_INVALID_STEAMID = Nevernyj SteamID!
+AB_VALID_STEAMID_FORMAT = Pravil'nyj format: STEAM_0:X:XXXXXXX
+AB_NOT_IN_BAN_LIST = Немогу найти %s в банлисте!
+AB_NO_BANS = В данный момент не кто не забанен.
+AB_BAN_LIST_NUM = Список забаненых игроков %i - %i.
+AB_BAN_LIST_NEXT = используйте amx_banlist %i чтобы показать следующий список.
+AB_MAX_BAN_TIME = Максимальное время бана %i.

@@ -1,0 +1,282 @@
+L 04/04/2015 - 23:16:32: Log file started (file "logs/L0404055.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/04/2015 - 23:16:32: Loading map "$2000$"
+L 04/04/2015 - 23:16:32: Server cvars start
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_debug_level" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_examine_time" = "0.5"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_look_angle" = "10"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_look_distance" = "200"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_message_repeats" = "5"
+L 04/04/2015 - 23:16:32: Server cvar "_tutor_view_distance" = "1000"
+L 04/04/2015 - 23:16:32: Server cvar "aesp_version" = "1.5b_mini"
+L 04/04/2015 - 23:16:32: Server cvar "allow_spectators" = "4"
+L 04/04/2015 - 23:16:32: Server cvar "amx_client_languages" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 04/04/2015 - 23:16:32: Server cvar "amx_language" = "ru"
+L 04/04/2015 - 23:16:32: Server cvar "amx_nextmap" = "aim_headshot"
+L 04/04/2015 - 23:16:32: Server cvar "amx_timeleft" = "15:06"
+L 04/04/2015 - 23:16:32: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 04/04/2015 - 23:16:32: Server cvar "amxbans_version" = "Gm 1.6"
+L 04/04/2015 - 23:16:32: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Config" = "Loaded"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Replace" = "Failed"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Status" = "Loaded"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/04/2015 - 23:16:32: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/04/2015 - 23:16:32: Server cvar "coop" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "deathmatch" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "decalfrequency" = "9"
+L 04/04/2015 - 23:16:32: Server cvar "dp_version" = "0.9.391"
+L 04/04/2015 - 23:16:32: Server cvar "edgefriction" = "2"
+L 04/04/2015 - 23:16:32: Server cvar "hostage_debug" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "hostage_stop" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "humans_join_team" = "any"
+L 04/04/2015 - 23:16:32: Server cvar "jtp10181" = "chute,gore"
+L 04/04/2015 - 23:16:32: Server cvar "max_queries_sec" = "3.0"
+L 04/04/2015 - 23:16:32: Server cvar "max_queries_sec_global" = "30"
+L 04/04/2015 - 23:16:32: Server cvar "max_queries_window" = "60"
+L 04/04/2015 - 23:16:32: Server cvar "metamod_version" = "1.19"
+L 04/04/2015 - 23:16:32: Server cvar "mp_allowmonsters" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_autokick" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_autoteambalance" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_buytime" = "1.5"
+L 04/04/2015 - 23:16:32: Server cvar "mp_c4timer" = "35"
+L 04/04/2015 - 23:16:32: Server cvar "mp_chattime" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_consistency" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_fadetoblack" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_flashlight" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_footsteps" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_forcecamera" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_forcechasecam" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_fragsleft" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_freezetime" = "5"
+L 04/04/2015 - 23:16:32: Server cvar "mp_friendlyfire" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_ghostfrequency" = "0.1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_hostagepenalty" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_kickpercent" = "0.66"
+L 04/04/2015 - 23:16:32: Server cvar "mp_limitteams" = "5"
+L 04/04/2015 - 23:16:32: Server cvar "mp_logdetail" = "3"
+L 04/04/2015 - 23:16:32: Server cvar "mp_logfile" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_logmessages" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/04/2015 - 23:16:32: Server cvar "mp_maxrounds" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_mirrordamage" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_playerid" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_roundtime" = "2.57"
+L 04/04/2015 - 23:16:32: Server cvar "mp_startmoney" = "800"
+L 04/04/2015 - 23:16:32: Server cvar "mp_timeleft" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "mp_timelimit" = "30.000000"
+L 04/04/2015 - 23:16:32: Server cvar "mp_tkpunish" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_windifference" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "mp_winlimit" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "pausable" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "redirect_version" = "1.0.3"
+L 04/04/2015 - 23:16:32: Server cvar "sv_accelerate" = "5"
+L 04/04/2015 - 23:16:32: Server cvar "sv_aim" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_airaccelerate" = "10"
+L 04/04/2015 - 23:16:32: Server cvar "sv_airmove" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "sv_allowupload" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "sv_alltalk" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_bounce" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "sv_cheats" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_clienttrace" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "sv_clipmode" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_contact" = ""
+L 04/04/2015 - 23:16:32: Server cvar "sv_friction" = "4"
+L 04/04/2015 - 23:16:32: Server cvar "sv_gravity" = "800"
+L 04/04/2015 - 23:16:32: Server cvar "sv_logblocks" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_maxrate" = "25000"
+L 04/04/2015 - 23:16:32: Server cvar "sv_maxspeed" = "900"
+L 04/04/2015 - 23:16:32: Server cvar "sv_minrate" = "100000"
+L 04/04/2015 - 23:16:32: Server cvar "sv_password" = ""
+L 04/04/2015 - 23:16:32: Server cvar "sv_proxies" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_region" = "3"
+L 04/04/2015 - 23:16:32: Server cvar "sv_restart" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_restartround" = "0"
+L 04/04/2015 - 23:16:32: Server cvar "sv_stepsize" = "18"
+L 04/04/2015 - 23:16:32: Server cvar "sv_stopspeed" = "75"
+L 04/04/2015 - 23:16:32: Server cvar "sv_uploadmax" = "0.5"
+L 04/04/2015 - 23:16:32: Server cvar "sv_voiceenable" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "sv_wateraccelerate" = "10"
+L 04/04/2015 - 23:16:32: Server cvar "sv_waterfriction" = "1"
+L 04/04/2015 - 23:16:32: Server cvar "travo_statmarquee" = "v1.2"
+L 04/04/2015 - 23:16:32: Server cvar "vtc_version" = "80"
+L 04/04/2015 - 23:16:32: Server cvar "wallblocker_version" = "1.0"
+L 04/04/2015 - 23:16:32: Server cvars end
+L 04/04/2015 - 23:16:33: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 04/04/2015 - 23:16:33: Server cvar "sv_restart" = "1"
+L 04/04/2015 - 23:16:33: World triggered "Restart_Round_(1_second)"
+L 04/04/2015 - 23:16:33: Team "CT" scored "0" with "0" players
+L 04/04/2015 - 23:16:33: Team "TERRORIST" scored "0" with "0" players
+L 04/04/2015 - 23:16:33: Server cvar "sv_restart" = "0"
+L 04/04/2015 - 23:16:33: Started map "$2000$" (CRC "-1688392397")
+L 04/04/2015 - 23:16:38: World triggered "Round_Start"
+L 04/04/2015 - 23:18:50: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 23:18:50: "AIBAN4RCOREJZ<735><STEAM_0:4:1966322269><>" connected, address "2.134.59.67:14314"
+L 04/04/2015 - 23:18:50: [VTC] Player 1 speex
+L 04/04/2015 - 23:32:49: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 23:32:49: "kill<736><STEAM_0:4:860998917><>" connected, address "178.120.255.207:52701"
+L 04/04/2015 - 23:32:50: [VTC] Player 1 speex
+L 04/04/2015 - 23:32:54: "kill<736><STEAM_0:4:860998917><>" entered the game
+L 04/04/2015 - 23:32:59: "kill<736><STEAM_0:4:860998917><>" joined team "CT"
+L 04/04/2015 - 23:33:07: "kill<736><STEAM_0:4:860998917><CT>" triggered "weaponstats" (weapon "m4a1") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 23:33:07: "kill<736><STEAM_0:4:860998917><CT>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 23:33:07: "kill<736><STEAM_0:4:860998917><CT>" triggered "time" (time "0:12")
+L 04/04/2015 - 23:33:07: "kill<736><STEAM_0:4:860998917><CT>" triggered "latency" (ping "0")
+L 04/04/2015 - 23:33:07: "kill<736><STEAM_0:4:860998917><CT>" disconnected
+L 04/04/2015 - 23:33:07: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/04/2015 - 23:33:07: World triggered "Round_End"
+L 04/04/2015 - 23:33:17: World triggered "Round_Start"
+L 04/04/2015 - 23:35:49: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 23:35:49: "16region<737><STEAM_0:4:2092802050><>" connected, address "188.162.39.80:27005"
+L 04/04/2015 - 23:35:49: [VTC] Player 1 speex
+L 04/04/2015 - 23:36:10: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 23:36:10: "16region<738><STEAM_0:4:2092802050><>" connected, address "188.162.39.80:27005"
+L 04/04/2015 - 23:36:10: [VTC] Player 1 speex
+L 04/04/2015 - 23:36:33: "16region<738><STEAM_0:4:2092802050><>" entered the game
+L 04/04/2015 - 23:36:37: "16region<738><STEAM_0:4:2092802050><>" joined team "TERRORIST"
+L 04/04/2015 - 23:36:43: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e5cf0
+L 04/04/2015 - 23:36:43: "MONSTER[BLR-1]***}I{@PK@***<739><STEAM_0:4:1737805061><>" connected, address "178.120.117.102:40261"
+L 04/04/2015 - 23:36:43: [VTC] Player 3 speex
+L 04/04/2015 - 23:36:48: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 23:36:48: "samat<740><STEAM_0:4:966067568><>" connected, address "89.232.118.218:11791"
+L 04/04/2015 - 23:36:48: [VTC] Player 2 speex
+L 04/04/2015 - 23:37:38: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 23:37:38: "FALCAO k nam ne poedet<741><STEAM_0:4:904207108><>" connected, address "176.212.150.194:27005"
+L 04/04/2015 - 23:37:38: [VTC] Player 2 speex
+L 04/04/2015 - 23:37:50: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 23:37:50: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><>" connected, address "176.212.150.194:27005"
+L 04/04/2015 - 23:37:50: [VTC] Player 2 speex
+L 04/04/2015 - 23:37:53: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><>" entered the game
+L 04/04/2015 - 23:37:56: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><>" joined team "CT"
+L 04/04/2015 - 23:37:57: World triggered "Game_Commencing"
+L 04/04/2015 - 23:37:57: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/04/2015 - 23:37:57: World triggered "Round_End"
+L 04/04/2015 - 23:38:03: Kick: "16region<738><STEAM_0:4:2092802050><>" was kicked by "Console" (message ""Извини, но ты лагер :D, попробуй зайти позже"")
+L 04/04/2015 - 23:38:03: "16region<738><STEAM_0:4:2092802050><TERRORIST>" triggered "time" (time "1:30")
+L 04/04/2015 - 23:38:03: "16region<738><STEAM_0:4:2092802050><TERRORIST>" triggered "latency" (ping "112")
+L 04/04/2015 - 23:38:03: "16region<738><STEAM_0:4:2092802050><TERRORIST>" disconnected
+L 04/04/2015 - 23:38:05: World triggered "Round_Start"
+L 04/04/2015 - 23:39:29: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><CT>" triggered "weaponstats" (weapon "grenade") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/04/2015 - 23:39:29: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/04/2015 - 23:39:29: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><CT>" triggered "time" (time "1:35")
+L 04/04/2015 - 23:39:29: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><CT>" triggered "latency" (ping "44")
+L 04/04/2015 - 23:39:29: "FALCAO k nam ne poedet<742><STEAM_0:4:904207108><CT>" disconnected
+L 04/04/2015 - 23:39:29: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/04/2015 - 23:39:29: World triggered "Round_End"
+L 04/04/2015 - 23:39:39: World triggered "Round_Start"
+L 04/04/2015 - 23:50:56: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 23:50:56: "Tolstopuz<743><STEAM_0:0:622962821><>" connected, address "37.214.253.30:42608"
+L 04/04/2015 - 23:50:57: [VTC] Player 1 speex
+L 04/04/2015 - 23:50:58: Kick: "Tolstopuz<743><STEAM_0:0:622962821><>" was kicked by "Console" (message " Вы забанены на этом сервере. Подробности в консоли.")
+L 04/04/2015 - 23:53:10: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39dbf08
+L 04/04/2015 - 23:53:10: "Kefir<744><STEAM_0:4:2081475845><>" connected, address "178.120.125.81:21662"
+L 04/04/2015 - 23:53:10: [VTC] Player 1 speex
+L 04/04/2015 - 23:53:27: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 23:53:27: "martin<745><STEAM_0:4:991841669><>" connected, address "178.121.96.223:32727"
+L 04/04/2015 - 23:53:27: [VTC] Player 2 speex
+L 04/04/2015 - 23:53:32: "martin<745><STEAM_0:4:991841669><>" entered the game
+L 04/04/2015 - 23:53:37: "Kefir<744><STEAM_0:4:2081475845><>" entered the game
+L 04/04/2015 - 23:53:46: "Kefir<744><STEAM_0:4:2081475845><>" joined team "CT"
+L 04/04/2015 - 23:54:32: "martin<745><STEAM_0:4:991841669><UNASSIGNED>" triggered "time" (time "1:00")
+L 04/04/2015 - 23:54:32: "martin<745><STEAM_0:4:991841669><UNASSIGNED>" triggered "latency" (ping "0")
+L 04/04/2015 - 23:54:32: "martin<745><STEAM_0:4:991841669><>" disconnected
+L 04/04/2015 - 23:55:28: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 23:55:28: "GS-Monitor | K!LL3R<746><STEAM_0:4:985910917><>" connected, address "178.127.219.220:27005"
+L 04/04/2015 - 23:55:28: [VTC] Player 2 speex
+L 04/04/2015 - 23:55:37: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/04/2015 - 23:55:37: "GS-Monitor | K!LL3R<747><STEAM_0:4:985910917><>" connected, address "178.127.219.220:27005"
+L 04/04/2015 - 23:55:37: [VTC] Player 2 speex
+L 04/04/2015 - 23:55:53: "GS-Monitor | K!LL3R<747><STEAM_0:4:985910917><>" entered the game
+L 04/04/2015 - 23:56:08: "GS-Monitor | K!LL3R<747><STEAM_0:4:985910917><UNASSIGNED>" triggered "time" (time "0:14")
+L 04/04/2015 - 23:56:08: "GS-Monitor | K!LL3R<747><STEAM_0:4:985910917><UNASSIGNED>" triggered "latency" (ping "0")
+L 04/04/2015 - 23:56:08: "GS-Monitor | K!LL3R<747><STEAM_0:4:985910917><>" disconnected
+L 04/05/2015 - 00:05:27: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39e0dfc
+L 04/05/2015 - 00:05:27: "ZKD<748><STEAM_0:4:311761614><>" connected, address "37.215.118.140:43317"
+L 04/05/2015 - 00:05:27: [VTC] Player 2 speex
+L 04/05/2015 - 00:05:32: "ZKD<748><STEAM_0:4:311761614><>" entered the game
+L 04/05/2015 - 00:05:35: "ZKD<748><STEAM_0:4:311761614><>" joined team "CT"
+L 04/05/2015 - 00:05:44: "ZKD<748><STEAM_0:4:311761614><CT>" committed suicide with "world"
+L 04/05/2015 - 00:05:44: "ZKD<748><STEAM_0:4:311761614><CT>" joined team "TERRORIST"
+L 04/05/2015 - 00:05:45: World triggered "Game_Commencing"
+L 04/05/2015 - 00:05:45: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/05/2015 - 00:05:45: World triggered "Round_End"
+L 04/05/2015 - 00:05:53: World triggered "Round_Start"
+L 04/05/2015 - 00:05:56: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 04/05/2015 - 00:05:56: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "64") (armor "0")
+L 04/05/2015 - 00:05:56: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "46") (armor "0")
+L 04/05/2015 - 00:05:56: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy" (damage "22") (damage_armor "0") (health "24") (armor "0")
+L 04/05/2015 - 00:05:57: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy" (damage "13") (damage_armor "0") (health "11") (armor "0")
+L 04/05/2015 - 00:05:57: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy" (damage "22") (damage_armor "0") (health "-11") (armor "0")
+L 04/05/2015 - 00:05:57: "Kefir<744><STEAM_0:4:2081475845><CT>" killed "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "mp5navy"
+L 04/05/2015 - 00:05:57: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/05/2015 - 00:05:57: World triggered "Round_End"
+L 04/05/2015 - 00:06:07: World triggered "Round_Start"
+L 04/05/2015 - 00:06:14: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" attacked "Kefir<744><STEAM_0:4:2081475845><CT>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 04/05/2015 - 00:06:14: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" attacked "Kefir<744><STEAM_0:4:2081475845><CT>" with "m4a1" (damage "120") (damage_armor "0") (health "-50") (armor "0")
+L 04/05/2015 - 00:06:14: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" killed "Kefir<744><STEAM_0:4:2081475845><CT>" with "m4a1"
+L 04/05/2015 - 00:06:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 04/05/2015 - 00:06:14: World triggered "Round_End"
+L 04/05/2015 - 00:06:24: World triggered "Round_Start"
+L 04/05/2015 - 00:06:36: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-74") (armor "0")
+L 04/05/2015 - 00:06:36: "Kefir<744><STEAM_0:4:2081475845><CT>" killed "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "ak47"
+L 04/05/2015 - 00:06:36: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 04/05/2015 - 00:06:36: World triggered "Round_End"
+L 04/05/2015 - 00:06:46: World triggered "Round_Start"
+L 04/05/2015 - 00:06:50: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-36") (armor "0")
+L 04/05/2015 - 00:06:50: "Kefir<744><STEAM_0:4:2081475845><CT>" killed "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "ak47"
+L 04/05/2015 - 00:06:50: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 04/05/2015 - 00:06:50: World triggered "Round_End"
+L 04/05/2015 - 00:07:00: World triggered "Round_Start"
+L 04/05/2015 - 00:07:01: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" attacked "Kefir<744><STEAM_0:4:2081475845><CT>" with "m4a1" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 04/05/2015 - 00:07:02: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "usp" (damage "64") (damage_armor "0") (health "36") (armor "0")
+L 04/05/2015 - 00:07:12: "Kefir<744><STEAM_0:4:2081475845><CT>" killed "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "grenade"
+L 04/05/2015 - 00:07:12: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 04/05/2015 - 00:07:12: World triggered "Round_End"
+L 04/05/2015 - 00:07:22: World triggered "Round_Start"
+L 04/05/2015 - 00:07:38: "Kefir<744><STEAM_0:4:2081475845><CT>" attacked "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-101") (armor "0")
+L 04/05/2015 - 00:07:38: "Kefir<744><STEAM_0:4:2081475845><CT>" killed "ZKD<748><STEAM_0:4:311761614><TERRORIST>" with "ak47"
+L 04/05/2015 - 00:07:38: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 04/05/2015 - 00:07:38: World triggered "Round_End"
+L 04/05/2015 - 00:07:48: World triggered "Round_Start"
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "56") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "171") (deaths "4")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "time" (time "2:18")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" triggered "latency" (ping "79")
+L 04/05/2015 - 00:07:50: "ZKD<748><STEAM_0:4:311761614><TERRORIST>" disconnected
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats" (weapon "grenade") (shots "17") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "201") (deaths "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats" (weapon "xm1014") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats2" (weapon "xm1014") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats" (weapon "usp") (shots "5") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "64") (deaths "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats2" (weapon "usp") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "24") (hits "6") (kills "1") (headshots "0") (tks "0") (damage "111") (deaths "1")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "2") (leftarm "1") (rightarm "2") (leftleg "1") (rightleg "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats" (weapon "ak47") (shots "25") (hits "3") (kills "3") (headshots "3") (tks "0") (damage "408") (deaths "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "time" (time "16:26")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" triggered "latency" (ping "60")
+L 04/05/2015 - 00:10:04: "Kefir<744><STEAM_0:4:2081475845><CT>" disconnected
+L 04/05/2015 - 00:10:04: World triggered "Round_Draw" (CT "5") (T "1")
+L 04/05/2015 - 00:10:04: World triggered "Round_End"
+L 04/05/2015 - 00:10:14: World triggered "Round_Start"
+L 04/05/2015 - 00:34:06: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/05/2015 - 00:34:06: [META] ini: Read plugin config for: AMX Mod X
+L 04/05/2015 - 00:34:06: [META] ini: Read plugin config for: dproto_EF
+L 04/05/2015 - 00:34:06: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/05/2015 - 00:34:06: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/05/2015 - 00:34:06: [META] dll: Updating plugins...
+L 04/05/2015 - 00:34:06: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/05/2015 - 00:34:06: Log file closed

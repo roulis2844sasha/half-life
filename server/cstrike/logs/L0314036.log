@@ -1,0 +1,346 @@
+L 03/14/2015 - 18:12:34: Log file started (file "logs/L0314036.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/14/2015 - 18:12:34: Loading map "35_hp_2011"
+L 03/14/2015 - 18:12:34: Server cvars start
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_debug_level" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_examine_time" = "0.5"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_look_angle" = "10"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_look_distance" = "200"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_message_repeats" = "5"
+L 03/14/2015 - 18:12:34: Server cvar "_tutor_view_distance" = "1000"
+L 03/14/2015 - 18:12:34: Server cvar "aesp_version" = "1.5b_mini"
+L 03/14/2015 - 18:12:34: Server cvar "allow_spectators" = "2"
+L 03/14/2015 - 18:12:34: Server cvar "amx_client_languages" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/14/2015 - 18:12:34: Server cvar "amx_language" = "ru"
+L 03/14/2015 - 18:12:34: Server cvar "amx_nextmap" = "35_hp_2011"
+L 03/14/2015 - 18:12:34: Server cvar "amx_timeleft" = "00:00"
+L 03/14/2015 - 18:12:34: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/14/2015 - 18:12:34: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/14/2015 - 18:12:34: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Config" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Replace" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Status" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/14/2015 - 18:12:34: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/14/2015 - 18:12:34: Server cvar "coop" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "deathmatch" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "decalfrequency" = "9"
+L 03/14/2015 - 18:12:34: Server cvar "dp_version" = "0.9.391"
+L 03/14/2015 - 18:12:34: Server cvar "edgefriction" = "2"
+L 03/14/2015 - 18:12:34: Server cvar "hostage_debug" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "hostage_stop" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "humans_join_team" = "any"
+L 03/14/2015 - 18:12:34: Server cvar "jtp10181" = "chute"
+L 03/14/2015 - 18:12:34: Server cvar "max_queries_sec" = "3.0"
+L 03/14/2015 - 18:12:34: Server cvar "max_queries_sec_global" = "30"
+L 03/14/2015 - 18:12:34: Server cvar "max_queries_window" = "60"
+L 03/14/2015 - 18:12:34: Server cvar "metamod_version" = "1.19p32"
+L 03/14/2015 - 18:12:34: Server cvar "mp_allowmonsters" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_autokick" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_autoteambalance" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_buytime" = "1.5"
+L 03/14/2015 - 18:12:34: Server cvar "mp_c4timer" = "35"
+L 03/14/2015 - 18:12:34: Server cvar "mp_chattime" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_consistency" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_fadetoblack" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_flashlight" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_footsteps" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_forcecamera" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_forcechasecam" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_fragsleft" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_freezetime" = "5"
+L 03/14/2015 - 18:12:34: Server cvar "mp_friendlyfire" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_hostagepenalty" = "2"
+L 03/14/2015 - 18:12:34: Server cvar "mp_kickpercent" = "0.66"
+L 03/14/2015 - 18:12:34: Server cvar "mp_limitteams" = "2"
+L 03/14/2015 - 18:12:34: Server cvar "mp_logdetail" = "3"
+L 03/14/2015 - 18:12:34: Server cvar "mp_logfile" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_logmessages" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/14/2015 - 18:12:34: Server cvar "mp_maxrounds" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_mirrordamage" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_playerid" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_roundtime" = "2.57"
+L 03/14/2015 - 18:12:34: Server cvar "mp_startmoney" = "800"
+L 03/14/2015 - 18:12:34: Server cvar "mp_timeleft" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "mp_timelimit" = "30"
+L 03/14/2015 - 18:12:34: Server cvar "mp_tkpunish" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_windifference" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "mp_winlimit" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "pausable" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "sv_accelerate" = "5"
+L 03/14/2015 - 18:12:34: Server cvar "sv_aim" = "off"
+L 03/14/2015 - 18:12:34: Server cvar "sv_airaccelerate" = "10"
+L 03/14/2015 - 18:12:34: Server cvar "sv_airmove" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "sv_allowupload" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "sv_alltalk" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "sv_bounce" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "sv_cheats" = "off"
+L 03/14/2015 - 18:12:34: Server cvar "sv_clienttrace" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "sv_clipmode" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "sv_contact" = ""
+L 03/14/2015 - 18:12:34: Server cvar "sv_friction" = "4"
+L 03/14/2015 - 18:12:34: Server cvar "sv_gravity" = "800"
+L 03/14/2015 - 18:12:34: Server cvar "sv_logblocks" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "sv_maxrate" = "50000"
+L 03/14/2015 - 18:12:34: Server cvar "sv_maxspeed" = "900"
+L 03/14/2015 - 18:12:34: Server cvar "sv_minrate" = "100000"
+L 03/14/2015 - 18:12:34: Server cvar "sv_password" = ""
+L 03/14/2015 - 18:12:34: Server cvar "sv_proxies" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "sv_region" = "3"
+L 03/14/2015 - 18:12:34: Server cvar "sv_restart" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "sv_restartround" = "0"
+L 03/14/2015 - 18:12:34: Server cvar "sv_stepsize" = "18"
+L 03/14/2015 - 18:12:34: Server cvar "sv_stopspeed" = "75"
+L 03/14/2015 - 18:12:34: Server cvar "sv_uploadmax" = "0.5"
+L 03/14/2015 - 18:12:34: Server cvar "sv_voiceenable" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "sv_wateraccelerate" = "10"
+L 03/14/2015 - 18:12:34: Server cvar "sv_waterfriction" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "vtc_version" = "80"
+L 03/14/2015 - 18:12:34: Server cvars end
+L 03/14/2015 - 18:12:34: Server cvar "sb_kickreason" = "Your subnet is banned"
+L 03/14/2015 - 18:12:34: Server cvar "sb_ignoresteam" = "1"
+L 03/14/2015 - 18:12:34: Server cvar "amx_nextmap" = "de_dust2_2x2"
+L 03/14/2015 - 18:12:35: Started map "35_hp_2011" (CRC "1681787481")
+L 03/14/2015 - 18:12:35: [VTC] Player 1 speex
+L 03/14/2015 - 18:12:35: [VTC] Player 4 speex
+L 03/14/2015 - 18:12:35: [VTC] Player 3 silk
+L 03/14/2015 - 18:12:35: [VTC] Player 2 silk
+L 03/14/2015 - 18:12:35: [VTC] Player 5 speex
+L 03/14/2015 - 18:12:35: [VTC] Player 7 speex
+L 03/14/2015 - 18:12:37: "[Hard_Skill]_4ANHNK<202><STEAM_0:4:61000965><>" entered the game
+L 03/14/2015 - 18:12:38: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><>" entered the game
+L 03/14/2015 - 18:12:38: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><>" entered the game
+L 03/14/2015 - 18:12:39: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 18:12:39: "CaDUCT<209><STEAM_0:0:1167208949><>" connected, address "37.44.108.60:25655"
+L 03/14/2015 - 18:12:39: [VTC] Player 1 speex
+L 03/14/2015 - 18:12:39: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb3978cf0
+L 03/14/2015 - 18:12:39: "AcT1oN [T]oK<210><STEAM_0:1:101491933><>" connected, address "37.215.33.203:34371"
+L 03/14/2015 - 18:12:39: [VTC] Player 3 silk
+L 03/14/2015 - 18:12:40: "AcT1oN [T]oK<210><STEAM_0:1:101491933><>" STEAM USERID validated
+L 03/14/2015 - 18:12:40: "[Hard_Skill]_4ANHNK<202><STEAM_0:4:61000965><UNASSIGNED>" triggered "time" (time "0:03")
+L 03/14/2015 - 18:12:40: "[Hard_Skill]_4ANHNK<202><STEAM_0:4:61000965><UNASSIGNED>" triggered "latency" (ping "0")
+L 03/14/2015 - 18:12:40: "[Hard_Skill]_4ANHNK<202><STEAM_0:4:61000965><>" disconnected
+L 03/14/2015 - 18:12:40: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/14/2015 - 18:12:40: World triggered "Round_End"
+L 03/14/2015 - 18:12:40: World triggered "Round_Start"
+L 03/14/2015 - 18:12:41: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><>" entered the game
+L 03/14/2015 - 18:12:42: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><>" joined team "TERRORIST"
+L 03/14/2015 - 18:12:42: "AcT1oN [T]oK<210><STEAM_0:1:101491933><>" entered the game
+L 03/14/2015 - 18:12:42: "CaDUCT<209><STEAM_0:0:1167208949><>" entered the game
+L 03/14/2015 - 18:12:43: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><>" joined team "CT"
+L 03/14/2015 - 18:12:43: World triggered "Game_Commencing"
+L 03/14/2015 - 18:12:43: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/14/2015 - 18:12:43: World triggered "Round_End"
+L 03/14/2015 - 18:12:43: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><>" joined team "CT"
+L 03/14/2015 - 18:12:45: "AcT1oN [T]oK<210><STEAM_0:1:101491933><>" joined team "CT"
+L 03/14/2015 - 18:12:50: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398c8c0
+L 03/14/2015 - 18:12:50: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><>" connected, address "37.212.19.60:24570"
+L 03/14/2015 - 18:12:50: [VTC] Player 7 speex
+L 03/14/2015 - 18:12:50: "CaDUCT<209><STEAM_0:0:1167208949><>" joined team "TERRORIST"
+L 03/14/2015 - 18:12:51: World triggered "Round_Start"
+L 03/14/2015 - 18:12:53: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><>" entered the game
+L 03/14/2015 - 18:13:01: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:01: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:13:02: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" attacked "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:02: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" killed "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" with "knife"
+L 03/14/2015 - 18:13:03: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" attacked "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:03: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" killed "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" with "knife"
+L 03/14/2015 - 18:13:05: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><>" joined team "CT"
+L 03/14/2015 - 18:13:06: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:06: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:13:06: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 03/14/2015 - 18:13:06: World triggered "Round_End"
+L 03/14/2015 - 18:13:11: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><CT>" joined team "TERRORIST" (auto)
+L 03/14/2015 - 18:13:13: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" committed suicide with "game_player_hurt" (world)
+L 03/14/2015 - 18:13:13: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" committed suicide with "game_player_hurt" (world)
+L 03/14/2015 - 18:13:16: World triggered "Round_Start"
+L 03/14/2015 - 18:13:24: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "0")
+L 03/14/2015 - 18:13:24: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:13:24: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" triggered "time" (time "0:42")
+L 03/14/2015 - 18:13:24: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" triggered "latency" (ping "18")
+L 03/14/2015 - 18:13:24: "AcT1oN [T]oK<210><STEAM_0:1:101491933><CT>" disconnected
+L 03/14/2015 - 18:13:28: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "20") (armor "0")
+L 03/14/2015 - 18:13:28: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "5") (armor "0")
+L 03/14/2015 - 18:13:28: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "-10") (armor "0")
+L 03/14/2015 - 18:13:28: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" killed "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" with "knife"
+L 03/14/2015 - 18:13:29: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0xb3978cf0
+L 03/14/2015 - 18:13:29: "AcT1oN [T]oK<212><STEAM_0:1:101491933><>" connected, address "37.215.33.203:34371"
+L 03/14/2015 - 18:13:29: [VTC] Player 3 silk
+L 03/14/2015 - 18:13:30: "AcT1oN [T]oK<212><STEAM_0:1:101491933><>" STEAM USERID validated
+L 03/14/2015 - 18:13:31: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:31: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:13:32: "AcT1oN [T]oK<212><STEAM_0:1:101491933><>" entered the game
+L 03/14/2015 - 18:13:33: "AcT1oN [T]oK<212><STEAM_0:1:101491933><>" joined team "CT"
+L 03/14/2015 - 18:13:38: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39879cc
+L 03/14/2015 - 18:13:38: "Russiancfg<213><STEAM_0:4:2143721349><>" connected, address "178.205.209.86:27005"
+L 03/14/2015 - 18:13:38: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:38: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" killed "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" with "knife"
+L 03/14/2015 - 18:13:38: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 03/14/2015 - 18:13:38: World triggered "Round_End"
+L 03/14/2015 - 18:13:38: [VTC] Player 6 speex
+L 03/14/2015 - 18:13:42: [DPROTO]: Client 5 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb39879cc
+L 03/14/2015 - 18:13:42: "Russiancfg<214><STEAM_0:4:2143721349><>" connected, address "178.205.209.86:27005"
+L 03/14/2015 - 18:13:42: [VTC] Player 6 speex
+L 03/14/2015 - 18:13:45: "Russiancfg<214><STEAM_0:4:2143721349><>" entered the game
+L 03/14/2015 - 18:13:47: "Russiancfg<214><STEAM_0:4:2143721349><>" joined team "TERRORIST"
+L 03/14/2015 - 18:13:48: World triggered "Round_Start"
+L 03/14/2015 - 18:13:53: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:53: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:13:59: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:13:59: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" with "knife"
+L 03/14/2015 - 18:14:05: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:14:05: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" with "knife"
+L 03/14/2015 - 18:14:11: "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" attacked "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:14:11: "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" killed "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" with "knife"
+L 03/14/2015 - 18:14:14: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "3")
+L 03/14/2015 - 18:14:14: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:14:14: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" triggered "time" (time "1:31")
+L 03/14/2015 - 18:14:14: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" triggered "latency" (ping "27")
+L 03/14/2015 - 18:14:14: "CaDUCT<209><STEAM_0:0:1167208949><TERRORIST>" disconnected
+L 03/14/2015 - 18:14:16: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:14:16: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" with "knife"
+L 03/14/2015 - 18:14:17: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:14:17: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:14:17: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 03/14/2015 - 18:14:17: World triggered "Round_End"
+L 03/14/2015 - 18:14:18: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" triggered "time" (time "1:24")
+L 03/14/2015 - 18:14:18: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" triggered "latency" (ping "80")
+L 03/14/2015 - 18:14:18: "Pape Pruvet Yeba | c awp<211><STEAM_0:4:1252498254><TERRORIST>" disconnected
+L 03/14/2015 - 18:14:27: World triggered "Round_Start"
+L 03/14/2015 - 18:14:36: "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:14:36: "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:14:39: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:14:39: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:14:39: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 03/14/2015 - 18:14:39: World triggered "Round_End"
+L 03/14/2015 - 18:14:42: "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" committed suicide with "world"
+L 03/14/2015 - 18:14:42: "AcT1oN [T]oK<212><STEAM_0:1:101491933><CT>" joined team "TERRORIST"
+L 03/14/2015 - 18:14:47: Kick: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><>" was kicked by "Console"
+L 03/14/2015 - 18:14:47: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "7") (kills "5") (headshots "0") (tks "0") (damage "305") (deaths "2")
+L 03/14/2015 - 18:14:47: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "2")
+L 03/14/2015 - 18:14:47: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" triggered "time" (time "2:08")
+L 03/14/2015 - 18:14:47: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" triggered "latency" (ping "28")
+L 03/14/2015 - 18:14:47: "IT'S ROMAN, BITCHES!<205><STEAM_0:0:56023079><CT>" disconnected
+L 03/14/2015 - 18:14:49: World triggered "Round_Start"
+L 03/14/2015 - 18:14:51: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0xb3973dfc
+L 03/14/2015 - 18:14:51: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><>" connected, address "178.127.239.40:28791"
+L 03/14/2015 - 18:14:51: [VTC] Player 2 silk
+L 03/14/2015 - 18:14:51: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><>" STEAM USERID validated
+L 03/14/2015 - 18:14:54: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><>" entered the game
+L 03/14/2015 - 18:14:56: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><>" joined team "CT"
+L 03/14/2015 - 18:15:01: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:01: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:15:05: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ef08
+L 03/14/2015 - 18:15:05: "Strikes<216><STEAM_0:4:1702468430><>" connected, address "37.212.175.99:35773"
+L 03/14/2015 - 18:15:05: [VTC] Player 1 speex
+L 03/14/2015 - 18:15:08: "Strikes<216><STEAM_0:4:1702468430><>" entered the game
+L 03/14/2015 - 18:15:11: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:11: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:15:12: "Strikes<216><STEAM_0:4:1702468430><>" joined team "TERRORIST"
+L 03/14/2015 - 18:15:16: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:16: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:15:21: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" attacked "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:21: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" killed "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" with "knife"
+L 03/14/2015 - 18:15:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 03/14/2015 - 18:15:21: World triggered "Round_End"
+L 03/14/2015 - 18:15:31: World triggered "Round_Start"
+L 03/14/2015 - 18:15:36: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:36: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" with "knife"
+L 03/14/2015 - 18:15:41: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:41: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:15:47: [DPROTO]: Client 6 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb398c8c0
+L 03/14/2015 - 18:15:47: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><>" connected, address "194.28.75.209:42084"
+L 03/14/2015 - 18:15:47: [VTC] Player 7 speex
+L 03/14/2015 - 18:15:47: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" attacked "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:15:47: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" killed "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" with "knife"
+L 03/14/2015 - 18:15:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 03/14/2015 - 18:15:47: World triggered "Round_End"
+L 03/14/2015 - 18:15:47: "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 03/14/2015 - 18:15:47: "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:15:47: "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" triggered "time" (time "0:39")
+L 03/14/2015 - 18:15:47: "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" triggered "latency" (ping "41")
+L 03/14/2015 - 18:15:47: "Strikes<216><STEAM_0:4:1702468430><TERRORIST>" disconnected
+L 03/14/2015 - 18:15:50: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><>" entered the game
+L 03/14/2015 - 18:15:52: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><>" joined team "CT"
+L 03/14/2015 - 18:15:57: World triggered "Round_Start"
+L 03/14/2015 - 18:16:02: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:02: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:16:10: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:10: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:16:13: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "42") (hits "3") (kills "3") (headshots "0") (tks "0") (damage "195") (deaths "2")
+L 03/14/2015 - 18:16:13: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:16:13: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" triggered "time" (time "2:41")
+L 03/14/2015 - 18:16:13: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" triggered "latency" (ping "20")
+L 03/14/2015 - 18:16:13: "AcT1oN [T]oK<212><STEAM_0:1:101491933><TERRORIST>" disconnected
+L 03/14/2015 - 18:16:14: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:14: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:16:14: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 03/14/2015 - 18:16:14: World triggered "Round_End"
+L 03/14/2015 - 18:16:24: World triggered "Round_Start"
+L 03/14/2015 - 18:16:36: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" attacked "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:36: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" killed "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" with "knife"
+L 03/14/2015 - 18:16:37: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:37: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:16:42: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 03/14/2015 - 18:16:42: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:16:42: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" triggered "time" (time "0:51")
+L 03/14/2015 - 18:16:42: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" triggered "latency" (ping "46")
+L 03/14/2015 - 18:16:42: "[quattro]*mr.Ricco*A[z]<217><STEAM_0:4:1007419197><CT>" disconnected
+L 03/14/2015 - 18:16:53: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:53: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" with "knife"
+L 03/14/2015 - 18:16:58: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" attacked "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:16:58: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" killed "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" with "knife"
+L 03/14/2015 - 18:16:58: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 03/14/2015 - 18:16:58: World triggered "Round_End"
+L 03/14/2015 - 18:17:07: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" committed suicide with "game_player_hurt" (world)
+L 03/14/2015 - 18:17:08: World triggered "Round_Start"
+L 03/14/2015 - 18:17:13: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" triggered "weaponstats" (weapon "knife") (shots "11") (hits "7") (kills "7") (headshots "0") (tks "0") (damage "455") (deaths "2")
+L 03/14/2015 - 18:17:13: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:17:13: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" triggered "time" (time "2:18")
+L 03/14/2015 - 18:17:13: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" triggered "latency" (ping "30")
+L 03/14/2015 - 18:17:13: "IT'S ROMAN, BITCHES!<215><STEAM_0:0:56023079><CT>" disconnected
+L 03/14/2015 - 18:17:17: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:17:17: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:17:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "3")
+L 03/14/2015 - 18:17:17: World triggered "Round_End"
+L 03/14/2015 - 18:17:24: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" committed suicide with "game_player_hurt" (world)
+L 03/14/2015 - 18:17:27: World triggered "Round_Start"
+L 03/14/2015 - 18:17:42: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" attacked "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/14/2015 - 18:17:42: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" killed "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" with "knife"
+L 03/14/2015 - 18:17:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 03/14/2015 - 18:17:42: World triggered "Round_End"
+L 03/14/2015 - 18:17:46: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "31") (hits "5") (kills "5") (headshots "0") (tks "0") (damage "325") (deaths "7")
+L 03/14/2015 - 18:17:46: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:17:46: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" triggered "time" (time "5:07")
+L 03/14/2015 - 18:17:46: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" triggered "latency" (ping "31")
+L 03/14/2015 - 18:17:46: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "weaponstats" (weapon "knife") (shots "31") (hits "2") (kills "2") (headshots "0") (tks "0") (damage "130") (deaths "6")
+L 03/14/2015 - 18:17:46: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:17:46: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "time" (time "5:05")
+L 03/14/2015 - 18:17:46: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" triggered "latency" (ping "60")
+L 03/14/2015 - 18:17:46: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "17") (hits "5") (kills "5") (headshots "0") (tks "0") (damage "325") (deaths "5")
+L 03/14/2015 - 18:17:46: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/14/2015 - 18:17:46: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "time" (time "4:00")
+L 03/14/2015 - 18:17:46: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" triggered "latency" (ping "45")
+L 03/14/2015 - 18:17:46: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/14/2015 - 18:17:46: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2015 - 18:17:46: [META] ini: Read plugin config for: dproto_EF
+L 03/14/2015 - 18:17:46: [META] ini: Read plugin config for: mmtimer
+L 03/14/2015 - 18:17:46: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/14/2015 - 18:17:46: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 03/14/2015 - 18:17:46: [META] dll: Updating plugins...
+L 03/14/2015 - 18:17:46: [META] WARNING: dll: Plugin 'mmtimer' isn't running; Forcing unload plugin for reloading
+L 03/14/2015 - 18:17:46: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 03/14/2015 - 18:17:46: [META] dll: Finished updating 13 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2015 - 18:17:46: "[Hard_Skill]_Lexa Kosmonaft<185><STEAM_0:0:226379933><TERRORIST>" disconnected
+L 03/14/2015 - 18:17:46: "[One_Skill]$$$$matvei$$$$<203><STEAM_0:4:710941518><CT>" disconnected
+L 03/14/2015 - 18:17:46: "Russiancfg<214><STEAM_0:4:2143721349><TERRORIST>" disconnected
+L 03/14/2015 - 18:17:46: Log file closed

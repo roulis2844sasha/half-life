@@ -1,0 +1,189 @@
+L 03/21/2015 - 07:59:08: Log file started (file "logs/L0321008.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/21/2015 - 07:59:08: Loading map "35_hp_2011"
+L 03/21/2015 - 07:59:08: Server cvars start
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_debug_level" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_examine_time" = "0.5"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_look_angle" = "10"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_look_distance" = "200"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_message_repeats" = "5"
+L 03/21/2015 - 07:59:08: Server cvar "_tutor_view_distance" = "1000"
+L 03/21/2015 - 07:59:08: Server cvar "aesp_version" = "1.5b_mini"
+L 03/21/2015 - 07:59:08: Server cvar "allow_spectators" = "4"
+L 03/21/2015 - 07:59:08: Server cvar "amx_client_languages" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "amx_contactinfo" = "ICQ: 691322983"
+L 03/21/2015 - 07:59:08: Server cvar "amx_language" = "ru"
+L 03/21/2015 - 07:59:08: Server cvar "amx_nextmap" = "35_hp_2011"
+L 03/21/2015 - 07:59:08: Server cvar "amx_timeleft" = "00:00"
+L 03/21/2015 - 07:59:08: Server cvar "amxbans_ssversion" = "Gm 1.6"
+L 03/21/2015 - 07:59:08: Server cvar "amxbans_version" = "Gm 1.6"
+L 03/21/2015 - 07:59:08: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Cheat" = "Loaded"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Config" = "Loaded"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Ignores" = "Loaded"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Replace" = "Failed"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Spam" = "Loaded"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Status" = "Loaded"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Swear" = "Loaded"
+L 03/21/2015 - 07:59:08: Server cvar "Colored Translit Version" = "2.0b Final"
+L 03/21/2015 - 07:59:08: Server cvar "coop" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "deathmatch" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "decalfrequency" = "9"
+L 03/21/2015 - 07:59:08: Server cvar "dp_version" = "0.9.391"
+L 03/21/2015 - 07:59:08: Server cvar "edgefriction" = "2"
+L 03/21/2015 - 07:59:08: Server cvar "hostage_debug" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "hostage_stop" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "humans_join_team" = "any"
+L 03/21/2015 - 07:59:08: Server cvar "jtp10181" = "chute"
+L 03/21/2015 - 07:59:08: Server cvar "max_queries_sec" = "3.0"
+L 03/21/2015 - 07:59:08: Server cvar "max_queries_sec_global" = "30"
+L 03/21/2015 - 07:59:08: Server cvar "max_queries_window" = "60"
+L 03/21/2015 - 07:59:08: Server cvar "metamod_version" = "1.19"
+L 03/21/2015 - 07:59:08: Server cvar "mp_allowmonsters" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_autokick" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_autoteambalance" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_buytime" = "1.5"
+L 03/21/2015 - 07:59:08: Server cvar "mp_c4timer" = "35"
+L 03/21/2015 - 07:59:08: Server cvar "mp_chattime" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_consistency" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_fadetoblack" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_flashlight" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_footsteps" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_forcecamera" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_forcechasecam" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_fragsleft" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_freezetime" = "5"
+L 03/21/2015 - 07:59:08: Server cvar "mp_friendlyfire" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_ghostfrequency" = "0.1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_hostagepenalty" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_kickpercent" = "0.66"
+L 03/21/2015 - 07:59:08: Server cvar "mp_limitteams" = "5"
+L 03/21/2015 - 07:59:08: Server cvar "mp_logdetail" = "3"
+L 03/21/2015 - 07:59:08: Server cvar "mp_logfile" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_logmessages" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_mapvoteratio" = "0.66"
+L 03/21/2015 - 07:59:08: Server cvar "mp_maxrounds" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_mirrordamage" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_playerid" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_roundtime" = "2.57"
+L 03/21/2015 - 07:59:08: Server cvar "mp_startmoney" = "800"
+L 03/21/2015 - 07:59:08: Server cvar "mp_timeleft" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "mp_timelimit" = "30.000000"
+L 03/21/2015 - 07:59:08: Server cvar "mp_tkpunish" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_windifference" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "mp_winlimit" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "pausable" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_accelerate" = "5"
+L 03/21/2015 - 07:59:08: Server cvar "sv_aim" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_airaccelerate" = "10"
+L 03/21/2015 - 07:59:08: Server cvar "sv_airmove" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "sv_allowupload" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "sv_alltalk" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_bounce" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "sv_cheats" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_clienttrace" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "sv_clipmode" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_contact" = ""
+L 03/21/2015 - 07:59:08: Server cvar "sv_friction" = "4"
+L 03/21/2015 - 07:59:08: Server cvar "sv_gravity" = "800"
+L 03/21/2015 - 07:59:08: Server cvar "sv_logblocks" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_maxrate" = "50000"
+L 03/21/2015 - 07:59:08: Server cvar "sv_maxspeed" = "900"
+L 03/21/2015 - 07:59:08: Server cvar "sv_minrate" = "100000"
+L 03/21/2015 - 07:59:08: Server cvar "sv_password" = ""
+L 03/21/2015 - 07:59:08: Server cvar "sv_proxies" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_region" = "255"
+L 03/21/2015 - 07:59:08: Server cvar "sv_restart" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_restartround" = "0"
+L 03/21/2015 - 07:59:08: Server cvar "sv_stepsize" = "18"
+L 03/21/2015 - 07:59:08: Server cvar "sv_stopspeed" = "75"
+L 03/21/2015 - 07:59:08: Server cvar "sv_uploadmax" = "0.5"
+L 03/21/2015 - 07:59:08: Server cvar "sv_voiceenable" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "sv_wateraccelerate" = "10"
+L 03/21/2015 - 07:59:08: Server cvar "sv_waterfriction" = "1"
+L 03/21/2015 - 07:59:08: Server cvar "vtc_version" = "80"
+L 03/21/2015 - 07:59:08: Server cvars end
+L 03/21/2015 - 07:59:09: Server cvar "amx_nextmap" = "fy_pool_day"
+L 03/21/2015 - 07:59:09: Server cvar "sv_restart" = "1"
+L 03/21/2015 - 07:59:09: World triggered "Restart_Round_(1_second)"
+L 03/21/2015 - 07:59:09: Team "CT" scored "0" with "0" players
+L 03/21/2015 - 07:59:09: Team "TERRORIST" scored "0" with "0" players
+L 03/21/2015 - 07:59:09: Server cvar "sv_restart" = "0"
+L 03/21/2015 - 07:59:09: Started map "35_hp_2011" (CRC "1681787481")
+L 03/21/2015 - 07:59:09: [VTC] Player 1 speex
+L 03/21/2015 - 07:59:09: [VTC] Player 2 speex
+L 03/21/2015 - 07:59:12: "nExT --><2><STEAM_0:4:455036165><>" entered the game
+L 03/21/2015 - 07:59:14: World triggered "Round_Start"
+L 03/21/2015 - 07:59:15: "nExT --><2><STEAM_0:4:455036165><>" joined team "CT"
+L 03/21/2015 - 07:59:35: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 07:59:35: "PUSHKIN<6><STEAM_0:4:1536184708><>" connected, address "176.65.124.30:58758"
+L 03/21/2015 - 07:59:35: [VTC] Player 2 speex
+L 03/21/2015 - 08:02:42: "nExT --><2><STEAM_0:4:455036165><CT>" committed suicide with "worldspawn" (world)
+L 03/21/2015 - 08:02:42: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/21/2015 - 08:02:42: World triggered "Round_End"
+L 03/21/2015 - 08:02:52: World triggered "Round_Start"
+L 03/21/2015 - 08:04:51: [DPROTO]: Client 1 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3992dfc
+L 03/21/2015 - 08:04:51: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><>" connected, address "37.213.162.251:27005"
+L 03/21/2015 - 08:04:51: [VTC] Player 2 speex
+L 03/21/2015 - 08:04:57: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><>" entered the game
+L 03/21/2015 - 08:05:04: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><>" joined team "TERRORIST"
+L 03/21/2015 - 08:05:04: World triggered "Game_Commencing"
+L 03/21/2015 - 08:05:04: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/21/2015 - 08:05:04: World triggered "Round_End"
+L 03/21/2015 - 08:05:12: World triggered "Round_Start"
+L 03/21/2015 - 08:05:18: [DPROTO]: Client 2 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb3997cf0
+L 03/21/2015 - 08:05:18: "PUSHKIN<8><STEAM_0:4:1536184708><>" connected, address "176.65.124.30:1055"
+L 03/21/2015 - 08:05:18: [VTC] Player 3 speex
+L 03/21/2015 - 08:05:30: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" attacked "nExT --><2><STEAM_0:4:455036165><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 08:05:30: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" killed "nExT --><2><STEAM_0:4:455036165><CT>" with "knife"
+L 03/21/2015 - 08:05:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/21/2015 - 08:05:30: World triggered "Round_End"
+L 03/21/2015 - 08:05:40: World triggered "Round_Start"
+L 03/21/2015 - 08:05:55: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" attacked "nExT --><2><STEAM_0:4:455036165><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 08:05:55: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" killed "nExT --><2><STEAM_0:4:455036165><CT>" with "knife"
+L 03/21/2015 - 08:05:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/21/2015 - 08:05:55: World triggered "Round_End"
+L 03/21/2015 - 08:06:01: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" say "cjcb gbc.y"
+L 03/21/2015 - 08:06:05: World triggered "Round_Start"
+L 03/21/2015 - 08:06:08: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" say "gb*mrf cjcb"
+L 03/21/2015 - 08:06:14: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" say "gbcm*f cj*cb"
+L 03/21/2015 - 08:06:14: "nExT --><2><STEAM_0:4:455036165><CT>" attacked "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 08:06:14: "nExT --><2><STEAM_0:4:455036165><CT>" killed "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" with "knife"
+L 03/21/2015 - 08:06:14: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 03/21/2015 - 08:06:14: World triggered "Round_End"
+L 03/21/2015 - 08:06:24: World triggered "Round_Start"
+L 03/21/2015 - 08:06:34: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" attacked "nExT --><2><STEAM_0:4:455036165><CT>" with "knife" (damage "260") (damage_armor "0") (health "-225") (armor "0")
+L 03/21/2015 - 08:06:34: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" killed "nExT --><2><STEAM_0:4:455036165><CT>" with "knife"
+L 03/21/2015 - 08:06:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 03/21/2015 - 08:06:34: World triggered "Round_End"
+L 03/21/2015 - 08:06:44: World triggered "Round_Start"
+L 03/21/2015 - 08:06:54: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" attacked "nExT --><2><STEAM_0:4:455036165><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 03/21/2015 - 08:06:54: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" killed "nExT --><2><STEAM_0:4:455036165><CT>" with "knife"
+L 03/21/2015 - 08:06:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 03/21/2015 - 08:06:54: World triggered "Round_End"
+L 03/21/2015 - 08:07:00: Kick: "nExT --><2><STEAM_0:4:455036165><>" was kicked by "Console"
+L 03/21/2015 - 08:07:00: "nExT --><2><STEAM_0:4:455036165><CT>" triggered "weaponstats" (weapon "knife") (shots "26") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "4")
+L 03/21/2015 - 08:07:00: "nExT --><2><STEAM_0:4:455036165><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 08:07:00: "nExT --><2><STEAM_0:4:455036165><CT>" triggered "time" (time "7:48")
+L 03/21/2015 - 08:07:00: "nExT --><2><STEAM_0:4:455036165><CT>" triggered "latency" (ping "45")
+L 03/21/2015 - 08:07:00: "nExT --><2><STEAM_0:4:455036165><CT>" disconnected
+L 03/21/2015 - 08:07:04: World triggered "Round_Start"
+L 03/21/2015 - 08:07:25: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "16") (hits "4") (kills "4") (headshots "2") (tks "0") (damage "650") (deaths "1")
+L 03/21/2015 - 08:07:25: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 03/21/2015 - 08:07:25: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" triggered "time" (time "2:27")
+L 03/21/2015 - 08:07:25: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" triggered "latency" (ping "40")
+L 03/21/2015 - 08:07:25: "[Hard_Skill]_Mi{x}eR<7><STEAM_0:4:696196046><TERRORIST>" disconnected
+L 03/21/2015 - 08:07:25: World triggered "Round_Draw" (CT "1") (T "4")
+L 03/21/2015 - 08:07:25: World triggered "Round_End"
+L 03/21/2015 - 08:07:35: World triggered "Round_Start"
+L 03/21/2015 - 08:09:18: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/21/2015 - 08:09:18: [META] ini: Read plugin config for: AMX Mod X
+L 03/21/2015 - 08:09:18: [META] ini: Read plugin config for: dproto_EF
+L 03/21/2015 - 08:09:18: [META] ini: Read plugin config for: VoiceTranscoder
+L 03/21/2015 - 08:09:18: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/21/2015 - 08:09:18: [META] dll: Updating plugins...
+L 03/21/2015 - 08:09:18: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/21/2015 - 08:09:18: Log file closed

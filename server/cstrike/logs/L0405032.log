@@ -1,0 +1,70 @@
+L 04/05/2015 - 09:07:47: Log file started (file "logs/L0405032.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 04/05/2015 - 09:07:47: Server cvar "mp_logdetail" = "3"
+L 04/05/2015 - 09:07:47: Server cvar "mp_timelimit" = "30"
+L 04/05/2015 - 09:07:47: Server cvar "mp_c4timer" = "35"
+L 04/05/2015 - 09:07:47: Server cvar "mp_flashlight" = "1"
+L 04/05/2015 - 09:07:47: Server cvar "mp_freezetime" = "5"
+L 04/05/2015 - 09:07:47: Server cvar "mp_hostagepenalty" = "0"
+L 04/05/2015 - 09:07:47: Server cvar "mp_limitteams" = "5"
+L 04/05/2015 - 09:07:47: Server cvar "mp_roundtime" = "2.57"
+L 04/05/2015 - 09:07:47: Server cvar "mp_tkpunish" = "1"
+L 04/05/2015 - 09:07:47: Server cvar "sv_restartround" = "1"
+L 04/05/2015 - 09:07:47: Server cvar "sv_maxspeed" = "320"
+L 04/05/2015 - 09:07:47: Server cvar "sv_proxies" = "0"
+L 04/05/2015 - 09:07:47: Server cvar "allow_spectators" = "4"
+L 04/05/2015 - 09:07:47: Server cvar "mp_chattime" = "0"
+L 04/05/2015 - 09:07:47: Server cvar "decalfrequency" = "9"
+L 04/05/2015 - 09:07:47: Server cvar "sv_aim" = "0"
+L 04/05/2015 - 09:07:47: Server cvar "sv_minrate" = "100000"
+L 04/05/2015 - 09:07:47: Server cvar "sv_maxrate" = "25000"
+L 04/05/2015 - 09:07:47: Server cvar "sv_region" = "3"
+L 04/05/2015 - 09:07:48: World triggered "Restart_Round_(1_second)"
+L 04/05/2015 - 09:07:48: Team "CT" scored "0" with "0" players
+L 04/05/2015 - 09:07:48: Team "TERRORIST" scored "0" with "0" players
+L 04/05/2015 - 09:07:48: Server cvar "sv_restartround" = "0"
+L 04/05/2015 - 09:07:54: World triggered "Round_Start"
+L 04/05/2015 - 09:10:28: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 04/05/2015 - 09:10:28: World triggered "Round_End"
+L 04/05/2015 - 09:10:38: World triggered "Round_Start"
+L 04/05/2015 - 09:12:32: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ff08
+L 04/05/2015 - 09:12:32: "VFHN<1><STEAM_0:4:971492613><>" connected, address "178.120.147.218:41789"
+L 04/05/2015 - 09:12:33: [VTC] Player 1 speex
+L 04/05/2015 - 09:12:37: [DPROTO]: Client 0 - Set AuthIdType 3 [dp_RevEmu]; pClient = 0xb396ff08
+L 04/05/2015 - 09:12:37: "VFHN<2><STEAM_0:4:971492613><>" connected, address "178.120.147.218:41789"
+L 04/05/2015 - 09:12:37: [VTC] Player 1 speex
+L 04/05/2015 - 09:12:44: "VFHN<2><STEAM_0:4:971492613><>" entered the game
+L 04/05/2015 - 09:12:50: "VFHN<2><STEAM_0:4:971492613><>" joined team "TERRORIST"
+L 04/05/2015 - 09:12:51: "VFHN<2><STEAM_0:4:971492613><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/05/2015 - 09:13:03: "VFHN<2><STEAM_0:4:971492613><TERRORIST>" triggered "time" (time "0:18")
+L 04/05/2015 - 09:13:03: "VFHN<2><STEAM_0:4:971492613><TERRORIST>" triggered "latency" (ping "0")
+L 04/05/2015 - 09:13:03: "VFHN<2><STEAM_0:4:971492613><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/05/2015 - 09:13:03: "VFHN<2><STEAM_0:4:971492613><TERRORIST>" disconnected
+L 04/05/2015 - 09:13:03: World triggered "Round_Draw" (CT "1") (T "0")
+L 04/05/2015 - 09:13:03: World triggered "Round_End"
+L 04/05/2015 - 09:13:13: World triggered "Round_Start"
+L 04/05/2015 - 09:15:16: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0xb396ff08
+L 04/05/2015 - 09:15:16: "unamed<3><STEAM_0:0:391403><>" connected, address "188.163.95.162:41525"
+L 04/05/2015 - 09:15:16: [VTC] Player 1 silk
+L 04/05/2015 - 09:15:16: "unamed<3><STEAM_0:0:391403><>" STEAM USERID validated
+L 04/05/2015 - 09:15:32: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0xb396ff08
+L 04/05/2015 - 09:15:32: "unamed<4><STEAM_0:0:391403><>" connected, address "188.163.95.162:41525"
+L 04/05/2015 - 09:15:32: [VTC] Player 1 silk
+L 04/05/2015 - 09:15:32: "unamed<4><STEAM_0:0:391403><>" STEAM USERID validated
+L 04/05/2015 - 09:15:37: "unamed<4><STEAM_0:0:391403><>" entered the game
+L 04/05/2015 - 09:15:47: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 04/05/2015 - 09:15:47: World triggered "Round_End"
+L 04/05/2015 - 09:15:57: World triggered "Round_Start"
+L 04/05/2015 - 09:16:06: "unamed<4><STEAM_0:0:391403><UNASSIGNED>" triggered "time" (time "0:28")
+L 04/05/2015 - 09:16:06: "unamed<4><STEAM_0:0:391403><UNASSIGNED>" triggered "latency" (ping "96")
+L 04/05/2015 - 09:16:06: "unamed<4><STEAM_0:0:391403><>" disconnected
+L 04/05/2015 - 09:16:06: World triggered "Round_Draw" (CT "2") (T "0")
+L 04/05/2015 - 09:16:06: World triggered "Round_End"
+L 04/05/2015 - 09:16:16: World triggered "Round_Start"
+L 04/05/2015 - 09:17:57: [META] ini: Begin re-reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini
+L 04/05/2015 - 09:17:57: [META] ini: Read plugin config for: AMX Mod X
+L 04/05/2015 - 09:17:57: [META] ini: Read plugin config for: dproto_EF
+L 04/05/2015 - 09:17:57: [META] ini: Read plugin config for: VoiceTranscoder
+L 04/05/2015 - 09:17:57: [META] ini: Finished reading plugins list: /home/extazy/public/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 04/05/2015 - 09:17:57: [META] dll: Updating plugins...
+L 04/05/2015 - 09:17:57: [META] dll: Finished updating 12 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/05/2015 - 09:17:57: Log file closed

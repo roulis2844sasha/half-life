@@ -1,0 +1,22 @@
+L 03/15/2015 - 11:37:04: Log file started (file "logs/L0315006.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 03/15/2015 - 11:37:04: Server cvar "sv_restartround" = "1"
+L 03/15/2015 - 11:37:04: Server cvar "sv_maxspeed" = "320"
+L 03/15/2015 - 11:37:04: World triggered "Restart_Round_(1_second)"
+L 03/15/2015 - 11:37:04: Team "CT" scored "0" with "0" players
+L 03/15/2015 - 11:37:04: Team "TERRORIST" scored "0" with "0" players
+L 03/15/2015 - 11:37:04: Server cvar "sv_restartround" = "0"
+L 03/15/2015 - 11:37:07: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><>" entered the game
+L 03/15/2015 - 11:37:08: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><>" joined team "CT"
+L 03/15/2015 - 11:37:10: World triggered "Round_Start"
+L 03/15/2015 - 11:37:37: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" triggered "time" (time "0:30")
+L 03/15/2015 - 11:37:37: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" triggered "latency" (ping "7")
+L 03/15/2015 - 11:37:37: [META] ini: Begin re-reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini
+L 03/15/2015 - 11:37:37: [META] ini: Read plugin config for: AMX Mod X
+L 03/15/2015 - 11:37:37: [META] ini: Read plugin config for: dproto_EF
+L 03/15/2015 - 11:37:37: [META] ini: Finished reading plugins list: /home/extazy/Public/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 03/15/2015 - 11:37:37: [META] dll: Updating plugins...
+L 03/15/2015 - 11:37:37: [META] dll: Finished updating 10 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/15/2015 - 11:37:37: "[Hard_Skill]_Extazy<2><STEAM_0:4:397277401><CT>" disconnected
+L 03/15/2015 - 11:37:37: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/15/2015 - 11:37:37: World triggered "Round_End"
+L 03/15/2015 - 11:37:37: Log file closed

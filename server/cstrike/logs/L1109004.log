@@ -1,0 +1,20 @@
+L 11/09/2014 - 10:44:54: Log file started (file "logs/L1109004.log") (game "cstrike") (version "48/1.1.2.7/Stdio/5787")
+L 11/09/2014 - 10:44:54: Ban: "<><PENDING><>" was banned "permanently" by "Console"
+L 11/09/2014 - 10:44:54: Server cvar "sv_maxspeed" = "320"
+L 11/09/2014 - 10:44:54: [VTC] Player 1 speex
+L 11/09/2014 - 10:44:56: "[MON-CS] Player<1><STEAM_0:0:358876961><>" entered the game
+L 11/09/2014 - 10:44:57: World triggered "Round_Start"
+L 11/09/2014 - 10:45:02: "[MON-CS] Player<1><STEAM_0:0:358876961><>" joined team "TERRORIST"
+L 11/09/2014 - 10:45:03: "[MON-CS] Player<1><STEAM_0:0:358876961><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/09/2014 - 10:45:48: [META] ini: Begin re-reading plugins list: /home/gs76/cstrike/addons/metamod/plugins.ini
+L 11/09/2014 - 10:45:48: [META] ini: Read plugin config for: AMX Mod X
+L 11/09/2014 - 10:45:48: [META] ini: Read plugin config for: dproto_EF
+L 11/09/2014 - 10:45:48: [META] ini: Read plugin config for: VoiceTranscoder
+L 11/09/2014 - 10:45:48: [META] ini: Finished reading plugins list: /home/gs76/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 11/09/2014 - 10:45:48: [META] dll: Updating plugins...
+L 11/09/2014 - 10:45:48: [META] dll: Finished updating 9 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/09/2014 - 10:45:48: "[MON-CS] Player<1><STEAM_0:0:358876961><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/09/2014 - 10:45:48: "[MON-CS] Player<1><STEAM_0:0:358876961><TERRORIST>" disconnected
+L 11/09/2014 - 10:45:48: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/09/2014 - 10:45:48: World triggered "Round_End"
+L 11/09/2014 - 10:45:48: Log file closed

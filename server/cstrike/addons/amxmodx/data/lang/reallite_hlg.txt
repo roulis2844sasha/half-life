@@ -1,0 +1,33 @@
+[ru]
+RHLG_ADVERT = Сервер защищен
+RHLG_DETECTED = Обнаружено
+RHLG_VIOLATION_BY = Нарушение от
+RHLG_VIOLATION = Нарушение
+RHLG_PUNISHMENT = Наказания
+RHLG_KICK = Кикнуть
+RHLG_BAN = Бан
+RHLG_BLOCKED_KEY = Использует заблокированные клавиши
+RHLG_TOTAL_WARNINGS = Всего предупреждений
+RHLG_CVAR_VIOLATION = Нарушение настроек!
+RHLG_SERVER = Сервер
+RHLG_NAME = Имя
+RHLG_TIME = Время
+RHLG_CONTACT = Контакт с администратором
+RHLG_RELOAD = Ваш клиент будет перегружен через несколько секунд
+
+[en]
+RHLG_ADVERT = This server protected by
+RHLG_DETECTED = Detected
+RHLG_VIOLATION_BY = Violation by
+RHLG_VIOLATION = Violation
+RHLG_PUNISHMENT = Punishment
+RHLG_KICK = Kick
+RHLG_BAN = Ban
+RHLG_BLOCKED_KEY = Used the blocked key
+RHLG_TOTAL_WARNINGS = Total warnings
+RHLG_CVAR_VIOLATION = Cvar violation
+RHLG_SERVER = Server
+RHLG_NAME = Name
+RHLG_TIME = Time
+RHLG_CONTACT = Contact the administrator
+RHLG_RELOAD = Your client will be reloaded in some seconds

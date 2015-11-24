@@ -1,0 +1,58 @@
+L 11/24/2015 - 20:42:29: Log file started (file "logs/L1124011.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 11/24/2015 - 20:42:29: Server cvar "mp_logdetail" = "3"
+L 11/24/2015 - 20:42:29: Server cvar "mp_timelimit" = "30"
+L 11/24/2015 - 20:42:29: Server cvar "mp_c4timer" = "35"
+L 11/24/2015 - 20:42:29: Server cvar "mp_flashlight" = "1"
+L 11/24/2015 - 20:42:29: Server cvar "mp_freezetime" = "5"
+L 11/24/2015 - 20:42:29: Server cvar "mp_hostagepenalty" = "0"
+L 11/24/2015 - 20:42:29: Server cvar "mp_limitteams" = "5"
+L 11/24/2015 - 20:42:29: Server cvar "mp_roundtime" = "2.57"
+L 11/24/2015 - 20:42:29: Server cvar "mp_tkpunish" = "1"
+L 11/24/2015 - 20:42:29: Server cvar "sv_restartround" = "1"
+L 11/24/2015 - 20:42:29: Server cvar "sv_maxspeed" = "320"
+L 11/24/2015 - 20:42:29: Server cvar "sv_proxies" = "0"
+L 11/24/2015 - 20:42:29: Server cvar "allow_spectators" = "4"
+L 11/24/2015 - 20:42:29: Server cvar "mp_chattime" = "0"
+L 11/24/2015 - 20:42:29: Server cvar "decalfrequency" = "9"
+L 11/24/2015 - 20:42:29: Server cvar "sv_aim" = "0"
+L 11/24/2015 - 20:42:29: Server cvar "sv_minrate" = "100000"
+L 11/24/2015 - 20:42:29: Server cvar "sv_maxrate" = "25000"
+L 11/24/2015 - 20:42:29: Server cvar "sv_region" = "3"
+L 11/24/2015 - 20:42:29: World triggered "Restart_Round_(1_second)"
+L 11/24/2015 - 20:42:29: Team "CT" scored "0" with "0" players
+L 11/24/2015 - 20:42:29: Team "TERRORIST" scored "0" with "0" players
+L 11/24/2015 - 20:42:29: Server cvar "sv_restartround" = "0"
+L 11/24/2015 - 20:42:33: "[POD]Jim_Carrey (100)<1><BOT><>" entered the game
+L 11/24/2015 - 20:42:33: "[POD]Jim_Carrey (100)<1><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:42:34: "[P0D]Neuromancer (100)<2><BOT><>" entered the game
+L 11/24/2015 - 20:42:34: "[P0D]Neuromancer (100)<2><BOT><>" joined team "CT"
+L 11/24/2015 - 20:42:34: "[P0D]Neuromancer (100)<2><BOT><CT>" triggered "Became_VIP"
+L 11/24/2015 - 20:42:34: World triggered "Game_Commencing"
+L 11/24/2015 - 20:42:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2015 - 20:42:34: World triggered "Round_End"
+L 11/24/2015 - 20:42:34: "[P0D]Mickey_Rourke (100)<3><BOT><>" entered the game
+L 11/24/2015 - 20:42:34: "[P0D]Mickey_Rourke (100)<3><BOT><>" joined team "CT"
+L 11/24/2015 - 20:42:35: "[P*D]Ping of Death (100)<4><BOT><>" entered the game
+L 11/24/2015 - 20:42:35: "[P*D]Ping of Death (100)<4><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:42:35: [DPROTO]: Client 4 - Set AuthIdType 10 [dproto]; pClient = 0xf38f6ad8
+L 11/24/2015 - 20:42:35: "DOG_RouL!$<5><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/24/2015 - 20:42:35: [VTC] Player 5 silk
+L 11/24/2015 - 20:42:35: "[P0D]U're Dead (100)<6><BOT><>" entered the game
+L 11/24/2015 - 20:42:35: "[P0D]U're Dead (100)<6><BOT><>" joined team "CT"
+L 11/24/2015 - 20:42:36: "[POD]George_Clooney (100)<7><BOT><>" entered the game
+L 11/24/2015 - 20:42:36: "[POD]George_Clooney (100)<7><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:42:36: "[P0D]Andrew_Dice_Clay (100)<8><BOT><>" entered the game
+L 11/24/2015 - 20:42:36: "[P0D]Andrew_Dice_Clay (100)<8><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:42:37: [DPROTO]: Client 4 - Set AuthIdType 10 [dproto]; pClient = 0xf38f6ad8
+L 11/24/2015 - 20:42:37: "DOG_RouL!$<9><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/24/2015 - 20:42:37: [VTC] Player 5 silk
+L 11/24/2015 - 20:42:41: Kick: "[POD]Jim_Carrey (100)<1><BOT><>" was kicked by "Console"
+L 11/24/2015 - 20:42:41: "[POD]Jim_Carrey (100)<1><BOT><TERRORIST>" disconnected
+L 11/24/2015 - 20:42:41: "DOG_RouL!$<9><VALVE_ID_LAN><>" entered the game
+L 11/24/2015 - 20:42:42: World triggered "Round_Start"
+L 11/24/2015 - 20:42:45: "DOG_RouL!$<9><VALVE_ID_LAN><>" joined team "CT"
+L 11/24/2015 - 20:42:47: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" triggered "time" (time "0:05")
+L 11/24/2015 - 20:42:47: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" triggered "latency" (ping "0")
+L 11/24/2015 - 20:42:47: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" disconnected
+L 11/24/2015 - 20:42:47: "[POD]Bruce_Lee (100)<10><BOT><>" entered the game
+L 11/24/2015 - 20:42:47: "[POD]Br

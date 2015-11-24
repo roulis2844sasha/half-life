@@ -1,0 +1,200 @@
+L 11/24/2015 - 20:35:13: Log file started (file "logs/L1124004.log") (game "cstrike") (version "48/1.6.3.7/Stdio/5787")
+L 11/24/2015 - 20:35:13: Server cvar "mp_logdetail" = "3"
+L 11/24/2015 - 20:35:13: Server cvar "mp_timelimit" = "30"
+L 11/24/2015 - 20:35:13: Server cvar "mp_c4timer" = "35"
+L 11/24/2015 - 20:35:13: Server cvar "mp_flashlight" = "1"
+L 11/24/2015 - 20:35:13: Server cvar "mp_freezetime" = "5"
+L 11/24/2015 - 20:35:13: Server cvar "mp_hostagepenalty" = "0"
+L 11/24/2015 - 20:35:13: Server cvar "mp_limitteams" = "5"
+L 11/24/2015 - 20:35:13: Server cvar "mp_roundtime" = "2.57"
+L 11/24/2015 - 20:35:13: Server cvar "mp_tkpunish" = "1"
+L 11/24/2015 - 20:35:13: Server cvar "sv_restartround" = "1"
+L 11/24/2015 - 20:35:13: Server cvar "sv_maxspeed" = "320"
+L 11/24/2015 - 20:35:13: Server cvar "sv_proxies" = "0"
+L 11/24/2015 - 20:35:13: Server cvar "allow_spectators" = "4"
+L 11/24/2015 - 20:35:13: Server cvar "mp_chattime" = "0"
+L 11/24/2015 - 20:35:13: Server cvar "decalfrequency" = "9"
+L 11/24/2015 - 20:35:13: Server cvar "sv_aim" = "0"
+L 11/24/2015 - 20:35:13: Server cvar "sv_minrate" = "100000"
+L 11/24/2015 - 20:35:13: Server cvar "sv_maxrate" = "25000"
+L 11/24/2015 - 20:35:13: Server cvar "sv_region" = "3"
+L 11/24/2015 - 20:35:14: World triggered "Restart_Round_(1_second)"
+L 11/24/2015 - 20:35:14: Team "CT" scored "0" with "0" players
+L 11/24/2015 - 20:35:14: Team "TERRORIST" scored "0" with "0" players
+L 11/24/2015 - 20:35:14: Server cvar "sv_restartround" = "0"
+L 11/24/2015 - 20:35:18: "[P0D]Bruce_Willis (100)<1><BOT><>" entered the game
+L 11/24/2015 - 20:35:18: "[P0D]Bruce_Willis (100)<1><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:35:18: "[P0D]Bruce_Willis (100)<1><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2015 - 20:35:18: "[P*D]Keanau_Reeves (100)<2><BOT><>" entered the game
+L 11/24/2015 - 20:35:18: "[P*D]Keanau_Reeves (100)<2><BOT><>" joined team "CT"
+L 11/24/2015 - 20:35:18: World triggered "Game_Commencing"
+L 11/24/2015 - 20:35:18: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2015 - 20:35:18: World triggered "Round_End"
+L 11/24/2015 - 20:35:19: "[P*D]Joe_Pesci (100)<3><BOT><>" entered the game
+L 11/24/2015 - 20:35:19: "[P*D]Joe_Pesci (100)<3><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:35:19: "[POD]V0id (100)<4><BOT><>" entered the game
+L 11/24/2015 - 20:35:19: "[POD]V0id (100)<4><BOT><>" joined team "CT"
+L 11/24/2015 - 20:35:20: "[P0D]Kugelfang (100)<5><BOT><>" entered the game
+L 11/24/2015 - 20:35:20: "[P0D]Kugelfang (100)<5><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:35:20: "[POD]Ping of Death (100)<6><BOT><>" entered the game
+L 11/24/2015 - 20:35:20: "[POD]Ping of Death (100)<6><BOT><>" joined team "CT"
+L 11/24/2015 - 20:35:21: "[P*D]Android (100)<7><BOT><>" entered the game
+L 11/24/2015 - 20:35:21: "[P*D]Android (100)<7><BOT><>" joined team "CT"
+L 11/24/2015 - 20:35:21: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2015 - 20:35:22: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf39437b4
+L 11/24/2015 - 20:35:22: "DOG_RouL!$<8><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/24/2015 - 20:35:22: [VTC] Player 8 silk
+L 11/24/2015 - 20:35:24: [DPROTO]: Client 7 - Set AuthIdType 10 [dproto]; pClient = 0xf39437b4
+L 11/24/2015 - 20:35:24: "DOG_RouL!$<9><VALVE_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/24/2015 - 20:35:24: [VTC] Player 8 silk
+L 11/24/2015 - 20:35:26: World triggered "Round_Start"
+L 11/24/2015 - 20:35:27: Kick: "[P0D]Bruce_Willis (100)<1><BOT><>" was kicked by "Console"
+L 11/24/2015 - 20:35:27: "[P0D]Bruce_Willis (100)<1><BOT><TERRORIST>" disconnected
+L 11/24/2015 - 20:35:27: "DOG_RouL!$<9><VALVE_ID_LAN><>" entered the game
+L 11/24/2015 - 20:35:43: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "deagle" (damage "44") (damage_armor "0") (health "56") (armor "0")
+L 11/24/2015 - 20:35:43: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "deagle" (damage "34") (damage_armor "0") (health "22") (armor "0")
+L 11/24/2015 - 20:35:44: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "deagle" (damage "48") (damage_armor "0") (health "-26") (armor "0")
+L 11/24/2015 - 20:35:44: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" killed "[P*D]Android (100)<7><BOT><CT>" with "deagle"
+L 11/24/2015 - 20:35:45: "DOG_RouL!$<9><VALVE_ID_LAN><>" joined team "CT"
+L 11/24/2015 - 20:35:45: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "deagle" (damage "25") (damage_armor "0") (health "75") (armor "0")
+L 11/24/2015 - 20:35:45: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Keanau_Reeves (100)<2><BOT><CT>" with "deagle" (damage "48") (damage_armor "0") (health "52") (armor "0")
+L 11/24/2015 - 20:35:45: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Keanau_Reeves (100)<2><BOT><CT>" with "deagle" (damage "39") (damage_armor "0") (health "13") (armor "0")
+L 11/24/2015 - 20:35:45: "[P*D]Android (100)<7><BOT><CT>" say "Joe_Pesci gimme a smoke please" (dead)
+L 11/24/2015 - 20:35:47: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "usp" (damage "104") (damage_armor "0") (health "-4") (armor "0")
+L 11/24/2015 - 20:35:47: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" killed "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "usp"
+L 11/24/2015 - 20:35:47: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2015 - 20:35:54: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" say "I smoke a lot when i have to wait, why do famous actors have to wait?" (dead)
+L 11/24/2015 - 20:35:55: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" say "Android !" (dead)
+L 11/24/2015 - 20:35:59: "[P*D]Android (100)<7><BOT><CT>" say "Bla bla bla..." (dead)
+L 11/24/2015 - 20:36:01: "[POD]V0id (100)<4><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "p228" (damage "28") (damage_armor "0") (health "47") (armor "0")
+L 11/24/2015 - 20:36:01: "[POD]V0id (100)<4><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "p228" (damage "29") (damage_armor "0") (health "18") (armor "0")
+L 11/24/2015 - 20:36:01: "[POD]V0id (100)<4><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "p228" (damage "29") (damage_armor "0") (health "-11") (armor "0")
+L 11/24/2015 - 20:36:01: "[POD]V0id (100)<4><BOT><CT>" killed "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "p228"
+L 11/24/2015 - 20:36:01: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2015 - 20:36:01: World triggered "Round_End"
+L 11/24/2015 - 20:36:05: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" say "OK, uhuh LOL" (dead)
+L 11/24/2015 - 20:36:05: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" say " and  are still alive! Something must be very wrong..." (dead)
+L 11/24/2015 - 20:36:06: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" triggered "time" (time "0:38")
+L 11/24/2015 - 20:36:06: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" triggered "latency" (ping "14")
+L 11/24/2015 - 20:36:06: "DOG_RouL!$<9><VALVE_ID_LAN><CT>" disconnected
+L 11/24/2015 - 20:36:06: "[POD]Botsie Collins (97)<10><BOT><>" entered the game
+L 11/24/2015 - 20:36:06: "[POD]Botsie Collins (97)<10><BOT><>" joined team "TERRORIST"
+L 11/24/2015 - 20:36:06: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2015 - 20:36:11: World triggered "Round_Start"
+L 11/24/2015 - 20:36:25: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "mac10" (damage "18") (damage_armor "0") (health "82") (armor "0")
+L 11/24/2015 - 20:36:25: "[P*D]Android (100)<7><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "0")
+L 11/24/2015 - 20:36:26: "[P*D]Android (100)<7><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "63") (armor "0")
+L 11/24/2015 - 20:36:26: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "mac10" (damage "24") (damage_armor "0") (health "58") (armor "0")
+L 11/24/2015 - 20:36:26: "[P*D]Android (100)<7><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "32") (armor "0")
+L 11/24/2015 - 20:36:26: "[P*D]Android (100)<7><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "1") (armor "0")
+L 11/24/2015 - 20:36:26: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1" (damage "18") (damage_armor "0") (health "-17") (armor "0")
+L 11/24/2015 - 20:36:26: "[POD]Ping of Death (100)<6><BOT><CT>" killed "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1"
+L 11/24/2015 - 20:36:27: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "How much money does the winner get? hehe" (dead)
+L 11/24/2015 - 20:36:29: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "mac10" (damage "33") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2015 - 20:36:29: "[P*D]Android (100)<7><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 11/24/2015 - 20:36:29: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "mac10" (damage "33") (damage_armor "0") (health "-8") (armor "0")
+L 11/24/2015 - 20:36:29: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" killed "[P*D]Android (100)<7><BOT><CT>" with "mac10"
+L 11/24/2015 - 20:36:31: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m4a1" (damage "38") (damage_armor "0") (health "31") (armor "0")
+L 11/24/2015 - 20:36:31: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "8") (armor "0")
+L 11/24/2015 - 20:36:31: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "-16") (armor "0")
+L 11/24/2015 - 20:36:31: "[POD]Ping of Death (100)<6><BOT><CT>" killed "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m4a1"
+L 11/24/2015 - 20:36:31: "[P*D]Android (100)<7><BOT><CT>" say "hehe" (dead)
+L 11/24/2015 - 20:36:40: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "Look at that score!!.. Joe_Pesci is good at this gaming stuff, too bad the movies suck" (dead)
+L 11/24/2015 - 20:36:45: "[P*D]Android (100)<7><BOT><CT>" say "My movies have the best action scenes" (dead)
+L 11/24/2015 - 20:36:46: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2015 - 20:36:46: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" say_team "Planted the Bomb!"
+L 11/24/2015 - 20:36:46: "[POD]Ping of Death (100)<6><BOT><CT>" say "FIDEL CASTRO DID IT! no....WAIT SADDAM DID IT!! no....wait..."
+L 11/24/2015 - 20:36:47: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "mac10" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/24/2015 - 20:36:48: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 11/24/2015 - 20:36:49: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 11/24/2015 - 20:36:49: "[POD]Ping of Death (100)<6><BOT><CT>" killed "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "m4a1"
+L 11/24/2015 - 20:36:49: "[POD]Ping of Death (100)<6><BOT><CT>" say "Kugelfang, ill use the rubber bullets next time !"
+L 11/24/2015 - 20:36:53: "[POD]Ping of Death (100)<6><BOT><CT>" say_team "Trying to defuse the Bomb!"
+L 11/24/2015 - 20:36:54: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "Woah Death has better stats than me again, he must be on caine!!" (dead)
+L 11/24/2015 - 20:36:54: "[POD]Ping of Death (100)<6><BOT><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/24/2015 - 20:36:57: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "What kind of scene??" (dead)
+L 11/24/2015 - 20:37:02: "[P*D]Android (100)<7><BOT><CT>" say "You will never find out, Collins!" (dead)
+L 11/24/2015 - 20:37:04: "[POD]Ping of Death (100)<6><BOT><CT>" triggered "Defused_The_Bomb"
+L 11/24/2015 - 20:37:04: Team "CT" triggered "Bomb_Defused" (CT "2") (T "0")
+L 11/24/2015 - 20:37:04: World triggered "Round_End"
+L 11/24/2015 - 20:37:07: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "Lets all act like we are dead....see if we can fool em next round." (dead)
+L 11/24/2015 - 20:37:09: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2015 - 20:37:14: World triggered "Round_Start"
+L 11/24/2015 - 20:37:29: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/24/2015 - 20:37:29: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "xm1014" (damage "85") (damage_armor "0") (health "15") (armor "100")
+L 11/24/2015 - 20:37:30: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "xm1014" (damage "85") (damage_armor "0") (health "-70") (armor "100")
+L 11/24/2015 - 20:37:30: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" killed "[POD]Ping of Death (100)<6><BOT><CT>" with "xm1014"
+L 11/24/2015 - 20:37:36: "[POD]Ping of Death (100)<6><BOT><CT>" say "This game isnt going to get me more famous than I already am!" (dead)
+L 11/24/2015 - 20:37:48: "[POD]Ping of Death (100)<6><BOT><CT>" say "Im rich...i dont have to put up with this crap" (dead)
+L 11/24/2015 - 20:37:55: "[P*D]Android (100)<7><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "m3" (damage "7") (damage_armor "4") (health "93") (armor "96")
+L 11/24/2015 - 20:37:58: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "78") (armor "95")
+L 11/24/2015 - 20:37:58: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "m4a1" (damage "28") (damage_armor "6") (health "50") (armor "89")
+L 11/24/2015 - 20:37:58: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "m4a1" (damage "22") (damage_armor "5") (health "28") (armor "84")
+L 11/24/2015 - 20:37:58: "[P*D]Android (100)<7><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "m3" (damage "85") (damage_armor "43") (health "-1") (armor "48")
+L 11/24/2015 - 20:37:58: "[P*D]Android (100)<7><BOT><CT>" killed "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "m3"
+L 11/24/2015 - 20:37:58: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" say "Where are you from Death ? cuz where I'm from no one has money" (dead)
+L 11/24/2015 - 20:37:59: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2015 - 20:37:59: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say_team "Planted the Bomb!"
+L 11/24/2015 - 20:37:59: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" say "HEY!!! They're tryin to kill Kenny! Those bastards!!!!"
+L 11/24/2015 - 20:38:02: "[P*D]Android (100)<7><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "m3" (damage "9") (damage_armor "0") (health "67") (armor "0")
+L 11/24/2015 - 20:38:03: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Android (100)<7><BOT><CT>" with "xm1014" (damage "28") (damage_armor "14") (health "-19") (armor "60")
+L 11/24/2015 - 20:38:03: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" killed "[P*D]Android (100)<7><BOT><CT>" with "xm1014"
+L 11/24/2015 - 20:38:03: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" say "Sorry, Android. can we do the scene again?"
+L 11/24/2015 - 20:38:05: "[POD]V0id (100)<4><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "scout" (damage "62") (damage_armor "6") (health "38") (armor "94")
+L 11/24/2015 - 20:38:08: "[POD]Ping of Death (100)<6><BOT><CT>" say "Well-Paid......hahaha that must be a joke" (dead)
+L 11/24/2015 - 20:38:12: "[P*D]Android (100)<7><BOT><CT>" say "yeah lol, Death!" (dead)
+L 11/24/2015 - 20:38:12: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Keanau_Reeves (100)<2><BOT><CT>" with "xm1014" (damage "8") (damage_armor "4") (health "92") (armor "96")
+L 11/24/2015 - 20:38:14: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "famas" (damage "16") (damage_armor "0") (health "51") (armor "0")
+L 11/24/2015 - 20:38:14: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "famas" (damage "13") (damage_armor "0") (health "38") (armor "0")
+L 11/24/2015 - 20:38:15: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "88") (armor "94")
+L 11/24/2015 - 20:38:16: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "76") (armor "88")
+L 11/24/2015 - 20:38:16: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "64") (armor "82")
+L 11/24/2015 - 20:38:16: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "52") (armor "76")
+L 11/24/2015 - 20:38:16: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "40") (armor "70")
+L 11/24/2015 - 20:38:16: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "28") (armor "64")
+L 11/24/2015 - 20:38:16: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" attacked "[POD]V0id (100)<4><BOT><CT>" with "mp5navy" (damage "12") (damage_armor "6") (health "16") (armor "58")
+L 11/24/2015 - 20:38:16: "[POD]V0id (100)<4><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "scout" (damage "62") (damage_armor "6") (health "-24") (armor "88")
+L 11/24/2015 - 20:38:16: "[POD]V0id (100)<4><BOT><CT>" killed "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "scout"
+L 11/24/2015 - 20:38:16: "[POD]V0id (100)<4><BOT><CT>" say "Hip-Hop is phat Collins!!"
+L 11/24/2015 - 20:38:16: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Keanau_Reeves (100)<2><BOT><CT>" with "xm1014" (damage "8") (damage_armor "5") (health "84") (armor "91")
+L 11/24/2015 - 20:38:19: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" attacked "[P*D]Keanau_Reeves (100)<2><BOT><CT>" with "xm1014" (damage "8") (damage_armor "4") (health "76") (armor "87")
+L 11/24/2015 - 20:38:19: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "famas" (damage "35") (damage_armor "0") (health "3") (armor "0")
+L 11/24/2015 - 20:38:19: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "famas" (damage "28") (damage_armor "0") (health "-25") (armor "0")
+L 11/24/2015 - 20:38:19: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" killed "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "famas"
+L 11/24/2015 - 20:38:19: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" say "hey Joe_Pesci.......MUAHAHAHAHAHAHAHAHAHAHA"
+L 11/24/2015 - 20:38:24: "[POD]Ping of Death (100)<6><BOT><CT>" say "ROFL" (dead)
+L 11/24/2015 - 20:38:29: "[POD]V0id (100)<4><BOT><CT>" say_team "Trying to defuse the Bomb!"
+L 11/24/2015 - 20:38:29: "[P*D]Android (100)<7><BOT><CT>" say "Death i need some more sugar with this coffee" (dead)
+L 11/24/2015 - 20:38:34: "[POD]Ping of Death (100)<6><BOT><CT>" say "These chat-messages are freaking me out! I feel like I know you all!" (dead)
+L 11/24/2015 - 20:38:35: Team "TERRORIST" triggered "Target_Bombed" (CT "2") (T "1")
+L 11/24/2015 - 20:38:35: World triggered "Round_End"
+L 11/24/2015 - 20:38:38: "[P*D]Android (100)<7><BOT><CT>" say "I can't believe how you can play and win all the time, Death!" (dead)
+L 11/24/2015 - 20:38:40: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2015 - 20:38:45: World triggered "Round_Start"
+L 11/24/2015 - 20:39:06: "[POD]V0id (100)<4><BOT><CT>" attacked "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 11/24/2015 - 20:39:06: "[POD]V0id (100)<4><BOT><CT>" killed "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" with "m4a1"
+L 11/24/2015 - 20:39:09: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "Death were your parents musicians?" (dead)
+L 11/24/2015 - 20:39:10: "[POD]Ping of Death (100)<6><BOT><CT>" attacked "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" with "scout" (damage "62") (damage_armor "6") (health "38") (armor "94")
+L 11/24/2015 - 20:39:12: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "sg552" (damage "22") (damage_armor "5") (health "78") (armor "95")
+L 11/24/2015 - 20:39:12: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "sg552" (damage "22") (damage_armor "5") (health "56") (armor "90")
+L 11/24/2015 - 20:39:13: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "sg552" (damage "22") (damage_armor "5") (health "34") (armor "85")
+L 11/24/2015 - 20:39:13: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" attacked "[POD]Ping of Death (100)<6><BOT><CT>" with "sg552" (damage "89") (damage_armor "19") (health "-55") (armor "66")
+L 11/24/2015 - 20:39:13: "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" killed "[POD]Ping of Death (100)<6><BOT><CT>" with "sg552"
+L 11/24/2015 - 20:39:13: "[POD]Ping of Death (100)<6><BOT><CT>" say "just gimme one night with Kylie Minogue.....MUAHAHAHAHA" (dead)
+L 11/24/2015 - 20:39:23: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "I didnt realize that this was so difficult...Movies are cooler" (dead)
+L 11/24/2015 - 20:39:24: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2015 - 20:39:24: "[P*D]Joe_Pesci (100)<3><BOT><TERRORIST>" say_team "Planted the Bomb!"
+L 11/24/2015 - 20:39:24: "[POD]V0id (100)<4><BOT><CT>" say "sssshhhhh... Keanau_Reeves, did you hear that beeping noise? was that your watch?"
+L 11/24/2015 - 20:39:29: "[POD]Ping of Death (100)<6><BOT><CT>" say "define real for me please" (dead)
+L 11/24/2015 - 20:39:37: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "It's time to change your diapers  haha yer acting like a baby" (dead)
+L 11/24/2015 - 20:39:38: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "dream on, real doesnt exist in an actors schedule" (dead)
+L 11/24/2015 - 20:39:43: "[POD]Ping of Death (100)<6><BOT><CT>" say "nothing in this world is real" (dead)
+L 11/24/2015 - 20:39:51: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "Stop waiting around you freaks!! There's only 01:28 left !!" (dead)
+L 11/24/2015 - 20:39:51: "[POD]Botsie Collins (97)<10><BOT><TERRORIST>" say "real huh....get a real life, stop acting all the time" (dead)
+L 11/24/2015 - 20:39:53: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "aug" (damage "18") (damage_armor "5") (health "82") (armor "95")
+L 11/24/2015 - 20:39:53: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "aug" (damage "19") (damage_armor "4") (health "63") (armor "91")
+L 11/24/2015 - 20:39:53: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "aug" (damage "19") (damage_armor "4") (health "44") (armor "87")
+L 11/24/2015 - 20:39:53: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "aug" (damage "19") (damage_armor "4") (health "25") (armor "83")
+L 11/24/2015 - 20:39:53: "[P*D]Keanau_Reeves (100)<2><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "aug" (damage "19") (damage_armor "4") (health "6") (armor "79")
+L 11/24/2015 - 20:39:53: "[P*D]Android (100)<7><BOT><CT>" attacked "[P0D]Kugelfang (100)<5><BOT><TERRORIST>" with "sg552" (damage "27") (damage_armor "6") (health "-21") (armor "73")
+L 11/24/2015 - 20:39:53: "[P*D]Android (100)<7><BOT><CT>" killed "[P0D]Kugelfa
